@@ -1,0 +1,1071 @@
+[
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            {
+                "frametrail": "http://frametrail.org/ns/"
+            }
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "Sat Oct 28 2017 14:15:17 GMT+0100 (BST)",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "english"
+        ],
+        "target": {
+            "type": "Video",
+            "source": "2_1465486227_slavin.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=42.84,52.8"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/History_of_Slovakia#Slovak_National_Movement",
+            "frametrail:name": "Slovak National Movement (Wikipedia)",
+            "frametrail:thumb": null,
+            "frametrail:resourceId": "5",
+            "frametrail:attributes": {
+                "extract": "The history of Slovakia spans from prehistoric settlements to the modern Slovak Republic. Situated in Central Europe, the region’s earliest evidence of human habitation dates to the Palaeolithic era, with significant Neolithic and Bronze Age cultures. By the Iron Age, Celtic tribes like the Boii established settlements, later displaced by Germanic and Slavic migrations. The Slavs arrived in the 5th–6th centuries, forming the basis of Slavic states like Great Moravia, which adopted Christianity through Cyrillo-Methodian missionary activity.",
+                "extract_html": "<p>The <b>history of Slovakia</b> spans from prehistoric settlements to the modern Slovak Republic. Situated in Central Europe, the region’s earliest evidence of human habitation dates to the Palaeolithic era, with significant Neolithic and Bronze Age cultures. By the Iron Age, Celtic tribes like the Boii established settlements, later displaced by Germanic and Slavic migrations. The Slavs arrived in the 5th–6th centuries, forming the basis of Slavic states like Great Moravia, which adopted Christianity through Cyrillo-Methodian missionary activity.</p>",
+                "description": "",
+                "articleUrl": "https://en.wikipedia.org/wiki/History_of_Slovakia",
+                "wikiLang": "en",
+                "dir": "ltr"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            {
+                "frametrail": "http://frametrail.org/ns/"
+            }
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "Sat Oct 28 2017 14:15:57 GMT+0100 (BST)",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "english",
+            "slovak"
+        ],
+        "target": {
+            "type": "Video",
+            "source": "2_1465486227_slavin.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=116.07,120.07"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "webpage",
+            "format": "text/html",
+            "value": "https://www.webumenia.sk/autor/487",
+            "frametrail:name": "Tibor Bártfay - Webumenia",
+            "frametrail:thumb": null,
+            "frametrail:resourceId": "9",
+            "frametrail:attributes": {
+                "embed": "allowed"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            {
+                "frametrail": "http://frametrail.org/ns/"
+            }
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "Sat Oct 28 2017 14:16:20 GMT+0100 (BST)",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "english",
+            "slovak"
+        ],
+        "target": {
+            "type": "Video",
+            "source": "2_1465486227_slavin.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=118.2,122.2"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "webpage",
+            "format": "text/html",
+            "value": "https://www.webumenia.sk/autor/5482",
+            "frametrail:name": "Ján Kulich - Webumenia",
+            "frametrail:thumb": null,
+            "frametrail:resourceId": "10",
+            "frametrail:attributes": {
+                "embed": "allowed"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            {
+                "frametrail": "http://frametrail.org/ns/"
+            }
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "Sat Oct 28 2017 14:17:32 GMT+0100 (BST)",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "english",
+            "slovak"
+        ],
+        "target": {
+            "type": "Video",
+            "source": "2_1465486227_slavin.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=119.44,123.59"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "webpage",
+            "format": "text/html",
+            "value": "https://www.webumenia.sk/autor/5187",
+            "frametrail:name": "Jozef Kostka - Webumenia",
+            "frametrail:thumb": null,
+            "frametrail:resourceId": "8",
+            "frametrail:attributes": {
+                "embed": "allowed"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            {
+                "frametrail": "http://frametrail.org/ns/"
+            }
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "Sat Oct 28 2017 14:17:54 GMT+0100 (BST)",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "english",
+            "slovak"
+        ],
+        "target": {
+            "type": "Video",
+            "source": "2_1465486227_slavin.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=121.41,125.41"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "webpage",
+            "format": "text/html",
+            "value": "https://www.webumenia.sk/autor/9732",
+            "frametrail:name": "Ladislav Snopek - Webumenia",
+            "frametrail:thumb": null,
+            "frametrail:resourceId": "11",
+            "frametrail:attributes": {
+                "embed": "allowed"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            {
+                "frametrail": "http://frametrail.org/ns/"
+            }
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "Sat Oct 28 2017 14:18:19 GMT+0100 (BST)",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "english",
+            "slovak"
+        ],
+        "target": {
+            "type": "Video",
+            "source": "2_1465486227_slavin.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=123.13,127.13"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "webpage",
+            "format": "text/html",
+            "value": "https://www.webumenia.sk/autor/11013",
+            "frametrail:name": "Alexander Trizuljak - Webumenia",
+            "frametrail:thumb": null,
+            "frametrail:resourceId": "14",
+            "frametrail:attributes": {
+                "embed": "allowed"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            {
+                "frametrail": "http://frametrail.org/ns/"
+            }
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "Sat Oct 28 2017 14:18:42 GMT+0100 (BST)",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "english"
+        ],
+        "target": {
+            "type": "Video",
+            "source": "2_1465486227_slavin.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=131.15555273998336,141.9349443615231"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/Socialist_realism",
+            "frametrail:name": "Socialist Realism - Wikipedia",
+            "frametrail:thumb": "2_1772995701_thumb_socialist-realism-wikipedia.png",
+            "frametrail:resourceId": "16",
+            "frametrail:attributes": {
+                "extract": "Socialist realism, also known as socrealism, is a style of idealized realistic art that was developed in the Soviet Union and was the official cultural doctrine in that country between 1932 and 1988, as well as in other socialist countries after World War II. The doctrine was first proclaimed by the First Congress of Soviet Writers in 1934 as approved as the only acceptable method for Soviet cultural production in all media.",
+                "extract_html": "<p><b>Socialist realism</b>, also known as <b>socrealism</b>, is a style of idealized realistic art that was developed in the Soviet Union and was the official cultural doctrine in that country between 1932 and 1988, as well as in other socialist countries after World War II. The doctrine was first proclaimed by the First Congress of Soviet Writers in 1934 as approved as the only acceptable method for Soviet cultural production in all media.</p>",
+                "description": "Soviet style of realistic art depicting communist values",
+                "articleUrl": "https://en.wikipedia.org/wiki/Socialist_realism",
+                "wikiLang": "en",
+                "dir": "ltr"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            {
+                "frametrail": "http://frametrail.org/ns/"
+            }
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "Sat Oct 28 2017 14:19:32 GMT+0100 (BST)",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "english",
+            "slovak"
+        ],
+        "target": {
+            "type": "Video",
+            "source": "2_1465486227_slavin.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=157.38,164.02"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "webpage",
+            "format": "text/html",
+            "value": "https://www.webumenia.sk/autor/1004139",
+            "frametrail:name": "Ján Svetlík - Webumenia",
+            "frametrail:thumb": null,
+            "frametrail:resourceId": "15",
+            "frametrail:attributes": {
+                "embed": "allowed"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            {
+                "frametrail": "http://frametrail.org/ns/"
+            }
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "Sat Oct 28 2017 14:20:01 GMT+0100 (BST)",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "english",
+            "slovak"
+        ],
+        "target": {
+            "type": "Video",
+            "source": "2_1465486227_slavin.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=171.01,175.01"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "webpage",
+            "format": "text/html",
+            "value": "https://www.webumenia.sk/autor/11013",
+            "frametrail:name": "Alexander Trizuljak - Webumenia",
+            "frametrail:thumb": null,
+            "frametrail:resourceId": "14",
+            "frametrail:attributes": {
+                "embed": "allowed"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            {
+                "frametrail": "http://frametrail.org/ns/"
+            }
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "Sat Oct 28 2017 14:20:42 GMT+0100 (BST)",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "english"
+        ],
+        "target": {
+            "type": "Video",
+            "source": "2_1465486227_slavin.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=178.11,182.08"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/Castel_Sant%27Angelo#/media/File:Angel_Van_Verschaffelt_SantAngelo.jpg",
+            "frametrail:name": "Bronze statue of Michael the Archangel, standing on top of the Castel Sant'Angelo",
+            "frametrail:thumb": "2_1772995703_thumb_bronze-statue-of-michael-the-archangel-standing-on-top-of-the-castel-sa.png",
+            "frametrail:resourceId": "32",
+            "frametrail:attributes": {
+                "extract": "Castel Sant'Angelo, also known as Mausoleum of Hadrian, is a towering rotunda in Parco Adriano, Rome, Italy. It was initially commissioned by the Roman Emperor Hadrian as a mausoleum for himself and his family. The popes later used the building as a fortress and castle, and it is now a museum. The structure was once the tallest building in Rome.",
+                "extract_html": "<p><b>Castel Sant'Angelo</b>, also known as <b>Mausoleum of Hadrian</b>, is a towering rotunda in Parco Adriano, Rome, Italy. It was initially commissioned by the Roman Emperor Hadrian as a mausoleum for himself and his family. The popes later used the building as a fortress and castle, and it is now a museum. The structure was once the tallest building in Rome.</p>",
+                "description": "Historic building in Rome, Italy",
+                "articleUrl": "https://en.wikipedia.org/wiki/Castel_Sant'Angelo",
+                "wikiLang": "en",
+                "dir": "ltr"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            {
+                "frametrail": "http://frametrail.org/ns/"
+            }
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "Sat Oct 28 2017 14:21:15 GMT+0100 (BST)",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "english",
+            "slovak"
+        ],
+        "target": {
+            "type": "Video",
+            "source": "2_1465486227_slavin.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=197.19,203.69"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "webpage",
+            "format": "text/html",
+            "value": "https://www.webumenia.sk/dielo/SVK:GMB.B_642?collection=24",
+            "frametrail:name": "Alexander Trizuljak - Víťazstvo (1959)",
+            "frametrail:thumb": null,
+            "frametrail:resourceId": "33",
+            "frametrail:attributes": {
+                "embed": "allowed"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            {
+                "frametrail": "http://frametrail.org/ns/"
+            }
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "Sat Oct 28 2017 14:21:56 GMT+0100 (BST)",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "english"
+        ],
+        "target": {
+            "type": "Video",
+            "source": "2_1465486227_slavin.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=253.99,257.99"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/Modern_art",
+            "frametrail:name": "Modernism in arts",
+            "frametrail:thumb": "2_1772995705_thumb_modernism-in-arts.png",
+            "frametrail:resourceId": "30",
+            "frametrail:attributes": {
+                "extract": "Modern art includes artistic work produced during the period extending roughly from the 1860s to the 1970s, and denotes the styles and philosophies of the art produced during that era. The term is usually associated with art in which the traditions of the past have been thrown aside in a spirit of experimentation. Modern artists experimented with new ways of seeing and with fresh ideas about the nature of materials and functions of art. A tendency away from the narrative, which was characteristic of the traditional arts, toward abstraction is characteristic of much modern art. More recent artistic production is often called contemporary art or Postmodern art.",
+                "extract_html": "<p><b>Modern art</b> includes artistic work produced during the period extending roughly from the 1860s to the 1970s, and denotes the styles and philosophies of the art produced during that era. The term is usually associated with art in which the traditions of the past have been thrown aside in a spirit of experimentation. Modern artists experimented with new ways of seeing and with fresh ideas about the nature of materials and functions of art. A tendency away from the narrative, which was characteristic of the traditional arts, toward abstraction is characteristic of much modern art. More recent artistic production is often called contemporary art or Postmodern art.</p>",
+                "description": "Artistic period (1860s–1970s)",
+                "articleUrl": "https://en.wikipedia.org/wiki/Modern_art",
+                "wikiLang": "en",
+                "dir": "ltr"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            {
+                "frametrail": "http://frametrail.org/ns/"
+            }
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "Sat Oct 28 2017 14:22:20 GMT+0100 (BST)",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "english"
+        ],
+        "target": {
+            "type": "Video",
+            "source": "2_1465486227_slavin.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=310.56,314.56"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/Warsaw_Pact_invasion_of_Czechoslovakia",
+            "frametrail:name": "1968 Invasion of Czechoslovakia - Wikipedia",
+            "frametrail:thumb": "2_1772995706_thumb_1968-invasion-of-czechoslovakia-wikipedia.png",
+            "frametrail:resourceId": "17",
+            "frametrail:attributes": {
+                "extract": "On 20–21 August 1968, the Czechoslovak Socialist Republic was jointly invaded by four Warsaw Pact countries: the Soviet Union, the Polish People's Republic, the People's Republic of Bulgaria, and the Hungarian People's Republic. The invasion stopped Alexander Dubček's Prague Spring liberalisation reforms and strengthened the authoritarian wing of the Communist Party of Czechoslovakia (KSČ).",
+                "extract_html": "<p>On 20–21 August 1968, the Czechoslovak Socialist Republic was jointly invaded by four Warsaw Pact countries: the Soviet Union, the Polish People's Republic, the People's Republic of Bulgaria, and the Hungarian People's Republic. The invasion stopped Alexander Dubček's Prague Spring liberalisation reforms and strengthened the authoritarian wing of the Communist Party of Czechoslovakia (KSČ).</p>",
+                "description": "1968 invasion led by the Soviet Union",
+                "articleUrl": "https://en.wikipedia.org/wiki/Warsaw_Pact_invasion_of_Czechoslovakia",
+                "wikiLang": "en",
+                "dir": "ltr"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            {
+                "frametrail": "http://frametrail.org/ns/"
+            }
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "Sat Oct 28 2017 14:22:51 GMT+0100 (BST)",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "english"
+        ],
+        "target": {
+            "type": "Video",
+            "source": "2_1465486227_slavin.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=320.73,324.73"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/Normalization_(Czechoslovakia)",
+            "frametrail:name": "Normalization of Czechoslovakia - Wikipedia",
+            "frametrail:thumb": null,
+            "frametrail:resourceId": "18",
+            "frametrail:attributes": {
+                "extract": "In the history of Czechoslovakia, normalization is a name commonly given to the period following the Warsaw Pact invasion of Czechoslovakia in August 1968 and up to the glasnost era of liberalization that began in the Soviet Union and its neighboring nations in 1987. It was characterized by the restoration of the conditions prevailing before the Prague Spring reform period led by the First Secretary Alexander Dubček of the Communist Party of Czechoslovakia (KSČ) earlier in 1968 and the subsequent preservation of the new status quo. Some historians date the period from the signing of the Moscow Protocol by Dubček and the other jailed Czechoslovak leaders on 26 August 1968, while others date it from the replacement of Dubček by Gustáv Husák on 17 April 1969, followed by the official normalization policies referred to as Husakism. The policy ended either with Husák's removal as leader of the Party on 17 December 1987, or with the beginning of the Velvet Revolution on 17 November 1989, which would see the resignation of the entire Communist Party leadership within a week and an end to Communist rule in Czechoslovakia.",
+                "extract_html": "<p>In the history of Czechoslovakia, <b>normalization</b> is a name commonly given to the period following the Warsaw Pact invasion of Czechoslovakia in August 1968 and up to the <i>glasnost</i> era of liberalization that began in the Soviet Union and its neighboring nations in 1987. It was characterized by the restoration of the conditions prevailing before the Prague Spring reform period led by the First Secretary Alexander Dubček of the Communist Party of Czechoslovakia (KSČ) earlier in 1968 and the subsequent preservation of the new <i>status quo</i>. Some historians date the period from the signing of the Moscow Protocol by Dubček and the other jailed Czechoslovak leaders on 26 August 1968, while others date it from the replacement of Dubček by Gustáv Husák on 17 April 1969, followed by the official normalization policies referred to as Husakism. The policy ended either with Husák's removal as leader of the Party on 17 December 1987, or with the beginning of the Velvet Revolution on 17 November 1989, which would see the resignation of the entire Communist Party leadership within a week and an end to Communist rule in Czechoslovakia.</p>",
+                "description": "Period of Czechoslovak history",
+                "articleUrl": "https://en.wikipedia.org/wiki/Normalization_(Czechoslovakia)",
+                "wikiLang": "en",
+                "dir": "ltr"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            {
+                "frametrail": "http://frametrail.org/ns/"
+            }
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "Sat Oct 28 2017 14:24:05 GMT+0100 (BST)",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "english"
+        ],
+        "target": {
+            "type": "Video",
+            "source": "2_1465486227_slavin.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=334.62,338.62"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/Academy_of_Fine_Arts_and_Design_in_Bratislava",
+            "frametrail:name": "Academy of Fine Arts and Design in Bratislava",
+            "frametrail:thumb": "2_1772995708_thumb_academy-of-fine-arts-and-design-in-bratislava.png",
+            "frametrail:resourceId": "27",
+            "frametrail:attributes": {
+                "extract": "The Academy of Fine Arts and Design, Bratislava is an academy in Bratislava, Slovakia.",
+                "extract_html": "<p>The <b>Academy of Fine Arts and Design, Bratislava</b> is an academy in Bratislava, Slovakia.</p>",
+                "description": "Educational institution in Slovakia",
+                "articleUrl": "https://en.wikipedia.org/wiki/Academy_of_Fine_Arts_and_Design%2C_Bratislava",
+                "wikiLang": "en",
+                "dir": "ltr"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            {
+                "frametrail": "http://frametrail.org/ns/"
+            }
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "Sat Oct 28 2017 14:25:18 GMT+0100 (BST)",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "english",
+            "slovak"
+        ],
+        "target": {
+            "type": "Video",
+            "source": "2_1465486227_slavin.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=416.46,420.46"
+            }
+        },
+        "body": {
+            "type": "Image",
+            "frametrail:type": "image",
+            "format": "image/jpg",
+            "source": "3_1466616495_church-of-our-lady-of-the-snows-today.jpg",
+            "frametrail:name": "Church of Our Lady of the Snows today",
+            "frametrail:thumb": "3_1466616495_thumb_church-of-our-lady-of-the-snows-today.png",
+            "frametrail:resourceId": "29"
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            {
+                "frametrail": "http://frametrail.org/ns/"
+            }
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "Sat Oct 28 2017 14:52:40 GMT+0100 (BST)",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "slovak"
+        ],
+        "target": {
+            "type": "Video",
+            "source": "2_1465486227_slavin.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=42.84,50.31"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://sk.wikipedia.org/wiki/Dejiny_Slovenska#Slovensk.C3.A9_n.C3.A1rodn.C3.A9_obrodenie",
+            "frametrail:name": "Slovenské národné obrodenie",
+            "frametrail:thumb": "2_1772995709_thumb_slovensk-nrodn-obrodenie.png",
+            "frametrail:resourceId": "36",
+            "frametrail:attributes": {
+                "extract": "Tento článok je o dejinách Slovenska a Slovákov.",
+                "extract_html": "<p>Tento článok je o <b>dejinách Slovenska</b> a Slovákov.</p>",
+                "description": "aspekt histórie",
+                "articleUrl": "https://sk.wikipedia.org/wiki/Dejiny_Slovenska",
+                "wikiLang": "sk",
+                "dir": "ltr"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            {
+                "frametrail": "http://frametrail.org/ns/"
+            }
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "Sat Oct 28 2017 14:57:50 GMT+0100 (BST)",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "slovak"
+        ],
+        "target": {
+            "type": "Video",
+            "source": "2_1465486227_slavin.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=131.15555273998336,141.93"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://sk.wikipedia.org/wiki/Socialistick%C3%BD_realizmus",
+            "frametrail:name": "Socialistický realizmus",
+            "frametrail:thumb": "2_1772995710_thumb_socialistick-realizmus.png",
+            "frametrail:resourceId": "37",
+            "frametrail:attributes": {
+                "extract": "Socialistický realizmus je umelecký smer a bol smerovaním oficiálneho umenia sovietskeho obdobia v ZSSR pred 2. svetovou vojnou a po nej a v krajinách strednej, juhovýchodnej a východnej Európy. Nadväzoval na proletárske umenie.",
+                "extract_html": "<p><b>Socialistický realizmus</b> je umelecký smer a bol smerovaním oficiálneho umenia sovietskeho obdobia v ZSSR pred 2. svetovou vojnou a po nej a v krajinách strednej, juhovýchodnej a východnej Európy. Nadväzoval na <span class=\"mw-disambig\">proletárske</span> umenie.</p>",
+                "description": "",
+                "articleUrl": "https://sk.wikipedia.org/wiki/Socialistick%C3%BD_realizmus",
+                "wikiLang": "sk",
+                "dir": "ltr"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            {
+                "frametrail": "http://frametrail.org/ns/"
+            }
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "Sat Oct 28 2017 15:01:14 GMT+0100 (BST)",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "target": {
+            "type": "Video",
+            "source": "2_1465486227_slavin.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=51.31,56.38"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://sk.wikipedia.org/wiki/Slav%C3%ADn_(Praha)",
+            "frametrail:name": "Slavín (Praha, Vyšehrad)",
+            "frametrail:thumb": "2_1772995712_thumb_slavn-praha-vyehrad.png",
+            "frametrail:resourceId": "44",
+            "frametrail:attributes": {
+                "extract": "Slavín je ústredný objekt Vyšehradského cintorína, spoločná hrobka národných velikánov, v Prahe, v mestskej časti Vyšehrad.",
+                "extract_html": "<p><b>Slavín</b> je ústredný objekt Vyšehradského cintorína, spoločná hrobka národných velikánov, v Prahe, v mestskej časti Vyšehrad.</p>",
+                "description": "",
+                "articleUrl": "https://sk.wikipedia.org/wiki/Slav%C3%ADn_(Praha)",
+                "wikiLang": "sk",
+                "dir": "ltr"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            {
+                "frametrail": "http://frametrail.org/ns/"
+            }
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "Sat Oct 28 2017 15:08:48 GMT+0100 (BST)",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "slovak"
+        ],
+        "target": {
+            "type": "Video",
+            "source": "2_1465486227_slavin.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=253.36,257.36"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "urlpreview",
+            "format": "text/html",
+            "value": "https://www.nedbalka.sk/stala-expozicia/vytvarna-moderna",
+            "frametrail:name": "Výtvarná moderna",
+            "frametrail:thumb": null,
+            "frametrail:resourceId": "40",
+            "frametrail:attributes": {
+                "embed": "forbidden"
+            },
+            "source": "https://www.nedbalka.sk/stala-expozicia/vytvarna-moderna"
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            {
+                "frametrail": "http://frametrail.org/ns/"
+            }
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "Sat Oct 28 2017 15:10:32 GMT+0100 (BST)",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "slovak"
+        ],
+        "target": {
+            "type": "Video",
+            "source": "2_1465486227_slavin.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=261.54,265.54"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "urlpreview",
+            "format": "text/html",
+            "value": "https://pribehy.webumenia.sk/hyper-video/audio-interviews.html",
+            "frametrail:name": "Audio Interviews - Príbehy umenia - Slavín",
+            "frametrail:thumb": null,
+            "frametrail:resourceId": "54",
+            "frametrail:attributes": {
+                "embed": "forbidden"
+            },
+            "source": "https://pribehy.webumenia.sk/hyper-video/audio-interviews.html"
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            {
+                "frametrail": "http://frametrail.org/ns/"
+            }
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "Sat Oct 28 2017 15:11:32 GMT+0100 (BST)",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "slovak"
+        ],
+        "target": {
+            "type": "Video",
+            "source": "2_1465486227_slavin.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=312.61,318.75"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://sk.wikipedia.org/wiki/Vp%C3%A1d_vojsk_Var%C5%A1avskej_zmluvy_do_%C4%8Cesko-Slovenska",
+            "frametrail:name": "Vpád vojsk Varšavskej zmluvy do Česko-Slovenska",
+            "frametrail:thumb": "2_1772995714_thumb_vpd-vojsk-varavskej-zmluvy-do-esko-slovenska.png",
+            "frametrail:resourceId": "41",
+            "frametrail:attributes": {
+                "extract": "Vpád / invázia vojsk Varšavskej zmluvy do Česko-Slovenska, komunistickou stranou označovaný aj ako vstup spojeneckých vojsk, s krycím názvom: operácia Dunaj, bol vojenský vpád vojsk piatich socialistických krajín Varšavskej zmluvy na čele so Sovietskym zväzom, ktorý znamenal nasledovnú 23 ročnú vojenskú okupáciu československého územia, zastavenie a zvrátenie prebiehajúcich demokratizačných reforiem.",
+                "extract_html": "<p><b>Vpád / invázia vojsk Varšavskej zmluvy do Česko-Slovenska</b>, komunistickou stranou označovaný aj ako <b>vstup spojeneckých</b> <b>vojsk</b>, s krycím názvom: <b>operácia Dunaj</b>, bol vojenský vpád vojsk piatich socialistických krajín Varšavskej zmluvy na čele so Sovietskym zväzom, ktorý znamenal nasledovnú 23 ročnú vojenskú okupáciu československého územia, zastavenie a zvrátenie prebiehajúcich demokratizačných reforiem.</p>",
+                "description": "nepokoje v auguste 1968 v Česko-Slovensku",
+                "articleUrl": "https://sk.wikipedia.org/wiki/Vp%C3%A1d_vojsk_Var%C5%A1avskej_zmluvy_do_%C4%8Cesko-Slovenska",
+                "wikiLang": "sk",
+                "dir": "ltr"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            {
+                "frametrail": "http://frametrail.org/ns/"
+            }
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "Sat Oct 28 2017 15:12:16 GMT+0100 (BST)",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "slovak"
+        ],
+        "target": {
+            "type": "Video",
+            "source": "2_1465486227_slavin.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=320.6,324.6"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://sk.wikipedia.org/wiki/Normaliz%C3%A1cia_(%C4%8CSSR)",
+            "frametrail:name": "Normalizácia",
+            "frametrail:thumb": null,
+            "frametrail:resourceId": "42",
+            "frametrail:attributes": {
+                "extract": "Normalizácia je v dejinách Česko-Slovenskav širšom zmysle historické obdobie od augusta 1968 do konca roka 1989,\nv užšom zmysle len likvidácia výsledkov Pražskej jari zakotvená v tzv. moskovskom protokole z augusta 1968 a vykonaná do 14. zjazdu KSČ v máji 1971.",
+                "extract_html": "<p><b>Normalizácia</b> je v dejinách Česko-Slovenska</p><ul><li>v širšom zmysle historické obdobie od augusta 1968 do konca roka 1989,</li>\n<li>v užšom zmysle len likvidácia výsledkov Pražskej jari zakotvená v tzv. moskovskom protokole z augusta 1968 a vykonaná do 14. zjazdu KSČ v máji 1971.</li></ul>",
+                "description": "",
+                "articleUrl": "https://sk.wikipedia.org/wiki/Normaliz%C3%A1cia_(%C4%8CSSR)",
+                "wikiLang": "sk",
+                "dir": "ltr"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            {
+                "frametrail": "http://frametrail.org/ns/"
+            }
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "Sat Oct 28 2017 15:14:35 GMT+0100 (BST)",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "slovak"
+        ],
+        "target": {
+            "type": "Video",
+            "source": "2_1465486227_slavin.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=334.62,338.62"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://sk.wikipedia.org/wiki/Vysok%C3%A1_%C5%A1kola_v%C3%BDtvarn%C3%BDch_umen%C3%AD_v_Bratislave",
+            "frametrail:name": "Vysoká škola výtvarných umení v Bratislave",
+            "frametrail:thumb": "2_1772995716_thumb_vysok-kola-vtvarnch-umen-v-bratislave.png",
+            "frametrail:resourceId": "43",
+            "frametrail:attributes": {
+                "extract": "Vysoká škola výtvarných umení v Bratislave so sídlom v Bratislave je verejná vysoká škola, založená v roku 1949 zákonom č. 89/1949 Sb.n. SNR.",
+                "extract_html": "<p><b>Vysoká škola výtvarných umení v Bratislave</b> so sídlom v Bratislave je verejná vysoká škola, založená v roku 1949 zákonom č. 89/1949 Sb.n. SNR.</p>",
+                "description": "",
+                "articleUrl": "https://sk.wikipedia.org/wiki/Vysok%C3%A1_%C5%A1kola_v%C3%BDtvarn%C3%BDch_umen%C3%AD_v_Bratislave",
+                "wikiLang": "sk",
+                "dir": "ltr"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            {
+                "frametrail": "http://frametrail.org/ns/"
+            }
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "Sat Oct 28 2017 15:15:46 GMT+0100 (BST)",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "english",
+            "slovak"
+        ],
+        "target": {
+            "type": "Video",
+            "source": "2_1465486227_slavin.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=396.1,405.1"
+            }
+        },
+        "body": {
+            "type": "Image",
+            "frametrail:type": "image",
+            "format": "image/jpg",
+            "source": "3_1466616369_church-of-our-lady-of-the-snows-before-1959.jpg",
+            "frametrail:name": "Church of Our Lady of the Snows before 1959",
+            "frametrail:thumb": "3_1466616369_thumb_church-of-our-lady-of-the-snows-before-1959.png",
+            "frametrail:resourceId": "28"
+        }
+    }
+]

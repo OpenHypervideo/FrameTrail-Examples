@@ -1,0 +1,82 @@
+{
+    "meta": {
+        "name": "Präzision und die fundamentalen Fragen der Teilchenphysik",
+        "description": " ",
+        "thumb": "2_1458908274_thumb_przision-und-die-fundamentalen-fragen-der-teilchenphysik.png",
+        "creator": "demo",
+        "creatorId": "2",
+        "created": 1503667383478,
+        "lastchanged": 1503692043733
+    },
+    "config": {
+        "slidingMode": "adjust",
+        "slidingTrigger": "key",
+        "autohideControls": false,
+        "captionsVisible": false,
+        "hidden": false,
+        "layoutArea": {
+            "areaTop": [],
+            "areaBottom": [
+                {
+                    "type": "TimedContent",
+                    "contentSize": "large",
+                    "name": "Annotations",
+                    "description": "",
+                    "cssClass": "",
+                    "collectionFilter": {
+                        "tags": [],
+                        "types": [],
+                        "users": [],
+                        "text": ""
+                    },
+                    "onClickContentItem": "",
+                    "html": "",
+                    "transcriptSource": ""
+                }
+            ],
+            "areaLeft": [],
+            "areaRight": [
+                {
+                    "type": "Transcript",
+                    "contentSize": "large",
+                    "name": "DE",
+                    "description": "",
+                    "cssClass": "",
+                    "collectionFilter": {
+                        "tags": [],
+                        "types": [],
+                        "users": [],
+                        "text": ""
+                    },
+                    "onClickContentItem": "",
+                    "html": "",
+                    "transcriptSource": "de"
+                }
+            ]
+        }
+    },
+    "clips": [
+        {
+            "resourceId": "241",
+            "duration": 0,
+            "start": 0,
+            "end": 0,
+            "in": 0,
+            "out": 0
+        }
+    ],
+    "globalEvents": {
+        "onReady": "",
+        "onPlay": "",
+        "onPause": "",
+        "onEnded": ""
+    },
+    "customCSS": "",
+    "contents": [],
+    "subtitles": [
+        {
+            "src": "de.vtt",
+            "srclang": "de"
+        }
+    ]
+}

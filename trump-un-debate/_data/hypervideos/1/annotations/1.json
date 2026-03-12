@@ -1,0 +1,1600 @@
+[
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            {
+                "frametrail": "http://frametrail.org/ns/"
+            }
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "Wed Oct 25 2017 13:54:36 GMT+0200 (Central European Summer Time)",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "speaker"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "2_1508493392_trump-un-speech.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=0,54"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/Miroslav_Laj%C4%8D%C3%A1k",
+            "frametrail:name": "President UN General Assembly",
+            "frametrail:thumb": "2_1772995771_thumb_president-un-general-assembly.png",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:resourceId": "37",
+            "frametrail:attributes": {
+                "extract": "Miroslav Lajčák  is a Slovak politician and diplomat who held the office of Minister of Foreign Affairs of the Slovak Republic from 2009 to 2010 and again from 2012 to 2020, serving across three different governments led by Robert Fico and one government led by Peter Pellegrini. In addition, Lajčák also served as President of the United Nations General Assembly for the 72nd session from 2017 until 2018.",
+                "extract_html": "<p><b>Miroslav Lajčák </b> is a Slovak politician and diplomat who held the office of Minister of Foreign Affairs of the Slovak Republic from 2009 to 2010 and again from 2012 to 2020, serving across three different governments led by Robert Fico and one government led by Peter Pellegrini. In addition, Lajčák also served as President of the United Nations General Assembly for the 72nd session from 2017 until 2018.</p>",
+                "description": "Slovak politician and diplomat (born 1963)",
+                "articleUrl": "https://en.wikipedia.org/wiki/Miroslav_Laj%C4%8D%C3%A1k",
+                "wikiLang": "en",
+                "dir": "ltr"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            {
+                "frametrail": "http://frametrail.org/ns/"
+            }
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "Wed Oct 25 2017 13:58:08 GMT+0200 (Central European Summer Time)",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "speaker"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "2_1508493392_trump-un-speech.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=53.99954815977949,2555"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/Donald_Trump",
+            "frametrail:name": "Donald Trump",
+            "frametrail:thumb": "2_1772995773_thumb_donald-trump.png",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:resourceId": "32",
+            "frametrail:attributes": {
+                "extract": "Donald John Trump is an American politician, media personality, and businessman who is the 47th president of the United States. A member of the Republican Party, he served as the 45th president from 2017 to 2021.",
+                "extract_html": "<p><b>Donald John Trump</b> is an American politician, media personality, and businessman who is the 47th president of the United States. A member of the Republican Party, he served as the 45th president from 2017 to 2021.</p>",
+                "description": "President of the United States (2017–2021; since 2025)",
+                "articleUrl": "https://en.wikipedia.org/wiki/Donald_Trump",
+                "wikiLang": "en",
+                "dir": "ltr"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            {
+                "frametrail": "http://frametrail.org/ns/"
+            }
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "Wed Oct 25 2017 13:59:33 GMT+0200 (Central European Summer Time)",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "speaker"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "2_1508493392_trump-un-speech.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=2555,2682.346050436767"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/Miroslav_Laj%C4%8D%C3%A1k",
+            "frametrail:name": "President UN General Assembly",
+            "frametrail:thumb": "2_1772995774_thumb_president-un-general-assembly.png",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:resourceId": "37",
+            "frametrail:attributes": {
+                "extract": "Miroslav Lajčák  is a Slovak politician and diplomat who held the office of Minister of Foreign Affairs of the Slovak Republic from 2009 to 2010 and again from 2012 to 2020, serving across three different governments led by Robert Fico and one government led by Peter Pellegrini. In addition, Lajčák also served as President of the United Nations General Assembly for the 72nd session from 2017 until 2018.",
+                "extract_html": "<p><b>Miroslav Lajčák </b> is a Slovak politician and diplomat who held the office of Minister of Foreign Affairs of the Slovak Republic from 2009 to 2010 and again from 2012 to 2020, serving across three different governments led by Robert Fico and one government led by Peter Pellegrini. In addition, Lajčák also served as President of the United Nations General Assembly for the 72nd session from 2017 until 2018.</p>",
+                "description": "Slovak politician and diplomat (born 1963)",
+                "articleUrl": "https://en.wikipedia.org/wiki/Miroslav_Laj%C4%8D%C3%A1k",
+                "wikiLang": "en",
+                "dir": "ltr"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            {
+                "frametrail": "http://frametrail.org/ns/"
+            }
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "Wed Oct 25 2017 14:06:01 GMT+0200 (Central European Summer Time)",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "background"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "2_1508493392_trump-un-speech.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=47.604473876617774,96.55370674772084"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/United_Nations_General_Assembly",
+            "frametrail:name": "UN General Assembly",
+            "frametrail:thumb": "2_1772995775_thumb_un-general-assembly.png",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:resourceId": "35",
+            "frametrail:attributes": {
+                "extract": "The United Nations General Assembly is one of the six principal organs of the United Nations (UN), serving as its main deliberative, policymaking, and representative organ. Currently in its 80th session, its powers, composition, functions, and procedures are set out in Chapter IV of the United Nations Charter.",
+                "extract_html": "<p>The <b>United Nations General Assembly</b> is one of the six principal organs of the United Nations (UN), serving as its main deliberative, policymaking, and representative organ. Currently in its 80th session, its powers, composition, functions, and procedures are set out in Chapter IV of the United Nations Charter.</p>",
+                "description": "One of the six principal organs of the UN",
+                "articleUrl": "https://en.wikipedia.org/wiki/United_Nations_General_Assembly",
+                "wikiLang": "en",
+                "dir": "ltr"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            {
+                "frametrail": "http://frametrail.org/ns/"
+            }
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "Wed Oct 25 2017 14:13:17 GMT+0200 (Central European Summer Time)",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "factcheck"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "2_1508493392_trump-un-speech.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=121.47656250183826,139.40668242830884"
+            }
+        },
+        "body": {
+            "frametrail:type": "urlpreview",
+            "source": "https://www.bbc.com/news/world-28134342",
+            "frametrail:name": "Dow Jones Industrial Average hits 17,000 for first time",
+            "frametrail:thumb": null,
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:resourceId": "21",
+            "frametrail:attributes": {
+                "embed": "forbidden"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            {
+                "frametrail": "http://frametrail.org/ns/"
+            }
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "Wed Oct 25 2017 14:15:24 GMT+0200 (Central European Summer Time)",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "factcheck"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "2_1508493392_trump-un-speech.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=132.65301121845604,150.58313114492665"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "webpage",
+            "format": "text/html",
+            "value": "https://e.infogram.com/fefd6358-12f6-47ff-8f6f-a4e38131f061?src=embed",
+            "frametrail:name": "Month-to-month increase in employment, 2011-2017",
+            "frametrail:thumb": null,
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:resourceId": "6",
+            "frametrail:attributes": {
+                "embed": "allowed"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            {
+                "frametrail": "http://frametrail.org/ns/"
+            }
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "Wed Oct 25 2017 14:20:31 GMT+0200 (Central European Summer Time)",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "factcheck"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "2_1508493392_trump-un-speech.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=132.65301121845604,150.58313114492665"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "webpage",
+            "format": "text/html",
+            "value": "https://e.infogram.com/5a0e3e1a-5875-402d-b298-a85bb91b9fa0?src=embed",
+            "frametrail:name": "Total employment gains,  February to August,   2011-2017",
+            "frametrail:thumb": null,
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:resourceId": "7",
+            "frametrail:attributes": {
+                "embed": "allowed"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            {
+                "frametrail": "http://frametrail.org/ns/"
+            }
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "Wed Oct 25 2017 14:20:51 GMT+0200 (Central European Summer Time)",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "factcheck"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "2_1508493392_trump-un-speech.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=132.65301121845604,150.58313114492665"
+            }
+        },
+        "body": {
+            "frametrail:type": "urlpreview",
+            "source": "https://data.bls.gov/timeseries/LNS14000000",
+            "frametrail:name": " Labor Force Statistics from the Current Population Survey",
+            "frametrail:thumb": null,
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:resourceId": "10",
+            "frametrail:attributes": {
+                "embed": "forbidden"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            {
+                "frametrail": "http://frametrail.org/ns/"
+            }
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "Wed Oct 25 2017 14:22:57 GMT+0200 (Central European Summer Time)",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "factcheck"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "2_1508493392_trump-un-speech.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=158.11380340139772,176.0439233278683"
+            }
+        },
+        "body": {
+            "frametrail:type": "urlpreview",
+            "source": "https://www.chicagotribune.com/news/nationworld/ct-defense-policy-bill-20170918-story.html",
+            "frametrail:name": "Senate backs bill to pump $700 billion into military",
+            "frametrail:thumb": null,
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:resourceId": "15",
+            "frametrail:attributes": {
+                "embed": "forbidden"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            {
+                "frametrail": "http://frametrail.org/ns/"
+            }
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "Wed Oct 25 2017 14:28:21 GMT+0200 (Central European Summer Time)",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "background"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "2_1508493392_trump-un-speech.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=336.30925357102876,468.9921410269111"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/Marshall_Plan",
+            "frametrail:name": "Marshall Plan",
+            "frametrail:thumb": "2_1772995780_thumb_marshall-plan.png",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:resourceId": "41",
+            "frametrail:attributes": {
+                "extract": "The Marshall Plan was an American initiative enacted in 1948 to provide foreign aid to Western Europe. The United States transferred $13.3 billion in economic recovery programs to Western European economies after the end of World War II in Europe. Replacing an earlier proposal for a Morgenthau Plan, it operated for four years beginning on April 3, 1948, though in 1951, the Marshall Plan was largely replaced by the Mutual Security Act. The goals of the United States were to rebuild war-torn regions, remove trade barriers, modernize industry, improve European prosperity and prevent the spread of communism. The Marshall Plan proposed the reduction of interstate barriers and the economic integration of the European continent while also encouraging an increase in productivity as well as the adoption of modern business procedures.",
+                "extract_html": "<p>The <b>Marshall Plan</b> was an American initiative enacted in 1948 to provide foreign aid to Western Europe. The United States transferred $13.3 billion in economic recovery programs to Western European economies after the end of World War II in Europe. Replacing an earlier proposal for a Morgenthau Plan, it operated for four years beginning on April 3, 1948, though in 1951, the Marshall Plan was largely replaced by the Mutual Security Act. The goals of the United States were to rebuild war-torn regions, remove trade barriers, modernize industry, improve European prosperity and prevent the spread of communism. The Marshall Plan proposed the reduction of interstate barriers and the economic integration of the European continent while also encouraging an increase in productivity as well as the adoption of modern business procedures.</p>",
+                "description": "American initiative for foreign aid to Western Europe following World War II",
+                "articleUrl": "https://en.wikipedia.org/wiki/Marshall_Plan",
+                "wikiLang": "en",
+                "dir": "ltr"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            {
+                "frametrail": "http://frametrail.org/ns/"
+            }
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "Wed Oct 25 2017 14:29:13 GMT+0200 (Central European Summer Time)",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "background"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "2_1508493392_trump-un-speech.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=366.93989335154384,384.8700132780144"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/Harry_S._Truman",
+            "frametrail:name": "Harry S. Truman",
+            "frametrail:thumb": "2_1772995781_thumb_harry-s-truman.png",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:resourceId": "42",
+            "frametrail:attributes": {
+                "extract": "Harry S. Truman was the 33rd president of the United States, serving from 1945 to 1953. As the 34th vice president in 1945, he assumed the presidency upon the death of Franklin D. Roosevelt that year. Subsequently, Truman implemented the Marshall Plan in the aftermath of World War II to rebuild the economy of Western Europe, and established both the Truman Doctrine and NATO to contain the expansion of Soviet communism. A member of the Democratic Party, he proposed numerous New Deal coalition liberal domestic reforms, but few were enacted by the conservative coalition that dominated the United States Congress.",
+                "extract_html": "<p><b>Harry S. Truman</b> was the 33rd president of the United States, serving from 1945 to 1953. As the 34th vice president in 1945, he assumed the presidency upon the death of Franklin D. Roosevelt that year. Subsequently, Truman implemented the Marshall Plan in the aftermath of World War II to rebuild the economy of Western Europe, and established both the Truman Doctrine and NATO to contain the expansion of Soviet communism. A member of the Democratic Party, he proposed numerous New Deal coalition liberal domestic reforms, but few were enacted by the conservative coalition that dominated the United States Congress.</p>",
+                "description": "President of the United States from 1945 to 1953",
+                "articleUrl": "https://en.wikipedia.org/wiki/Harry_S._Truman",
+                "wikiLang": "en",
+                "dir": "ltr"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            {
+                "frametrail": "http://frametrail.org/ns/"
+            }
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "Wed Oct 25 2017 14:32:36 GMT+0200 (Central European Summer Time)",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "background"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "2_1508493392_trump-un-speech.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=502.67092308227967,547.4962228984562"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/United_States_Constitution",
+            "frametrail:name": "US Constitution",
+            "frametrail:thumb": "2_1772995782_thumb_us-constitution.png",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:resourceId": "43",
+            "frametrail:attributes": {
+                "extract": "The Constitution of the United States is the supreme law of the United States of America. It superseded the Articles of Confederation, the nation's first constitution, on March 4, 1789. Originally including seven articles, the Constitution defined the foundational structure of the federal government.",
+                "extract_html": "<p>The <b>Constitution of the United States</b> is the supreme law of the United States of America. It superseded the Articles of Confederation, the nation's first constitution, on March 4, 1789. Originally including seven articles, the Constitution defined the foundational structure of the federal government.</p>",
+                "description": "Supreme law of the United States",
+                "articleUrl": "https://en.wikipedia.org/wiki/Constitution_of_the_United_States",
+                "wikiLang": "en",
+                "dir": "ltr"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            {
+                "frametrail": "http://frametrail.org/ns/"
+            }
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "Wed Oct 25 2017 14:33:35 GMT+0200 (Central European Summer Time)",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "background"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "2_1508493392_trump-un-speech.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=539.4575451689707,557.3876650954412"
+            }
+        },
+        "body": {
+            "type": "Image",
+            "frametrail:type": "image",
+            "format": "image/jpg",
+            "source": "2_1508930725_united-states-constitution.jpg",
+            "frametrail:name": "United States Constitution",
+            "frametrail:thumb": "2_1508930725_thumb_united-states-constitution.png",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:resourceId": "45",
+            "frametrail:attributes": {}
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            {
+                "frametrail": "http://frametrail.org/ns/"
+            }
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "Wed Oct 25 2017 14:40:32 GMT+0200 (Central European Summer Time)",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "background"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "2_1508493392_trump-un-speech.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=911.2087165505887,929.1388364770595"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/North_Korea",
+            "frametrail:name": "North Korea",
+            "frametrail:thumb": "2_1772995783_thumb_north-korea.png",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:resourceId": "38",
+            "frametrail:attributes": {
+                "extract": "North Korea, officially the Democratic People's Republic of Korea (DPRK), is a country in East Asia. It constitutes the northern half of the Korean Peninsula and borders China and Russia to the north at the Yalu (Amnok) and Tumen rivers, and South Korea to the south at the Korean Demilitarized Zone (DMZ). The country's western border is formed by the Yellow Sea, while its eastern border is defined by the Sea of Japan. North Korea claimed to be the sole legitimate government of the Korean Peninsula and adjacent islands until 2024, when it abandoned the Korean unification plan and designated South Korea as a hostile country. Pyongyang is the capital and largest city.",
+                "extract_html": "<p><b>North Korea</b>, officially the <b>Democratic People's Republic of Korea</b> (<b>DPRK</b>), is a country in East Asia. It constitutes the northern half of the Korean Peninsula and borders China and Russia to the north at the Yalu (Amnok) and Tumen rivers, and South Korea to the south at the Korean Demilitarized Zone (DMZ). The country's western border is formed by the Yellow Sea, while its eastern border is defined by the Sea of Japan. North Korea claimed to be the sole legitimate government of the Korean Peninsula and adjacent islands until 2024, when it abandoned the Korean unification plan and designated South Korea as a hostile country. Pyongyang is the capital and largest city.</p>",
+                "description": "Country in East Asia",
+                "articleUrl": "https://en.wikipedia.org/wiki/North_Korea",
+                "wikiLang": "en",
+                "dir": "ltr"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            {
+                "frametrail": "http://frametrail.org/ns/"
+            }
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "Wed Oct 25 2017 14:41:11 GMT+0200 (Central European Summer Time)",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "background"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "2_1508493392_trump-un-speech.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=930.8720959948539,948.8022159213245"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/Otto_Warmbier",
+            "frametrail:name": "Otto Warmbier",
+            "frametrail:thumb": "2_1772995784_thumb_otto-warmbier.png",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:resourceId": "40",
+            "frametrail:attributes": {
+                "extract": "Otto Frederick Warmbier was an American college student who was imprisoned in North Korea in 2016 on a charge of subversion. In June 2017, he was released by North Korea in a vegetative state and died soon after his parents requested his feeding tube be removed.",
+                "extract_html": "<p><b>Otto Frederick Warmbier</b> was an American college student who was imprisoned in North Korea in 2016 on a charge of subversion. In June 2017, he was released by North Korea in a vegetative state and died soon after his parents requested his feeding tube be removed.</p>",
+                "description": "American imprisoned in North Korea (1994–2017)",
+                "articleUrl": "https://en.wikipedia.org/wiki/Otto_Warmbier",
+                "wikiLang": "en",
+                "dir": "ltr"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            {
+                "frametrail": "http://frametrail.org/ns/"
+            }
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "Wed Oct 25 2017 14:43:10 GMT+0200 (Central European Summer Time)",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "news"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "2_1508493392_trump-un-speech.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=1014.0080343167645,1031.9381542432352"
+            }
+        },
+        "body": {
+            "frametrail:type": "urlpreview",
+            "source": "https://apnews.com/ba782bb4314f40b281a995d9456a4530/Kim-Jong-Un:-'Deranged'-Trump-will-'pay-dearly'-for-threat",
+            "frametrail:name": "Kim Jong Un: ‘Deranged’ Trump will ‘pay dearly’ for threat",
+            "frametrail:thumb": null,
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:resourceId": "5",
+            "frametrail:attributes": {
+                "embed": "forbidden"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            {
+                "frametrail": "http://frametrail.org/ns/"
+            }
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "Wed Oct 25 2017 14:44:07 GMT+0200 (Central European Summer Time)",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "news",
+            "tvshow"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "2_1508493392_trump-un-speech.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=1016.787181018014,1034.7173009444848"
+            }
+        },
+        "body": {
+            "type": "Video",
+            "frametrail:type": "youtube",
+            "format": "text/html",
+            "source": "https://www.youtube.com/embed/7GfkO_wKNuc",
+            "frametrail:name": "Trump's 'Rocket Man' comment takes off",
+            "frametrail:thumb": "http://img.youtube.com/vi/7GfkO_wKNuc/2.jpg",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:resourceId": "31",
+            "frametrail:attributes": {}
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            {
+                "frametrail": "http://frametrail.org/ns/"
+            }
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "Wed Oct 25 2017 14:44:39 GMT+0200 (Central European Summer Time)",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "background"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "2_1508493392_trump-un-speech.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=1016.787181018014,1034.7173009444848"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/Kim_Jong-un",
+            "frametrail:name": "Kim Jong-un",
+            "frametrail:thumb": "2_1772995786_thumb_kim-jong-un.png",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:resourceId": "33",
+            "frametrail:attributes": {
+                "extract": "Kim Jong Un is a North Korean politician who serves as both the general secretary of the Workers' Party of Korea (WPK) and the president of the State Affairs Commission. A member of the Kim family, he is the third supreme leader of North Korea, as well as the fifth child of Kim Jong Il, his predecessor as supreme leader, and a grandson of Kim Il Sung, the founder of North Korea.",
+                "extract_html": "<p><b>Kim Jong Un</b> is a North Korean politician who serves as both the general secretary of the Workers' Party of Korea (WPK) and the president of the State Affairs Commission. A member of the Kim family, he is the third supreme leader of North Korea, as well as the fifth child of Kim Jong Il, his predecessor as supreme leader, and a grandson of Kim Il Sung, the founder of North Korea.</p>",
+                "description": "Leader of North Korea since 2011",
+                "articleUrl": "https://en.wikipedia.org/wiki/Kim_Jong_Un",
+                "wikiLang": "en",
+                "dir": "ltr"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            {
+                "frametrail": "http://frametrail.org/ns/"
+            }
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "Wed Oct 25 2017 14:45:10 GMT+0200 (Central European Summer Time)",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "comment"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "2_1508493392_trump-un-speech.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=1022.1662169959551,1102.8517566650728"
+            }
+        },
+        "body": {
+            "type": "Video",
+            "frametrail:type": "youtube",
+            "format": "text/html",
+            "source": "https://www.youtube.com/embed/vt2ORDIJTh8",
+            "frametrail:name": "Lawrence: Why Donald Trump's UN Speech Worst, Most Dangerous In History",
+            "frametrail:thumb": "http://img.youtube.com/vi/vt2ORDIJTh8/2.jpg",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:resourceId": "28",
+            "frametrail:attributes": {}
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            {
+                "frametrail": "http://frametrail.org/ns/"
+            }
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "Wed Oct 25 2017 14:45:46 GMT+0200 (Central European Summer Time)",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "comment"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "2_1508493392_trump-un-speech.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=1022.1662169959551,1101.447245195735"
+            }
+        },
+        "body": {
+            "type": "Video",
+            "frametrail:type": "youtube",
+            "format": "text/html",
+            "source": "https://www.youtube.com/embed/Ta3NxJOFAZw",
+            "frametrail:name": "Susan Rice On President Donald Trump's UN Speech",
+            "frametrail:thumb": "http://img.youtube.com/vi/Ta3NxJOFAZw/2.jpg",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:resourceId": "27",
+            "frametrail:attributes": {}
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            {
+                "frametrail": "http://frametrail.org/ns/"
+            }
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "Wed Oct 25 2017 14:46:32 GMT+0200 (Central European Summer Time)",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "comment"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "2_1508493392_trump-un-speech.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=1108.051535218456,1158.5845917018385"
+            }
+        },
+        "body": {
+            "type": "Video",
+            "frametrail:type": "youtube",
+            "format": "text/html",
+            "source": "https://www.youtube.com/embed/Tgazik2bMik",
+            "frametrail:name": "Netanyahu applauds Trump's 'brave and clear' UN speech",
+            "frametrail:thumb": "http://img.youtube.com/vi/Tgazik2bMik/2.jpg",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:resourceId": "29",
+            "frametrail:attributes": {}
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            {
+                "frametrail": "http://frametrail.org/ns/"
+            }
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "Wed Oct 25 2017 14:48:06 GMT+0200 (Central European Summer Time)",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "news"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "2_1508493392_trump-un-speech.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=1035.972431226691,1122.3956038004408"
+            }
+        },
+        "body": {
+            "type": "Video",
+            "frametrail:type": "youtube",
+            "format": "text/html",
+            "source": "https://www.youtube.com/embed/0ZDowQMviic",
+            "frametrail:name": "President Donald Trump Denounces North Korea In UN Speech",
+            "frametrail:thumb": "http://img.youtube.com/vi/0ZDowQMviic/2.jpg",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:resourceId": "25",
+            "frametrail:attributes": {}
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            {
+                "frametrail": "http://frametrail.org/ns/"
+            }
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "Wed Oct 25 2017 14:48:41 GMT+0200 (Central European Summer Time)",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "tvshow",
+            "comedy",
+            "comment"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "2_1508493392_trump-un-speech.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=1035.972431226691,1091.9442761628673"
+            }
+        },
+        "body": {
+            "type": "Video",
+            "frametrail:type": "youtube",
+            "format": "text/html",
+            "source": "https://www.youtube.com/embed/nmwDV_DOlFg",
+            "frametrail:name": "Trump's UN Speech Advocates For Both Peace And Nuclear War",
+            "frametrail:thumb": "http://img.youtube.com/vi/nmwDV_DOlFg/2.jpg",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:resourceId": "22",
+            "frametrail:attributes": {}
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            {
+                "frametrail": "http://frametrail.org/ns/"
+            }
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "Wed Oct 25 2017 14:52:11 GMT+0200 (Central European Summer Time)",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "background"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "2_1508493392_trump-un-speech.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=1115.0742020019127,1319.4775691636773"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/Iran",
+            "frametrail:name": "Iran",
+            "frametrail:thumb": "2_1772995787_thumb_iran.png",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:resourceId": "39",
+            "frametrail:attributes": {
+                "extract": "Iran, officially the Islamic Republic of Iran, and also known as Persia, is a country in West Asia. It borders Iraq to the west, Turkey, Azerbaijan, and Armenia to the northwest, the Caspian Sea to the north, Turkmenistan to the northeast, Afghanistan to the east, Pakistan to the southeast, and the Gulf of Oman and the Persian Gulf to the south. With a population of over 92 million, Iran ranks 17th globally in both geographic size and population and is the sixth-largest country in Asia. It is divided into five regions with 31 provinces. Tehran is the nation's capital, largest city, and financial center.",
+                "extract_html": "<p><b>Iran</b>, officially the <b>Islamic Republic of Iran</b>, and also known as <b>Persia</b>, is a country in West Asia. It borders Iraq to the west, Turkey, Azerbaijan, and Armenia to the northwest, the Caspian Sea to the north, Turkmenistan to the northeast, Afghanistan to the east, Pakistan to the southeast, and the Gulf of Oman and the Persian Gulf to the south. With a population of over 92 million, Iran ranks 17th globally in both geographic size and population and is the sixth-largest country in Asia. It is divided into five regions with 31 provinces. Tehran is the nation's capital, largest city, and financial center.</p>",
+                "description": "Country in West Asia",
+                "articleUrl": "https://en.wikipedia.org/wiki/Iran",
+                "wikiLang": "en",
+                "dir": "ltr"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            {
+                "frametrail": "http://frametrail.org/ns/"
+            }
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "Wed Oct 25 2017 15:00:57 GMT+0200 (Central European Summer Time)",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "background"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "2_1508493392_trump-un-speech.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=1470.2399577331619,1489.9630896522795"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/Syria",
+            "frametrail:name": "Syria",
+            "frametrail:thumb": "2_1772995788_thumb_syria.png",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:resourceId": "47",
+            "frametrail:attributes": {
+                "extract": "Syria, officially the Syrian Arab Republic, is a country in West Asia located in the Eastern Mediterranean and the Levant. It borders the Mediterranean Sea to the west, Turkey to the north and northwest, Iraq to the east and southeast, Jordan to the south, and Israel and Lebanon to the southwest. It is a republic under a provisional government and comprises 14 governorates. Damascus is the capital and largest city. With a population of 26 million across an area of 185,180 square kilometres (71,500 sq mi), it is the 56th-most populous and 87th-largest country.",
+                "extract_html": "<p><b>Syria</b>, officially the <b>Syrian Arab Republic</b>, is a country in West Asia located in the Eastern Mediterranean and the Levant. It borders the Mediterranean Sea to the west, Turkey to the north and northwest, Iraq to the east and southeast, Jordan to the south, and Israel and Lebanon to the southwest. It is a republic under a provisional government and comprises 14 governorates. Damascus is the capital and largest city. With a population of 26 million across an area of 185,180 square kilometres (71,500 sq mi), it is the 56th-most populous and 87th-largest country.</p>",
+                "description": "Country in West Asia",
+                "articleUrl": "https://en.wikipedia.org/wiki/Syria",
+                "wikiLang": "en",
+                "dir": "ltr"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            {
+                "frametrail": "http://frametrail.org/ns/"
+            }
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "Wed Oct 25 2017 15:01:09 GMT+0200 (Central European Summer Time)",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "background"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "2_1508493392_trump-un-speech.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=1472.0030934883828,1489.9332134148533"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/Syrian_Civil_War",
+            "frametrail:name": "Syrian Civil War",
+            "frametrail:thumb": "2_1772995789_thumb_syrian-civil-war.png",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:resourceId": "46",
+            "frametrail:attributes": {
+                "extract": "The Syrian civil war was an armed conflict that began with the Syrian revolution in March 2011, when popular discontent with the Ba'athist regime ruled by Bashar al-Assad triggered large-scale protests and pro-democracy rallies across Syria, as part of the wider Arab Spring. The Assad regime responded to the protests with lethal force, which led to a series of defections, the emergence of armed opposition groups, and the civilian uprising descending into a civil war. The war lasted almost 14 years and culminated in the fall of the Assad regime in December 2024. Many sources regard this as the end of the civil war. Post-war clashes and disputes have continued into 2026.",
+                "extract_html": "<p>The <b>Syrian civil war</b> was an armed conflict that began with the Syrian revolution in March 2011, when popular discontent with the Ba'athist regime ruled by Bashar al-Assad triggered large-scale protests and pro-democracy rallies across Syria, as part of the wider Arab Spring. The Assad regime responded to the protests with lethal force, which led to a series of defections, the emergence of armed opposition groups, and the civilian uprising descending into a civil war. The war lasted almost 14 years and culminated in the fall of the Assad regime in December 2024. Many sources regard this as the end of the civil war. Post-war clashes and disputes have continued into 2026.</p>",
+                "description": "2011–2024 armed conflict in Syria",
+                "articleUrl": "https://en.wikipedia.org/wiki/Syrian_civil_war",
+                "wikiLang": "en",
+                "dir": "ltr"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            {
+                "frametrail": "http://frametrail.org/ns/"
+            }
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "Wed Oct 25 2017 15:01:20 GMT+0200 (Central European Summer Time)",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "background"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "2_1508493392_trump-un-speech.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=1479.1751414589712,1497.1052613854417"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/Bashar_al-Assad",
+            "frametrail:name": "Bashar al-Assad",
+            "frametrail:thumb": "2_1772995790_thumb_bashar-al-assad.png",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:resourceId": "48",
+            "frametrail:attributes": {
+                "extract": "Bashar Hafez al-Assad is a Syrian former politician, doctor, and military officer who served as the president of Syria from 2000 until his overthrow in 2024 after the Syrian civil war. As president, Assad was commander-in-chief of the Syrian Arab Armed Forces and secretary-general of the Central Command of the Arab Socialist Ba'ath Party. He is the son of Hafez al-Assad, who ruled Syria from 1970 to 2000.",
+                "extract_html": "<p><b>Bashar Hafez al-Assad</b> is a Syrian former politician, doctor, and military officer who served as the president of Syria from 2000 until his overthrow in 2024 after the Syrian civil war. As president, Assad was commander-in-chief of the Syrian Arab Armed Forces and secretary-general of the Central Command of the Arab Socialist Ba'ath Party. He is the son of Hafez al-Assad, who ruled Syria from 1970 to 2000.</p>",
+                "description": "President of Syria from 2000 to 2024",
+                "articleUrl": "https://en.wikipedia.org/wiki/Bashar_al-Assad",
+                "wikiLang": "en",
+                "dir": "ltr"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            {
+                "frametrail": "http://frametrail.org/ns/"
+            }
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "Wed Oct 25 2017 15:04:15 GMT+0200 (Central European Summer Time)",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "factcheck"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "2_1508493392_trump-un-speech.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=1673.3284421378676,1727.1188019172791"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "webpage",
+            "format": "text/html",
+            "value": "https://www.compareyourcountry.org/oda?cr=20001&lg=en&page=0",
+            "frametrail:name": " Official Development Assistance 2016",
+            "frametrail:thumb": null,
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:resourceId": "19",
+            "frametrail:attributes": {
+                "embed": "allowed"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            {
+                "frametrail": "http://frametrail.org/ns/"
+            }
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "Wed Oct 25 2017 15:04:55 GMT+0200 (Central European Summer Time)",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "factcheck"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "2_1508493392_trump-un-speech.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=1547.8176026525737,1565.7477225790442"
+            }
+        },
+        "body": {
+            "frametrail:type": "urlpreview",
+            "source": "https://www.imf.org/external/pubs/ft/weo/2017/01/weodata/weorept.aspx?pr.x=32&pr.y=19&sy=2015&ey=2016&scsm=1&ssd=1&sort=country&ds=.&br=1&c=512%2C672%2C914%2C946%2C612%2C137%2C614%2C546%2C311%2C962%2C213%2C674%2C911%2C676%2C193%2C548%2C122%2C556%2C912%2C678%2C313%2C181%2C419%2C867%2C513%2C682%2C316%2C684%2C913%2C273%2C124%2C868%2C339%2C921%2C638%2C948%2C514%2C943%2C218%2C686%2C963%2C688%2C616%2C518%2C223%2C728%2C516%2C558%2C918%2C138%2C748%2C196%2C618%2C278%2C624%2C692%2C522%2C694%2C622%2C142%2C156%2C449%2C626%2C564%2C628%2C565%2C228%2C283%2C924%2C853%2C233%2C288%2C632%2C293%2C636%2C566%2C634%2C964%2C238%2C182%2C662%2C359%2C960%2C453%2C423%2C968%2C935%2C922%2C128%2C714%2C611%2C862%2C321%2C135%2C243%2C716%2C248%2C456%2C469%2C722%2C253%2C942%2C642%2C718%2C643%2C724%2C939%2C576%2C644%2C936%2C819%2C961%2C172%2C813%2C132%2C199%2C646%2C733%2C648%2C184%2C915%2C524%2C134%2C361%2C652%2C362%2C174%2C364%2C328%2C732%2C258%2C366%2C656%2C734%2C654%2C144%2C336%2C146%2C263%2C463%2C268%2C528%2C532%2C923%2C944%2C738%2C176%2C578%2C534%2C537%2C536%2C742%2C429%2C866%2C433%2C369%2C178%2C744%2C436%2C186%2C136%2C925%2C343%2C869%2C158%2C746%2C439%2C926%2C916%2C466%2C664%2C112%2C826%2C111%2C542%2C298%2C967%2C927%2C443%2C846%2C917%2C299%2C544%2C582%2C941%2C474%2C446%2C754%2C666%2C698%2C668&s=NGDPD&grp=0&a=",
+            "frametrail:name": "IMF: Report for Selected Countries and Subjects",
+            "frametrail:thumb": null,
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:resourceId": "20",
+            "frametrail:attributes": {
+                "embed": "forbidden"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            {
+                "frametrail": "http://frametrail.org/ns/"
+            }
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "Wed Oct 25 2017 15:05:41 GMT+0200 (Central European Summer Time)",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "factcheck"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "2_1508493392_trump-un-speech.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=1566.644228575368,1584.5743485018386"
+            }
+        },
+        "body": {
+            "frametrail:type": "urlpreview",
+            "source": "https://www.washingtonpost.com/news/fact-checker/wp/2017/09/22/president-trumps-claim-that-10-refugees-overseas-cost-as-much-as-one-in-the-u-s/?utm_term=.7e0a0715223a",
+            "frametrail:name": "President Trump’s claim that 10 refugees overseas cost as much as one in the U.S.",
+            "frametrail:thumb": null,
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:resourceId": "9",
+            "frametrail:attributes": {
+                "embed": "forbidden"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            {
+                "frametrail": "http://frametrail.org/ns/"
+            }
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "Wed Oct 25 2017 15:09:45 GMT+0200 (Central European Summer Time)",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "news"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "2_1508493392_trump-un-speech.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=1739.311371016693,1852.659599717575"
+            }
+        },
+        "body": {
+            "type": "Video",
+            "frametrail:type": "youtube",
+            "format": "text/html",
+            "source": "https://www.youtube.com/embed/RuO-md5Rf_I",
+            "frametrail:name": "Trump calls for UN reforms",
+            "frametrail:thumb": "http://img.youtube.com/vi/RuO-md5Rf_I/2.jpg",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:resourceId": "26",
+            "frametrail:attributes": {}
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            {
+                "frametrail": "http://frametrail.org/ns/"
+            }
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "Wed Oct 25 2017 15:16:37 GMT+0200 (Central European Summer Time)",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "background"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "2_1508493392_trump-un-speech.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=1903.999478766619,2072.871326764707"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/Venezuela",
+            "frametrail:name": "Venezuela",
+            "frametrail:thumb": "2_1772995803_thumb_venezuela.png",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:resourceId": "49",
+            "frametrail:attributes": {
+                "extract": "Venezuela, officially the Bolivarian Republic of Venezuela, is a country on the northern coast of South America, consisting of a continental landmass and various islands and islets in the Caribbean Sea. It comprises an area of 912,050 km2 (352,140 sq mi), with a population estimated at 31.8 million in 2025. The capital and largest urban agglomeration is Caracas. The continental territory is bordered on the north by the Caribbean Sea and the Atlantic Ocean, on the west by Colombia, Brazil on the south, Trinidad and Tobago to the north-east, and on the east by Guyana. Venezuela consists of 23 states, the Capital District, and federal dependencies covering Venezuela's offshore islands. Venezuela is among the most urbanized countries in Latin America; the vast majority of Venezuelans live in the cities of the north and in the capital.",
+                "extract_html": "<p><b>Venezuela</b>, officially the <b>Bolivarian Republic of Venezuela</b>, is a country on the northern coast of South America, consisting of a continental landmass and various islands and islets in the Caribbean Sea. It comprises an area of 912,050 km<sup>2</sup> (352,140 sq mi), with a population estimated at 31.8 million in 2025. The capital and largest urban agglomeration is Caracas. The continental territory is bordered on the north by the Caribbean Sea and the Atlantic Ocean, on the west by Colombia, Brazil on the south, Trinidad and Tobago to the north-east, and on the east by Guyana. Venezuela consists of 23 states, the Capital District, and federal dependencies covering Venezuela's offshore islands. Venezuela is among the most urbanized countries in Latin America; the vast majority of Venezuelans live in the cities of the north and in the capital.</p>",
+                "description": "",
+                "articleUrl": "https://en.wikipedia.org/wiki/Venezuela",
+                "wikiLang": "en",
+                "dir": "ltr"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            {
+                "frametrail": "http://frametrail.org/ns/"
+            }
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "Wed Oct 25 2017 15:17:45 GMT+0200 (Central European Summer Time)",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "background"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "2_1508493392_trump-un-speech.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=1925.2168603041205,1943.146980230591"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/Nicol%C3%A1s_Maduro",
+            "frametrail:name": "Nicolás Maduro",
+            "frametrail:thumb": "2_1772995804_thumb_nicols-maduro.png",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:resourceId": "50",
+            "frametrail:attributes": {
+                "extract": "Nicolás Maduro Moros is a Venezuelan politician and former union leader who has been the de jure president of Venezuela since 2013. On 3 January 2026, US forces captured Maduro and his wife, Cilia Flores; they were transported to the US and charged with drug trafficking to which they pleaded not guilty. Although he was de facto removed from power, according to the Venezuelan government and interim president Delcy Rodríguez, he is still the de jure president of Venezuela. Prior to his presidency, he served as the vice president of Venezuela under President Hugo Chávez from 2012 to 2013 and as minister of foreign affairs from 2006 to 2012.",
+                "extract_html": "<p><b>Nicolás Maduro Moros</b> is a Venezuelan politician and former union leader who has been the <i>de jure</i> president of Venezuela since 2013. On 3 January 2026, US forces captured Maduro and his wife, Cilia Flores; they were transported to the US and charged with drug trafficking to which they pleaded not guilty. Although he was <i>de facto</i> removed from power, according to the Venezuelan government and interim president Delcy Rodríguez, he is still the <i>de jure</i> president of Venezuela. Prior to his presidency, he served as the vice president of Venezuela under President Hugo Chávez from 2012 to 2013 and as minister of foreign affairs from 2006 to 2012.</p>",
+                "description": "President of Venezuela",
+                "articleUrl": "https://en.wikipedia.org/wiki/Nicol%C3%A1s_Maduro",
+                "wikiLang": "en",
+                "dir": "ltr"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            {
+                "frametrail": "http://frametrail.org/ns/"
+            }
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "Wed Oct 25 2017 15:26:26 GMT+0200 (Central European Summer Time)",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "news",
+            "comment"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "2_1508493392_trump-un-speech.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=6.365198045735417,59.4981164466177"
+            }
+        },
+        "body": {
+            "type": "Video",
+            "frametrail:type": "youtube",
+            "format": "text/html",
+            "source": "https://www.youtube.com/embed/_Q5kYHWmnLY",
+            "frametrail:name": "What to expect from Trump's debut speech at UN General Assembly",
+            "frametrail:thumb": "http://img.youtube.com/vi/_Q5kYHWmnLY/2.jpg",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:resourceId": "24",
+            "frametrail:attributes": {}
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            {
+                "frametrail": "http://frametrail.org/ns/"
+            }
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "Wed Oct 25 2017 15:27:44 GMT+0200 (Central European Summer Time)",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "factcheck"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "2_1508493392_trump-un-speech.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=2427.708471243459,2485.473328172282"
+            }
+        },
+        "body": {
+            "type": "Video",
+            "frametrail:type": "youtube",
+            "format": "text/html",
+            "source": "https://www.youtube.com/embed/FECicy0VsB8",
+            "frametrail:name": "Analysis of Pres. Trump’s UN Speech",
+            "frametrail:thumb": "http://img.youtube.com/vi/FECicy0VsB8/2.jpg",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:resourceId": "30",
+            "frametrail:attributes": {}
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            {
+                "frametrail": "http://frametrail.org/ns/"
+            }
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "Wed Oct 25 2017 15:28:23 GMT+0200 (Central European Summer Time)",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "factcheck"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "2_1508493392_trump-un-speech.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=91.4137353875737,487.699262"
+            }
+        },
+        "body": {
+            "type": "Video",
+            "frametrail:type": "youtube",
+            "format": "text/html",
+            "source": "https://www.youtube.com/embed/gG2I7h_C778",
+            "frametrail:name": "Fact Checking Trump's Speech To The UN General Assembly",
+            "frametrail:thumb": "http://img.youtube.com/vi/gG2I7h_C778/2.jpg",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:resourceId": "23",
+            "frametrail:attributes": {}
+        }
+    }
+]

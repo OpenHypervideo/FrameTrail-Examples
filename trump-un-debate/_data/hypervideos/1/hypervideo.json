@@ -1,0 +1,114 @@
+{
+    "meta": {
+        "name": "Donald Trump Addresses UN General Debate, 72nd session",
+        "description": "     ",
+        "thumb": "2_1508493392_thumb_trump-un-speech.png",
+        "creator": "demo",
+        "creatorId": "2",
+        "created": 1508493399537,
+        "lastchanged": 1773073297336
+    },
+    "config": {
+        "slidingMode": "adjust",
+        "slidingTrigger": "key",
+        "autohideControls": false,
+        "captionsVisible": false,
+        "hidden": false,
+        "theme": "midnight",
+        "layoutArea": {
+            "areaTop": [],
+            "areaBottom": [
+                {
+                    "name": "",
+                    "icon": "",
+                    "type": "TimedContent",
+                    "contentSize": "large",
+                    "cssClass": "",
+                    "collectionFilter": {
+                        "tags": [
+                            "background"
+                        ],
+                        "types": [],
+                        "users": [],
+                        "text": ""
+                    },
+                    "onClickContentItem": "",
+                    "html": "",
+                    "transcriptSource": "",
+                    "initClosed": false,
+                    "filterAspect": "creatorId",
+                    "zoomControls": false
+                }
+            ],
+            "areaLeft": [],
+            "areaRight": [
+                {
+                    "type": "TimedContent",
+                    "contentSize": "large",
+                    "name": "Speaker Info",
+                    "description": "",
+                    "cssClass": "",
+                    "collectionFilter": {
+                        "tags": [
+                            "speaker"
+                        ],
+                        "types": [],
+                        "users": [],
+                        "text": ""
+                    },
+                    "onClickContentItem": "",
+                    "html": "",
+                    "transcriptSource": "",
+                    "icon": "",
+                    "initClosed": false,
+                    "filterAspect": "creatorId",
+                    "zoomControls": false
+                },
+                {
+                    "type": "Transcript",
+                    "contentSize": "large",
+                    "name": "Transcript",
+                    "description": "",
+                    "cssClass": "",
+                    "collectionFilter": {
+                        "tags": [],
+                        "types": [],
+                        "users": [],
+                        "text": ""
+                    },
+                    "onClickContentItem": "",
+                    "html": "",
+                    "transcriptSource": "en",
+                    "icon": "",
+                    "initClosed": false,
+                    "filterAspect": "creatorId",
+                    "zoomControls": false
+                }
+            ]
+        }
+    },
+    "clips": [
+        {
+            "resourceId": "2",
+            "duration": 0,
+            "start": 0,
+            "end": 0,
+            "in": 0,
+            "out": 0
+        }
+    ],
+    "globalEvents": {
+        "onReady": "",
+        "onPlay": "",
+        "onPause": "",
+        "onEnded": ""
+    },
+    "customCSS": "",
+    "contents": [],
+    "subtitles": [
+        {
+            "src": "en.vtt",
+            "srclang": "en"
+        }
+    ]
+}

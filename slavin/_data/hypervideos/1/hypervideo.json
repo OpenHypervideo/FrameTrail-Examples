@@ -1,0 +1,131 @@
+{
+    "meta": {
+        "name": "Slavin Hypervideo",
+        "description": "     ",
+        "thumb": "2_1465486227_thumb_slavin.png",
+        "creator": "demo",
+        "creatorId": "2",
+        "created": 1509193741768,
+        "lastchanged": 1773104296142
+    },
+    "config": {
+        "slidingMode": "adjust",
+        "slidingTrigger": "key",
+        "autohideControls": false,
+        "captionsVisible": true,
+        "hidden": false,
+        "theme": "bright",
+        "layoutArea": {
+            "areaTop": [],
+            "areaBottom": [
+                {
+                    "type": "TimedContent",
+                    "contentSize": "small",
+                    "name": "Slovenčina",
+                    "description": "",
+                    "cssClass": "",
+                    "collectionFilter": {
+                        "tags": [
+                            "slovak"
+                        ],
+                        "types": [],
+                        "users": [],
+                        "text": ""
+                    },
+                    "onClickContentItem": "",
+                    "html": "",
+                    "transcriptSource": "",
+                    "icon": "",
+                    "initClosed": false,
+                    "filterAspect": "creatorId",
+                    "zoomControls": false
+                },
+                {
+                    "type": "TimedContent",
+                    "contentSize": "small",
+                    "name": "English",
+                    "description": "",
+                    "cssClass": "",
+                    "collectionFilter": {
+                        "tags": [
+                            "english"
+                        ],
+                        "types": [],
+                        "users": [],
+                        "text": ""
+                    },
+                    "onClickContentItem": "",
+                    "html": "",
+                    "transcriptSource": "",
+                    "icon": "",
+                    "initClosed": false,
+                    "filterAspect": "creatorId",
+                    "zoomControls": false
+                }
+            ],
+            "areaLeft": [],
+            "areaRight": [
+                {
+                    "name": "SK",
+                    "icon": "",
+                    "type": "TimedContent",
+                    "contentSize": "large",
+                    "cssClass": "",
+                    "collectionFilter": {
+                        "tags": [
+                            "slovak"
+                        ],
+                        "types": [],
+                        "users": [],
+                        "text": ""
+                    },
+                    "onClickContentItem": "",
+                    "html": "",
+                    "transcriptSource": ""
+                },
+                {
+                    "name": "EN",
+                    "icon": "",
+                    "type": "TimedContent",
+                    "contentSize": "large",
+                    "cssClass": "",
+                    "collectionFilter": {
+                        "tags": [
+                            "english"
+                        ],
+                        "types": [],
+                        "users": [],
+                        "text": ""
+                    },
+                    "onClickContentItem": "",
+                    "html": "",
+                    "transcriptSource": ""
+                }
+            ]
+        }
+    },
+    "clips": [
+        {
+            "resourceId": "4",
+            "duration": 0,
+            "start": 0,
+            "end": 0,
+            "in": 0,
+            "out": 0
+        }
+    ],
+    "globalEvents": {
+        "onReady": "",
+        "onPlay": "",
+        "onPause": "",
+        "onEnded": ""
+    },
+    "customCSS": "",
+    "contents": [],
+    "subtitles": [
+        {
+            "src": "en.vtt",
+            "srclang": "en"
+        }
+    ]
+}

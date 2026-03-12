@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="cache-control" content="no-cache">
+    <title>Trump UN Debate (2017) - FrameTrail Demo</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@frametrail/frametrail@v1.1.0/frametrail.min.css">
+    <link rel="stylesheet" href="_data/custom.css">
+    <script src="https://cdn.jsdelivr.net/npm/@frametrail/frametrail@v1.1.0/frametrail.min.js"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            window.myInstance = FrameTrail.init({
+                target:         'body',
+                dataPath:       './_data/',
+                resources:      [{ label: "Choose Resources",
+                                   data: "_data/resources/_index.json",
+                                   type: "frametrail" }]
+            });
+        });
+    </script>
+</head>
+<body></body>
+</html>

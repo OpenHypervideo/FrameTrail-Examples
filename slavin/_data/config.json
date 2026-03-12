@@ -1,0 +1,16 @@
+{
+    "updateServiceURL": "https://update.frametrail.org",
+    "autoUpdate": false,
+    "allowCaching": false,
+    "defaultUserRole": "admin",
+    "captureUserTraces": false,
+    "userTracesStartAction": "",
+    "userTracesEndAction": "",
+    "userNeedsConfirmation": false,
+    "alwaysForceLogin": false,
+    "allowCollaboration": false,
+    "allowUploads": true,
+    "defaultTheme": "",
+    "videoFit": "contain",
+    "defaultLanguage": "en"
+}

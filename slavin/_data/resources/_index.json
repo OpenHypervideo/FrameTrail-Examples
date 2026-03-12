@@ -1,0 +1,808 @@
+{
+    "resources-increment": 56,
+    "resources": {
+        "4": {
+            "name": "Slavin",
+            "type": "video",
+            "src": "2_1465486227_slavin.mp4",
+            "thumb": "2_1465486227_thumb_slavin.png",
+            "description": null,
+            "creator": "demo",
+            "creatorId": "2",
+            "created": 1465486227,
+            "licenseType": null,
+            "licenseAttribution": null,
+            "tags": null,
+            "attributes": {}
+        },
+        "5": {
+            "name": "Slovak National Movement (Wikipedia)",
+            "type": "wikipedia",
+            "src": "https://en.wikipedia.org/wiki/History_of_Slovakia#Slovak_National_Movement",
+            "thumb": null,
+            "description": null,
+            "creator": "demo",
+            "creatorId": "2",
+            "created": 1465548453,
+            "licenseType": null,
+            "licenseAttribution": null,
+            "tags": null,
+            "attributes": {
+                "extract": "The history of Slovakia spans from prehistoric settlements to the modern Slovak Republic. Situated in Central Europe, the region’s earliest evidence of human habitation dates to the Palaeolithic era, with significant Neolithic and Bronze Age cultures. By the Iron Age, Celtic tribes like the Boii established settlements, later displaced by Germanic and Slavic migrations. The Slavs arrived in the 5th–6th centuries, forming the basis of Slavic states like Great Moravia, which adopted Christianity through Cyrillo-Methodian missionary activity.",
+                "extract_html": "<p>The <b>history of Slovakia</b> spans from prehistoric settlements to the modern Slovak Republic. Situated in Central Europe, the region’s earliest evidence of human habitation dates to the Palaeolithic era, with significant Neolithic and Bronze Age cultures. By the Iron Age, Celtic tribes like the Boii established settlements, later displaced by Germanic and Slavic migrations. The Slavs arrived in the 5th–6th centuries, forming the basis of Slavic states like Great Moravia, which adopted Christianity through Cyrillo-Methodian missionary activity.</p>",
+                "description": "",
+                "articleUrl": "https://en.wikipedia.org/wiki/History_of_Slovakia",
+                "wikiLang": "en",
+                "dir": "ltr"
+            }
+        },
+        "8": {
+            "name": "Jozef Kostka - Webumenia",
+            "type": "webpage",
+            "src": "https://www.webumenia.sk/autor/5187",
+            "thumb": "2_1465894553_thumb_jozef-kostka-webumenia.png",
+            "description": "* 29.01.1912 Stupava – ✝ 30.09.1996 Bratislava sochár, monumentalista, pedagóg, kresliar",
+            "creator": "demo",
+            "creatorId": "2",
+            "created": 1465894553,
+            "licenseType": null,
+            "licenseAttribution": null,
+            "tags": null,
+            "attributes": {
+                "embed": "allowed"
+            }
+        },
+        "9": {
+            "name": "Tibor Bártfay - Webumenia",
+            "type": "webpage",
+            "src": "https://www.webumenia.sk/autor/487",
+            "thumb": "2_1465894696_thumb_tibor-brtfay-webumenia.png",
+            "description": "* 12.05.1922 Nitra – ✝ 03.10.2015 Bratislava autor koláží, monumentalista, medailér, kresliar, sochár, maliar",
+            "creator": "demo",
+            "creatorId": "2",
+            "created": 1465894696,
+            "licenseType": null,
+            "licenseAttribution": null,
+            "tags": null,
+            "attributes": {
+                "embed": "allowed"
+            }
+        },
+        "10": {
+            "name": "Ján Kulich - Webumenia",
+            "type": "webpage",
+            "src": "https://www.webumenia.sk/autor/5482",
+            "thumb": "2_1465894840_thumb_jn-kulich-webumenia.png",
+            "description": "* 31.12.1930 Zvolenská Slatina – ✝ 15.03.2015 Bratislava medailér, sochár, kresliar, pedagóg, portrétista, monumentalista",
+            "creator": "demo",
+            "creatorId": "2",
+            "created": 1465894840,
+            "licenseType": null,
+            "licenseAttribution": null,
+            "tags": null,
+            "attributes": {
+                "embed": "allowed"
+            }
+        },
+        "11": {
+            "name": "Ladislav Snopek - Webumenia",
+            "type": "webpage",
+            "src": "https://www.webumenia.sk/autor/9732",
+            "thumb": "2_1465894945_thumb_ladislav-snopek-webumenia.png",
+            "description": "* 10.12.1919 Mařatice – ✝ 04.10.2010 Bratislava sochár, pedagóg, medailér, monumentalista",
+            "creator": "demo",
+            "creatorId": "2",
+            "created": 1465894945,
+            "licenseType": null,
+            "licenseAttribution": null,
+            "tags": null,
+            "attributes": {
+                "embed": "allowed"
+            }
+        },
+        "14": {
+            "name": "Alexander Trizuljak - Webumenia",
+            "type": "webpage",
+            "src": "https://www.webumenia.sk/autor/11013",
+            "thumb": "2_1465895288_thumb_alexander-trizuljak-webumenia.png",
+            "description": "* 15.05.1921 Varín – ✝ 15.10.1990 Bratislava monumentalista, sochár, pedagóg",
+            "creator": "demo",
+            "creatorId": "2",
+            "created": 1465895288,
+            "licenseType": null,
+            "licenseAttribution": null,
+            "tags": null,
+            "attributes": {
+                "embed": "allowed"
+            }
+        },
+        "15": {
+            "name": "Ján Svetlík - Webumenia",
+            "type": "webpage",
+            "src": "https://www.webumenia.sk/autor/1004139",
+            "thumb": "2_1465998797_thumb_jn-svetlk-webumenia.png",
+            "description": "* 01.02.1912 Hybe – ✝ 08.12.1997 Bratislava pedagóg, architekt, urbanista",
+            "creator": "demo",
+            "creatorId": "2",
+            "created": 1465998797,
+            "licenseType": null,
+            "licenseAttribution": null,
+            "tags": null,
+            "attributes": {
+                "embed": "allowed"
+            }
+        },
+        "16": {
+            "name": "Socialist Realism - Wikipedia",
+            "type": "wikipedia",
+            "src": "https://en.wikipedia.org/wiki/Socialist_realism",
+            "thumb": "2_1465999169_thumb_socialist-realism-wikipedia.png",
+            "description": null,
+            "creator": "demo",
+            "creatorId": "2",
+            "created": 1465999169,
+            "licenseType": null,
+            "licenseAttribution": null,
+            "tags": null,
+            "attributes": {
+                "extract": "Socialist realism, also known as socrealism, is a style of idealized realistic art that was developed in the Soviet Union and was the official cultural doctrine in that country between 1932 and 1988, as well as in other socialist countries after World War II. The doctrine was first proclaimed by the First Congress of Soviet Writers in 1934 as approved as the only acceptable method for Soviet cultural production in all media.",
+                "extract_html": "<p><b>Socialist realism</b>, also known as <b>socrealism</b>, is a style of idealized realistic art that was developed in the Soviet Union and was the official cultural doctrine in that country between 1932 and 1988, as well as in other socialist countries after World War II. The doctrine was first proclaimed by the First Congress of Soviet Writers in 1934 as approved as the only acceptable method for Soviet cultural production in all media.</p>",
+                "description": "Soviet style of realistic art depicting communist values",
+                "articleUrl": "https://en.wikipedia.org/wiki/Socialist_realism",
+                "wikiLang": "en",
+                "dir": "ltr"
+            }
+        },
+        "17": {
+            "name": "1968 Invasion of Czechoslovakia - Wikipedia",
+            "type": "wikipedia",
+            "src": "https://en.wikipedia.org/wiki/Warsaw_Pact_invasion_of_Czechoslovakia",
+            "thumb": "2_1466000623_thumb_1968-invasion-of-czechoslovakia-wikipedia.png",
+            "description": null,
+            "creator": "demo",
+            "creatorId": "2",
+            "created": 1466000623,
+            "licenseType": null,
+            "licenseAttribution": null,
+            "tags": null,
+            "attributes": {
+                "extract": "On 20–21 August 1968, the Czechoslovak Socialist Republic was jointly invaded by four Warsaw Pact countries: the Soviet Union, the Polish People's Republic, the People's Republic of Bulgaria, and the Hungarian People's Republic. The invasion stopped Alexander Dubček's Prague Spring liberalisation reforms and strengthened the authoritarian wing of the Communist Party of Czechoslovakia (KSČ).",
+                "extract_html": "<p>On 20–21 August 1968, the Czechoslovak Socialist Republic was jointly invaded by four Warsaw Pact countries: the Soviet Union, the Polish People's Republic, the People's Republic of Bulgaria, and the Hungarian People's Republic. The invasion stopped Alexander Dubček's Prague Spring liberalisation reforms and strengthened the authoritarian wing of the Communist Party of Czechoslovakia (KSČ).</p>",
+                "description": "1968 invasion led by the Soviet Union",
+                "articleUrl": "https://en.wikipedia.org/wiki/Warsaw_Pact_invasion_of_Czechoslovakia",
+                "wikiLang": "en",
+                "dir": "ltr"
+            }
+        },
+        "18": {
+            "name": "Normalization of Czechoslovakia - Wikipedia",
+            "type": "wikipedia",
+            "src": "https://en.wikipedia.org/wiki/Normalization_(Czechoslovakia)",
+            "thumb": null,
+            "description": null,
+            "creator": "demo",
+            "creatorId": "2",
+            "created": 1466000704,
+            "licenseType": null,
+            "licenseAttribution": null,
+            "tags": null,
+            "attributes": {
+                "extract": "In the history of Czechoslovakia, normalization is a name commonly given to the period following the Warsaw Pact invasion of Czechoslovakia in August 1968 and up to the glasnost era of liberalization that began in the Soviet Union and its neighboring nations in 1987. It was characterized by the restoration of the conditions prevailing before the Prague Spring reform period led by the First Secretary Alexander Dubček of the Communist Party of Czechoslovakia (KSČ) earlier in 1968 and the subsequent preservation of the new status quo. Some historians date the period from the signing of the Moscow Protocol by Dubček and the other jailed Czechoslovak leaders on 26 August 1968, while others date it from the replacement of Dubček by Gustáv Husák on 17 April 1969, followed by the official normalization policies referred to as Husakism. The policy ended either with Husák's removal as leader of the Party on 17 December 1987, or with the beginning of the Velvet Revolution on 17 November 1989, which would see the resignation of the entire Communist Party leadership within a week and an end to Communist rule in Czechoslovakia.",
+                "extract_html": "<p>In the history of Czechoslovakia, <b>normalization</b> is a name commonly given to the period following the Warsaw Pact invasion of Czechoslovakia in August 1968 and up to the <i>glasnost</i> era of liberalization that began in the Soviet Union and its neighboring nations in 1987. It was characterized by the restoration of the conditions prevailing before the Prague Spring reform period led by the First Secretary Alexander Dubček of the Communist Party of Czechoslovakia (KSČ) earlier in 1968 and the subsequent preservation of the new <i>status quo</i>. Some historians date the period from the signing of the Moscow Protocol by Dubček and the other jailed Czechoslovak leaders on 26 August 1968, while others date it from the replacement of Dubček by Gustáv Husák on 17 April 1969, followed by the official normalization policies referred to as Husakism. The policy ended either with Husák's removal as leader of the Party on 17 December 1987, or with the beginning of the Velvet Revolution on 17 November 1989, which would see the resignation of the entire Communist Party leadership within a week and an end to Communist rule in Czechoslovakia.</p>",
+                "description": "Period of Czechoslovak history",
+                "articleUrl": "https://en.wikipedia.org/wiki/Normalization_(Czechoslovakia)",
+                "wikiLang": "en",
+                "dir": "ltr"
+            }
+        },
+        "19": {
+            "name": "Pribehy Umenia Page",
+            "type": "webpage",
+            "src": "https://pribehy.webumenia.sk/",
+            "thumb": "2_1466067123_thumb_pribehy-umenia-page.png",
+            "description": "Web umenia je on-line katalóg výtvarných diel zo zbierok slovenských galérií. Nájdete tu základné informácie o dielach, autoroch, články, videá a kolekcie.",
+            "creator": "demo",
+            "creatorId": "2",
+            "created": 1466067123,
+            "licenseType": null,
+            "licenseAttribution": null,
+            "tags": null,
+            "attributes": {
+                "embed": "allowed"
+            }
+        },
+        "20": {
+            "name": "History of the calvary church, Saint Mary on the snows",
+            "type": "urlpreview",
+            "src": "https://www.istropolitan.sk/2010/08/13/okypteny-kostol-historia-chramu-na-bratislavskej-kalvarii/",
+            "thumb": null,
+            "description": null,
+            "creator": "memb",
+            "creatorId": "3",
+            "created": 1466418291,
+            "licenseType": null,
+            "licenseAttribution": null,
+            "tags": null,
+            "attributes": {
+                "embed": "forbidden"
+            }
+        },
+        "21": {
+            "name": "webumenia - tumblr",
+            "type": "urlpreview",
+            "src": "https://webumenia.tumblr.com/post/134723316609/thirdorgan-eva-bedn%C3%A1%C5%99ov%C3%A1-czech-1937-1986",
+            "thumb": null,
+            "description": null,
+            "creator": "demo",
+            "creatorId": "2",
+            "created": 1466426670,
+            "licenseType": null,
+            "licenseAttribution": null,
+            "tags": null,
+            "attributes": {
+                "embed": "forbidden"
+            }
+        },
+        "22": {
+            "name": "Instructions Slavin",
+            "type": "image",
+            "src": "2_1466503142_instructions-slavin.jpg",
+            "thumb": "2_1466503142_thumb_instructions-slavin.png",
+            "description": null,
+            "creator": "demo",
+            "creatorId": "2",
+            "created": 1466503142,
+            "licenseType": null,
+            "licenseAttribution": null,
+            "tags": null,
+            "attributes": {}
+        },
+        "26": {
+            "name": "Instructions Overlay Slavin EN",
+            "type": "image",
+            "src": "2_1466609576_instructions-overlay-slavin-en.jpg",
+            "thumb": "2_1466609576_thumb_instructions-overlay-slavin-en.png",
+            "description": null,
+            "creator": "demo",
+            "creatorId": "2",
+            "created": 1466609576,
+            "licenseType": null,
+            "licenseAttribution": null,
+            "tags": null,
+            "attributes": {}
+        },
+        "27": {
+            "name": "Academy of Fine Arts and Design in Bratislava",
+            "type": "wikipedia",
+            "src": "https://en.wikipedia.org/wiki/Academy_of_Fine_Arts_and_Design_in_Bratislava",
+            "thumb": "3_1466615464_thumb_academy-of-fine-arts-and-design-in-bratislava.png",
+            "description": null,
+            "creator": "memb",
+            "creatorId": "3",
+            "created": 1466615464,
+            "licenseType": null,
+            "licenseAttribution": null,
+            "tags": null,
+            "attributes": {
+                "extract": "The Academy of Fine Arts and Design, Bratislava is an academy in Bratislava, Slovakia.",
+                "extract_html": "<p>The <b>Academy of Fine Arts and Design, Bratislava</b> is an academy in Bratislava, Slovakia.</p>",
+                "description": "Educational institution in Slovakia",
+                "articleUrl": "https://en.wikipedia.org/wiki/Academy_of_Fine_Arts_and_Design%2C_Bratislava",
+                "wikiLang": "en",
+                "dir": "ltr"
+            }
+        },
+        "28": {
+            "name": "Church of Our Lady of the Snows before 1959",
+            "type": "image",
+            "src": "3_1466616369_church-of-our-lady-of-the-snows-before-1959.jpg",
+            "thumb": "3_1466616369_thumb_church-of-our-lady-of-the-snows-before-1959.png",
+            "description": null,
+            "creator": "memb",
+            "creatorId": "3",
+            "created": 1466616369,
+            "licenseType": null,
+            "licenseAttribution": null,
+            "tags": null,
+            "attributes": {}
+        },
+        "29": {
+            "name": "Church of Our Lady of the Snows today",
+            "type": "image",
+            "src": "3_1466616495_church-of-our-lady-of-the-snows-today.jpg",
+            "thumb": "3_1466616495_thumb_church-of-our-lady-of-the-snows-today.png",
+            "description": null,
+            "creator": "memb",
+            "creatorId": "3",
+            "created": 1466616495,
+            "licenseType": null,
+            "licenseAttribution": null,
+            "tags": null,
+            "attributes": {}
+        },
+        "30": {
+            "name": "Modernism in arts",
+            "type": "wikipedia",
+            "src": "https://en.wikipedia.org/wiki/Modern_art",
+            "thumb": "3_1466616635_thumb_modernism-in-arts.png",
+            "description": null,
+            "creator": "memb",
+            "creatorId": "3",
+            "created": 1466616635,
+            "licenseType": null,
+            "licenseAttribution": null,
+            "tags": null,
+            "attributes": {
+                "extract": "Modern art includes artistic work produced during the period extending roughly from the 1860s to the 1970s, and denotes the styles and philosophies of the art produced during that era. The term is usually associated with art in which the traditions of the past have been thrown aside in a spirit of experimentation. Modern artists experimented with new ways of seeing and with fresh ideas about the nature of materials and functions of art. A tendency away from the narrative, which was characteristic of the traditional arts, toward abstraction is characteristic of much modern art. More recent artistic production is often called contemporary art or Postmodern art.",
+                "extract_html": "<p><b>Modern art</b> includes artistic work produced during the period extending roughly from the 1860s to the 1970s, and denotes the styles and philosophies of the art produced during that era. The term is usually associated with art in which the traditions of the past have been thrown aside in a spirit of experimentation. Modern artists experimented with new ways of seeing and with fresh ideas about the nature of materials and functions of art. A tendency away from the narrative, which was characteristic of the traditional arts, toward abstraction is characteristic of much modern art. More recent artistic production is often called contemporary art or Postmodern art.</p>",
+                "description": "Artistic period (1860s–1970s)",
+                "articleUrl": "https://en.wikipedia.org/wiki/Modern_art",
+                "wikiLang": "en",
+                "dir": "ltr"
+            }
+        },
+        "31": {
+            "name": "Castel Sant'Angelo, Rome",
+            "type": "wikipedia",
+            "src": "https://en.wikipedia.org/wiki/Castel_Sant%27Angelo",
+            "thumb": "3_1466616708_thumb_castel-santangelo-rome.png",
+            "description": null,
+            "creator": "memb",
+            "creatorId": "3",
+            "created": 1466616708,
+            "licenseType": null,
+            "licenseAttribution": null,
+            "tags": null,
+            "attributes": {
+                "extract": "Castel Sant'Angelo, also known as Mausoleum of Hadrian, is a towering rotunda in Parco Adriano, Rome, Italy. It was initially commissioned by the Roman Emperor Hadrian as a mausoleum for himself and his family. The popes later used the building as a fortress and castle, and it is now a museum. The structure was once the tallest building in Rome.",
+                "extract_html": "<p><b>Castel Sant'Angelo</b>, also known as <b>Mausoleum of Hadrian</b>, is a towering rotunda in Parco Adriano, Rome, Italy. It was initially commissioned by the Roman Emperor Hadrian as a mausoleum for himself and his family. The popes later used the building as a fortress and castle, and it is now a museum. The structure was once the tallest building in Rome.</p>",
+                "description": "Historic building in Rome, Italy",
+                "articleUrl": "https://en.wikipedia.org/wiki/Castel_Sant'Angelo",
+                "wikiLang": "en",
+                "dir": "ltr"
+            }
+        },
+        "32": {
+            "name": "Bronze statue of Michael the Archangel, standing on top of the Castel Sant'Angelo",
+            "type": "wikipedia",
+            "src": "https://en.wikipedia.org/wiki/Castel_Sant%27Angelo#/media/File:Angel_Van_Verschaffelt_SantAngelo.jpg",
+            "thumb": "3_1466616798_thumb_bronze-statue-of-michael-the-archangel-standing-on-top-of-the-castel-sa.png",
+            "description": null,
+            "creator": "memb",
+            "creatorId": "3",
+            "created": 1466616798,
+            "licenseType": null,
+            "licenseAttribution": null,
+            "tags": null,
+            "attributes": {
+                "extract": "Castel Sant'Angelo, also known as Mausoleum of Hadrian, is a towering rotunda in Parco Adriano, Rome, Italy. It was initially commissioned by the Roman Emperor Hadrian as a mausoleum for himself and his family. The popes later used the building as a fortress and castle, and it is now a museum. The structure was once the tallest building in Rome.",
+                "extract_html": "<p><b>Castel Sant'Angelo</b>, also known as <b>Mausoleum of Hadrian</b>, is a towering rotunda in Parco Adriano, Rome, Italy. It was initially commissioned by the Roman Emperor Hadrian as a mausoleum for himself and his family. The popes later used the building as a fortress and castle, and it is now a museum. The structure was once the tallest building in Rome.</p>",
+                "description": "Historic building in Rome, Italy",
+                "articleUrl": "https://en.wikipedia.org/wiki/Castel_Sant'Angelo",
+                "wikiLang": "en",
+                "dir": "ltr"
+            }
+        },
+        "33": {
+            "name": "Alexander Trizuljak - Víťazstvo (1959)",
+            "type": "webpage",
+            "src": "https://www.webumenia.sk/dielo/SVK:GMB.B_642?collection=24",
+            "thumb": "3_1466616948_thumb_alexander-trizuljak-vazstvo-1959.png",
+            "description": "sochárstvo, plastika, datovanie: 20. storočie, 2. polovica, 1959, miery: výška 111.0 cm ",
+            "creator": "memb",
+            "creatorId": "3",
+            "created": 1466616948,
+            "licenseType": null,
+            "licenseAttribution": null,
+            "tags": null,
+            "attributes": {
+                "embed": "allowed"
+            }
+        },
+        "34": {
+            "name": "Instructions Slavin Overlay (SK)",
+            "type": "image",
+            "src": "2_1466674539_instructions-slavin-overlay-sk.jpg",
+            "thumb": "2_1466674539_thumb_instructions-slavin-overlay-sk.png",
+            "description": null,
+            "creator": "demo",
+            "creatorId": "2",
+            "created": 1466674539,
+            "licenseType": null,
+            "licenseAttribution": null,
+            "tags": null,
+            "attributes": {}
+        },
+        "35": {
+            "name": "Instructions Slavin Overlay (EN)",
+            "type": "image",
+            "src": "2_1466674562_instructions-slavin-overlay-en.jpg",
+            "thumb": "2_1466674562_thumb_instructions-slavin-overlay-en.png",
+            "description": null,
+            "creator": "demo",
+            "creatorId": "2",
+            "created": 1466674562,
+            "licenseType": null,
+            "licenseAttribution": null,
+            "tags": null,
+            "attributes": {}
+        },
+        "36": {
+            "name": "Slovenské národné obrodenie",
+            "type": "wikipedia",
+            "src": "https://sk.wikipedia.org/wiki/Dejiny_Slovenska#Slovensk.C3.A9_n.C3.A1rodn.C3.A9_obrodenie",
+            "thumb": "4_1466679128_thumb_slovensk-nrodn-obrodenie.png",
+            "description": null,
+            "creator": "Slovenčina",
+            "creatorId": "4",
+            "created": 1466679128,
+            "licenseType": null,
+            "licenseAttribution": null,
+            "tags": null,
+            "attributes": {
+                "extract": "Tento článok je o dejinách Slovenska a Slovákov.",
+                "extract_html": "<p>Tento článok je o <b>dejinách Slovenska</b> a Slovákov.</p>",
+                "description": "aspekt histórie",
+                "articleUrl": "https://sk.wikipedia.org/wiki/Dejiny_Slovenska",
+                "wikiLang": "sk",
+                "dir": "ltr"
+            }
+        },
+        "37": {
+            "name": "Socialistický realizmus",
+            "type": "wikipedia",
+            "src": "https://sk.wikipedia.org/wiki/Socialistick%C3%BD_realizmus",
+            "thumb": "4_1466679323_thumb_socialistick-realizmus.png",
+            "description": null,
+            "creator": "Slovenčina",
+            "creatorId": "4",
+            "created": 1466679323,
+            "licenseType": null,
+            "licenseAttribution": null,
+            "tags": null,
+            "attributes": {
+                "extract": "Socialistický realizmus je umelecký smer a bol smerovaním oficiálneho umenia sovietskeho obdobia v ZSSR pred 2. svetovou vojnou a po nej a v krajinách strednej, juhovýchodnej a východnej Európy. Nadväzoval na proletárske umenie.",
+                "extract_html": "<p><b>Socialistický realizmus</b> je umelecký smer a bol smerovaním oficiálneho umenia sovietskeho obdobia v ZSSR pred 2. svetovou vojnou a po nej a v krajinách strednej, juhovýchodnej a východnej Európy. Nadväzoval na <span class=\"mw-disambig\">proletárske</span> umenie.</p>",
+                "description": "",
+                "articleUrl": "https://sk.wikipedia.org/wiki/Socialistick%C3%BD_realizmus",
+                "wikiLang": "sk",
+                "dir": "ltr"
+            }
+        },
+        "38": {
+            "name": "Socialistický realizmus (architektúra)",
+            "type": "wikipedia",
+            "src": "https://sk.wikipedia.org/wiki/Socialistick%C3%BD_realizmus_(architekt%C3%BAra)",
+            "thumb": null,
+            "description": null,
+            "creator": "Slovenčina",
+            "creatorId": "4",
+            "created": 1466679350,
+            "licenseType": null,
+            "licenseAttribution": null,
+            "tags": null,
+            "attributes": {
+                "extract": "Socialistický realizmus v architektúre je architektúra v období socialistického realizmu.",
+                "extract_html": "<p><b>Socialistický realizmus v architektúre</b> je architektúra v období socialistického realizmu.</p>",
+                "description": "",
+                "articleUrl": "https://sk.wikipedia.org/wiki/Socialistick%C3%BD_realizmus_(architekt%C3%BAra)",
+                "wikiLang": "sk",
+                "dir": "ltr"
+            }
+        },
+        "39": {
+            "name": "Februárový prevrat 1948",
+            "type": "wikipedia",
+            "src": "https://sk.wikipedia.org/wiki/Febru%C3%A1rov%C3%BD_prevrat",
+            "thumb": "4_1466679929_thumb_februrov-prevrat-1948.png",
+            "description": null,
+            "creator": "Slovenčina",
+            "creatorId": "4",
+            "created": 1466679929,
+            "licenseType": null,
+            "licenseAttribution": null,
+            "tags": null,
+            "attributes": {
+                "extract": "Februárový prevrat je názov komunistického prevratu v Česko-Slovensku, ktorý sa uskutočnil medzi 17. a 25. februárom 1948. Je vnímaný ako prechod od demokracie k totalite, pripojenie k sovietskemu mocenskému bloku, začiatok útlaku obyvateľstva a ekonomického úpadku. V období socializmu bol 25. február oslavovaný ako významný deň Česko-Slovenska.",
+                "extract_html": "<p><b>Februárový prevrat</b> je názov komunistického prevratu v Česko-Slovensku, ktorý sa uskutočnil medzi 17. a 25. februárom 1948. Je vnímaný ako prechod od demokracie k totalite, pripojenie k sovietskemu mocenskému bloku, začiatok útlaku obyvateľstva a ekonomického úpadku. V období socializmu bol 25. február oslavovaný ako <i>významný deň</i> Česko-Slovenska.</p>",
+                "description": "komunistický prevrat v Česko-Slovensku (17. február – 25. február 1948)",
+                "articleUrl": "https://sk.wikipedia.org/wiki/Febru%C3%A1rov%C3%BD_prevrat",
+                "wikiLang": "sk",
+                "dir": "ltr"
+            }
+        },
+        "40": {
+            "name": "Výtvarná moderna",
+            "type": "urlpreview",
+            "src": "https://www.nedbalka.sk/stala-expozicia/vytvarna-moderna",
+            "thumb": "4_1466680004_thumb_vtvarn-moderna.png",
+            "description": "V medzivojnovom období sa formovalo v podmienkach ustavičných zmien, ktoré existenčne zasahovali do života každého jednotlivca.",
+            "creator": "Slovenčina",
+            "creatorId": "4",
+            "created": 1466680004,
+            "licenseType": null,
+            "licenseAttribution": null,
+            "tags": null,
+            "attributes": {
+                "embed": "forbidden"
+            }
+        },
+        "41": {
+            "name": "Vpád vojsk Varšavskej zmluvy do Česko-Slovenska",
+            "type": "wikipedia",
+            "src": "https://sk.wikipedia.org/wiki/Vp%C3%A1d_vojsk_Var%C5%A1avskej_zmluvy_do_%C4%8Cesko-Slovenska",
+            "thumb": "4_1466680100_thumb_vpd-vojsk-varavskej-zmluvy-do-esko-slovenska.png",
+            "description": null,
+            "creator": "Slovenčina",
+            "creatorId": "4",
+            "created": 1466680100,
+            "licenseType": null,
+            "licenseAttribution": null,
+            "tags": null,
+            "attributes": {
+                "extract": "Vpád / invázia vojsk Varšavskej zmluvy do Česko-Slovenska, komunistickou stranou označovaný aj ako vstup spojeneckých vojsk, s krycím názvom: operácia Dunaj, bol vojenský vpád vojsk piatich socialistických krajín Varšavskej zmluvy na čele so Sovietskym zväzom, ktorý znamenal nasledovnú 23 ročnú vojenskú okupáciu československého územia, zastavenie a zvrátenie prebiehajúcich demokratizačných reforiem.",
+                "extract_html": "<p><b>Vpád / invázia vojsk Varšavskej zmluvy do Česko-Slovenska</b>, komunistickou stranou označovaný aj ako <b>vstup spojeneckých</b> <b>vojsk</b>, s krycím názvom: <b>operácia Dunaj</b>, bol vojenský vpád vojsk piatich socialistických krajín Varšavskej zmluvy na čele so Sovietskym zväzom, ktorý znamenal nasledovnú 23 ročnú vojenskú okupáciu československého územia, zastavenie a zvrátenie prebiehajúcich demokratizačných reforiem.</p>",
+                "description": "nepokoje v auguste 1968 v Česko-Slovensku",
+                "articleUrl": "https://sk.wikipedia.org/wiki/Vp%C3%A1d_vojsk_Var%C5%A1avskej_zmluvy_do_%C4%8Cesko-Slovenska",
+                "wikiLang": "sk",
+                "dir": "ltr"
+            }
+        },
+        "42": {
+            "name": "Normalizácia",
+            "type": "wikipedia",
+            "src": "https://sk.wikipedia.org/wiki/Normaliz%C3%A1cia_(%C4%8CSSR)",
+            "thumb": null,
+            "description": null,
+            "creator": "Slovenčina",
+            "creatorId": "4",
+            "created": 1466680147,
+            "licenseType": null,
+            "licenseAttribution": null,
+            "tags": null,
+            "attributes": {
+                "extract": "Normalizácia je v dejinách Česko-Slovenskav širšom zmysle historické obdobie od augusta 1968 do konca roka 1989,\nv užšom zmysle len likvidácia výsledkov Pražskej jari zakotvená v tzv. moskovskom protokole z augusta 1968 a vykonaná do 14. zjazdu KSČ v máji 1971.",
+                "extract_html": "<p><b>Normalizácia</b> je v dejinách Česko-Slovenska</p><ul><li>v širšom zmysle historické obdobie od augusta 1968 do konca roka 1989,</li>\n<li>v užšom zmysle len likvidácia výsledkov Pražskej jari zakotvená v tzv. moskovskom protokole z augusta 1968 a vykonaná do 14. zjazdu KSČ v máji 1971.</li></ul>",
+                "description": "",
+                "articleUrl": "https://sk.wikipedia.org/wiki/Normaliz%C3%A1cia_(%C4%8CSSR)",
+                "wikiLang": "sk",
+                "dir": "ltr"
+            }
+        },
+        "43": {
+            "name": "Vysoká škola výtvarných umení v Bratislave",
+            "type": "wikipedia",
+            "src": "https://sk.wikipedia.org/wiki/Vysok%C3%A1_%C5%A1kola_v%C3%BDtvarn%C3%BDch_umen%C3%AD_v_Bratislave",
+            "thumb": "4_1466680174_thumb_vysok-kola-vtvarnch-umen-v-bratislave.png",
+            "description": null,
+            "creator": "Slovenčina",
+            "creatorId": "4",
+            "created": 1466680174,
+            "licenseType": null,
+            "licenseAttribution": null,
+            "tags": null,
+            "attributes": {
+                "extract": "Vysoká škola výtvarných umení v Bratislave so sídlom v Bratislave je verejná vysoká škola, založená v roku 1949 zákonom č. 89/1949 Sb.n. SNR.",
+                "extract_html": "<p><b>Vysoká škola výtvarných umení v Bratislave</b> so sídlom v Bratislave je verejná vysoká škola, založená v roku 1949 zákonom č. 89/1949 Sb.n. SNR.</p>",
+                "description": "",
+                "articleUrl": "https://sk.wikipedia.org/wiki/Vysok%C3%A1_%C5%A1kola_v%C3%BDtvarn%C3%BDch_umen%C3%AD_v_Bratislave",
+                "wikiLang": "sk",
+                "dir": "ltr"
+            }
+        },
+        "44": {
+            "name": "Slavín (Praha, Vyšehrad)",
+            "type": "wikipedia",
+            "src": "https://sk.wikipedia.org/wiki/Slav%C3%ADn_(Praha)",
+            "thumb": "4_1466680402_thumb_slavn-praha-vyehrad.png",
+            "description": null,
+            "creator": "Slovenčina",
+            "creatorId": "4",
+            "created": 1466680402,
+            "licenseType": null,
+            "licenseAttribution": null,
+            "tags": null,
+            "attributes": {
+                "extract": "Slavín je ústredný objekt Vyšehradského cintorína, spoločná hrobka národných velikánov, v Prahe, v mestskej časti Vyšehrad.",
+                "extract_html": "<p><b>Slavín</b> je ústredný objekt Vyšehradského cintorína, spoločná hrobka národných velikánov, v Prahe, v mestskej časti Vyšehrad.</p>",
+                "description": "",
+                "articleUrl": "https://sk.wikipedia.org/wiki/Slav%C3%ADn_(Praha)",
+                "wikiLang": "sk",
+                "dir": "ltr"
+            }
+        },
+        "45": {
+            "name": "Socha Archanjela Michaela na Anjelskom hrade v Ríme",
+            "type": "wikipedia",
+            "src": "https://en.wikipedia.org/wiki/Castel_Sant%27Angelo#/media/File:Angel_Van_Verschaffelt_SantAngelo.jpg",
+            "thumb": "4_1466681087_thumb_socha-archanjela-michaela-na-anjelskom-hrade-v-rme.png",
+            "description": null,
+            "creator": "Slovenčina",
+            "creatorId": "4",
+            "created": 1466681087,
+            "licenseType": null,
+            "licenseAttribution": null,
+            "tags": null,
+            "attributes": {
+                "extract": "Castel Sant'Angelo, also known as Mausoleum of Hadrian, is a towering rotunda in Parco Adriano, Rome, Italy. It was initially commissioned by the Roman Emperor Hadrian as a mausoleum for himself and his family. The popes later used the building as a fortress and castle, and it is now a museum. The structure was once the tallest building in Rome.",
+                "extract_html": "<p><b>Castel Sant'Angelo</b>, also known as <b>Mausoleum of Hadrian</b>, is a towering rotunda in Parco Adriano, Rome, Italy. It was initially commissioned by the Roman Emperor Hadrian as a mausoleum for himself and his family. The popes later used the building as a fortress and castle, and it is now a museum. The structure was once the tallest building in Rome.</p>",
+                "description": "Historic building in Rome, Italy",
+                "articleUrl": "https://en.wikipedia.org/wiki/Castel_Sant'Angelo",
+                "wikiLang": "en",
+                "dir": "ltr"
+            }
+        },
+        "46": {
+            "name": "Socha Archanjela Michaela na Anjelskom hrade",
+            "type": "image",
+            "src": "https://commons.wikimedia.org/wiki/File:Angel_Van_Verschaffelt_SantAngelo.jpg#/media/File:Angel_Van_Verschaffelt_SantAngelo.jpg",
+            "thumb": "https://commons.wikimedia.org/wiki/File:Angel_Van_Verschaffelt_SantAngelo.jpg#/media/File:Angel_Van_Verschaffelt_SantAngelo.jpg",
+            "description": null,
+            "creator": "Slovenčina",
+            "creatorId": "4",
+            "created": 1466686182,
+            "licenseType": null,
+            "licenseAttribution": null,
+            "tags": null,
+            "attributes": {}
+        },
+        "47": {
+            "name": "Interviews",
+            "type": "webpage",
+            "src": "https://archive.org/embed/pribehy_umenia_slavin",
+            "thumb": "4_1466686483_thumb_interviews.png",
+            "description": "Výber z rozhovorov pre dokument Príbehy umenia - Slavín  o autorovi sochy vojaka na pylóne, Alexandrovi Trizuljakovi. Rozhovor s Evou Trizuljakovou...",
+            "creator": "Slovenčina",
+            "creatorId": "4",
+            "created": 1466686483,
+            "licenseType": null,
+            "licenseAttribution": null,
+            "tags": null,
+            "attributes": {
+                "embed": "allowed"
+            }
+        },
+        "48": {
+            "name": "Týždeň vo filme. 9/1958 [číslo filmového žurnálu]",
+            "type": "webpage",
+            "src": "https://www.skcinema.sk/arl-sfu/sk/detail-sfu_un_cat.0-065801-Tyzden-vo-filme-91958-cislo-filmoveho-zurnalu/?disprec=1&iset=22",
+            "thumb": "4_1467108311_thumb_tde-vo-filme-91958-slo-filmovho-urnlu.png",
+            "description": "Detail záznamu - Týždeň vo filme. 9/1958 [číslo filmového žurnálu] - Detailné zobrazenie záznamu - Slovenský filmový ústav  ",
+            "creator": "Slovenčina",
+            "creatorId": "4",
+            "created": 1467108311,
+            "licenseType": null,
+            "licenseAttribution": null,
+            "tags": null,
+            "attributes": {
+                "embed": "allowed"
+            }
+        },
+        "49": {
+            "name": "  Týždeň vo filme. 50/1958 [číslo filmového žurnálu]",
+            "type": "webpage",
+            "src": "https://www.skcinema.sk/arl-sfu/sk/detail-sfu_un_cat.0-065842-Tyzden-vo-filme-501958-cislo-filmoveho-zurnalu/?disprec=3&iset=19",
+            "thumb": "4_1467108330_thumb_tde-vo-filme-501958-slo-filmovho-urnlu.png",
+            "description": "Detail záznamu - Týždeň vo filme. 50/1958 [číslo filmového žurnálu] - Detailné zobrazenie záznamu - Slovenský filmový ústav  ",
+            "creator": "Slovenčina",
+            "creatorId": "4",
+            "created": 1467108330,
+            "licenseType": null,
+            "licenseAttribution": null,
+            "tags": null,
+            "attributes": {
+                "embed": "allowed"
+            }
+        },
+        "50": {
+            "name": "Slavín [dokumentárny film]",
+            "type": "webpage",
+            "src": "https://www.skcinema.sk/arl-sfu/sk/detail-sfu_un_cat.0-010380-Slavin-dokumentarny-film/?disprec=7&iset=25",
+            "thumb": "4_1467108365_thumb_slavn-dokumentrny-film.png",
+            "description": "Detail záznamu - Slavín [dokumentárny film] - Detailné zobrazenie záznamu - Slovenský filmový ústav  ",
+            "creator": "Slovenčina",
+            "creatorId": "4",
+            "created": 1467108365,
+            "licenseType": null,
+            "licenseAttribution": null,
+            "tags": null,
+            "attributes": {
+                "embed": "allowed"
+            }
+        },
+        "51": {
+            "name": "Pamätník Červenej armády Slavín ",
+            "type": "urlpreview",
+            "src": "https://www.register.ustarch.sav.sk/index.php/sk/objekty/362-pam%C3%A4tn%C3%ADk-%C4%8Dervenej-arm%C3%A1dy-slav%C3%ADn.html",
+            "thumb": null,
+            "description": null,
+            "creator": "Slovenčina",
+            "creatorId": "4",
+            "created": 1467108680,
+            "licenseType": null,
+            "licenseAttribution": null,
+            "tags": null,
+            "attributes": {
+                "embed": "forbidden"
+            }
+        },
+        "52": {
+            "name": "Archive Film Credits - SK Cinema",
+            "type": "webpage",
+            "src": "https://www.skcinema.sk/arl-sfu/en/detail-sfu_un_cat.0-065801-Tyzden-vo-filme-91958-cislo-filmoveho-zurnalu/?disprec=1&iset=22",
+            "thumb": "2_1467109838_thumb_archive-film-credits-sk-cinema.png",
+            "description": "Record detail - Týždeň vo filme. 9/1958 [číslo filmového žurnálu] - Detailed record view - Slovak Film Institute  ",
+            "creator": "English",
+            "creatorId": "2",
+            "created": 1467109838,
+            "licenseType": null,
+            "licenseAttribution": null,
+            "tags": null,
+            "attributes": {
+                "embed": "allowed"
+            }
+        },
+        "53": {
+            "name": "Týždeň vo filme. 9/1958",
+            "type": "webpage",
+            "src": "https://www.skcinema.sk/arl-sfu/en/detail/?zf=TF_UN_SFU_UF3_I&idx=sfu_un_cat-0*065801&iset=22&disprec=1",
+            "thumb": "4_1467109853_thumb_tde-vo-filme-91958.png",
+            "description": "Record detail - Týždeň vo filme. 9/1958 [číslo filmového žurnálu] - Detailed record view - Slovak Film Institute  ",
+            "creator": "Slovenčina",
+            "creatorId": "4",
+            "created": 1467109853,
+            "licenseType": null,
+            "licenseAttribution": null,
+            "tags": null,
+            "attributes": {
+                "embed": "allowed"
+            }
+        },
+        "54": {
+            "name": "Audio Interviews - Príbehy umenia - Slavín",
+            "type": "urlpreview",
+            "src": "https://pribehy.webumenia.sk/hyper-video/audio-interviews.html",
+            "thumb": null,
+            "description": null,
+            "creator": "English",
+            "creatorId": "2",
+            "created": 1467123012,
+            "licenseType": null,
+            "licenseAttribution": null,
+            "tags": null,
+            "attributes": {
+                "embed": "forbidden"
+            }
+        },
+        "55": {
+            "name": "Instructions Overlay Slavin SK HD",
+            "type": "image",
+            "src": "2_1467297467_instructions-overlay-slavin-sk-hd.jpg",
+            "thumb": "2_1467297467_thumb_instructions-overlay-slavin-sk-hd.png",
+            "description": null,
+            "creator": "English",
+            "creatorId": "2",
+            "created": 1467297467,
+            "licenseType": null,
+            "licenseAttribution": null,
+            "tags": null,
+            "attributes": {}
+        },
+        "56": {
+            "name": "Slavin SD",
+            "type": "video",
+            "src": "2_1468312905_slavin-sd.mp4",
+            "thumb": "2_1468312905_thumb_slavin-sd.png",
+            "description": null,
+            "creator": "English",
+            "creatorId": "2",
+            "created": 1468312905,
+            "licenseType": null,
+            "licenseAttribution": null,
+            "tags": null,
+            "attributes": {
+                "alternateVideoFile": "2_1468312905_slavin-sd.mp4"
+            }
+        }
+    }
+}

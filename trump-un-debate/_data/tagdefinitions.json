@@ -1,0 +1,122 @@
+{
+	"background": {
+		"en": {
+			"label": "Background Info",
+			"description": ""
+		},
+		"de": {
+			"label": "Hintergrund-Info",
+			"description": ""
+		}
+	},
+	"speaker": {
+		"en": {
+			"label": "Speaker Info",
+			"description": ""
+		},
+		"de": {
+			"label": "Sprecher-Info",
+			"description": ""
+		}
+	},
+	"factcheck": {
+		"en": {
+			"label": "Fact Check",
+			"description": ""
+		},
+		"de": {
+			"label": "Fact Check",
+			"description": ""
+		}
+	},
+	"comment": {
+		"en": {
+			"label": "Comment",
+			"description": ""
+		},
+		"de": {
+			"label": "Kommentar",
+			"description": ""
+		}
+	},
+	"news": {
+		"en": {
+			"label": "News Coverage",
+			"description": ""
+		},
+		"de": {
+			"label": "Berichterstattung",
+			"description": ""
+		}
+	},
+	"comedy": {
+		"en": {
+			"label": "Comedy",
+			"description": ""
+		},
+		"de": {
+			"label": "Comedy",
+			"description": ""
+		}
+	},
+	"opinion": {
+		"en": {
+			"label": "Opinion",
+			"description": ""
+		},
+		"de": {
+			"label": "Meinung",
+			"description": ""
+		}
+	},
+	"article": {
+		"en": {
+			"label": "Article",
+			"description": ""
+		},
+		"de": {
+			"label": "Artikel",
+			"description": ""
+		}
+	},
+	"tvshow": {
+		"en": {
+			"label": "TV Show",
+			"description": ""
+		},
+		"de": {
+			"label": "TV Show",
+			"description": ""
+		}
+	},
+	"proargument": {
+		"en": {
+			"label": "Pro Argument",
+			"description": ""
+		},
+		"de": {
+			"label": "Pro Argument",
+			"description": ""
+		}
+	},
+	"contraargument": {
+		"en": {
+			"label": "Contra Argument",
+			"description": ""
+		},
+		"de": {
+			"label": "Kontra Argument",
+			"description": ""
+		}
+	},
+	"originalsource": {
+		"en": {
+			"label": "Original Source",
+			"description": ""
+		},
+		"de": {
+			"label": "Originalquelle",
+			"description": ""
+		}
+	}
+}

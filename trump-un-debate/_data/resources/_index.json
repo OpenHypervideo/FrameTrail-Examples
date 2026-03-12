@@ -1,0 +1,781 @@
+{
+    "resources-increment": 51,
+    "resources": {
+        "2": {
+            "name": "Trump UN Speech",
+            "type": "video",
+            "src": "2_1508493392_trump-un-speech.mp4",
+            "thumb": "2_1508493392_thumb_trump-un-speech.png",
+            "description": null,
+            "creator": "demo",
+            "creatorId": "2",
+            "created": 1508493392,
+            "licenseType": null,
+            "licenseAttribution": null,
+            "tags": null,
+            "attributes": {}
+        },
+        "5": {
+            "name": "Kim Jong Un: ‘Deranged’ Trump will ‘pay dearly’ for threat",
+            "type": "urlpreview",
+            "src": "https://apnews.com/ba782bb4314f40b281a995d9456a4530/Kim-Jong-Un:-'Deranged'-Trump-will-'pay-dearly'-for-threat",
+            "thumb": null,
+            "description": null,
+            "creator": "demo",
+            "creatorId": "2",
+            "created": 1508698624,
+            "licenseType": null,
+            "licenseAttribution": null,
+            "tags": null,
+            "attributes": {
+                "embed": "forbidden"
+            }
+        },
+        "6": {
+            "name": "Month-to-month increase in employment, 2011-2017",
+            "type": "webpage",
+            "src": "https://e.infogram.com/fefd6358-12f6-47ff-8f6f-a4e38131f061?src=embed",
+            "thumb": null,
+            "description": null,
+            "creator": "demo",
+            "creatorId": "2",
+            "created": 1508698813,
+            "licenseType": null,
+            "licenseAttribution": null,
+            "tags": null,
+            "attributes": {
+                "embed": "allowed"
+            }
+        },
+        "7": {
+            "name": "Total employment gains,  February to August,   2011-2017",
+            "type": "webpage",
+            "src": "https://e.infogram.com/5a0e3e1a-5875-402d-b298-a85bb91b9fa0?src=embed",
+            "thumb": null,
+            "description": null,
+            "creator": "demo",
+            "creatorId": "2",
+            "created": 1508698892,
+            "licenseType": null,
+            "licenseAttribution": null,
+            "tags": null,
+            "attributes": {
+                "embed": "allowed"
+            }
+        },
+        "9": {
+            "name": "President Trump’s claim that 10 refugees overseas cost as much as one in the U.S.",
+            "type": "urlpreview",
+            "src": "https://www.washingtonpost.com/news/fact-checker/wp/2017/09/22/president-trumps-claim-that-10-refugees-overseas-cost-as-much-as-one-in-the-u-s/?utm_term=.7e0a0715223a",
+            "thumb": null,
+            "description": null,
+            "creator": "demo",
+            "creatorId": "2",
+            "created": 1508699101,
+            "licenseType": null,
+            "licenseAttribution": null,
+            "tags": null,
+            "attributes": {
+                "embed": "forbidden"
+            }
+        },
+        "10": {
+            "name": " Labor Force Statistics from the Current Population Survey",
+            "type": "urlpreview",
+            "src": "https://data.bls.gov/timeseries/LNS14000000",
+            "thumb": "https://www.bls.gov/images/bls_emblem_2016.png",
+            "description": null,
+            "creator": "demo",
+            "creatorId": "2",
+            "created": 1508699174,
+            "licenseType": null,
+            "licenseAttribution": null,
+            "tags": null,
+            "attributes": {
+                "embed": "forbidden"
+            }
+        },
+        "11": {
+            "name": " Employment, Hours, and Earnings from the Current Employment Statistics survey (National)",
+            "type": "urlpreview",
+            "src": "https://data.bls.gov/timeseries/CES0000000001",
+            "thumb": "https://www.bls.gov/images/bls_emblem_2016.png",
+            "description": null,
+            "creator": "demo",
+            "creatorId": "2",
+            "created": 1508699199,
+            "licenseType": null,
+            "licenseAttribution": null,
+            "tags": null,
+            "attributes": {
+                "embed": "forbidden"
+            }
+        },
+        "12": {
+            "name": "Dow Closes at New All-Time High, Beating 2007 Record",
+            "type": "webpage",
+            "src": "https://web.archive.org/web/20130309145235/http://www.dailyfinance.com/2013/03/05/dow-jones-industrial-new-record-high/",
+            "thumb": "2_1508699307_thumb_dow-closes-at-new-all-time-high-beating-2007-record.png",
+            "description": "The Dow is closing at a record, beating the previous high it set in October 2007, before the financial crisis and the Great Recession. The Dow Jones industrial average rose 126 points, or 1 percent, to 14,253 Tuesday, beating its previous record by 89 points.",
+            "creator": "demo",
+            "creatorId": "2",
+            "created": 1508699307,
+            "licenseType": null,
+            "licenseAttribution": null,
+            "tags": null,
+            "attributes": {
+                "embed": "allowed"
+            }
+        },
+        "13": {
+            "name": "U.S. and World Population Clock",
+            "type": "urlpreview",
+            "src": "https://www.census.gov/popclock/",
+            "thumb": null,
+            "description": null,
+            "creator": "demo",
+            "creatorId": "2",
+            "created": 1508699405,
+            "licenseType": null,
+            "licenseAttribution": null,
+            "tags": null,
+            "attributes": {
+                "embed": "forbidden"
+            }
+        },
+        "14": {
+            "name": "Islamic State Territory Down 60 Percent and Revenue Down 80 Percent on Caliphate’s Third Anniversary, IHS Markit Says",
+            "type": "urlpreview",
+            "src": "https://news.ihsmarkit.com/press-release/aerospace-defense-security/islamic-state-territory-down-60-percent-and-revenue-down-80",
+            "thumb": null,
+            "description": null,
+            "creator": "demo",
+            "creatorId": "2",
+            "created": 1508699445,
+            "licenseType": null,
+            "licenseAttribution": null,
+            "tags": null,
+            "attributes": {
+                "embed": "forbidden"
+            }
+        },
+        "15": {
+            "name": "Senate backs bill to pump $700 billion into military",
+            "type": "urlpreview",
+            "src": "https://www.chicagotribune.com/news/nationworld/ct-defense-policy-bill-20170918-story.html",
+            "thumb": null,
+            "description": null,
+            "creator": "demo",
+            "creatorId": "2",
+            "created": 1508699509,
+            "licenseType": null,
+            "licenseAttribution": null,
+            "tags": null,
+            "attributes": {
+                "embed": "forbidden"
+            }
+        },
+        "16": {
+            "name": "Senate passes $700B defense bill",
+            "type": "urlpreview",
+            "src": "https://thehill.com/policy/defense/351265-senate-passes-700b-defense-bill",
+            "thumb": null,
+            "description": null,
+            "creator": "demo",
+            "creatorId": "2",
+            "created": 1508699541,
+            "licenseType": null,
+            "licenseAttribution": null,
+            "tags": null,
+            "attributes": {
+                "embed": "forbidden"
+            }
+        },
+        "17": {
+            "name": "Senate Passes $700 Billion Pentagon Bill",
+            "type": "urlpreview",
+            "src": "https://www.nytimes.com/2017/09/18/us/politics/senate-pentagon-spending-bill.html?mcubz=1",
+            "thumb": null,
+            "description": null,
+            "creator": "demo",
+            "creatorId": "2",
+            "created": 1508701995,
+            "licenseType": null,
+            "licenseAttribution": null,
+            "tags": null,
+            "attributes": {
+                "embed": "forbidden"
+            }
+        },
+        "19": {
+            "name": " Official Development Assistance 2016",
+            "type": "webpage",
+            "src": "https://www.compareyourcountry.org/oda?cr=20001&lg=en&page=0",
+            "thumb": null,
+            "description": null,
+            "creator": "demo",
+            "creatorId": "2",
+            "created": 1508702225,
+            "licenseType": null,
+            "licenseAttribution": null,
+            "tags": null,
+            "attributes": {
+                "embed": "allowed"
+            }
+        },
+        "20": {
+            "name": "IMF: Report for Selected Countries and Subjects",
+            "type": "urlpreview",
+            "src": "https://www.imf.org/external/pubs/ft/weo/2017/01/weodata/weorept.aspx?pr.x=32&pr.y=19&sy=2015&ey=2016&scsm=1&ssd=1&sort=country&ds=.&br=1&c=512%2C672%2C914%2C946%2C612%2C137%2C614%2C546%2C311%2C962%2C213%2C674%2C911%2C676%2C193%2C548%2C122%2C556%2C912%2C678%2C313%2C181%2C419%2C867%2C513%2C682%2C316%2C684%2C913%2C273%2C124%2C868%2C339%2C921%2C638%2C948%2C514%2C943%2C218%2C686%2C963%2C688%2C616%2C518%2C223%2C728%2C516%2C558%2C918%2C138%2C748%2C196%2C618%2C278%2C624%2C692%2C522%2C694%2C622%2C142%2C156%2C449%2C626%2C564%2C628%2C565%2C228%2C283%2C924%2C853%2C233%2C288%2C632%2C293%2C636%2C566%2C634%2C964%2C238%2C182%2C662%2C359%2C960%2C453%2C423%2C968%2C935%2C922%2C128%2C714%2C611%2C862%2C321%2C135%2C243%2C716%2C248%2C456%2C469%2C722%2C253%2C942%2C642%2C718%2C643%2C724%2C939%2C576%2C644%2C936%2C819%2C961%2C172%2C813%2C132%2C199%2C646%2C733%2C648%2C184%2C915%2C524%2C134%2C361%2C652%2C362%2C174%2C364%2C328%2C732%2C258%2C366%2C656%2C734%2C654%2C144%2C336%2C146%2C263%2C463%2C268%2C528%2C532%2C923%2C944%2C738%2C176%2C578%2C534%2C537%2C536%2C742%2C429%2C866%2C433%2C369%2C178%2C744%2C436%2C186%2C136%2C925%2C343%2C869%2C158%2C746%2C439%2C926%2C916%2C466%2C664%2C112%2C826%2C111%2C542%2C298%2C967%2C927%2C443%2C846%2C917%2C299%2C544%2C582%2C941%2C474%2C446%2C754%2C666%2C698%2C668&s=NGDPD&grp=0&a=",
+            "thumb": null,
+            "description": null,
+            "creator": "demo",
+            "creatorId": "2",
+            "created": 1508702315,
+            "licenseType": null,
+            "licenseAttribution": null,
+            "tags": null,
+            "attributes": {
+                "embed": "forbidden"
+            }
+        },
+        "21": {
+            "name": "Dow Jones Industrial Average hits 17,000 for first time",
+            "type": "urlpreview",
+            "src": "https://www.bbc.com/news/world-28134342",
+            "thumb": "2_1508702482_thumb_dow-jones-industrial-average-hits-17000-for-first-time.png",
+            "description": "The Dow Jones Industrial Average - a US stock index made up of some of the biggest global firms - closes above 17,000 for the first time.",
+            "creator": "demo",
+            "creatorId": "2",
+            "created": 1508702482,
+            "licenseType": null,
+            "licenseAttribution": null,
+            "tags": null,
+            "attributes": {
+                "embed": "forbidden"
+            }
+        },
+        "22": {
+            "name": "Trump's UN Speech Advocates For Both Peace And Nuclear War",
+            "type": "youtube",
+            "src": "https://www.youtube.com/embed/nmwDV_DOlFg",
+            "thumb": "https://img.youtube.com/vi/nmwDV_DOlFg/hqdefault.jpg",
+            "description": null,
+            "creator": "demo",
+            "creatorId": "2",
+            "created": 1508702791,
+            "licenseType": null,
+            "licenseAttribution": null,
+            "tags": null,
+            "attributes": {}
+        },
+        "23": {
+            "name": "Fact Checking Trump's Speech To The UN General Assembly",
+            "type": "youtube",
+            "src": "https://www.youtube.com/embed/gG2I7h_C778",
+            "thumb": "https://img.youtube.com/vi/gG2I7h_C778/hqdefault.jpg",
+            "description": null,
+            "creator": "demo",
+            "creatorId": "2",
+            "created": 1508924386,
+            "licenseType": null,
+            "licenseAttribution": null,
+            "tags": null,
+            "attributes": {}
+        },
+        "24": {
+            "name": "What to expect from Trump's debut speech at UN General Assembly",
+            "type": "youtube",
+            "src": "https://www.youtube.com/embed/_Q5kYHWmnLY",
+            "thumb": "https://img.youtube.com/vi/_Q5kYHWmnLY/hqdefault.jpg",
+            "description": null,
+            "creator": "demo",
+            "creatorId": "2",
+            "created": 1508924424,
+            "licenseType": null,
+            "licenseAttribution": null,
+            "tags": null,
+            "attributes": {}
+        },
+        "25": {
+            "name": "President Donald Trump Denounces North Korea In UN Speech",
+            "type": "youtube",
+            "src": "https://www.youtube.com/embed/0ZDowQMviic",
+            "thumb": "https://img.youtube.com/vi/0ZDowQMviic/hqdefault.jpg",
+            "description": null,
+            "creator": "demo",
+            "creatorId": "2",
+            "created": 1508924476,
+            "licenseType": null,
+            "licenseAttribution": null,
+            "tags": null,
+            "attributes": {}
+        },
+        "26": {
+            "name": "Trump calls for UN reforms",
+            "type": "youtube",
+            "src": "https://www.youtube.com/embed/RuO-md5Rf_I",
+            "thumb": "https://img.youtube.com/vi/RuO-md5Rf_I/hqdefault.jpg",
+            "description": null,
+            "creator": "demo",
+            "creatorId": "2",
+            "created": 1508924511,
+            "licenseType": null,
+            "licenseAttribution": null,
+            "tags": null,
+            "attributes": {}
+        },
+        "27": {
+            "name": "Susan Rice On President Donald Trump's UN Speech",
+            "type": "youtube",
+            "src": "https://www.youtube.com/embed/Ta3NxJOFAZw",
+            "thumb": "https://img.youtube.com/vi/Ta3NxJOFAZw/hqdefault.jpg",
+            "description": null,
+            "creator": "demo",
+            "creatorId": "2",
+            "created": 1508924544,
+            "licenseType": null,
+            "licenseAttribution": null,
+            "tags": null,
+            "attributes": {}
+        },
+        "28": {
+            "name": "Lawrence: Why Donald Trump's UN Speech Worst, Most Dangerous In History",
+            "type": "youtube",
+            "src": "https://www.youtube.com/embed/vt2ORDIJTh8",
+            "thumb": "https://img.youtube.com/vi/vt2ORDIJTh8/hqdefault.jpg",
+            "description": null,
+            "creator": "demo",
+            "creatorId": "2",
+            "created": 1508924668,
+            "licenseType": null,
+            "licenseAttribution": null,
+            "tags": null,
+            "attributes": {}
+        },
+        "29": {
+            "name": "Netanyahu applauds Trump's 'brave and clear' UN speech",
+            "type": "youtube",
+            "src": "https://www.youtube.com/embed/Tgazik2bMik",
+            "thumb": "https://img.youtube.com/vi/Tgazik2bMik/hqdefault.jpg",
+            "description": null,
+            "creator": "demo",
+            "creatorId": "2",
+            "created": 1508924715,
+            "licenseType": null,
+            "licenseAttribution": null,
+            "tags": null,
+            "attributes": {}
+        },
+        "30": {
+            "name": "Analysis of Pres. Trump’s UN Speech",
+            "type": "youtube",
+            "src": "https://www.youtube.com/embed/FECicy0VsB8",
+            "thumb": "https://img.youtube.com/vi/FECicy0VsB8/hqdefault.jpg",
+            "description": null,
+            "creator": "demo",
+            "creatorId": "2",
+            "created": 1508924759,
+            "licenseType": null,
+            "licenseAttribution": null,
+            "tags": null,
+            "attributes": {}
+        },
+        "31": {
+            "name": "Trump's 'Rocket Man' comment takes off",
+            "type": "youtube",
+            "src": "https://www.youtube.com/embed/7GfkO_wKNuc",
+            "thumb": "https://img.youtube.com/vi/7GfkO_wKNuc/hqdefault.jpg",
+            "description": null,
+            "creator": "demo",
+            "creatorId": "2",
+            "created": 1508925774,
+            "licenseType": null,
+            "licenseAttribution": null,
+            "tags": null,
+            "attributes": {}
+        },
+        "32": {
+            "name": "Donald Trump",
+            "type": "wikipedia",
+            "src": "https://en.wikipedia.org/wiki/Donald_Trump",
+            "thumb": "2_1508926210_thumb_donald-trump.png",
+            "description": null,
+            "creator": "demo",
+            "creatorId": "2",
+            "created": 1508926210,
+            "licenseType": null,
+            "licenseAttribution": null,
+            "tags": null,
+            "attributes": {
+                "extract": "Donald John Trump is an American politician, media personality, and businessman who is the 47th president of the United States. A member of the Republican Party, he served as the 45th president from 2017 to 2021.",
+                "extract_html": "<p><b>Donald John Trump</b> is an American politician, media personality, and businessman who is the 47th president of the United States. A member of the Republican Party, he served as the 45th president from 2017 to 2021.</p>",
+                "description": "President of the United States (2017–2021; since 2025)",
+                "articleUrl": "https://en.wikipedia.org/wiki/Donald_Trump",
+                "wikiLang": "en",
+                "dir": "ltr"
+            }
+        },
+        "33": {
+            "name": "Kim Jong-un",
+            "type": "wikipedia",
+            "src": "https://en.wikipedia.org/wiki/Kim_Jong-un",
+            "thumb": "2_1508926232_thumb_kim-jong-un.png",
+            "description": null,
+            "creator": "demo",
+            "creatorId": "2",
+            "created": 1508926232,
+            "licenseType": null,
+            "licenseAttribution": null,
+            "tags": null,
+            "attributes": {
+                "extract": "Kim Jong Un is a North Korean politician who serves as both the general secretary of the Workers' Party of Korea (WPK) and the president of the State Affairs Commission. A member of the Kim family, he is the third supreme leader of North Korea, as well as the fifth child of Kim Jong Il, his predecessor as supreme leader, and a grandson of Kim Il Sung, the founder of North Korea.",
+                "extract_html": "<p><b>Kim Jong Un</b> is a North Korean politician who serves as both the general secretary of the Workers' Party of Korea (WPK) and the president of the State Affairs Commission. A member of the Kim family, he is the third supreme leader of North Korea, as well as the fifth child of Kim Jong Il, his predecessor as supreme leader, and a grandson of Kim Il Sung, the founder of North Korea.</p>",
+                "description": "Leader of North Korea since 2011",
+                "articleUrl": "https://en.wikipedia.org/wiki/Kim_Jong_Un",
+                "wikiLang": "en",
+                "dir": "ltr"
+            }
+        },
+        "34": {
+            "name": "UN General Assembly",
+            "type": "urlpreview",
+            "src": "https://www.un.org/en/ga/",
+            "thumb": null,
+            "description": null,
+            "creator": "demo",
+            "creatorId": "2",
+            "created": 1508926290,
+            "licenseType": null,
+            "licenseAttribution": null,
+            "tags": null,
+            "attributes": {
+                "embed": "forbidden"
+            }
+        },
+        "35": {
+            "name": "UN General Assembly",
+            "type": "wikipedia",
+            "src": "https://en.wikipedia.org/wiki/United_Nations_General_Assembly",
+            "thumb": "2_1508926314_thumb_un-general-assembly.png",
+            "description": null,
+            "creator": "demo",
+            "creatorId": "2",
+            "created": 1508926314,
+            "licenseType": null,
+            "licenseAttribution": null,
+            "tags": null,
+            "attributes": {
+                "extract": "The United Nations General Assembly is one of the six principal organs of the United Nations (UN), serving as its main deliberative, policymaking, and representative organ. Currently in its 80th session, its powers, composition, functions, and procedures are set out in Chapter IV of the United Nations Charter.",
+                "extract_html": "<p>The <b>United Nations General Assembly</b> is one of the six principal organs of the United Nations (UN), serving as its main deliberative, policymaking, and representative organ. Currently in its 80th session, its powers, composition, functions, and procedures are set out in Chapter IV of the United Nations Charter.</p>",
+                "description": "One of the six principal organs of the UN",
+                "articleUrl": "https://en.wikipedia.org/wiki/United_Nations_General_Assembly",
+                "wikiLang": "en",
+                "dir": "ltr"
+            }
+        },
+        "36": {
+            "name": "Functions and powers of the General Assembly",
+            "type": "urlpreview",
+            "src": "https://www.un.org/en/ga/about/background.shtml",
+            "thumb": null,
+            "description": null,
+            "creator": "demo",
+            "creatorId": "2",
+            "created": 1508926701,
+            "licenseType": null,
+            "licenseAttribution": null,
+            "tags": null,
+            "attributes": {
+                "embed": "forbidden"
+            }
+        },
+        "37": {
+            "name": "President UN General Assembly",
+            "type": "wikipedia",
+            "src": "https://en.wikipedia.org/wiki/Miroslav_Laj%C4%8D%C3%A1k",
+            "thumb": "2_1508926928_thumb_president-un-general-assembly.png",
+            "description": null,
+            "creator": "demo",
+            "creatorId": "2",
+            "created": 1508926928,
+            "licenseType": null,
+            "licenseAttribution": null,
+            "tags": null,
+            "attributes": {
+                "extract": "Miroslav Lajčák  is a Slovak politician and diplomat who held the office of Minister of Foreign Affairs of the Slovak Republic from 2009 to 2010 and again from 2012 to 2020, serving across three different governments led by Robert Fico and one government led by Peter Pellegrini. In addition, Lajčák also served as President of the United Nations General Assembly for the 72nd session from 2017 until 2018.",
+                "extract_html": "<p><b>Miroslav Lajčák </b> is a Slovak politician and diplomat who held the office of Minister of Foreign Affairs of the Slovak Republic from 2009 to 2010 and again from 2012 to 2020, serving across three different governments led by Robert Fico and one government led by Peter Pellegrini. In addition, Lajčák also served as President of the United Nations General Assembly for the 72nd session from 2017 until 2018.</p>",
+                "description": "Slovak politician and diplomat (born 1963)",
+                "articleUrl": "https://en.wikipedia.org/wiki/Miroslav_Laj%C4%8D%C3%A1k",
+                "wikiLang": "en",
+                "dir": "ltr"
+            }
+        },
+        "38": {
+            "name": "North Korea",
+            "type": "wikipedia",
+            "src": "https://en.wikipedia.org/wiki/North_Korea",
+            "thumb": "2_1508929957_thumb_north-korea.png",
+            "description": null,
+            "creator": "demo",
+            "creatorId": "2",
+            "created": 1508929957,
+            "licenseType": null,
+            "licenseAttribution": null,
+            "tags": null,
+            "attributes": {
+                "extract": "North Korea, officially the Democratic People's Republic of Korea (DPRK), is a country in East Asia. It constitutes the northern half of the Korean Peninsula and borders China and Russia to the north at the Yalu (Amnok) and Tumen rivers, and South Korea to the south at the Korean Demilitarized Zone (DMZ). The country's western border is formed by the Yellow Sea, while its eastern border is defined by the Sea of Japan. North Korea claimed to be the sole legitimate government of the Korean Peninsula and adjacent islands until 2024, when it abandoned the Korean unification plan and designated South Korea as a hostile country. Pyongyang is the capital and largest city.",
+                "extract_html": "<p><b>North Korea</b>, officially the <b>Democratic People's Republic of Korea</b> (<b>DPRK</b>), is a country in East Asia. It constitutes the northern half of the Korean Peninsula and borders China and Russia to the north at the Yalu (Amnok) and Tumen rivers, and South Korea to the south at the Korean Demilitarized Zone (DMZ). The country's western border is formed by the Yellow Sea, while its eastern border is defined by the Sea of Japan. North Korea claimed to be the sole legitimate government of the Korean Peninsula and adjacent islands until 2024, when it abandoned the Korean unification plan and designated South Korea as a hostile country. Pyongyang is the capital and largest city.</p>",
+                "description": "Country in East Asia",
+                "articleUrl": "https://en.wikipedia.org/wiki/North_Korea",
+                "wikiLang": "en",
+                "dir": "ltr"
+            }
+        },
+        "39": {
+            "name": "Iran",
+            "type": "wikipedia",
+            "src": "https://en.wikipedia.org/wiki/Iran",
+            "thumb": "2_1508930005_thumb_iran.png",
+            "description": null,
+            "creator": "demo",
+            "creatorId": "2",
+            "created": 1508930005,
+            "licenseType": null,
+            "licenseAttribution": null,
+            "tags": null,
+            "attributes": {
+                "extract": "Iran, officially the Islamic Republic of Iran, and also known as Persia, is a country in West Asia. It borders Iraq to the west, Turkey, Azerbaijan, and Armenia to the northwest, the Caspian Sea to the north, Turkmenistan to the northeast, Afghanistan to the east, Pakistan to the southeast, and the Gulf of Oman and the Persian Gulf to the south. With a population of over 92 million, Iran ranks 17th globally in both geographic size and population and is the sixth-largest country in Asia. It is divided into five regions with 31 provinces. Tehran is the nation's capital, largest city, and financial center.",
+                "extract_html": "<p><b>Iran</b>, officially the <b>Islamic Republic of Iran</b>, and also known as <b>Persia</b>, is a country in West Asia. It borders Iraq to the west, Turkey, Azerbaijan, and Armenia to the northwest, the Caspian Sea to the north, Turkmenistan to the northeast, Afghanistan to the east, Pakistan to the southeast, and the Gulf of Oman and the Persian Gulf to the south. With a population of over 92 million, Iran ranks 17th globally in both geographic size and population and is the sixth-largest country in Asia. It is divided into five regions with 31 provinces. Tehran is the nation's capital, largest city, and financial center.</p>",
+                "description": "Country in West Asia",
+                "articleUrl": "https://en.wikipedia.org/wiki/Iran",
+                "wikiLang": "en",
+                "dir": "ltr"
+            }
+        },
+        "40": {
+            "name": "Otto Warmbier",
+            "type": "wikipedia",
+            "src": "https://en.wikipedia.org/wiki/Otto_Warmbier",
+            "thumb": "2_1508930050_thumb_otto-warmbier.png",
+            "description": null,
+            "creator": "demo",
+            "creatorId": "2",
+            "created": 1508930050,
+            "licenseType": null,
+            "licenseAttribution": null,
+            "tags": null,
+            "attributes": {
+                "extract": "Otto Frederick Warmbier was an American college student who was imprisoned in North Korea in 2016 on a charge of subversion. In June 2017, he was released by North Korea in a vegetative state and died soon after his parents requested his feeding tube be removed.",
+                "extract_html": "<p><b>Otto Frederick Warmbier</b> was an American college student who was imprisoned in North Korea in 2016 on a charge of subversion. In June 2017, he was released by North Korea in a vegetative state and died soon after his parents requested his feeding tube be removed.</p>",
+                "description": "American imprisoned in North Korea (1994–2017)",
+                "articleUrl": "https://en.wikipedia.org/wiki/Otto_Warmbier",
+                "wikiLang": "en",
+                "dir": "ltr"
+            }
+        },
+        "41": {
+            "name": "Marshall Plan",
+            "type": "wikipedia",
+            "src": "https://en.wikipedia.org/wiki/Marshall_Plan",
+            "thumb": "2_1508930197_thumb_marshall-plan.png",
+            "description": null,
+            "creator": "demo",
+            "creatorId": "2",
+            "created": 1508930197,
+            "licenseType": null,
+            "licenseAttribution": null,
+            "tags": null,
+            "attributes": {
+                "extract": "The Marshall Plan was an American initiative enacted in 1948 to provide foreign aid to Western Europe. The United States transferred $13.3 billion in economic recovery programs to Western European economies after the end of World War II in Europe. Replacing an earlier proposal for a Morgenthau Plan, it operated for four years beginning on April 3, 1948, though in 1951, the Marshall Plan was largely replaced by the Mutual Security Act. The goals of the United States were to rebuild war-torn regions, remove trade barriers, modernize industry, improve European prosperity and prevent the spread of communism. The Marshall Plan proposed the reduction of interstate barriers and the economic integration of the European continent while also encouraging an increase in productivity as well as the adoption of modern business procedures.",
+                "extract_html": "<p>The <b>Marshall Plan</b> was an American initiative enacted in 1948 to provide foreign aid to Western Europe. The United States transferred $13.3 billion in economic recovery programs to Western European economies after the end of World War II in Europe. Replacing an earlier proposal for a Morgenthau Plan, it operated for four years beginning on April 3, 1948, though in 1951, the Marshall Plan was largely replaced by the Mutual Security Act. The goals of the United States were to rebuild war-torn regions, remove trade barriers, modernize industry, improve European prosperity and prevent the spread of communism. The Marshall Plan proposed the reduction of interstate barriers and the economic integration of the European continent while also encouraging an increase in productivity as well as the adoption of modern business procedures.</p>",
+                "description": "American initiative for foreign aid to Western Europe following World War II",
+                "articleUrl": "https://en.wikipedia.org/wiki/Marshall_Plan",
+                "wikiLang": "en",
+                "dir": "ltr"
+            }
+        },
+        "42": {
+            "name": "Harry S. Truman",
+            "type": "wikipedia",
+            "src": "https://en.wikipedia.org/wiki/Harry_S._Truman",
+            "thumb": "2_1508930271_thumb_harry-s-truman.png",
+            "description": null,
+            "creator": "demo",
+            "creatorId": "2",
+            "created": 1508930271,
+            "licenseType": null,
+            "licenseAttribution": null,
+            "tags": null,
+            "attributes": {
+                "extract": "Harry S. Truman was the 33rd president of the United States, serving from 1945 to 1953. As the 34th vice president in 1945, he assumed the presidency upon the death of Franklin D. Roosevelt that year. Subsequently, Truman implemented the Marshall Plan in the aftermath of World War II to rebuild the economy of Western Europe, and established both the Truman Doctrine and NATO to contain the expansion of Soviet communism. A member of the Democratic Party, he proposed numerous New Deal coalition liberal domestic reforms, but few were enacted by the conservative coalition that dominated the United States Congress.",
+                "extract_html": "<p><b>Harry S. Truman</b> was the 33rd president of the United States, serving from 1945 to 1953. As the 34th vice president in 1945, he assumed the presidency upon the death of Franklin D. Roosevelt that year. Subsequently, Truman implemented the Marshall Plan in the aftermath of World War II to rebuild the economy of Western Europe, and established both the Truman Doctrine and NATO to contain the expansion of Soviet communism. A member of the Democratic Party, he proposed numerous New Deal coalition liberal domestic reforms, but few were enacted by the conservative coalition that dominated the United States Congress.</p>",
+                "description": "President of the United States from 1945 to 1953",
+                "articleUrl": "https://en.wikipedia.org/wiki/Harry_S._Truman",
+                "wikiLang": "en",
+                "dir": "ltr"
+            }
+        },
+        "43": {
+            "name": "US Constitution",
+            "type": "wikipedia",
+            "src": "https://en.wikipedia.org/wiki/United_States_Constitution",
+            "thumb": "2_1508930392_thumb_us-constitution.png",
+            "description": null,
+            "creator": "demo",
+            "creatorId": "2",
+            "created": 1508930392,
+            "licenseType": null,
+            "licenseAttribution": null,
+            "tags": null,
+            "attributes": {
+                "extract": "The Constitution of the United States is the supreme law of the United States of America. It superseded the Articles of Confederation, the nation's first constitution, on March 4, 1789. Originally including seven articles, the Constitution defined the foundational structure of the federal government.",
+                "extract_html": "<p>The <b>Constitution of the United States</b> is the supreme law of the United States of America. It superseded the Articles of Confederation, the nation's first constitution, on March 4, 1789. Originally including seven articles, the Constitution defined the foundational structure of the federal government.</p>",
+                "description": "Supreme law of the United States",
+                "articleUrl": "https://en.wikipedia.org/wiki/Constitution_of_the_United_States",
+                "wikiLang": "en",
+                "dir": "ltr"
+            }
+        },
+        "45": {
+            "name": "United States Constitution",
+            "type": "image",
+            "src": "2_1508930725_united-states-constitution.jpg",
+            "thumb": "2_1508930725_thumb_united-states-constitution.png",
+            "description": null,
+            "creator": "demo",
+            "creatorId": "2",
+            "created": 1508930725,
+            "licenseType": null,
+            "licenseAttribution": null,
+            "tags": null,
+            "attributes": {}
+        },
+        "46": {
+            "name": "Syrian Civil War",
+            "type": "wikipedia",
+            "src": "https://en.wikipedia.org/wiki/Syrian_Civil_War",
+            "thumb": "2_1508936411_thumb_syrian-civil-war.png",
+            "description": null,
+            "creator": "demo",
+            "creatorId": "2",
+            "created": 1508936411,
+            "licenseType": null,
+            "licenseAttribution": null,
+            "tags": null,
+            "attributes": {
+                "extract": "The Syrian civil war was an armed conflict that began with the Syrian revolution in March 2011, when popular discontent with the Ba'athist regime ruled by Bashar al-Assad triggered large-scale protests and pro-democracy rallies across Syria, as part of the wider Arab Spring. The Assad regime responded to the protests with lethal force, which led to a series of defections, the emergence of armed opposition groups, and the civilian uprising descending into a civil war. The war lasted almost 14 years and culminated in the fall of the Assad regime in December 2024. Many sources regard this as the end of the civil war. Post-war clashes and disputes have continued into 2026.",
+                "extract_html": "<p>The <b>Syrian civil war</b> was an armed conflict that began with the Syrian revolution in March 2011, when popular discontent with the Ba'athist regime ruled by Bashar al-Assad triggered large-scale protests and pro-democracy rallies across Syria, as part of the wider Arab Spring. The Assad regime responded to the protests with lethal force, which led to a series of defections, the emergence of armed opposition groups, and the civilian uprising descending into a civil war. The war lasted almost 14 years and culminated in the fall of the Assad regime in December 2024. Many sources regard this as the end of the civil war. Post-war clashes and disputes have continued into 2026.</p>",
+                "description": "2011–2024 armed conflict in Syria",
+                "articleUrl": "https://en.wikipedia.org/wiki/Syrian_civil_war",
+                "wikiLang": "en",
+                "dir": "ltr"
+            }
+        },
+        "47": {
+            "name": "Syria",
+            "type": "wikipedia",
+            "src": "https://en.wikipedia.org/wiki/Syria",
+            "thumb": "2_1508936432_thumb_syria.png",
+            "description": null,
+            "creator": "demo",
+            "creatorId": "2",
+            "created": 1508936432,
+            "licenseType": null,
+            "licenseAttribution": null,
+            "tags": null,
+            "attributes": {
+                "extract": "Syria, officially the Syrian Arab Republic, is a country in West Asia located in the Eastern Mediterranean and the Levant. It borders the Mediterranean Sea to the west, Turkey to the north and northwest, Iraq to the east and southeast, Jordan to the south, and Israel and Lebanon to the southwest. It is a republic under a provisional government and comprises 14 governorates. Damascus is the capital and largest city. With a population of 26 million across an area of 185,180 square kilometres (71,500 sq mi), it is the 56th-most populous and 87th-largest country.",
+                "extract_html": "<p><b>Syria</b>, officially the <b>Syrian Arab Republic</b>, is a country in West Asia located in the Eastern Mediterranean and the Levant. It borders the Mediterranean Sea to the west, Turkey to the north and northwest, Iraq to the east and southeast, Jordan to the south, and Israel and Lebanon to the southwest. It is a republic under a provisional government and comprises 14 governorates. Damascus is the capital and largest city. With a population of 26 million across an area of 185,180 square kilometres (71,500 sq mi), it is the 56th-most populous and 87th-largest country.</p>",
+                "description": "Country in West Asia",
+                "articleUrl": "https://en.wikipedia.org/wiki/Syria",
+                "wikiLang": "en",
+                "dir": "ltr"
+            }
+        },
+        "48": {
+            "name": "Bashar al-Assad",
+            "type": "wikipedia",
+            "src": "https://en.wikipedia.org/wiki/Bashar_al-Assad",
+            "thumb": "2_1508936453_thumb_bashar-al-assad.png",
+            "description": null,
+            "creator": "demo",
+            "creatorId": "2",
+            "created": 1508936453,
+            "licenseType": null,
+            "licenseAttribution": null,
+            "tags": null,
+            "attributes": {
+                "extract": "Bashar Hafez al-Assad is a Syrian former politician, doctor, and military officer who served as the president of Syria from 2000 until his overthrow in 2024 after the Syrian civil war. As president, Assad was commander-in-chief of the Syrian Arab Armed Forces and secretary-general of the Central Command of the Arab Socialist Ba'ath Party. He is the son of Hafez al-Assad, who ruled Syria from 1970 to 2000.",
+                "extract_html": "<p><b>Bashar Hafez al-Assad</b> is a Syrian former politician, doctor, and military officer who served as the president of Syria from 2000 until his overthrow in 2024 after the Syrian civil war. As president, Assad was commander-in-chief of the Syrian Arab Armed Forces and secretary-general of the Central Command of the Arab Socialist Ba'ath Party. He is the son of Hafez al-Assad, who ruled Syria from 1970 to 2000.</p>",
+                "description": "President of Syria from 2000 to 2024",
+                "articleUrl": "https://en.wikipedia.org/wiki/Bashar_al-Assad",
+                "wikiLang": "en",
+                "dir": "ltr"
+            }
+        },
+        "49": {
+            "name": "Venezuela",
+            "type": "wikipedia",
+            "src": "https://en.wikipedia.org/wiki/Venezuela",
+            "thumb": "2_1508937394_thumb_venezuela.png",
+            "description": null,
+            "creator": "demo",
+            "creatorId": "2",
+            "created": 1508937394,
+            "licenseType": null,
+            "licenseAttribution": null,
+            "tags": null,
+            "attributes": {
+                "extract": "Venezuela, officially the Bolivarian Republic of Venezuela, is a country on the northern coast of South America, consisting of a continental landmass and various islands and islets in the Caribbean Sea. It comprises an area of 912,050 km2 (352,140 sq mi), with a population estimated at 31.8 million in 2025. The capital and largest urban agglomeration is Caracas. The continental territory is bordered on the north by the Caribbean Sea and the Atlantic Ocean, on the west by Colombia, Brazil on the south, Trinidad and Tobago to the north-east, and on the east by Guyana. Venezuela consists of 23 states, the Capital District, and federal dependencies covering Venezuela's offshore islands. Venezuela is among the most urbanized countries in Latin America; the vast majority of Venezuelans live in the cities of the north and in the capital.",
+                "extract_html": "<p><b>Venezuela</b>, officially the <b>Bolivarian Republic of Venezuela</b>, is a country on the northern coast of South America, consisting of a continental landmass and various islands and islets in the Caribbean Sea. It comprises an area of 912,050 km<sup>2</sup> (352,140 sq mi), with a population estimated at 31.8 million in 2025. The capital and largest urban agglomeration is Caracas. The continental territory is bordered on the north by the Caribbean Sea and the Atlantic Ocean, on the west by Colombia, Brazil on the south, Trinidad and Tobago to the north-east, and on the east by Guyana. Venezuela consists of 23 states, the Capital District, and federal dependencies covering Venezuela's offshore islands. Venezuela is among the most urbanized countries in Latin America; the vast majority of Venezuelans live in the cities of the north and in the capital.</p>",
+                "description": "",
+                "articleUrl": "https://en.wikipedia.org/wiki/Venezuela",
+                "wikiLang": "en",
+                "dir": "ltr"
+            }
+        },
+        "50": {
+            "name": "Nicolás Maduro",
+            "type": "wikipedia",
+            "src": "https://en.wikipedia.org/wiki/Nicol%C3%A1s_Maduro",
+            "thumb": "2_1508937462_thumb_nicols-maduro.png",
+            "description": null,
+            "creator": "demo",
+            "creatorId": "2",
+            "created": 1508937462,
+            "licenseType": null,
+            "licenseAttribution": null,
+            "tags": null,
+            "attributes": {
+                "extract": "Nicolás Maduro Moros is a Venezuelan politician and former union leader who has been the de jure president of Venezuela since 2013. On 3 January 2026, US forces captured Maduro and his wife, Cilia Flores; they were transported to the US and charged with drug trafficking to which they pleaded not guilty. Although he was de facto removed from power, according to the Venezuelan government and interim president Delcy Rodríguez, he is still the de jure president of Venezuela. Prior to his presidency, he served as the vice president of Venezuela under President Hugo Chávez from 2012 to 2013 and as minister of foreign affairs from 2006 to 2012.",
+                "extract_html": "<p><b>Nicolás Maduro Moros</b> is a Venezuelan politician and former union leader who has been the <i>de jure</i> president of Venezuela since 2013. On 3 January 2026, US forces captured Maduro and his wife, Cilia Flores; they were transported to the US and charged with drug trafficking to which they pleaded not guilty. Although he was <i>de facto</i> removed from power, according to the Venezuelan government and interim president Delcy Rodríguez, he is still the <i>de jure</i> president of Venezuela. Prior to his presidency, he served as the vice president of Venezuela under President Hugo Chávez from 2012 to 2013 and as minister of foreign affairs from 2006 to 2012.</p>",
+                "description": "President of Venezuela",
+                "articleUrl": "https://en.wikipedia.org/wiki/Nicol%C3%A1s_Maduro",
+                "wikiLang": "en",
+                "dir": "ltr"
+            }
+        },
+        "51": {
+            "name": "kzfkzf",
+            "type": "wikipedia",
+            "src": "https://en.wikipedia.org/wiki/Mozilla",
+            "thumb": null,
+            "description": null,
+            "creator": "demo",
+            "creatorId": "2",
+            "created": 1509133172,
+            "licenseType": null,
+            "licenseAttribution": null,
+            "tags": null,
+            "attributes": {
+                "extract": "Mozilla is a free software community founded in 1998 by members of Netscape. The Mozilla community uses, develops, publishes, and supports Mozilla products, thereby promoting free software and open standards. The community is supported institutionally by the non-profit Mozilla Foundation and its tax-paying subsidiary, the Mozilla Corporation.",
+                "extract_html": "<p><b>Mozilla</b> is a free software community founded in 1998 by members of Netscape. The Mozilla community uses, develops, publishes, and supports Mozilla products, thereby promoting free software and open standards. The community is supported institutionally by the non-profit Mozilla Foundation and its tax-paying subsidiary, the Mozilla Corporation.</p>",
+                "description": "Free and open-source software community, developer of Firefox and Thunderbird",
+                "articleUrl": "https://en.wikipedia.org/wiki/Mozilla",
+                "wikiLang": "en",
+                "dir": "ltr"
+            }
+        }
+    }
+}

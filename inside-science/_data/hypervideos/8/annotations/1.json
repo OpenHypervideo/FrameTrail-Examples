@@ -1,0 +1,1156 @@
+[
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            {
+                "frametrail": "http://frametrail.org/ns/"
+            }
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "Wed Aug 09 2017 15:52:25 GMT+0200 (Central European Summer Time)",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "8.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=9,39"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://de.wikipedia.org/wiki/Teilchen",
+            "frametrail:name": "Teilchen",
+            "frametrail:thumb": null,
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:resourceId": "9",
+            "frametrail:attributes": {
+                "extract": "In der Physik bezeichnet man als Teilchen einen Körper, der klein gegenüber dem Maßstab des betrachteten Systems ist. Die innere Struktur eines einzelnen Teilchens spielt dabei keine Rolle, sondern lediglich sein Verhalten als Ganzes gegenüber anderen Teilchen oder äußeren Einflüssen. Oft werden die Teilchen dann als ausdehnungslose Punktteilchen aufgefasst. Teilchen sind ideale Objekte. In der Regel beschränkt man sich nur auf bestimmte Eigenschaften des realen physikalischen Objekts, wie die Masse oder die elektrische Ladung, um die Wechselwirkung zu studieren, die mit dieser Eigenschaft zusammenhängt. Je nach Betrachtungsweise kann also ein und dasselbe physikalische Objekt als Teilchen oder als System von Teilchen angesehen werden. Das gilt insbesondere für Atome, aber auch für Atomkerne und auch für die Protonen und Neutronen. Teilchen, die nicht aus kleineren Bestandteilen zusammengesetzt sind, werden Elementarteilchen genannt.",
+                "extract_html": "<p>In der Physik bezeichnet man als <b>Teilchen</b> einen Körper, der klein gegenüber dem Maßstab des betrachteten Systems ist. Die innere Struktur eines einzelnen Teilchens spielt dabei keine Rolle, sondern lediglich sein Verhalten als Ganzes gegenüber anderen Teilchen oder äußeren Einflüssen. Oft werden die Teilchen dann als ausdehnungslose <b>Punktteilchen</b> aufgefasst. Teilchen sind ideale Objekte. In der Regel beschränkt man sich nur auf bestimmte Eigenschaften des realen physikalischen Objekts, wie die Masse oder die elektrische Ladung, um die Wechselwirkung zu studieren, die mit dieser Eigenschaft zusammenhängt. Je nach Betrachtungsweise kann also ein und dasselbe physikalische Objekt als Teilchen oder als System von Teilchen angesehen werden. Das gilt insbesondere für Atome, aber auch für Atomkerne und auch für die Protonen und Neutronen. Teilchen, die nicht aus kleineren Bestandteilen zusammengesetzt sind, werden Elementarteilchen genannt.</p>",
+                "description": "gegenüber System kleiner, lokalisierter Körper in der Physik",
+                "articleUrl": "https://de.wikipedia.org/wiki/Teilchen",
+                "wikiLang": "de",
+                "dir": "ltr"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            {
+                "frametrail": "http://frametrail.org/ns/"
+            }
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "Wed Aug 09 2017 15:52:25 GMT+0200 (Central European Summer Time)",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "8.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=9,13"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://de.wikipedia.org/wiki/Teilchenphysik",
+            "frametrail:name": "Teilchenphysik",
+            "frametrail:thumb": null,
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:resourceId": "39",
+            "frametrail:attributes": {
+                "extract": "Die Teilchenphysik ist eine Disziplin der Physik, die sich mit der Erforschung der subatomaren Teilchen, insbesondere der Elementarteilchen, befasst. So werden beispielsweise Hadronen theoretisch und experimentell untersucht.",
+                "extract_html": "<p>Die <b>Teilchenphysik</b> ist eine Disziplin der Physik, die sich mit der Erforschung der subatomaren Teilchen, insbesondere der Elementarteilchen, befasst. So werden beispielsweise Hadronen theoretisch und experimentell untersucht.</p>",
+                "description": "Disziplin der Physik",
+                "articleUrl": "https://de.wikipedia.org/wiki/Teilchenphysik",
+                "wikiLang": "de",
+                "dir": "ltr"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            {
+                "frametrail": "http://frametrail.org/ns/"
+            }
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "Wed Aug 09 2017 15:52:25 GMT+0200 (Central European Summer Time)",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "8.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=43.999951603145796,68.81387779794314"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://de.wikipedia.org/wiki/Energie",
+            "frametrail:name": "Energie",
+            "frametrail:thumb": null,
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:resourceId": "34",
+            "frametrail:attributes": {
+                "extract": "Energie ist eine physikalische Größe, die in allen Teilgebieten der Physik sowie in der Technik, Chemie, Biologie und der Wirtschaft eine zentrale Rolle spielt. Ihre SI-Einheit ist das Joule. Die praktische Bedeutung der Energie liegt oft darin, dass ein physikalisches System in dem Maß Wärme abgeben, Arbeit leisten oder Strahlung aussenden kann, in dem seine Energie sich verringert. In einem gegenüber der Umgebung abgeschlossenen System ändert sich die Gesamtenergie nicht (Energieerhaltungssatz). Die Bedeutung der Energie in der theoretischen Physik liegt unter anderem darin, dass der Energieerhaltungssatz, ursprünglich eine Erfahrungstatsache, schon daraus gefolgert werden kann, dass die grundlegenden physikalischen Naturgesetze zeitlich unveränderlich sind.",
+                "extract_html": "<p><b>Energie</b> ist eine physikalische Größe, die in allen Teilgebieten der Physik sowie in der Technik, Chemie, Biologie und der Wirtschaft eine zentrale Rolle spielt. Ihre SI-Einheit ist das <i>Joule</i>. Die praktische Bedeutung der Energie liegt oft darin, dass ein physikalisches System in dem Maß Wärme abgeben, Arbeit leisten oder Strahlung aussenden kann, in dem seine Energie sich verringert. In einem gegenüber der Umgebung abgeschlossenen System ändert sich die Gesamtenergie nicht (Energieerhaltungssatz). Die Bedeutung der Energie in der theoretischen Physik liegt unter anderem darin, dass der Energieerhaltungssatz, ursprünglich eine Erfahrungstatsache, schon daraus gefolgert werden kann, dass die grundlegenden physikalischen Naturgesetze zeitlich unveränderlich sind.</p>",
+                "description": "fundamentale physikalische Größe",
+                "articleUrl": "https://de.wikipedia.org/wiki/Energie",
+                "wikiLang": "de",
+                "dir": "ltr"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            {
+                "frametrail": "http://frametrail.org/ns/"
+            }
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "Wed Aug 09 2017 15:52:25 GMT+0200 (Central European Summer Time)",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "8.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=67,73"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://de.wikipedia.org/wiki/LHC",
+            "frametrail:name": "LHC",
+            "frametrail:thumb": "2_1773006479_thumb_lhc.png",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:resourceId": "43",
+            "frametrail:attributes": {
+                "extract": "Der Large Hadron Collider ist ein Teilchenbeschleuniger am Europäischen Kernforschungszentrum CERN bei Genf. In Bezug auf Energie und Häufigkeit der Teilchenkollisionen ist der LHC der leistungsstärkste Teilchenbeschleuniger der Welt. An Planung und Bau waren über 10.000 Wissenschaftler und Techniker aus über 100 Ländern beteiligt, es kooperierten hunderte Universitätslehrstühle und Forschungsinstitute. Die maßgebliche Komponente ist ein Synchrotron in einem 26,7 Kilometer langen unterirdischen Ringtunnel, in dem Protonen oder Blei-Kerne gegenläufig auf nahezu Lichtgeschwindigkeit beschleunigt und zur Kollision gebracht werden. Die Experimente am LHC sind daher Colliding-Beam-Experimente.",
+                "extract_html": "<p>Der <span><b>Large Hadron Collider</b></span> ist ein Teilchenbeschleuniger am Europäischen Kernforschungszentrum CERN bei Genf. In Bezug auf Energie und Häufigkeit der Teilchenkollisionen ist der LHC der leistungsstärkste Teilchenbeschleuniger der Welt. An Planung und Bau waren über 10.000 Wissenschaftler und Techniker aus über 100 Ländern beteiligt, es kooperierten hunderte Universitätslehrstühle und Forschungsinstitute. Die maßgebliche Komponente ist ein Synchrotron in einem 26,7 Kilometer langen unterirdischen Ringtunnel, in dem Protonen oder Blei-Kerne gegenläufig auf nahezu Lichtgeschwindigkeit beschleunigt und zur Kollision gebracht werden. Die Experimente am LHC sind daher Colliding-Beam-Experimente.</p>",
+                "description": "Teilchenbeschleuniger im CERN, Genf, Schweiz",
+                "articleUrl": "https://de.wikipedia.org/wiki/Large_Hadron_Collider",
+                "wikiLang": "de",
+                "dir": "ltr"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            {
+                "frametrail": "http://frametrail.org/ns/"
+            }
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "Wed Aug 09 2017 15:52:25 GMT+0200 (Central European Summer Time)",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "8.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=67,97"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://de.wikipedia.org/wiki/CERN",
+            "frametrail:name": "CERN",
+            "frametrail:thumb": "2_1773006480_thumb_cern.png",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:resourceId": "41",
+            "frametrail:attributes": {
+                "extract": "Das CERN, die Europäische Organisation für Kernforschung, ist eine Großforschungseinrichtung in der Nähe von Genf, die teilweise in Frankreich und teilweise in der Schweiz liegt. Am CERN wird physikalische Grundlagenforschung betrieben, insbesondere wird mit Hilfe großer Teilchenbeschleuniger der Aufbau der Materie erforscht. Der derzeit (2024) bedeutendste ist der besonders große Large Hadron Collider (LHC), der 2008 in Betrieb genommen wurde.",
+                "extract_html": "<p>Das <b>CERN</b>, die <b>Europäische Organisation für Kernforschung</b>, ist eine Großforschungseinrichtung in der Nähe von Genf, die teilweise in Frankreich und teilweise in der Schweiz liegt. Am CERN wird physikalische Grundlagenforschung betrieben, insbesondere wird mit Hilfe großer Teilchenbeschleuniger der Aufbau der Materie erforscht. Der derzeit (2024) bedeutendste ist der besonders große Large Hadron Collider (LHC), der 2008 in Betrieb genommen wurde.</p>",
+                "description": "Großforschungseinrichtung für physikalische Grundlagen bei Genf",
+                "articleUrl": "https://de.wikipedia.org/wiki/CERN",
+                "wikiLang": "de",
+                "dir": "ltr"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            {
+                "frametrail": "http://frametrail.org/ns/"
+            }
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "Wed Aug 09 2017 15:52:25 GMT+0200 (Central European Summer Time)",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "8.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=101,131"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://de.wikipedia.org/wiki/Grundkr%C3%A4fte_der_Physik",
+            "frametrail:name": "Grundkräfte der Physik",
+            "frametrail:thumb": null,
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:resourceId": "6",
+            "frametrail:attributes": {
+                "extract": "Eine fundamentale Wechselwirkung ist einer der grundlegend verschiedenen Wege, auf denen physikalische Objekte einander beeinflussen können. Es gibt die vier fundamentalen Wechselwirkungen Gravitation, Elektromagnetismus, schwache Wechselwirkung und starke Wechselwirkung. Sie werden auch als die vier Grundkräfte der Physik oder als Naturkräfte bezeichnet.",
+                "extract_html": "<p>Eine <b>fundamentale Wechselwirkung</b> ist einer der grundlegend verschiedenen Wege, auf denen physikalische Objekte einander beeinflussen können. Es gibt die vier fundamentalen Wechselwirkungen Gravitation, Elektromagnetismus, schwache Wechselwirkung und starke Wechselwirkung. Sie werden auch als die vier <b>Grundkräfte der Physik</b> oder als <b>Naturkräfte</b> bezeichnet.</p>",
+                "description": "vier Grundkräfte der Physik",
+                "articleUrl": "https://de.wikipedia.org/wiki/Fundamentale_Wechselwirkung",
+                "wikiLang": "de",
+                "dir": "ltr"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            {
+                "frametrail": "http://frametrail.org/ns/"
+            }
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "Wed Aug 09 2017 15:52:25 GMT+0200 (Central European Summer Time)",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "8.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=142,173"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://de.wikipedia.org/wiki/Quantenmechanik",
+            "frametrail:name": "Quantenmechanik",
+            "frametrail:thumb": "2_1773006482_thumb_quantenmechanik.png",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:resourceId": "91",
+            "frametrail:attributes": {
+                "extract": "Die Quantenmechanik ist eine physikalische Theorie, mit der die Eigenschaften und Gesetzmäßigkeiten von Zuständen und Vorgängen der Materie beschrieben werden. Im Gegensatz zu den Theorien der klassischen Physik erlaubt sie als Grundlage der Quantenphysik die zutreffende Berechnung physikalischer Eigenschaften von Materie bis zum Größenbereich der Atome herab und weiter darunter. Die Quantenmechanik ist eine der Hauptsäulen der modernen Physik. Sie bildet die Grundlage zur Beschreibung von Phänomenen der Atomphysik, der Festkörperphysik und der Kern- und Elementarteilchenphysik, aber auch verwandter Wissenschaften wie der Quantenchemie.",
+                "extract_html": "<p>Die <b>Quantenmechanik</b> ist eine physikalische Theorie, mit der die Eigenschaften und Gesetzmäßigkeiten von Zuständen und Vorgängen der Materie beschrieben werden. Im Gegensatz zu den Theorien der klassischen Physik erlaubt sie als Grundlage der Quantenphysik die zutreffende Berechnung physikalischer Eigenschaften von Materie bis zum Größenbereich der Atome herab und weiter darunter. Die Quantenmechanik ist eine der Hauptsäulen der modernen Physik. Sie bildet die Grundlage zur Beschreibung von Phänomenen der Atomphysik, der Festkörperphysik und der Kern- und Elementarteilchenphysik, aber auch verwandter Wissenschaften wie der Quantenchemie.</p>",
+                "description": "physikalische Theorie der Teilchen der Materie, ihrer Eigenschaften und Gesetzmäßigkeiten",
+                "articleUrl": "https://de.wikipedia.org/wiki/Quantenmechanik",
+                "wikiLang": "de",
+                "dir": "ltr"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            {
+                "frametrail": "http://frametrail.org/ns/"
+            }
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "Wed Aug 09 2017 15:52:25 GMT+0200 (Central European Summer Time)",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "8.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=145,177"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://de.wikipedia.org/wiki/Relativit%C3%A4tstheorie",
+            "frametrail:name": "Relativitätstheorie",
+            "frametrail:thumb": "2_1773006483_thumb_relativittstheorie.png",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:resourceId": "53",
+            "frametrail:attributes": {
+                "extract": "Die Relativitätstheorie befasst sich mit der Struktur von Raum und Zeit sowie mit dem Wesen der Gravitation. Sie besteht aus zwei maßgeblich von Albert Einstein entwickelten physikalischen Theorien: der 1905 veröffentlichten speziellen Relativitätstheorie und der 1916 abgeschlossenen allgemeinen Relativitätstheorie. Die spezielle Relativitätstheorie beschreibt das Verhalten von Raum und Zeit aus der Sicht von Beobachtern, die sich relativ zueinander bewegen, und die damit verbundenen Phänomene. Darauf aufbauend führt die allgemeine Relativitätstheorie die Gravitation auf eine Krümmung von Raum und Zeit zurück, die unter anderem durch die beteiligten Massen verursacht wird.",
+                "extract_html": "<p>Die <b>Relativitätstheorie</b> befasst sich mit der Struktur von Raum und Zeit sowie mit dem Wesen der Gravitation. Sie besteht aus zwei maßgeblich von Albert Einstein entwickelten physikalischen Theorien: der 1905 veröffentlichten speziellen Relativitätstheorie und der 1916 abgeschlossenen allgemeinen Relativitätstheorie. Die spezielle Relativitätstheorie beschreibt das Verhalten von Raum und Zeit aus der Sicht von Beobachtern, die sich relativ zueinander bewegen, und die damit verbundenen Phänomene. Darauf aufbauend führt die allgemeine Relativitätstheorie die Gravitation auf eine Krümmung von Raum und Zeit zurück, die unter anderem durch die beteiligten Massen verursacht wird.</p>",
+                "description": "physikalische Theorie, die sich mit der Verbindung von Raum und Zeit beschäftigt",
+                "articleUrl": "https://de.wikipedia.org/wiki/Relativit%C3%A4tstheorie",
+                "wikiLang": "de",
+                "dir": "ltr"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            {
+                "frametrail": "http://frametrail.org/ns/"
+            }
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "Wed Aug 09 2017 15:52:25 GMT+0200 (Central European Summer Time)",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "8.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=149,182"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://de.wikipedia.org/wiki/Albert_Einstein",
+            "frametrail:name": "Albert Einstein",
+            "frametrail:thumb": "2_1773006484_thumb_albert-einstein.png",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:resourceId": "57",
+            "frametrail:attributes": {
+                "extract": "Albert Einstein war ein theoretischer Physiker. Er gilt als einer der bedeutendsten Physiker der Wissenschaftsgeschichte und weltweit als einer der bekanntesten Wissenschaftler der Neuzeit. Seine Forschungen zur Struktur von Materie, Raum und Zeit sowie zum Wesen der Gravitation veränderten maßgeblich das zuvor geltende newtonsche Weltbild. 1999 wurde Albert Einstein in einer durch die Fachzeitschrift Physics World durchgeführten Umfrage unter führenden Physikern vor Isaac Newton, James Clerk Maxwell, Niels Bohr und Werner Heisenberg zum bedeutendsten Physiker aller Zeiten gewählt.",
+                "extract_html": "<p><b>Albert Einstein</b> war ein theoretischer Physiker. Er gilt als einer der bedeutendsten Physiker der Wissenschaftsgeschichte und weltweit als einer der bekanntesten Wissenschaftler der Neuzeit. Seine Forschungen zur Struktur von Materie, Raum und Zeit sowie zum Wesen der Gravitation veränderten maßgeblich das zuvor geltende newtonsche Weltbild. 1999 wurde Albert Einstein in einer durch die Fachzeitschrift Physics World durchgeführten Umfrage unter führenden Physikern vor Isaac Newton, James Clerk Maxwell, Niels Bohr und Werner Heisenberg zum bedeutendsten Physiker aller Zeiten gewählt.</p>",
+                "description": "theoretischer Physiker (1879–1955); Entwickler der Relativitätstheorie sowie Nobelpreisgewinner 1922",
+                "articleUrl": "https://de.wikipedia.org/wiki/Albert_Einstein",
+                "wikiLang": "de",
+                "dir": "ltr"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            {
+                "frametrail": "http://frametrail.org/ns/"
+            }
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "Wed Aug 09 2017 15:52:25 GMT+0200 (Central European Summer Time)",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "8.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=151,185"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://de.wikipedia.org/wiki/%C3%84quivalenz_von_Masse_und_Energie",
+            "frametrail:name": "Äquivalenz",
+            "frametrail:thumb": "2_1773006485_thumb_quivalenz.png",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:resourceId": "93",
+            "frametrail:attributes": {
+                "extract": "Die Äquivalenz von Masse und Energie ist ein 1905 von Albert Einstein im Rahmen der speziellen Relativitätstheorie entdecktes Naturgesetz. Es besagt in heutiger Formulierung, dass die Masse  und die Ruheenergie  eines Objekts zueinander proportional sind:",
+                "extract_html": "<p>Die <b>Äquivalenz von Masse und Energie</b> ist ein 1905 von Albert Einstein im Rahmen der speziellen Relativitätstheorie entdecktes Naturgesetz. Es besagt in heutiger Formulierung, dass die Masse <span class=\"mwe-math-element mwe-math-element-inline\"><img src=\"https://wikimedia.org/api/rest_v1/media/math/render/svg/0a07d98bb302f3856cbabc47b2b9016692e3f7bc\" class=\"mwe-math-fallback-image-inline mw-invert skin-invert\" aria-hidden=\"true\" style=\"vertical-align:-0.338ex;width:2.04ex;height:1.676ex\" /></span> und die Ruheenergie <span class=\"mwe-math-element mwe-math-element-inline\"><img src=\"https://wikimedia.org/api/rest_v1/media/math/render/svg/4232c9de2ee3eec0a9c0a19b15ab92daa6223f9b\" class=\"mwe-math-fallback-image-inline mw-invert skin-invert\" aria-hidden=\"true\" style=\"vertical-align:-0.338ex;width:1.776ex;height:2.176ex\" /></span> eines Objekts zueinander proportional sind:</p><dl><dd><span class=\"mwe-math-element mwe-math-element-inline\"><span style=\"color:inherit\"><img src=\"https://wikimedia.org/api/rest_v1/media/math/render/svg/9f73dbd37a0cac34406ee89057fa1b36a1e6a18e\" class=\"mwe-math-fallback-image-inline mw-invert skin-invert\" aria-hidden=\"true\" style=\"vertical-align:-0.338ex;width:8.976ex;height:2.676ex\" /></span></span></dd></dl>",
+                "description": "Naturgesetz, 1905 von Albert Einstein im Rahmen der speziellen Relativitätstheorie entdeckt",
+                "articleUrl": "https://de.wikipedia.org/wiki/%C3%84quivalenz_von_Masse_und_Energie",
+                "wikiLang": "de",
+                "dir": "ltr"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            {
+                "frametrail": "http://frametrail.org/ns/"
+            }
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "Wed Aug 09 2017 15:52:25 GMT+0200 (Central European Summer Time)",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "8.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=163,196"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://de.wikipedia.org/wiki/Quantenfeldtheorie",
+            "frametrail:name": "Quantenfeldtheorie",
+            "frametrail:thumb": null,
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:resourceId": "94",
+            "frametrail:attributes": {
+                "extract": "Die Quantenfeldtheorie (QFT) ist ein Gebiet der theoretischen Physik, in dem Prinzipien klassischer Feldtheorien und der Quantenmechanik zur Bildung einer erweiterten Theorie kombiniert werden. Sie geht über die Quantenmechanik hinaus, indem sie Teilchen und Felder einheitlich beschreibt. Dabei werden nicht nur sogenannte Observablen quantisiert, sondern auch die wechselwirkenden (Teilchen-)Felder selbst; Felder und Observable werden analog behandelt. Die Quantisierung der Felder bezeichnet man auch als Zweite Quantisierung. Diese berücksichtigt explizit die Entstehung und Vernichtung von Elementarteilchen.",
+                "extract_html": "<p>Die <b>Quantenfeldtheorie</b> (<b>QFT</b>) ist ein Gebiet der theoretischen Physik, in dem Prinzipien klassischer Feldtheorien und der Quantenmechanik zur Bildung einer erweiterten Theorie kombiniert werden. Sie geht über die Quantenmechanik hinaus, indem sie Teilchen und Felder einheitlich beschreibt. Dabei werden nicht nur sogenannte Observablen quantisiert, sondern auch die wechselwirkenden (Teilchen-)Felder selbst; Felder und Observable werden analog behandelt. Die Quantisierung der Felder bezeichnet man auch als Zweite Quantisierung. Diese berücksichtigt explizit die Entstehung und Vernichtung von Elementarteilchen.</p>",
+                "description": "physikalische Theorie zur quantenmechanischen Beschreibung von Feldern",
+                "articleUrl": "https://de.wikipedia.org/wiki/Quantenfeldtheorie",
+                "wikiLang": "de",
+                "dir": "ltr"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            {
+                "frametrail": "http://frametrail.org/ns/"
+            }
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "Wed Aug 09 2017 15:52:25 GMT+0200 (Central European Summer Time)",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "8.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=170,204"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://de.wikipedia.org/wiki/Elementarteilchen",
+            "frametrail:name": "Elementarteilchen",
+            "frametrail:thumb": "2_1773006487_thumb_elementarteilchen.png",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:resourceId": "25",
+            "frametrail:attributes": {
+                "extract": "Elementarteilchen sind unteilbare subatomare Teilchen und die kleinsten bekannten Bausteine der Materie. Ihr bekanntester Vertreter ist das Elektron. Elementarteilchen sind nicht aus kleineren Untereinheiten zusammengesetzt und haben nach heutigem Wissensstand keine räumliche Unterstruktur, d. h. sie sind punktförmig. Objekte des Alltagslebens bestehen aus einer Vielzahl von Elementarteilchen. Zum Beispiel besteht bereits ein Stecknadelkopf aus größenordnungsmäßig 1022 Elektronen und 1023 Quarks. Die Wechselwirkung zwischen Materie wird ebenfalls durch Elementarteilchen beschrieben, die diese Wechselwirkung vermitteln.",
+                "extract_html": "<p><b>Elementarteilchen</b> sind unteilbare subatomare Teilchen und die kleinsten bekannten Bausteine der Materie. Ihr bekanntester Vertreter ist das Elektron. Elementarteilchen sind nicht aus kleineren Untereinheiten zusammengesetzt und haben nach heutigem Wissensstand keine räumliche Unterstruktur, d. h. sie sind punktförmig. Objekte des Alltagslebens bestehen aus einer Vielzahl von Elementarteilchen. Zum Beispiel besteht bereits ein Stecknadelkopf aus größenordnungsmäßig 10<sup>22</sup> Elektronen und 10<sup>23</sup> Quarks. Die Wechselwirkung zwischen Materie wird ebenfalls durch Elementarteilchen beschrieben, die diese Wechselwirkung vermitteln.</p>",
+                "description": "unteilbare Teilchen und kleinste bekannte Bausteine der Materie",
+                "articleUrl": "https://de.wikipedia.org/wiki/Elementarteilchen",
+                "wikiLang": "de",
+                "dir": "ltr"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            {
+                "frametrail": "http://frametrail.org/ns/"
+            }
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "Wed Aug 09 2017 15:52:25 GMT+0200 (Central European Summer Time)",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "8.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=200,234"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://de.wikipedia.org/wiki/Materie_%28Physik%29",
+            "frametrail:name": "Materie",
+            "frametrail:thumb": null,
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:resourceId": "1",
+            "frametrail:attributes": {
+                "extract": "Unter Materie versteht man in der klassischen Physik und der Chemie alles, was Platz braucht und Masse hat, also etwa chemische Stoffe beziehungsweise Materialien sowie deren Bausteine. Demgegenüber stehen die Begriffe Vakuum und Kraftfeld, die unabhängig von der Anwesenheit von Materie einen Zustand des Raums beschreiben, der nicht mit einer Masse verbunden ist.",
+                "extract_html": "<p>Unter <b>Materie</b> versteht man in der klassischen Physik und der Chemie alles, was Platz braucht und Masse hat, also etwa chemische Stoffe beziehungsweise Materialien sowie deren Bausteine. Demgegenüber stehen die Begriffe Vakuum und Kraftfeld, die unabhängig von der Anwesenheit von Materie einen Zustand des Raums beschreiben, der nicht mit einer Masse verbunden ist.</p>",
+                "description": "Beobachtungsgegenstände der Naturwissenschaften, die Masse besitzen",
+                "articleUrl": "https://de.wikipedia.org/wiki/Materie_(Physik)",
+                "wikiLang": "de",
+                "dir": "ltr"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            {
+                "frametrail": "http://frametrail.org/ns/"
+            }
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "Wed Aug 09 2017 15:52:25 GMT+0200 (Central European Summer Time)",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "8.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=216,250"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://de.wikipedia.org/wiki/Teilchenbeschleuniger",
+            "frametrail:name": "Teilchenbeschleuniger",
+            "frametrail:thumb": "2_1773006489_thumb_teilchenbeschleuniger.png",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:resourceId": "30",
+            "frametrail:attributes": {
+                "extract": "Ein Teilchenbeschleuniger ist ein Gerät oder eine Anlage, in der elektrisch geladene Teilchen durch elektrische Felder auf große Geschwindigkeiten beschleunigt werden. Im Innenraum des Beschleunigers herrscht im Allgemeinen Vakuum. Die physikalischen Gesetzmäßigkeiten und Funktionsweisen der verschiedenen Teilchenbeschleunigertypen beschreibt die Beschleunigerphysik.",
+                "extract_html": "<p>Ein <b>Teilchenbeschleuniger</b> ist ein Gerät oder eine Anlage, in der elektrisch geladene Teilchen durch elektrische Felder auf große Geschwindigkeiten beschleunigt werden. Im Innenraum des Beschleunigers herrscht im Allgemeinen Vakuum. Die physikalischen Gesetzmäßigkeiten und Funktionsweisen der verschiedenen Teilchenbeschleunigertypen beschreibt die Beschleunigerphysik.</p>",
+                "description": "Gerät, in dem elektrisch geladene Teilchen auf große Geschwindigkeiten beschleunigt werden",
+                "articleUrl": "https://de.wikipedia.org/wiki/Teilchenbeschleuniger",
+                "wikiLang": "de",
+                "dir": "ltr"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            {
+                "frametrail": "http://frametrail.org/ns/"
+            }
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "Wed Aug 09 2017 15:52:25 GMT+0200 (Central European Summer Time)",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "8.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=237,273"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://de.wikipedia.org/wiki/Grundkr%C3%A4fte_der_Physik",
+            "frametrail:name": "Grundkräfte der Physik",
+            "frametrail:thumb": null,
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:resourceId": "6",
+            "frametrail:attributes": {
+                "extract": "Eine fundamentale Wechselwirkung ist einer der grundlegend verschiedenen Wege, auf denen physikalische Objekte einander beeinflussen können. Es gibt die vier fundamentalen Wechselwirkungen Gravitation, Elektromagnetismus, schwache Wechselwirkung und starke Wechselwirkung. Sie werden auch als die vier Grundkräfte der Physik oder als Naturkräfte bezeichnet.",
+                "extract_html": "<p>Eine <b>fundamentale Wechselwirkung</b> ist einer der grundlegend verschiedenen Wege, auf denen physikalische Objekte einander beeinflussen können. Es gibt die vier fundamentalen Wechselwirkungen Gravitation, Elektromagnetismus, schwache Wechselwirkung und starke Wechselwirkung. Sie werden auch als die vier <b>Grundkräfte der Physik</b> oder als <b>Naturkräfte</b> bezeichnet.</p>",
+                "description": "vier Grundkräfte der Physik",
+                "articleUrl": "https://de.wikipedia.org/wiki/Fundamentale_Wechselwirkung",
+                "wikiLang": "de",
+                "dir": "ltr"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            {
+                "frametrail": "http://frametrail.org/ns/"
+            }
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "Wed Aug 09 2017 15:52:25 GMT+0200 (Central European Summer Time)",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "8.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=243,278"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://de.wikipedia.org/wiki/Quark_%28Physik%29",
+            "frametrail:name": "Quark",
+            "frametrail:thumb": "2_1773006491_thumb_quark.png",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:resourceId": "15",
+            "frametrail:attributes": {
+                "extract": "Quarks sind Elementarteilchen und fundamentale Bestandteile der Materie. Quarks verbinden sich zu zusammengesetzten Teilchen, die Hadronen genannt werden. Hierzu gehören die Protonen und Neutronen, die Bestandteile der Atomkerne. Aufgrund eines Phänomens, das als Confinement bekannt ist, werden Quarks nie isoliert gefunden, sondern nur gebunden in Hadronen oder in Quark-Gluon-Plasmen.",
+                "extract_html": "<p><b>Quarks</b> sind Elementarteilchen und fundamentale Bestandteile der Materie. Quarks verbinden sich zu zusammengesetzten Teilchen, die Hadronen genannt werden. Hierzu gehören die Protonen und Neutronen, die Bestandteile der Atomkerne. Aufgrund eines Phänomens, das als Confinement bekannt ist, werden Quarks nie isoliert gefunden, sondern nur gebunden in Hadronen oder in Quark-Gluon-Plasmen.</p>",
+                "description": "Elementarteilchen, aus denen Hadronen im Standardmodell der Teilchenphysik bestehen",
+                "articleUrl": "https://de.wikipedia.org/wiki/Quark_(Physik)",
+                "wikiLang": "de",
+                "dir": "ltr"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            {
+                "frametrail": "http://frametrail.org/ns/"
+            }
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "Wed Aug 09 2017 15:52:25 GMT+0200 (Central European Summer Time)",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "8.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=323,362"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://de.wikipedia.org/wiki/Antimaterie",
+            "frametrail:name": "Antimaterie",
+            "frametrail:thumb": null,
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:resourceId": "22",
+            "frametrail:attributes": {
+                "extract": "Antimaterie ist Materie, die aus Antiteilchen besteht. Anti-Atome haben Atomhüllen aus Positronen (Antielektronen) und Atomkerne aus Antiprotonen und Antineutronen.",
+                "extract_html": "<p><b>Antimaterie</b> ist Materie, die aus Antiteilchen besteht. Anti-Atome haben Atomhüllen aus Positronen (Antielektronen) und Atomkerne aus Antiprotonen und Antineutronen.</p>",
+                "description": "Materie, die aus Antiteilchen besteht",
+                "articleUrl": "https://de.wikipedia.org/wiki/Antimaterie",
+                "wikiLang": "de",
+                "dir": "ltr"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            {
+                "frametrail": "http://frametrail.org/ns/"
+            }
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "Wed Aug 09 2017 15:52:25 GMT+0200 (Central European Summer Time)",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "8.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=348,383"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://de.wikipedia.org/wiki/Dunkle_Materie",
+            "frametrail:name": "Dunkle Materie",
+            "frametrail:thumb": "2_1773006494_thumb_dunkle-materie.png",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:resourceId": "2",
+            "frametrail:attributes": {
+                "extract": "Dunkle Materie ist eine postulierte Form von Materie, die nicht direkt sichtbar ist, aber über die Gravitation wechselwirkt. Ihre Existenz wird im Standardmodell der Kosmologie, dem Lambda-CDM-Modell, postuliert, um innerhalb dieses Modells die Bewegung der sichtbaren Materie zu erklären, insbesondere die Geschwindigkeit, mit der sichtbare Sterne das Zentrum ihrer Galaxie umkreisen. In den Außenbereichen ist diese Geschwindigkeit deutlich höher, als man es allein aufgrund der Gravitation der Sterne, Gas- und Staubwolken erwarten würde.",
+                "extract_html": "<p><b>Dunkle Materie</b> ist eine postulierte Form von Materie, die nicht direkt sichtbar ist, aber über die Gravitation wechselwirkt. Ihre Existenz wird im Standardmodell der Kosmologie, dem Lambda-CDM-Modell, postuliert, um innerhalb dieses Modells die Bewegung der sichtbaren Materie zu erklären, insbesondere die Geschwindigkeit, mit der sichtbare Sterne das Zentrum ihrer Galaxie umkreisen. In den Außenbereichen ist diese Geschwindigkeit deutlich höher, als man es allein aufgrund der Gravitation der Sterne, Gas- und Staubwolken erwarten würde.</p>",
+                "description": "postulierte Form von nicht direkt sichtbarer Materie",
+                "articleUrl": "https://de.wikipedia.org/wiki/Dunkle_Materie",
+                "wikiLang": "de",
+                "dir": "ltr"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            {
+                "frametrail": "http://frametrail.org/ns/"
+            }
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "Wed Aug 09 2017 15:52:25 GMT+0200 (Central European Summer Time)",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "8.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=357,391"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://de.wikipedia.org/wiki/Baryon#Baryonische_Materie_in_der_Kosmologie",
+            "frametrail:name": "Baryonische Materie",
+            "frametrail:thumb": null,
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:resourceId": "33",
+            "frametrail:attributes": {
+                "extract": "Baryonen sind subatomare Teilchen mit relativ großer Masse. Zu ihnen gehören das Proton und das Neutron sowie eine Reihe weiterer, noch schwererer Teilchen. Sie sind aus drei Quarks zusammengesetzt.",
+                "extract_html": "<p><b>Baryonen</b> sind subatomare Teilchen mit relativ großer Masse. Zu ihnen gehören das Proton und das Neutron sowie eine Reihe weiterer, noch schwererer Teilchen. Sie sind aus drei Quarks zusammengesetzt.</p>",
+                "description": "bestimmte Art von Fermionen, wie die Nukleonen Proton oder Neutron",
+                "articleUrl": "https://de.wikipedia.org/wiki/Baryon",
+                "wikiLang": "de",
+                "dir": "ltr"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            {
+                "frametrail": "http://frametrail.org/ns/"
+            }
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "Wed Aug 09 2017 15:52:25 GMT+0200 (Central European Summer Time)",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "8.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=385,418"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://de.wikipedia.org/wiki/Standardmodell#Physik_jenseits_des_Standardmodells",
+            "frametrail:name": "Neue Physik",
+            "frametrail:thumb": null,
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:resourceId": "80",
+            "frametrail:attributes": {
+                "extract": "Das Standardmodell der Elementarteilchenphysik fasst die wesentlichen Erkenntnisse der Teilchenphysik nach heutigem Stand zusammen. Es beschreibt alle bekannten Elementarteilchen und die wichtigen Wechselwirkungen zwischen ihnen: die starke Wechselwirkung, beschrieben durch die Quantenchromodynamik, die schwache Wechselwirkung und die elektromagnetische Wechselwirkung, vereinheitlicht beschrieben durch die Elektroschwache Wechselwirkung. Nur die Gravitation wird nicht berücksichtigt.",
+                "extract_html": "<p>Das <b>Standardmodell der Elementarteilchenphysik</b> fasst die wesentlichen Erkenntnisse der Teilchenphysik nach heutigem Stand zusammen. Es beschreibt alle bekannten Elementarteilchen und die wichtigen Wechselwirkungen zwischen ihnen: die starke Wechselwirkung, beschrieben durch die Quantenchromodynamik, die schwache Wechselwirkung und die elektromagnetische Wechselwirkung, vereinheitlicht beschrieben durch die Elektroschwache Wechselwirkung. Nur die Gravitation wird nicht berücksichtigt.</p>",
+                "description": "physikalische Theorie der Elementarteilchen",
+                "articleUrl": "https://de.wikipedia.org/wiki/Standardmodell",
+                "wikiLang": "de",
+                "dir": "ltr"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            {
+                "frametrail": "http://frametrail.org/ns/"
+            }
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "Wed Aug 09 2017 15:52:25 GMT+0200 (Central European Summer Time)",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "8.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=431,462"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://de.wikipedia.org/wiki/DESY",
+            "frametrail:name": "DESY",
+            "frametrail:thumb": "2_1773006497_thumb_desy.png",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:resourceId": "96",
+            "frametrail:attributes": {
+                "extract": "Das Deutsche Elektronen-Synchrotron DESY, kurz DESY, ist ein Forschungszentrum für naturwissenschaftliche Grundlagenforschung mit Sitz in Hamburg und Zeuthen. Aufgabe von DESY ist die Erforschung von Struktur, Dynamik und Funktion der Materie. Dies erfolgt in vier Forschungsbereichen:Beschleuniger\nForschung mit Photonen\nTeilchenphysik\nAstroteilchenphysik",
+                "extract_html": "<p>Das <b>Deutsche Elektronen-Synchrotron DESY</b>, kurz <b>DESY</b>, ist ein Forschungszentrum für naturwissenschaftliche Grundlagenforschung mit Sitz in Hamburg und Zeuthen. Aufgabe von DESY ist die Erforschung von Struktur, Dynamik und Funktion der Materie. Dies erfolgt in vier Forschungsbereichen:</p><ul><li>Beschleuniger</li>\n<li>Forschung mit Photonen</li>\n<li>Teilchenphysik</li>\n<li>Astroteilchenphysik</li></ul>",
+                "description": "deutsches Forschungszentrum für naturwissenschaftliche Grundlagenforschung",
+                "articleUrl": "https://de.wikipedia.org/wiki/Deutsches_Elektronen-Synchrotron",
+                "wikiLang": "de",
+                "dir": "ltr"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            {
+                "frametrail": "http://frametrail.org/ns/"
+            }
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "Wed Aug 09 2017 15:52:25 GMT+0200 (Central European Summer Time)",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "8.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=431,462"
+            }
+        },
+        "body": {
+            "type": "Dataset",
+            "frametrail:type": "location",
+            "format": "application/x-frametrail-location",
+            "source": null,
+            "frametrail:name": "DESY",
+            "frametrail:thumb": null,
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:resourceId": "99",
+            "frametrail:attributes": {
+                "lat": 53.5767161,
+                "lon": 9.8830545,
+                "boundingBox": "",
+                "marker": {
+                    "color": "#73747b"
+                },
+                "controls": {
+                    "scrollWheelZoom": false
+                },
+                "tileStyle": "carto-light"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            {
+                "frametrail": "http://frametrail.org/ns/"
+            }
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "Wed Aug 09 2017 15:52:25 GMT+0200 (Central European Summer Time)",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "8.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=573,603"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://de.wikipedia.org/wiki/Lagrange-Dichte",
+            "frametrail:name": "Lagrange-Dichte",
+            "frametrail:thumb": null,
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:resourceId": "100",
+            "frametrail:attributes": {
+                "extract": "Die Lagrange-Dichte  spielt in der theoretischen Physik eine Rolle bei der Betrachtung von Feldern. Sie beschreibt die Dichte der Lagrange-Funktion  in einem Volumenelement. Daher ist die Lagrange-Funktion definiert als das Integral der Lagrange-Dichte über dem betrachteten Volumen:",
+                "extract_html": "<p>Die <b>Lagrange-Dichte</b> <span class=\"mwe-math-element mwe-math-element-inline\"><img src=\"https://wikimedia.org/api/rest_v1/media/math/render/svg/9027196ecb178d598958555ea01c43157d83597c\" class=\"mwe-math-fallback-image-inline mw-invert skin-invert\" aria-hidden=\"true\" style=\"vertical-align:-0.338ex;width:1.604ex;height:2.176ex\" /></span> spielt in der theoretischen Physik eine Rolle bei der Betrachtung von Feldern. Sie beschreibt die Dichte der Lagrange-Funktion <span class=\"mwe-math-element mwe-math-element-inline\"><img src=\"https://wikimedia.org/api/rest_v1/media/math/render/svg/103168b86f781fe6e9a4a87b8ea1cebe0ad4ede8\" class=\"mwe-math-fallback-image-inline mw-invert skin-invert\" aria-hidden=\"true\" style=\"vertical-align:-0.338ex;width:1.583ex;height:2.176ex\" /></span> in einem Volumenelement. Daher ist die Lagrange-Funktion definiert als das Integral der Lagrange-Dichte über dem betrachteten Volumen:</p><dl><dd><span class=\"mwe-math-element mwe-math-element-inline\"><img src=\"https://wikimedia.org/api/rest_v1/media/math/render/svg/20307cc3019b1e6694ec33c2c592282a8f2981ac\" class=\"mwe-math-fallback-image-inline mw-invert skin-invert\" aria-hidden=\"true\" style=\"vertical-align:-2.505ex;width:55.924ex;height:6.176ex\" /></span></dd></dl>",
+                "description": "Dichte der Lagrange-Funktion in einem Volumenelement.",
+                "articleUrl": "https://de.wikipedia.org/wiki/Lagrange-Dichte",
+                "wikiLang": "de",
+                "dir": "ltr"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            {
+                "frametrail": "http://frametrail.org/ns/"
+            }
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "Wed Aug 09 2017 15:52:25 GMT+0200 (Central European Summer Time)",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "8.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=628,658"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://de.wikipedia.org/wiki/Feynman-Diagramm",
+            "frametrail:name": "Feynman-Diagramm",
+            "frametrail:thumb": "2_1773006500_thumb_feynman-diagramm.png",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:resourceId": "101",
+            "frametrail:attributes": {
+                "extract": "Feynman-Diagramme sind in der Teilchen- und Festkörperphysik standardmäßig verwendete bildliche Darstellungen quantenfeldtheoretischer Wechselwirkungen, die 1949 von Richard Feynman am Beispiel der Quantenelektrodynamik entwickelt wurden. Die Diagramme sind streng in mathematische Ausdrücke übersetzbar.",
+                "extract_html": "<p><b>Feynman-Diagramme</b> sind in der Teilchen- und Festkörperphysik standardmäßig verwendete bildliche Darstellungen quantenfeldtheoretischer Wechselwirkungen, die 1949 von Richard Feynman am Beispiel der Quantenelektrodynamik entwickelt wurden. Die Diagramme sind streng in mathematische Ausdrücke übersetzbar.</p>",
+                "description": "bildliche Darstellungen quantenfeldtheoretischer Wechselwirkungen",
+                "articleUrl": "https://de.wikipedia.org/wiki/Feynman-Diagramm",
+                "wikiLang": "de",
+                "dir": "ltr"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            {
+                "frametrail": "http://frametrail.org/ns/"
+            }
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "Wed Aug 09 2017 15:52:25 GMT+0200 (Central European Summer Time)",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "8.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=747,775"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://de.wikipedia.org/wiki/Supersymmetrie",
+            "frametrail:name": "Supersymmetrie",
+            "frametrail:thumb": null,
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:resourceId": "7",
+            "frametrail:attributes": {
+                "extract": "Die Supersymmetrie (SUSY) ist eine hypothetische Symmetrie der Teilchenphysik, die Bosonen und Fermionen ineinander umwandelt. Dabei werden Teilchen, die sich unter einer SUSY-Transformation ineinander umwandeln, Superpartner genannt.",
+                "extract_html": "<p>Die <b>Supersymmetrie</b> (<b>SUSY</b>) ist eine hypothetische Symmetrie der Teilchenphysik, die Bosonen und Fermionen ineinander umwandelt. Dabei werden Teilchen, die sich unter einer SUSY-Transformation ineinander umwandeln, Superpartner genannt.</p>",
+                "description": "Modellkonzept der theoretischen Physik",
+                "articleUrl": "https://de.wikipedia.org/wiki/Supersymmetrie",
+                "wikiLang": "de",
+                "dir": "ltr"
+            }
+        }
+    }
+]
