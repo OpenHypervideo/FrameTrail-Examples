@@ -1,0 +1,15 @@
+{
+    "mainAnnotation": "1",
+    "annotationfiles": {
+        "1": {
+            "name": "demo",
+            "description": "demo's annotations",
+            "created": 1521201554,
+            "lastchanged": 1773070547,
+            "hidden": false,
+            "owner": "demo",
+            "ownerId": 1
+        }
+    },
+    "annotation-increment": 1
+}

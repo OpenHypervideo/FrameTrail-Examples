@@ -1,0 +1,111 @@
+{
+    "meta": {
+        "name": "HIRMEOS - The Open Access Monograph",
+        "description": "    ",
+        "thumb": "3_1521200577_thumb_hirmeos-sub-and-sound.png",
+        "creator": "Andrea Bertino",
+        "creatorId": "3",
+        "created": 1521201554218,
+        "lastchanged": 1773103839925
+    },
+    "config": {
+        "slidingMode": "adjust",
+        "slidingTrigger": "key",
+        "autohideControls": false,
+        "captionsVisible": true,
+        "hidden": false,
+        "theme": "",
+        "layoutArea": {
+            "areaTop": [],
+            "areaBottom": [
+                {
+                    "name": "Open Access Basics",
+                    "icon": "",
+                    "type": "TimedContent",
+                    "contentSize": "medium",
+                    "cssClass": "",
+                    "collectionFilter": {
+                        "tags": [
+                            "wiki",
+                            "tools"
+                        ],
+                        "types": [],
+                        "users": [],
+                        "text": ""
+                    },
+                    "onClickContentItem": "",
+                    "html": "",
+                    "transcriptSource": "",
+                    "initClosed": false,
+                    "filterAspect": "creatorId",
+                    "zoomControls": false
+                },
+                {
+                    "type": "TimedContent",
+                    "contentSize": "medium",
+                    "name": "Scholarly Publications",
+                    "description": "",
+                    "cssClass": "",
+                    "collectionFilter": {
+                        "tags": [
+                            "publications"
+                        ],
+                        "types": [],
+                        "users": [],
+                        "text": ""
+                    },
+                    "onClickContentItem": "",
+                    "html": "",
+                    "transcriptSource": "",
+                    "icon": "",
+                    "initClosed": false,
+                    "filterAspect": "creatorId",
+                    "zoomControls": false
+                }
+            ],
+            "areaLeft": [],
+            "areaRight": [
+                {
+                    "name": "Transcript",
+                    "icon": "",
+                    "type": "Transcript",
+                    "contentSize": "medium",
+                    "cssClass": "",
+                    "collectionFilter": {
+                        "tags": [],
+                        "types": [],
+                        "users": [],
+                        "text": ""
+                    },
+                    "onClickContentItem": "",
+                    "html": "",
+                    "transcriptSource": "en"
+                }
+            ]
+        }
+    },
+    "clips": [
+        {
+            "resourceId": "2",
+            "duration": 0,
+            "start": 0,
+            "end": 0,
+            "in": 0,
+            "out": 0
+        }
+    ],
+    "globalEvents": {
+        "onReady": "",
+        "onPlay": "",
+        "onPause": "",
+        "onEnded": ""
+    },
+    "customCSS": "",
+    "contents": [],
+    "subtitles": [
+        {
+            "src": "en.vtt",
+            "srclang": "en"
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+	"partners": {
+		"en": {
+			"label": "Parters",
+			"description": ""
+		},
+		"de": {
+			"label": "Partner",
+			"description": ""
+		}
+	},
+	"wiki": {
+		"en": {
+			"label": "Wiki",
+			"description": ""
+		},
+		"de": {
+			"label": "Wiki",
+			"description": ""
+		}
+	},
+	"publications": {
+		"en": {
+			"label": "Publications",
+			"description": ""
+		},
+		"de": {
+			"label": "Publikationen",
+			"description": ""
+		}
+	},
+	"tools": {
+		"en": {
+			"label": "Tools",
+			"description": ""
+		},
+		"de": {
+			"label": "Tools",
+			"description": ""
+		}
+	}
+}

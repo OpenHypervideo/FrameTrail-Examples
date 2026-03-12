@@ -1,0 +1,17 @@
+ @import url('https://fonts.googleapis.com/css?family=Raleway');
+
+.frametrail-body {
+  font-family: 'Raleway', sans-serif;
+}
+
+.layoutArea .contentViewContainer .contentViewContents .transcriptContainer span {
+	opacity: .9;
+}
+
+.layoutArea .contentViewContainer .contentViewContents .transcriptContainer span:hover, .layoutArea .contentViewContainer .contentViewContents .transcriptContainer span.active {
+	color: #e26238;
+}
+
+.overlayElement .resourceDetail[data-type="text"]:hover {
+	cursor: pointer;
+}

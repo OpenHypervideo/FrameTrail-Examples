@@ -1,0 +1,638 @@
+{
+    "resources-increment": 99,
+    "resources": {
+        "2": {
+            "name": "Hirmeos sub and sound",
+            "type": "video",
+            "src": "3_1521200577_hirmeos-sub-and-sound.mp4",
+            "thumb": "3_1521200577_thumb_hirmeos-sub-and-sound.png",
+            "description": null,
+            "creator": "Andrea Bertino",
+            "creatorId": "3",
+            "created": 1521200577,
+            "licenseType": null,
+            "licenseAttribution": null,
+            "tags": null,
+            "attributes": {}
+        },
+        "19": {
+            "name": "Hypothesis Intro",
+            "type": "youtube",
+            "src": "https://www.youtube.com/embed/QCkm0lL-6lc",
+            "thumb": "https://img.youtube.com/vi/QCkm0lL-6lc/hqdefault.jpg",
+            "description": null,
+            "creator": "Andrea Bertino",
+            "creatorId": "3",
+            "created": 1521641868,
+            "licenseType": null,
+            "licenseAttribution": null,
+            "tags": null,
+            "attributes": {}
+        },
+        "27": {
+            "name": "EKt epublishing",
+            "type": "urlpreview",
+            "src": "https://epublishing.ekt.gr/",
+            "thumb": null,
+            "description": null,
+            "creator": "Andrea Bertino",
+            "creatorId": "3",
+            "created": 1525779564,
+            "licenseType": null,
+            "licenseAttribution": null,
+            "tags": null,
+            "attributes": {
+                "embed": "forbidden"
+            }
+        },
+        "59": {
+            "name": "Open Edition Books",
+            "type": "webpage",
+            "src": "https://books.openedition.org/",
+            "thumb": null,
+            "description": null,
+            "creator": "Andrea Bertino",
+            "creatorId": "3",
+            "created": 1527235799,
+            "licenseType": null,
+            "licenseAttribution": null,
+            "tags": null,
+            "attributes": {
+                "embed": "allowed"
+            }
+        },
+        "60": {
+            "name": "OAPEN ",
+            "type": "urlpreview",
+            "src": "https://oapen.org/search",
+            "thumb": null,
+            "description": null,
+            "creator": "Andrea Bertino",
+            "creatorId": "3",
+            "created": 1527235825,
+            "licenseType": null,
+            "licenseAttribution": null,
+            "tags": null,
+            "attributes": {
+                "embed": "forbidden"
+            }
+        },
+        "61": {
+            "name": "Universitätsverlag Göttingen ",
+            "type": "webpage",
+            "src": "https://www.univerlag.uni-goettingen.de/",
+            "thumb": null,
+            "description": null,
+            "creator": "Andrea Bertino",
+            "creatorId": "3",
+            "created": 1527235902,
+            "licenseType": null,
+            "licenseAttribution": null,
+            "tags": null,
+            "attributes": {
+                "embed": "allowed"
+            }
+        },
+        "62": {
+            "name": "Ubiquity Press",
+            "type": "urlpreview",
+            "src": "https://www.ubiquitypress.com/site/books/",
+            "thumb": null,
+            "description": "Browse our expansive catalog of academic books and publications, published across a wide range of disciplines.",
+            "creator": "Andrea Bertino",
+            "creatorId": "3",
+            "created": 1527235924,
+            "licenseType": null,
+            "licenseAttribution": null,
+            "tags": null,
+            "attributes": {
+                "embed": "forbidden"
+            }
+        },
+        "63": {
+            "name": "Hypothes.is",
+            "type": "webpage",
+            "src": "https://web.hypothes.is/",
+            "thumb": "3_1527235948_thumb_hypothesis.png",
+            "description": "Hypothesis is the leading social annotation platform trusted by 300+ institutions to boost student engagement, comprehension, and critical thinking — seamlessly integrated into your LMS.",
+            "creator": "Andrea Bertino",
+            "creatorId": "3",
+            "created": 1527235948,
+            "licenseType": null,
+            "licenseAttribution": null,
+            "tags": null,
+            "attributes": {
+                "embed": "allowed"
+            }
+        },
+        "64": {
+            "name": "Open Book Publishers",
+            "type": "webpage",
+            "src": "https://www.openbookpublishers.com/",
+            "thumb": "3_1527235992_thumb_open-book-publishers.png",
+            "description": "We publish high-quality, open access academic research in the Humanities and Social Sciences. Read all our books for free online.",
+            "creator": "Andrea Bertino",
+            "creatorId": "3",
+            "created": 1527235992,
+            "licenseType": null,
+            "licenseAttribution": null,
+            "tags": null,
+            "attributes": {
+                "embed": "allowed"
+            }
+        },
+        "65": {
+            "name": "CNRS",
+            "type": "urlpreview",
+            "src": "https://www.cnrs.fr/",
+            "thumb": "3_1527236042_thumb_cnrs.png",
+            "description": "Acteur majeur de la recherche fondamentale et de l’innovation à l’échelle mondiale, le Centre national de la recherche scientifique (CNRS) est le seul organisme français actif dans tous les domaines scientifiques. Ensemble, les sciences se mettent au service d’un progrès durable qui bénéficie à toute la société.",
+            "creator": "Andrea Bertino",
+            "creatorId": "3",
+            "created": 1527236042,
+            "licenseType": null,
+            "licenseAttribution": null,
+            "tags": null,
+            "attributes": {
+                "embed": "forbidden"
+            }
+        },
+        "66": {
+            "name": "EKT",
+            "type": "urlpreview",
+            "src": "https://www.ekt.gr/en/index",
+            "thumb": null,
+            "description": null,
+            "creator": "Andrea Bertino",
+            "creatorId": "3",
+            "created": 1527236102,
+            "licenseType": null,
+            "licenseAttribution": null,
+            "tags": null,
+            "attributes": {
+                "embed": "forbidden"
+            }
+        },
+        "67": {
+            "name": "Università di Torino",
+            "type": "urlpreview",
+            "src": "https://www.unito.it/",
+            "thumb": null,
+            "description": null,
+            "creator": "Andrea Bertino",
+            "creatorId": "3",
+            "created": 1527236193,
+            "licenseType": null,
+            "licenseAttribution": null,
+            "tags": null,
+            "attributes": {
+                "embed": "forbidden"
+            }
+        },
+        "68": {
+            "name": "Universität Göttingen",
+            "type": "urlpreview",
+            "src": "https://www.uni-goettingen.de/en/1.html",
+            "thumb": null,
+            "description": "Website of the Georg-August-University Göttingen",
+            "creator": "Andrea Bertino",
+            "creatorId": "3",
+            "created": 1527236237,
+            "licenseType": null,
+            "licenseAttribution": null,
+            "tags": null,
+            "attributes": {
+                "embed": "forbidden"
+            }
+        },
+        "69": {
+            "name": "DARIAH-EU",
+            "type": "webpage",
+            "src": "https://www.dariah.eu/",
+            "thumb": null,
+            "description": null,
+            "creator": "Andrea Bertino",
+            "creatorId": "3",
+            "created": 1527236349,
+            "licenseType": null,
+            "licenseAttribution": null,
+            "tags": null,
+            "attributes": {
+                "embed": "allowed"
+            }
+        },
+        "70": {
+            "name": "Open  Access",
+            "type": "wikipedia",
+            "src": "https://en.wikipedia.org/wiki/Open_access",
+            "thumb": "3_1527236413_thumb_open-access.png",
+            "description": null,
+            "creator": "Andrea Bertino",
+            "creatorId": "3",
+            "created": 1527236413,
+            "licenseType": null,
+            "licenseAttribution": null,
+            "tags": null,
+            "attributes": {
+                "extract": "Open access (OA) is a set of principles and a range of practices through which nominally copyrightable publications are delivered to readers free of access charges or other barriers. With open access strictly defined, or libre open access, barriers to copying or reuse are also reduced or removed by applying an open license for copyright, which regulates post-publication uses of the work.",
+                "extract_html": "<p><b>Open access</b> (<b>OA</b>) is a set of principles and a range of practices through which nominally copyrightable publications are delivered to readers free of access charges or other barriers. With open access strictly defined, or libre open access, barriers to copying or reuse are also reduced or removed by applying an open license for copyright, which regulates post-publication uses of the work.</p>",
+                "description": "Open access to scientific research",
+                "articleUrl": "https://en.wikipedia.org/wiki/Open_access",
+                "wikiLang": "en",
+                "dir": "ltr"
+            }
+        },
+        "71": {
+            "name": "Peer Review",
+            "type": "wikipedia",
+            "src": "https://en.wikipedia.org/wiki/Peer_review",
+            "thumb": "3_1527236439_thumb_peer-review.png",
+            "description": null,
+            "creator": "Andrea Bertino",
+            "creatorId": "3",
+            "created": 1527236439,
+            "licenseType": null,
+            "licenseAttribution": null,
+            "tags": null,
+            "attributes": {
+                "extract": "Peer review is the evaluation of work by one or more people with similar competencies as the producers of the work. It functions as a form of self-regulation by qualified members of a profession within the relevant field. \nPeer review methods are used to maintain quality standards, improve performance, and provide credibility. In academia, scholarly peer review is typically used to determine an academic paper's suitability for publication. The reviewers are experts in the topic at hand and they have no connection to the author. They are anonymous and cannot be pressured. Top journals reject over 90% of submitted papers. Peer review can be categorized by the type and by the field or profession in which the activity occurs, e.g., medical peer review. It can also be used as a teaching tool to help students improve writing assignments.",
+                "extract_html": "<p><b>Peer review</b> is the evaluation of work by one or more people with similar competencies as the producers of the work. It functions as a form of self-regulation by qualified members of a profession within the relevant field. \nPeer review methods are used to maintain quality standards, improve performance, and provide credibility. In academia, scholarly peer review is typically used to determine an academic paper's suitability for publication. The reviewers are experts in the topic at hand and they have no connection to the author. They are anonymous and cannot be pressured. Top journals reject over 90% of submitted papers. Peer review can be categorized by the type and by the field or profession in which the activity occurs, e.g., <span class=\"mw-selflink-fragment\">medical peer review</span>. It can also be used as a teaching tool to help students improve writing assignments.</p>",
+                "description": "Evaluation by peers with similar expertise",
+                "articleUrl": "https://en.wikipedia.org/wiki/Peer_review",
+                "wikiLang": "en",
+                "dir": "ltr"
+            }
+        },
+        "72": {
+            "name": "Creative Commons",
+            "type": "wikipedia",
+            "src": "https://en.wikipedia.org/wiki/Creative_Commons_license",
+            "thumb": "3_1527236467_thumb_creative-commons.png",
+            "description": null,
+            "creator": "Andrea Bertino",
+            "creatorId": "3",
+            "created": 1527236467,
+            "licenseType": null,
+            "licenseAttribution": null,
+            "tags": null,
+            "attributes": {
+                "extract": "A Creative Commons (CC) license is one of several public copyright licenses that enable the free distribution of an otherwise copyrighted \"work\". A CC license is used when an author wants to give other people the right to share, use, and build upon a work that the author has created. CC provides an author flexibility and protects the people who use or redistribute an author's work from concerns of copyright infringement as long as they abide by the conditions that are specified in the license by which the author distributes the work.",
+                "extract_html": "<p>A <b>Creative Commons</b> (<b>CC</b>) <b>license</b> is one of several public copyright licenses that enable the free distribution of an otherwise copyrighted \"work\". A CC license is used when an author wants to give other people the right to share, use, and build upon a work that the author has created. CC provides an author flexibility and protects the people who use or redistribute an author's work from concerns of copyright infringement as long as they abide by the conditions that are specified in the license by which the author distributes the work.</p>",
+                "description": "Copyright license for free use of a work",
+                "articleUrl": "https://en.wikipedia.org/wiki/Creative_Commons_license",
+                "wikiLang": "en",
+                "dir": "ltr"
+            }
+        },
+        "73": {
+            "name": "Digital Object Identifier (DOI)",
+            "type": "wikipedia",
+            "src": "https://en.wikipedia.org/wiki/Digital_object_identifier",
+            "thumb": "3_1527236531_thumb_digital-object-identifier-doi.png",
+            "description": null,
+            "creator": "Andrea Bertino",
+            "creatorId": "3",
+            "created": 1527236531,
+            "licenseType": null,
+            "licenseAttribution": null,
+            "tags": null,
+            "attributes": {
+                "extract": "A digital object identifier (DOI) is a persistent identifier or handle used to uniquely identify various objects, standardized by the International Organization for Standardization (ISO). DOIs are an implementation of the Handle System; they also fit within the URI system. They are widely used to identify academic, professional, and government information, such as journal articles, research reports, data sets, and official publications.",
+                "extract_html": "<p>A <b>digital object identifier</b> (<b>DOI</b>) is a persistent identifier or handle used to uniquely identify various objects, standardized by the International Organization for Standardization (ISO). DOIs are an implementation of the Handle System; they also fit within the URI system. They are widely used to identify academic, professional, and government information, such as journal articles, research reports, data sets, and official publications.</p>",
+                "description": "ISO standard unique string identifier for a digital object",
+                "articleUrl": "https://en.wikipedia.org/wiki/Digital_object_identifier",
+                "wikiLang": "en",
+                "dir": "ltr"
+            }
+        },
+        "74": {
+            "name": "ORCID",
+            "type": "wikipedia",
+            "src": "https://en.wikipedia.org/wiki/ORCID",
+            "thumb": "3_1527236548_thumb_orcid.png",
+            "description": null,
+            "creator": "Andrea Bertino",
+            "creatorId": "3",
+            "created": 1527236548,
+            "licenseType": null,
+            "licenseAttribution": null,
+            "tags": null,
+            "attributes": {
+                "extract": "ORCID is a global not-for-profit organization that provides a nonproprietary persistent identifier, in the form of an alphanumeric code called an ORCID iD, to uniquely identify an author of or contributor to scholarly communications.",
+                "extract_html": "<p><b>ORCID</b> is a global not-for-profit organization that provides a nonproprietary persistent identifier, in the form of an alphanumeric code called an <i>ORCID iD</i>, to uniquely identify an author of or contributor to scholarly communications.</p>",
+                "description": "Alphanumeric technical code",
+                "articleUrl": "https://en.wikipedia.org/wiki/ORCID",
+                "wikiLang": "en",
+                "dir": "ltr"
+            }
+        },
+        "75": {
+            "name": "Crossref",
+            "type": "wikipedia",
+            "src": "https://en.wikipedia.org/wiki/Crossref",
+            "thumb": "3_1527236573_thumb_crossref.png",
+            "description": null,
+            "creator": "Andrea Bertino",
+            "creatorId": "3",
+            "created": 1527236573,
+            "licenseType": null,
+            "licenseAttribution": null,
+            "tags": null,
+            "attributes": {
+                "extract": "Crossref is a nonprofit open digital infrastructure organization for the global scholarly research community. It is the largest digital object identifier (DOI) Registration Agency of the International DOI Foundation. It has 23,000 members from 164 countries representing publishers, libraries, research institutions, and funders and was launched in early 2000 as a cooperative effort among publishers to enable persistent cross-platform citation linking in online academic journals. As of July 2023, Crossref identifies and connects 150 million records of metadata about research objects made openly available for reuse without restriction. They facilitate an average of 1.1 billion DOI resolutions every month, and they see 1 billion queries of the metadata every month.",
+                "extract_html": "<p><b>Crossref</b> is a nonprofit open digital infrastructure organization for the global scholarly research community. It is the largest digital object identifier (DOI) Registration Agency of the International DOI Foundation. It has 23,000 members from 164 countries representing publishers, libraries, research institutions, and funders and was launched in early 2000 as a cooperative effort among publishers to enable persistent cross-platform citation linking in online academic journals. As of July 2023, Crossref identifies and connects 150 million records of metadata about research objects made openly available for reuse without restriction. They facilitate an average of 1.1 billion DOI resolutions every month, and they see 1 billion queries of the metadata every month.</p>",
+                "description": "Nonprofit open digital infrastructure organization",
+                "articleUrl": "https://en.wikipedia.org/wiki/Crossref",
+                "wikiLang": "en",
+                "dir": "ltr"
+            }
+        },
+        "76": {
+            "name": "altmetrics",
+            "type": "wikipedia",
+            "src": "https://en.wikipedia.org/wiki/Altmetrics",
+            "thumb": "3_1527236622_thumb_altmetrics.png",
+            "description": null,
+            "creator": "Andrea Bertino",
+            "creatorId": "3",
+            "created": 1527236622,
+            "licenseType": null,
+            "licenseAttribution": null,
+            "tags": null,
+            "attributes": {
+                "extract": "In scholarly and scientific publishing, altmetrics are non-traditional bibliometrics proposed as an alternative or complement to more traditional citation impact metrics, such as impact factor and h-index. The term altmetrics was proposed in 2010, as a generalization of article level metrics, and has its roots in the #altmetrics hashtag. Although altmetrics are often thought of as metrics about articles, they can be applied to people, journals, books, data sets, presentations, videos, source code repositories, web pages, etc.",
+                "extract_html": "<p>In scholarly and scientific publishing, <b>altmetrics</b> are non-traditional bibliometrics proposed as an alternative or complement to more traditional citation impact metrics, such as impact factor and <span><i>h</i>-index</span>. The term altmetrics was proposed in 2010, as a generalization of article level metrics, and has its roots in the #altmetrics hashtag. Although altmetrics are often thought of as metrics about articles, they can be applied to people, journals, books, data sets, presentations, videos, source code repositories, web pages, etc.</p>",
+                "description": "Alternative metrics for analyzing scholarship",
+                "articleUrl": "https://en.wikipedia.org/wiki/Altmetrics",
+                "wikiLang": "en",
+                "dir": "ltr"
+            }
+        },
+        "77": {
+            "name": "Unlocking the Digital Potential of Scholarly Monographs ",
+            "type": "pdf",
+            "src": "3_1527238149_unlocking-the-digital-potential-of-scholarly-monographs.pdf",
+            "thumb": null,
+            "description": null,
+            "creator": "Andrea Bertino",
+            "creatorId": "3",
+            "created": 1527238149,
+            "licenseType": null,
+            "licenseAttribution": null,
+            "tags": null,
+            "attributes": {}
+        },
+        "78": {
+            "name": " Open_Access_and_the_Humanities",
+            "type": "pdf",
+            "src": "3_1527238196_openaccessandthehumanities.pdf",
+            "thumb": null,
+            "description": null,
+            "creator": "Andrea Bertino",
+            "creatorId": "3",
+            "created": 1527238196,
+            "licenseType": null,
+            "licenseAttribution": null,
+            "tags": null,
+            "attributes": {}
+        },
+        "79": {
+            "name": "Göttingen University Press: Publishing services in an Open Access Environment",
+            "type": "pdf",
+            "src": "3_1527238273_gttingen-university-press-publishing-services-in-an-open-access-environment.pdf",
+            "thumb": null,
+            "description": null,
+            "creator": "Andrea Bertino",
+            "creatorId": "3",
+            "created": 1527238273,
+            "licenseType": null,
+            "licenseAttribution": null,
+            "tags": null,
+            "attributes": {}
+        },
+        "80": {
+            "name": "Landscape study on OA and Monographs",
+            "type": "pdf",
+            "src": "3_1527238337_landscape-study-on-oa-and-monographs.pdf",
+            "thumb": null,
+            "description": null,
+            "creator": "Andrea Bertino",
+            "creatorId": "3",
+            "created": 1527238337,
+            "licenseType": null,
+            "licenseAttribution": null,
+            "tags": null,
+            "attributes": {}
+        },
+        "81": {
+            "name": "The Academic Book of the Future",
+            "type": "pdf",
+            "src": "3_1527238413_the-academic-book-of-the-future.pdf",
+            "thumb": null,
+            "description": null,
+            "creator": "Andrea Bertino",
+            "creatorId": "3",
+            "created": 1527238413,
+            "licenseType": null,
+            "licenseAttribution": null,
+            "tags": null,
+            "attributes": {}
+        },
+        "82": {
+            "name": "Snapshots of three Open Access Business Models",
+            "type": "pdf",
+            "src": "3_1527238471_snapshots-of-three-open-access-business-models.pdf",
+            "thumb": null,
+            "description": null,
+            "creator": "Andrea Bertino",
+            "creatorId": "3",
+            "created": 1527238471,
+            "licenseType": null,
+            "licenseAttribution": null,
+            "tags": null,
+            "attributes": {}
+        },
+        "83": {
+            "name": "The Academic Book and its Digital Dilemmas",
+            "type": "pdf",
+            "src": "3_1527238517_the-academic-book-and-its-digital-dilemmas.pdf",
+            "thumb": null,
+            "description": null,
+            "creator": "Andrea Bertino",
+            "creatorId": "3",
+            "created": 1527238517,
+            "licenseType": null,
+            "licenseAttribution": null,
+            "tags": null,
+            "attributes": {}
+        },
+        "84": {
+            "name": "UCL Press: a New Model for Open Access University Presses",
+            "type": "pdf",
+            "src": "3_1527238561_ucl-press-a-new-model-for-open-access-university-presses.pdf",
+            "thumb": null,
+            "description": null,
+            "creator": "Andrea Bertino",
+            "creatorId": "3",
+            "created": 1527238561,
+            "licenseType": null,
+            "licenseAttribution": null,
+            "tags": null,
+            "attributes": {}
+        },
+        "85": {
+            "name": "Measuring monographs: A Quantitative Method to Assess Scientific Impact and Societal Relevance",
+            "type": "pdf",
+            "src": "3_1527238747_measuring-monographs-a-quantitative-method-to-assess-scientific-impact-and-so.pdf",
+            "thumb": null,
+            "description": null,
+            "creator": "Andrea Bertino",
+            "creatorId": "3",
+            "created": 1527238747,
+            "licenseType": null,
+            "licenseAttribution": null,
+            "tags": null,
+            "attributes": {}
+        },
+        "86": {
+            "name": "Modes of Access: the Influence of Dissemination Channels on the Use of Open Access  Monographs",
+            "type": "pdf",
+            "src": "3_1527238892_modes-of-access-the-influence-of-dissemination-channels-on-the-use-of-open-ac.pdf",
+            "thumb": null,
+            "description": null,
+            "creator": "Andrea Bertino",
+            "creatorId": "3",
+            "created": 1527238892,
+            "licenseType": null,
+            "licenseAttribution": null,
+            "tags": null,
+            "attributes": {}
+        },
+        "87": {
+            "name": "Entity-Fishing by INRIA",
+            "type": "urlpreview",
+            "src": "https://cloud.science-miner.com/nerd/",
+            "thumb": null,
+            "description": null,
+            "creator": "Andrea Bertino",
+            "creatorId": "3",
+            "created": 1527238992,
+            "licenseType": null,
+            "licenseAttribution": null,
+            "tags": null,
+            "attributes": {
+                "embed": "forbidden"
+            }
+        },
+        "88": {
+            "name": "OPERAS",
+            "type": "webpage",
+            "src": "https://operas.hypotheses.org/",
+            "thumb": null,
+            "description": null,
+            "creator": "Andrea Bertino",
+            "creatorId": "3",
+            "created": 1527241965,
+            "licenseType": null,
+            "licenseAttribution": null,
+            "tags": null,
+            "attributes": {
+                "embed": "allowed"
+            }
+        },
+        "89": {
+            "name": "An Emerging Scholarly Form: The Digital Monograph",
+            "type": "pdf",
+            "src": "3_1536847471_an-emerging-scholarly-form-the-digital-monograph.pdf",
+            "thumb": null,
+            "description": null,
+            "creator": "Andrea Bertino",
+            "creatorId": "3",
+            "created": 1536847471,
+            "licenseType": null,
+            "licenseAttribution": null,
+            "tags": null,
+            "attributes": {}
+        },
+        "95": {
+            "name": "UiT Podcast: What is Plan S",
+            "type": "urlpreview",
+            "src": "https://site.uit.no/ub/2018/10/08/open-science-talk-what-is-plan-s/",
+            "thumb": null,
+            "description": null,
+            "creator": "Andrea Bertino",
+            "creatorId": "3",
+            "created": 1539345890,
+            "licenseType": null,
+            "licenseAttribution": null,
+            "tags": null,
+            "attributes": {
+                "embed": "forbidden"
+            }
+        },
+        "96": {
+            "name": "UiT Podcast: What is Open Science",
+            "type": "urlpreview",
+            "src": "https://site.uit.no/ub/2018/10/03/open-science-talk-podcast/",
+            "thumb": null,
+            "description": null,
+            "creator": "Andrea Bertino",
+            "creatorId": "3",
+            "created": 1539345936,
+            "licenseType": null,
+            "licenseAttribution": null,
+            "tags": null,
+            "attributes": {
+                "embed": "forbidden"
+            }
+        },
+        "97": {
+            "name": "UiT Podcast: Senior Scientist and OS",
+            "type": "urlpreview",
+            "src": "https://site.uit.no/ub/2018/10/08/podcast-episode/",
+            "thumb": null,
+            "description": null,
+            "creator": "Andrea Bertino",
+            "creatorId": "3",
+            "created": 1539345982,
+            "licenseType": null,
+            "licenseAttribution": null,
+            "tags": null,
+            "attributes": {
+                "embed": "forbidden"
+            }
+        },
+        "98": {
+            "name": "UiT Podcast:To Open Access or Not to Open Access?",
+            "type": "urlpreview",
+            "src": "https://site.uit.no/ub/2018/10/08/should-you-do-open-access/",
+            "thumb": null,
+            "description": null,
+            "creator": "Andrea Bertino",
+            "creatorId": "3",
+            "created": 1539346028,
+            "licenseType": null,
+            "licenseAttribution": null,
+            "tags": null,
+            "attributes": {
+                "embed": "forbidden"
+            }
+        },
+        "99": {
+            "name": "Green , Gold, Diamond OA",
+            "type": "webpage",
+            "src": "https://blogs.openbookpublishers.com/green-gold-diamond-black-what-does-it-all-mean/",
+            "thumb": "3_1540284032_thumb_green-gold-diamond-oa.png",
+            "description": "There’s a lot of jargon surrounding Open Access publication, and as with all\njargon it can confuse and obfuscate. Here is a simple glossary:\n\nDiamond / PlatinumImmediate Open Access publication by the journal or book\npublisher without payment of a fee. Copyright may be retained by the author and\npermission",
+            "creator": "Andrea Bertino",
+            "creatorId": "3",
+            "created": 1540284032,
+            "licenseType": null,
+            "licenseAttribution": null,
+            "tags": null,
+            "attributes": {
+                "embed": "allowed"
+            }
+        }
+    }
+}

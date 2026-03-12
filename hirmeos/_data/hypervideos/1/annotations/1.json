@@ -1,0 +1,1339 @@
+[
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            {
+                "frametrail": "http://frametrail.org/ns/"
+            }
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "Fri May 25 2018 11:10:09 GMT+0200 (Central European Summer Time)",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "partners"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "3_1521200577_hirmeos-sub-and-sound.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=171.5687854153538,199.9146737687627"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "webpage",
+            "format": "text/html",
+            "value": "https://books.openedition.org/",
+            "frametrail:name": "Open Edition Books",
+            "frametrail:thumb": null,
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:resourceId": "59",
+            "frametrail:attributes": {
+                "embed": "allowed"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            {
+                "frametrail": "http://frametrail.org/ns/"
+            }
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "Fri May 25 2018 11:10:14 GMT+0200 (Central European Summer Time)",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "partners"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "3_1521200577_hirmeos-sub-and-sound.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=171.27519472948103,199.91465247048075"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "webpage",
+            "format": "text/html",
+            "value": "https://www.univerlag.uni-goettingen.de/",
+            "frametrail:name": "Universitätsverlag Göttingen ",
+            "frametrail:thumb": null,
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:resourceId": "61",
+            "frametrail:attributes": {
+                "embed": "allowed"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            {
+                "frametrail": "http://frametrail.org/ns/"
+            }
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "Fri May 25 2018 11:10:24 GMT+0200 (Central European Summer Time)",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "partners"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "3_1521200577_hirmeos-sub-and-sound.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=170.6816276605577,199.91466374508013"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "webpage",
+            "format": "text/html",
+            "value": "https://www.openbookpublishers.com/",
+            "frametrail:name": "Open Book Publishers",
+            "frametrail:thumb": null,
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:resourceId": "64",
+            "frametrail:attributes": {
+                "embed": "allowed"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            {
+                "frametrail": "http://frametrail.org/ns/"
+            }
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "Fri May 25 2018 11:10:34 GMT+0200 (Central European Summer Time)",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "partners"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "3_1521200577_hirmeos-sub-and-sound.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=171.1274163004566,199.91465247048075"
+            }
+        },
+        "body": {
+            "frametrail:type": "urlpreview",
+            "source": "https://www.unito.it/",
+            "frametrail:name": "Università di Torino",
+            "frametrail:thumb": null,
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:resourceId": "67",
+            "frametrail:attributes": {
+                "embed": "forbidden"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            {
+                "frametrail": "http://frametrail.org/ns/"
+            }
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "Fri May 25 2018 11:10:35 GMT+0200 (Central European Summer Time)",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "partners"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "3_1521200577_hirmeos-sub-and-sound.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=171.27489476289756,199.91281912777637"
+            }
+        },
+        "body": {
+            "frametrail:type": "urlpreview",
+            "source": "https://www.uni-goettingen.de/en/1.html",
+            "frametrail:name": "Universität Göttingen",
+            "frametrail:thumb": null,
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:resourceId": "68",
+            "frametrail:attributes": {
+                "embed": "forbidden"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            {
+                "frametrail": "http://frametrail.org/ns/"
+            }
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "Fri May 25 2018 11:10:37 GMT+0200 (Central European Summer Time)",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "partners"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "3_1521200577_hirmeos-sub-and-sound.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=171.2767539163924,199.91467828127122"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "webpage",
+            "format": "text/html",
+            "value": "https://www.dariah.eu/",
+            "frametrail:name": "DARIAH-EU",
+            "frametrail:thumb": null,
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:resourceId": "69",
+            "frametrail:attributes": {
+                "embed": "allowed"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            {
+                "frametrail": "http://frametrail.org/ns/"
+            }
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "Fri May 25 2018 11:30:30 GMT+0200 (Central European Summer Time)",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "wiki"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "3_1521200577_hirmeos-sub-and-sound.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=8.264137065486626,45.956662516064796"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/Open_access",
+            "frametrail:name": "Open  Access",
+            "frametrail:thumb": "3_1773004472_thumb_open-access.png",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:resourceId": "70",
+            "frametrail:attributes": {
+                "extract": "Open access (OA) is a set of principles and a range of practices through which nominally copyrightable publications are delivered to readers free of access charges or other barriers. With open access strictly defined, or libre open access, barriers to copying or reuse are also reduced or removed by applying an open license for copyright, which regulates post-publication uses of the work.",
+                "extract_html": "<p><b>Open access</b> (<b>OA</b>) is a set of principles and a range of practices through which nominally copyrightable publications are delivered to readers free of access charges or other barriers. With open access strictly defined, or libre open access, barriers to copying or reuse are also reduced or removed by applying an open license for copyright, which regulates post-publication uses of the work.</p>",
+                "description": "Open access to scientific research",
+                "articleUrl": "https://en.wikipedia.org/wiki/Open_access",
+                "wikiLang": "en",
+                "dir": "ltr"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            {
+                "frametrail": "http://frametrail.org/ns/"
+            }
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "Fri May 25 2018 11:30:42 GMT+0200 (Central European Summer Time)",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "wiki"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "3_1521200577_hirmeos-sub-and-sound.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=109.79041438424557,126.50295546613947"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/Peer_review",
+            "frametrail:name": "Peer Review",
+            "frametrail:thumb": "3_1773004473_thumb_peer-review.png",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:resourceId": "71",
+            "frametrail:attributes": {
+                "extract": "Peer review is the evaluation of work by one or more people with similar competencies as the producers of the work. It functions as a form of self-regulation by qualified members of a profession within the relevant field. \nPeer review methods are used to maintain quality standards, improve performance, and provide credibility. In academia, scholarly peer review is typically used to determine an academic paper's suitability for publication. The reviewers are experts in the topic at hand and they have no connection to the author. They are anonymous and cannot be pressured. Top journals reject over 90% of submitted papers. Peer review can be categorized by the type and by the field or profession in which the activity occurs, e.g., medical peer review. It can also be used as a teaching tool to help students improve writing assignments.",
+                "extract_html": "<p><b>Peer review</b> is the evaluation of work by one or more people with similar competencies as the producers of the work. It functions as a form of self-regulation by qualified members of a profession within the relevant field. \nPeer review methods are used to maintain quality standards, improve performance, and provide credibility. In academia, scholarly peer review is typically used to determine an academic paper's suitability for publication. The reviewers are experts in the topic at hand and they have no connection to the author. They are anonymous and cannot be pressured. Top journals reject over 90% of submitted papers. Peer review can be categorized by the type and by the field or profession in which the activity occurs, e.g., <span class=\"mw-selflink-fragment\">medical peer review</span>. It can also be used as a teaching tool to help students improve writing assignments.</p>",
+                "description": "Evaluation by peers with similar expertise",
+                "articleUrl": "https://en.wikipedia.org/wiki/Peer_review",
+                "wikiLang": "en",
+                "dir": "ltr"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            {
+                "frametrail": "http://frametrail.org/ns/"
+            }
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "Fri May 25 2018 11:30:45 GMT+0200 (Central European Summer Time)",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "wiki"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "3_1521200577_hirmeos-sub-and-sound.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=8.29596243609208,45.70028683865286"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/Creative_Commons_license",
+            "frametrail:name": "Creative Commons",
+            "frametrail:thumb": "3_1773004474_thumb_creative-commons.png",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:resourceId": "72",
+            "frametrail:attributes": {
+                "extract": "A Creative Commons (CC) license is one of several public copyright licenses that enable the free distribution of an otherwise copyrighted \"work\". A CC license is used when an author wants to give other people the right to share, use, and build upon a work that the author has created. CC provides an author flexibility and protects the people who use or redistribute an author's work from concerns of copyright infringement as long as they abide by the conditions that are specified in the license by which the author distributes the work.",
+                "extract_html": "<p>A <b>Creative Commons</b> (<b>CC</b>) <b>license</b> is one of several public copyright licenses that enable the free distribution of an otherwise copyrighted \"work\". A CC license is used when an author wants to give other people the right to share, use, and build upon a work that the author has created. CC provides an author flexibility and protects the people who use or redistribute an author's work from concerns of copyright infringement as long as they abide by the conditions that are specified in the license by which the author distributes the work.</p>",
+                "description": "Copyright license for free use of a work",
+                "articleUrl": "https://en.wikipedia.org/wiki/Creative_Commons_license",
+                "wikiLang": "en",
+                "dir": "ltr"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            {
+                "frametrail": "http://frametrail.org/ns/"
+            }
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "Fri May 25 2018 11:30:48 GMT+0200 (Central European Summer Time)",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "wiki"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "3_1521200577_hirmeos-sub-and-sound.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=89.54879873395797,108.0309541069527"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/Digital_object_identifier",
+            "frametrail:name": "Digital Object Identifier (DOI)",
+            "frametrail:thumb": "3_1773004475_thumb_digital-object-identifier-doi.png",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:resourceId": "73",
+            "frametrail:attributes": {
+                "extract": "A digital object identifier (DOI) is a persistent identifier or handle used to uniquely identify various objects, standardized by the International Organization for Standardization (ISO). DOIs are an implementation of the Handle System; they also fit within the URI system. They are widely used to identify academic, professional, and government information, such as journal articles, research reports, data sets, and official publications.",
+                "extract_html": "<p>A <b>digital object identifier</b> (<b>DOI</b>) is a persistent identifier or handle used to uniquely identify various objects, standardized by the International Organization for Standardization (ISO). DOIs are an implementation of the Handle System; they also fit within the URI system. They are widely used to identify academic, professional, and government information, such as journal articles, research reports, data sets, and official publications.</p>",
+                "description": "ISO standard unique string identifier for a digital object",
+                "articleUrl": "https://en.wikipedia.org/wiki/Digital_object_identifier",
+                "wikiLang": "en",
+                "dir": "ltr"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            {
+                "frametrail": "http://frametrail.org/ns/"
+            }
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "Fri May 25 2018 11:30:50 GMT+0200 (Central European Summer Time)",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "wiki",
+            "tools"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "3_1521200577_hirmeos-sub-and-sound.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=89.36365738744583,108.02585571539974"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/ORCID",
+            "frametrail:name": "ORCID",
+            "frametrail:thumb": "3_1773004476_thumb_orcid.png",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:resourceId": "74",
+            "frametrail:attributes": {
+                "extract": "ORCID is a global not-for-profit organization that provides a nonproprietary persistent identifier, in the form of an alphanumeric code called an ORCID iD, to uniquely identify an author of or contributor to scholarly communications.",
+                "extract_html": "<p><b>ORCID</b> is a global not-for-profit organization that provides a nonproprietary persistent identifier, in the form of an alphanumeric code called an <i>ORCID iD</i>, to uniquely identify an author of or contributor to scholarly communications.</p>",
+                "description": "Alphanumeric technical code",
+                "articleUrl": "https://en.wikipedia.org/wiki/ORCID",
+                "wikiLang": "en",
+                "dir": "ltr"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            {
+                "frametrail": "http://frametrail.org/ns/"
+            }
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "Fri May 25 2018 11:30:53 GMT+0200 (Central European Summer Time)",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "wiki",
+            "tools"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "3_1521200577_hirmeos-sub-and-sound.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=89.54879873395797,108.32651096500159"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/Crossref",
+            "frametrail:name": "Crossref",
+            "frametrail:thumb": "3_1773004477_thumb_crossref.png",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:resourceId": "75",
+            "frametrail:attributes": {
+                "extract": "Crossref is a nonprofit open digital infrastructure organization for the global scholarly research community. It is the largest digital object identifier (DOI) Registration Agency of the International DOI Foundation. It has 23,000 members from 164 countries representing publishers, libraries, research institutions, and funders and was launched in early 2000 as a cooperative effort among publishers to enable persistent cross-platform citation linking in online academic journals. As of July 2023, Crossref identifies and connects 150 million records of metadata about research objects made openly available for reuse without restriction. They facilitate an average of 1.1 billion DOI resolutions every month, and they see 1 billion queries of the metadata every month.",
+                "extract_html": "<p><b>Crossref</b> is a nonprofit open digital infrastructure organization for the global scholarly research community. It is the largest digital object identifier (DOI) Registration Agency of the International DOI Foundation. It has 23,000 members from 164 countries representing publishers, libraries, research institutions, and funders and was launched in early 2000 as a cooperative effort among publishers to enable persistent cross-platform citation linking in online academic journals. As of July 2023, Crossref identifies and connects 150 million records of metadata about research objects made openly available for reuse without restriction. They facilitate an average of 1.1 billion DOI resolutions every month, and they see 1 billion queries of the metadata every month.</p>",
+                "description": "Nonprofit open digital infrastructure organization",
+                "articleUrl": "https://en.wikipedia.org/wiki/Crossref",
+                "wikiLang": "en",
+                "dir": "ltr"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            {
+                "frametrail": "http://frametrail.org/ns/"
+            }
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "Fri May 25 2018 11:31:08 GMT+0200 (Central European Summer Time)",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "wiki"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "3_1521200577_hirmeos-sub-and-sound.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=145.85306452488908,168.18265996885827"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/Altmetrics",
+            "frametrail:name": "altmetrics",
+            "frametrail:thumb": "3_1773004478_thumb_altmetrics.png",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:resourceId": "76",
+            "frametrail:attributes": {
+                "extract": "In scholarly and scientific publishing, altmetrics are non-traditional bibliometrics proposed as an alternative or complement to more traditional citation impact metrics, such as impact factor and h-index. The term altmetrics was proposed in 2010, as a generalization of article level metrics, and has its roots in the #altmetrics hashtag. Although altmetrics are often thought of as metrics about articles, they can be applied to people, journals, books, data sets, presentations, videos, source code repositories, web pages, etc.",
+                "extract_html": "<p>In scholarly and scientific publishing, <b>altmetrics</b> are non-traditional bibliometrics proposed as an alternative or complement to more traditional citation impact metrics, such as impact factor and <span><i>h</i>-index</span>. The term altmetrics was proposed in 2010, as a generalization of article level metrics, and has its roots in the #altmetrics hashtag. Although altmetrics are often thought of as metrics about articles, they can be applied to people, journals, books, data sets, presentations, videos, source code repositories, web pages, etc.</p>",
+                "description": "Alternative metrics for analyzing scholarship",
+                "articleUrl": "https://en.wikipedia.org/wiki/Altmetrics",
+                "wikiLang": "en",
+                "dir": "ltr"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            {
+                "frametrail": "http://frametrail.org/ns/"
+            }
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "Fri May 25 2018 11:31:19 GMT+0200 (Central European Summer Time)",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "publications"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "3_1521200577_hirmeos-sub-and-sound.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=128.56568062802947,144.98618682658062"
+            }
+        },
+        "body": {
+            "frametrail:type": "pdf",
+            "source": "3_1527238149_unlocking-the-digital-potential-of-scholarly-monographs.pdf",
+            "frametrail:name": "Unlocking the Digital Potential of Scholarly Monographs ",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:resourceId": "77",
+            "frametrail:attributes": []
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            {
+                "frametrail": "http://frametrail.org/ns/"
+            }
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "Fri May 25 2018 11:31:22 GMT+0200 (Central European Summer Time)",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "publications"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "3_1521200577_hirmeos-sub-and-sound.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=127.82780703386962,144.8392996079147"
+            }
+        },
+        "body": {
+            "frametrail:type": "pdf",
+            "source": "3_1527238196_openaccessandthehumanities.pdf",
+            "frametrail:name": " Open_Access_and_the_Humanities",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:resourceId": "78",
+            "frametrail:attributes": []
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            {
+                "frametrail": "http://frametrail.org/ns/"
+            }
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "Fri May 25 2018 11:31:24 GMT+0200 (Central European Summer Time)",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "publications"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "3_1521200577_hirmeos-sub-and-sound.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=127.38461275785566,145.2837777359926"
+            }
+        },
+        "body": {
+            "frametrail:type": "pdf",
+            "source": "3_1527238273_gttingen-university-press-publishing-services-in-an-open-access-environment.pdf",
+            "frametrail:name": "Göttingen University Press: Publishing services in an Open Access Environment",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:resourceId": "79",
+            "frametrail:attributes": []
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            {
+                "frametrail": "http://frametrail.org/ns/"
+            }
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "Fri May 25 2018 11:31:26 GMT+0200 (Central European Summer Time)",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "publications"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "3_1521200577_hirmeos-sub-and-sound.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=127.8282103917314,144.39658246824112"
+            }
+        },
+        "body": {
+            "frametrail:type": "pdf",
+            "source": "3_1527238337_landscape-study-on-oa-and-monographs.pdf",
+            "frametrail:name": "Landscape study on OA and Monographs",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:resourceId": "80",
+            "frametrail:attributes": []
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            {
+                "frametrail": "http://frametrail.org/ns/"
+            }
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "Fri May 25 2018 11:31:29 GMT+0200 (Central European Summer Time)",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "publications"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "3_1521200577_hirmeos-sub-and-sound.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=127.8282103917314,145.2837777359926"
+            }
+        },
+        "body": {
+            "frametrail:type": "pdf",
+            "source": "3_1527238413_the-academic-book-of-the-future.pdf",
+            "frametrail:name": "The Academic Book of the Future",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:resourceId": "81",
+            "frametrail:attributes": []
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            {
+                "frametrail": "http://frametrail.org/ns/"
+            }
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "Fri May 25 2018 11:31:31 GMT+0200 (Central European Summer Time)",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "publications"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "3_1521200577_hirmeos-sub-and-sound.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=128.12208299415371,144.83832094862203"
+            }
+        },
+        "body": {
+            "frametrail:type": "pdf",
+            "source": "3_1527238471_snapshots-of-three-open-access-business-models.pdf",
+            "frametrail:name": "Snapshots of three Open Access Business Models",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:resourceId": "82",
+            "frametrail:attributes": []
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            {
+                "frametrail": "http://frametrail.org/ns/"
+            }
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "Fri May 25 2018 11:31:33 GMT+0200 (Central European Summer Time)",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "publications"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "3_1521200577_hirmeos-sub-and-sound.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=129.0092782619052,145.13405270453916"
+            }
+        },
+        "body": {
+            "frametrail:type": "pdf",
+            "source": "3_1527238517_the-academic-book-and-its-digital-dilemmas.pdf",
+            "frametrail:name": "The Academic Book and its Digital Dilemmas",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:resourceId": "83",
+            "frametrail:attributes": []
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            {
+                "frametrail": "http://frametrail.org/ns/"
+            }
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "Fri May 25 2018 11:31:36 GMT+0200 (Central European Summer Time)",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "publications"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "3_1521200577_hirmeos-sub-and-sound.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=127.67664425681707,145.42794335699543"
+            }
+        },
+        "body": {
+            "frametrail:type": "pdf",
+            "source": "3_1527238561_ucl-press-a-new-model-for-open-access-university-presses.pdf",
+            "frametrail:name": "UCL Press: a New Model for Open Access University Presses",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:resourceId": "84",
+            "frametrail:attributes": []
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            {
+                "frametrail": "http://frametrail.org/ns/"
+            }
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "Fri May 25 2018 11:31:39 GMT+0200 (Central European Summer Time)",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "publications"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "3_1521200577_hirmeos-sub-and-sound.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=127.97607626968997,144.98804598007544"
+            }
+        },
+        "body": {
+            "frametrail:type": "pdf",
+            "source": "3_1527238747_measuring-monographs-a-quantitative-method-to-assess-scientific-impact-and-so.pdf",
+            "frametrail:name": "Measuring monographs: A Quantitative Method to Assess Scientific Impact and Societal Relevance",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:resourceId": "85",
+            "frametrail:attributes": []
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            {
+                "frametrail": "http://frametrail.org/ns/"
+            }
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "Fri May 25 2018 11:31:44 GMT+0200 (Central European Summer Time)",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "publications"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "3_1521200577_hirmeos-sub-and-sound.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=129.30501001782235,145.42978446045635"
+            }
+        },
+        "body": {
+            "frametrail:type": "pdf",
+            "source": "3_1527238892_modes-of-access-the-influence-of-dissemination-channels-on-the-use-of-open-ac.pdf",
+            "frametrail:name": "Modes of Access: the Influence of Dissemination Channels on the Use of Open Access  Monographs",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:resourceId": "86",
+            "frametrail:attributes": []
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            {
+                "frametrail": "http://frametrail.org/ns/"
+            }
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "Fri May 25 2018 11:44:49 GMT+0200 (Central European Summer Time)",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "publications"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "3_1521200577_hirmeos-sub-and-sound.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=25.116870402244366,46.119370945287855"
+            }
+        },
+        "body": {
+            "frametrail:type": "pdf",
+            "source": "3_1527238149_unlocking-the-digital-potential-of-scholarly-monographs.pdf",
+            "frametrail:name": "Unlocking the Digital Potential of Scholarly Monographs ",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:resourceId": "77",
+            "frametrail:attributes": []
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            {
+                "frametrail": "http://frametrail.org/ns/"
+            }
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "Fri May 25 2018 11:45:19 GMT+0200 (Central European Summer Time)",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "publications"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "3_1521200577_hirmeos-sub-and-sound.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=11.223948331836299,46.106951706271786"
+            }
+        },
+        "body": {
+            "frametrail:type": "pdf",
+            "source": "3_1527238196_openaccessandthehumanities.pdf",
+            "frametrail:name": " Open_Access_and_the_Humanities",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:resourceId": "78",
+            "frametrail:attributes": []
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            {
+                "frametrail": "http://frametrail.org/ns/"
+            }
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "Fri May 25 2018 11:45:41 GMT+0200 (Central European Summer Time)",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "publications"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "3_1521200577_hirmeos-sub-and-sound.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=52.01921406082501,71.68907383001765"
+            }
+        },
+        "body": {
+            "frametrail:type": "pdf",
+            "source": "3_1527238273_gttingen-university-press-publishing-services-in-an-open-access-environment.pdf",
+            "frametrail:name": "Göttingen University Press: Publishing services in an Open Access Environment",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:resourceId": "79",
+            "frametrail:attributes": []
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            {
+                "frametrail": "http://frametrail.org/ns/"
+            }
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "Fri May 25 2018 11:51:05 GMT+0200 (Central European Summer Time)",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "partners"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "3_1521200577_hirmeos-sub-and-sound.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=51.575616426949274,71.83693970797623"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "webpage",
+            "format": "text/html",
+            "value": "https://books.openedition.org/",
+            "frametrail:name": "Open Edition Books",
+            "frametrail:thumb": null,
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:resourceId": "59",
+            "frametrail:attributes": {
+                "embed": "allowed"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            {
+                "frametrail": "http://frametrail.org/ns/"
+            }
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "Fri May 25 2018 11:51:22 GMT+0200 (Central European Summer Time)",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "partners"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "3_1521200577_hirmeos-sub-and-sound.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=51.575616426949274,71.83693970797623"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "webpage",
+            "format": "text/html",
+            "value": "https://www.univerlag.uni-goettingen.de/",
+            "frametrail:name": "Universitätsverlag Göttingen ",
+            "frametrail:thumb": null,
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:resourceId": "61",
+            "frametrail:attributes": {
+                "embed": "allowed"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            {
+                "frametrail": "http://frametrail.org/ns/"
+            }
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "Fri May 25 2018 11:55:49 GMT+0200 (Central European Summer Time)",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "partners"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "3_1521200577_hirmeos-sub-and-sound.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=73.19915997493067,88.43119440501515"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "webpage",
+            "format": "text/html",
+            "value": "https://operas.hypotheses.org/",
+            "frametrail:name": "OPERAS",
+            "frametrail:thumb": null,
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:resourceId": "88",
+            "frametrail:attributes": {
+                "embed": "allowed"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            {
+                "frametrail": "http://frametrail.org/ns/"
+            }
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "Sun Jul 15 2018 20:50:57 GMT+0200 (Central European Summer Time)",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "tools"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "3_1521200577_hirmeos-sub-and-sound.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=136.0704543023067,150.71406685713674"
+            }
+        },
+        "body": {
+            "type": "Video",
+            "frametrail:type": "youtube",
+            "format": "text/html",
+            "source": "https://www.youtube.com/embed/QCkm0lL-6lc",
+            "frametrail:name": "Hypothesis Intro",
+            "frametrail:thumb": "http://img.youtube.com/vi/QCkm0lL-6lc/2.jpg",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:resourceId": "19",
+            "frametrail:attributes": []
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            {
+                "frametrail": "http://frametrail.org/ns/"
+            }
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "Thu Sep 13 2018 16:05:43 GMT+0200 (Central European Summer Time)",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "publications"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "3_1521200577_hirmeos-sub-and-sound.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=25.11473605160812,46.07693347098825"
+            }
+        },
+        "body": {
+            "frametrail:type": "pdf",
+            "source": "3_1536847471_an-emerging-scholarly-form-the-digital-monograph.pdf",
+            "frametrail:name": "An Emerging Scholarly Form: The Digital Monograph",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:resourceId": "89",
+            "frametrail:attributes": []
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            {
+                "frametrail": "http://frametrail.org/ns/"
+            }
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "Tue Oct 23 2018 10:41:19 GMT+0200 (Central European Summer Time)",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "wiki"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "3_1521200577_hirmeos-sub-and-sound.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=21.821989554721622,46.000865219066846"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "webpage",
+            "format": "text/html",
+            "value": "https://blogs.openbookpublishers.com/green-gold-diamond-black-what-does-it-all-mean/",
+            "frametrail:name": "Green , Gold, Diamond OA",
+            "frametrail:thumb": null,
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:resourceId": "99",
+            "frametrail:attributes": {
+                "embed": "allowed"
+            }
+        }
+    }
+]
