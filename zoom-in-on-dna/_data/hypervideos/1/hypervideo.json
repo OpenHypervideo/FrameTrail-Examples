@@ -96,7 +96,7 @@
         "onPause": "",
         "onEnded": ""
     },
-    "customCSS": ".areaLeftContainer[data-size=\"medium\"] {\n  flex: 0 0 250px !important;\n  min-width: 250px !important;\n}",
+    "customCSS": "@media (min-width: 768px) {\n  .areaLeftContainer[data-size=\"medium\"] {\n    flex: 0 0 250px !important;\n    min-width: 250px !important;\n  }\n}",
     "contents": [
         {
             "@context": [
