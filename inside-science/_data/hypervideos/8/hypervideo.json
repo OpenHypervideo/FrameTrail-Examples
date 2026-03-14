@@ -13,14 +13,14 @@
         "slidingTrigger": "key",
         "autohideControls": false,
         "captionsVisible": false,
-        "hidden": false,
+        "theme": "",
         "layoutArea": {
             "areaTop": [],
             "areaBottom": [
                 {
                     "type": "TimedContent",
                     "contentSize": "large",
-                    "name": "Annotations",
+                    "name": "",
                     "description": "",
                     "cssClass": "",
                     "collectionFilter": {
@@ -39,7 +39,7 @@
                 {
                     "type": "Transcript",
                     "contentSize": "large",
-                    "name": "DE",
+                    "name": "",
                     "description": "",
                     "cssClass": "",
                     "collectionFilter": {

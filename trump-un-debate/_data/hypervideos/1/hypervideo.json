@@ -13,7 +13,6 @@
         "slidingTrigger": "key",
         "autohideControls": false,
         "captionsVisible": false,
-        "hidden": false,
         "theme": "midnight",
         "layoutArea": {
             "areaTop": [],
@@ -43,31 +42,9 @@
             "areaLeft": [],
             "areaRight": [
                 {
-                    "type": "TimedContent",
-                    "contentSize": "large",
-                    "name": "Speaker Info",
-                    "description": "",
-                    "cssClass": "",
-                    "collectionFilter": {
-                        "tags": [
-                            "speaker"
-                        ],
-                        "types": [],
-                        "users": [],
-                        "text": ""
-                    },
-                    "onClickContentItem": "",
-                    "html": "",
-                    "transcriptSource": "",
-                    "icon": "",
-                    "initClosed": false,
-                    "filterAspect": "creatorId",
-                    "zoomControls": false
-                },
-                {
                     "type": "Transcript",
                     "contentSize": "large",
-                    "name": "Transcript",
+                    "name": "",
                     "description": "",
                     "cssClass": "",
                     "collectionFilter": {

@@ -12,8 +12,7 @@
         "slidingMode": "adjust",
         "slidingTrigger": "key",
         "autohideControls": false,
-        "captionsVisible": true,
-        "hidden": false,
+        "captionsVisible": false,
         "theme": "",
         "layoutArea": {
             "areaTop": [],
@@ -66,7 +65,7 @@
             "areaLeft": [],
             "areaRight": [
                 {
-                    "name": "Transcript",
+                    "name": "",
                     "icon": "",
                     "type": "Transcript",
                     "contentSize": "medium",

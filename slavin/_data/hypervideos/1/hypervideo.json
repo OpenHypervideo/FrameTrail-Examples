@@ -1,7 +1,7 @@
 {
     "meta": {
         "name": "Slavin Hypervideo",
-        "description": "     ",
+        "description": "",
         "thumb": "2_1465486227_thumb_slavin.png",
         "creator": "demo",
         "creatorId": "2",
@@ -71,6 +71,7 @@
                     "type": "TimedContent",
                     "contentSize": "large",
                     "cssClass": "",
+                    "initClosed": true,
                     "collectionFilter": {
                         "tags": [
                             "slovak"
@@ -89,6 +90,7 @@
                     "type": "TimedContent",
                     "contentSize": "large",
                     "cssClass": "",
+                    "initClosed": true,
                     "collectionFilter": {
                         "tags": [
                             "english"
