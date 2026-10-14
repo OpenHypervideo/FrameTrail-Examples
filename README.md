@@ -9,6 +9,7 @@ Demos and Examples of FrameTrail Projects
 ### Projects
 
 - [Zoom in on DNA (2026)](https://openhypervideo.github.io/FrameTrail-Examples/zoom-in-on-dna/)
+- [Companion Screen (2026)](https://openhypervideo.github.io/FrameTrail-Examples/companion-screen/) - Zoom in on DNA with the annotations and the transcript on a paired phone: open it on a computer, click the phone button in the player controls and scan the QR code with your phone.
 - [Hirmeos (2018)](https://openhypervideo.github.io/FrameTrail-Examples/hirmeos/)
 - [Trump UN Debate (2017)](https://openhypervideo.github.io/FrameTrail-Examples/trump-un-debate/)
 - [Slavin (2016)](https://openhypervideo.github.io/FrameTrail-Examples/slavin/)
