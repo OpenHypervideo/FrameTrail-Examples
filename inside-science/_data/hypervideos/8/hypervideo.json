@@ -6,14 +6,13 @@
         "creator": "demo",
         "creatorId": "2",
         "created": 1503667383478,
-        "lastchanged": 1503692043733
+        "lastchanged": 1792275877369
     },
     "config": {
         "slidingMode": "adjust",
         "slidingTrigger": "key",
         "autohideControls": false,
         "captionsVisible": false,
-        "theme": "",
         "layoutArea": {
             "areaTop": [],
             "areaBottom": [
@@ -58,6 +57,7 @@
     "clips": [
         {
             "resourceId": "241",
+            "src": "8.mp4",
             "duration": 0,
             "start": 0,
             "end": 0,

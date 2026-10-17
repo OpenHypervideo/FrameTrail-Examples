@@ -6,14 +6,13 @@
         "creator": "demo",
         "creatorId": "2",
         "created": 1508493399537,
-        "lastchanged": 1773073297336
+        "lastchanged": 1792275877369
     },
     "config": {
         "slidingMode": "adjust",
         "slidingTrigger": "key",
         "autohideControls": false,
         "captionsVisible": false,
-        "theme": "midnight",
         "layoutArea": {
             "areaTop": [],
             "areaBottom": [
@@ -67,6 +66,7 @@
     "clips": [
         {
             "resourceId": "2",
+            "src": "2_1508493392_trump-un-speech.mp4",
             "duration": 0,
             "start": 0,
             "end": 0,

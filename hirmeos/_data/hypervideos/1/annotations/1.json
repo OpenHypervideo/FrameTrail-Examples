@@ -2,16 +2,14 @@
     {
         "@context": [
             "http://www.w3.org/ns/anno.jsonld",
-            {
-                "frametrail": "http://frametrail.org/ns/"
-            }
+            "https://frametrail.org/ns/context.jsonld"
         ],
         "creator": {
             "nickname": "demo",
             "type": "Person",
             "id": "1"
         },
-        "created": "Fri May 25 2018 11:10:09 GMT+0200 (Central European Summer Time)",
+        "created": "2018-05-25T09:10:09.000Z",
         "type": "Annotation",
         "frametrail:type": "Annotation",
         "frametrail:tags": [
@@ -45,16 +43,14 @@
     {
         "@context": [
             "http://www.w3.org/ns/anno.jsonld",
-            {
-                "frametrail": "http://frametrail.org/ns/"
-            }
+            "https://frametrail.org/ns/context.jsonld"
         ],
         "creator": {
             "nickname": "demo",
             "type": "Person",
             "id": "1"
         },
-        "created": "Fri May 25 2018 11:10:14 GMT+0200 (Central European Summer Time)",
+        "created": "2018-05-25T09:10:14.000Z",
         "type": "Annotation",
         "frametrail:type": "Annotation",
         "frametrail:tags": [
@@ -88,16 +84,14 @@
     {
         "@context": [
             "http://www.w3.org/ns/anno.jsonld",
-            {
-                "frametrail": "http://frametrail.org/ns/"
-            }
+            "https://frametrail.org/ns/context.jsonld"
         ],
         "creator": {
             "nickname": "demo",
             "type": "Person",
             "id": "1"
         },
-        "created": "Fri May 25 2018 11:10:24 GMT+0200 (Central European Summer Time)",
+        "created": "2018-05-25T09:10:24.000Z",
         "type": "Annotation",
         "frametrail:type": "Annotation",
         "frametrail:tags": [
@@ -131,16 +125,14 @@
     {
         "@context": [
             "http://www.w3.org/ns/anno.jsonld",
-            {
-                "frametrail": "http://frametrail.org/ns/"
-            }
+            "https://frametrail.org/ns/context.jsonld"
         ],
         "creator": {
             "nickname": "demo",
             "type": "Person",
             "id": "1"
         },
-        "created": "Fri May 25 2018 11:10:34 GMT+0200 (Central European Summer Time)",
+        "created": "2018-05-25T09:10:34.000Z",
         "type": "Annotation",
         "frametrail:type": "Annotation",
         "frametrail:tags": [
@@ -164,24 +156,20 @@
             "frametrail:licenseType": null,
             "frametrail:licenseAttribution": null,
             "frametrail:resourceId": "67",
-            "frametrail:attributes": {
-                "embed": "forbidden"
-            }
+            "frametrail:attributes": {}
         }
     },
     {
         "@context": [
             "http://www.w3.org/ns/anno.jsonld",
-            {
-                "frametrail": "http://frametrail.org/ns/"
-            }
+            "https://frametrail.org/ns/context.jsonld"
         ],
         "creator": {
             "nickname": "demo",
             "type": "Person",
             "id": "1"
         },
-        "created": "Fri May 25 2018 11:10:35 GMT+0200 (Central European Summer Time)",
+        "created": "2018-05-25T09:10:35.000Z",
         "type": "Annotation",
         "frametrail:type": "Annotation",
         "frametrail:tags": [
@@ -205,24 +193,20 @@
             "frametrail:licenseType": null,
             "frametrail:licenseAttribution": null,
             "frametrail:resourceId": "68",
-            "frametrail:attributes": {
-                "embed": "forbidden"
-            }
+            "frametrail:attributes": {}
         }
     },
     {
         "@context": [
             "http://www.w3.org/ns/anno.jsonld",
-            {
-                "frametrail": "http://frametrail.org/ns/"
-            }
+            "https://frametrail.org/ns/context.jsonld"
         ],
         "creator": {
             "nickname": "demo",
             "type": "Person",
             "id": "1"
         },
-        "created": "Fri May 25 2018 11:10:37 GMT+0200 (Central European Summer Time)",
+        "created": "2018-05-25T09:10:37.000Z",
         "type": "Annotation",
         "frametrail:type": "Annotation",
         "frametrail:tags": [
@@ -256,16 +240,14 @@
     {
         "@context": [
             "http://www.w3.org/ns/anno.jsonld",
-            {
-                "frametrail": "http://frametrail.org/ns/"
-            }
+            "https://frametrail.org/ns/context.jsonld"
         ],
         "creator": {
             "nickname": "demo",
             "type": "Person",
             "id": "1"
         },
-        "created": "Fri May 25 2018 11:30:30 GMT+0200 (Central European Summer Time)",
+        "created": "2018-05-25T09:30:30.000Z",
         "type": "Annotation",
         "frametrail:type": "Annotation",
         "frametrail:tags": [
@@ -304,16 +286,14 @@
     {
         "@context": [
             "http://www.w3.org/ns/anno.jsonld",
-            {
-                "frametrail": "http://frametrail.org/ns/"
-            }
+            "https://frametrail.org/ns/context.jsonld"
         ],
         "creator": {
             "nickname": "demo",
             "type": "Person",
             "id": "1"
         },
-        "created": "Fri May 25 2018 11:30:42 GMT+0200 (Central European Summer Time)",
+        "created": "2018-05-25T09:30:42.000Z",
         "type": "Annotation",
         "frametrail:type": "Annotation",
         "frametrail:tags": [
@@ -352,16 +332,14 @@
     {
         "@context": [
             "http://www.w3.org/ns/anno.jsonld",
-            {
-                "frametrail": "http://frametrail.org/ns/"
-            }
+            "https://frametrail.org/ns/context.jsonld"
         ],
         "creator": {
             "nickname": "demo",
             "type": "Person",
             "id": "1"
         },
-        "created": "Fri May 25 2018 11:30:45 GMT+0200 (Central European Summer Time)",
+        "created": "2018-05-25T09:30:45.000Z",
         "type": "Annotation",
         "frametrail:type": "Annotation",
         "frametrail:tags": [
@@ -400,16 +378,14 @@
     {
         "@context": [
             "http://www.w3.org/ns/anno.jsonld",
-            {
-                "frametrail": "http://frametrail.org/ns/"
-            }
+            "https://frametrail.org/ns/context.jsonld"
         ],
         "creator": {
             "nickname": "demo",
             "type": "Person",
             "id": "1"
         },
-        "created": "Fri May 25 2018 11:30:48 GMT+0200 (Central European Summer Time)",
+        "created": "2018-05-25T09:30:48.000Z",
         "type": "Annotation",
         "frametrail:type": "Annotation",
         "frametrail:tags": [
@@ -448,16 +424,14 @@
     {
         "@context": [
             "http://www.w3.org/ns/anno.jsonld",
-            {
-                "frametrail": "http://frametrail.org/ns/"
-            }
+            "https://frametrail.org/ns/context.jsonld"
         ],
         "creator": {
             "nickname": "demo",
             "type": "Person",
             "id": "1"
         },
-        "created": "Fri May 25 2018 11:30:50 GMT+0200 (Central European Summer Time)",
+        "created": "2018-05-25T09:30:50.000Z",
         "type": "Annotation",
         "frametrail:type": "Annotation",
         "frametrail:tags": [
@@ -497,16 +471,14 @@
     {
         "@context": [
             "http://www.w3.org/ns/anno.jsonld",
-            {
-                "frametrail": "http://frametrail.org/ns/"
-            }
+            "https://frametrail.org/ns/context.jsonld"
         ],
         "creator": {
             "nickname": "demo",
             "type": "Person",
             "id": "1"
         },
-        "created": "Fri May 25 2018 11:30:53 GMT+0200 (Central European Summer Time)",
+        "created": "2018-05-25T09:30:53.000Z",
         "type": "Annotation",
         "frametrail:type": "Annotation",
         "frametrail:tags": [
@@ -546,16 +518,14 @@
     {
         "@context": [
             "http://www.w3.org/ns/anno.jsonld",
-            {
-                "frametrail": "http://frametrail.org/ns/"
-            }
+            "https://frametrail.org/ns/context.jsonld"
         ],
         "creator": {
             "nickname": "demo",
             "type": "Person",
             "id": "1"
         },
-        "created": "Fri May 25 2018 11:31:08 GMT+0200 (Central European Summer Time)",
+        "created": "2018-05-25T09:31:08.000Z",
         "type": "Annotation",
         "frametrail:type": "Annotation",
         "frametrail:tags": [
@@ -594,16 +564,14 @@
     {
         "@context": [
             "http://www.w3.org/ns/anno.jsonld",
-            {
-                "frametrail": "http://frametrail.org/ns/"
-            }
+            "https://frametrail.org/ns/context.jsonld"
         ],
         "creator": {
             "nickname": "demo",
             "type": "Person",
             "id": "1"
         },
-        "created": "Fri May 25 2018 11:31:19 GMT+0200 (Central European Summer Time)",
+        "created": "2018-05-25T09:31:19.000Z",
         "type": "Annotation",
         "frametrail:type": "Annotation",
         "frametrail:tags": [
@@ -626,22 +594,20 @@
             "frametrail:licenseType": null,
             "frametrail:licenseAttribution": null,
             "frametrail:resourceId": "77",
-            "frametrail:attributes": []
+            "frametrail:attributes": {}
         }
     },
     {
         "@context": [
             "http://www.w3.org/ns/anno.jsonld",
-            {
-                "frametrail": "http://frametrail.org/ns/"
-            }
+            "https://frametrail.org/ns/context.jsonld"
         ],
         "creator": {
             "nickname": "demo",
             "type": "Person",
             "id": "1"
         },
-        "created": "Fri May 25 2018 11:31:22 GMT+0200 (Central European Summer Time)",
+        "created": "2018-05-25T09:31:22.000Z",
         "type": "Annotation",
         "frametrail:type": "Annotation",
         "frametrail:tags": [
@@ -664,22 +630,20 @@
             "frametrail:licenseType": null,
             "frametrail:licenseAttribution": null,
             "frametrail:resourceId": "78",
-            "frametrail:attributes": []
+            "frametrail:attributes": {}
         }
     },
     {
         "@context": [
             "http://www.w3.org/ns/anno.jsonld",
-            {
-                "frametrail": "http://frametrail.org/ns/"
-            }
+            "https://frametrail.org/ns/context.jsonld"
         ],
         "creator": {
             "nickname": "demo",
             "type": "Person",
             "id": "1"
         },
-        "created": "Fri May 25 2018 11:31:24 GMT+0200 (Central European Summer Time)",
+        "created": "2018-05-25T09:31:24.000Z",
         "type": "Annotation",
         "frametrail:type": "Annotation",
         "frametrail:tags": [
@@ -702,22 +666,20 @@
             "frametrail:licenseType": null,
             "frametrail:licenseAttribution": null,
             "frametrail:resourceId": "79",
-            "frametrail:attributes": []
+            "frametrail:attributes": {}
         }
     },
     {
         "@context": [
             "http://www.w3.org/ns/anno.jsonld",
-            {
-                "frametrail": "http://frametrail.org/ns/"
-            }
+            "https://frametrail.org/ns/context.jsonld"
         ],
         "creator": {
             "nickname": "demo",
             "type": "Person",
             "id": "1"
         },
-        "created": "Fri May 25 2018 11:31:26 GMT+0200 (Central European Summer Time)",
+        "created": "2018-05-25T09:31:26.000Z",
         "type": "Annotation",
         "frametrail:type": "Annotation",
         "frametrail:tags": [
@@ -740,22 +702,20 @@
             "frametrail:licenseType": null,
             "frametrail:licenseAttribution": null,
             "frametrail:resourceId": "80",
-            "frametrail:attributes": []
+            "frametrail:attributes": {}
         }
     },
     {
         "@context": [
             "http://www.w3.org/ns/anno.jsonld",
-            {
-                "frametrail": "http://frametrail.org/ns/"
-            }
+            "https://frametrail.org/ns/context.jsonld"
         ],
         "creator": {
             "nickname": "demo",
             "type": "Person",
             "id": "1"
         },
-        "created": "Fri May 25 2018 11:31:29 GMT+0200 (Central European Summer Time)",
+        "created": "2018-05-25T09:31:29.000Z",
         "type": "Annotation",
         "frametrail:type": "Annotation",
         "frametrail:tags": [
@@ -778,22 +738,20 @@
             "frametrail:licenseType": null,
             "frametrail:licenseAttribution": null,
             "frametrail:resourceId": "81",
-            "frametrail:attributes": []
+            "frametrail:attributes": {}
         }
     },
     {
         "@context": [
             "http://www.w3.org/ns/anno.jsonld",
-            {
-                "frametrail": "http://frametrail.org/ns/"
-            }
+            "https://frametrail.org/ns/context.jsonld"
         ],
         "creator": {
             "nickname": "demo",
             "type": "Person",
             "id": "1"
         },
-        "created": "Fri May 25 2018 11:31:31 GMT+0200 (Central European Summer Time)",
+        "created": "2018-05-25T09:31:31.000Z",
         "type": "Annotation",
         "frametrail:type": "Annotation",
         "frametrail:tags": [
@@ -816,22 +774,20 @@
             "frametrail:licenseType": null,
             "frametrail:licenseAttribution": null,
             "frametrail:resourceId": "82",
-            "frametrail:attributes": []
+            "frametrail:attributes": {}
         }
     },
     {
         "@context": [
             "http://www.w3.org/ns/anno.jsonld",
-            {
-                "frametrail": "http://frametrail.org/ns/"
-            }
+            "https://frametrail.org/ns/context.jsonld"
         ],
         "creator": {
             "nickname": "demo",
             "type": "Person",
             "id": "1"
         },
-        "created": "Fri May 25 2018 11:31:33 GMT+0200 (Central European Summer Time)",
+        "created": "2018-05-25T09:31:33.000Z",
         "type": "Annotation",
         "frametrail:type": "Annotation",
         "frametrail:tags": [
@@ -854,22 +810,20 @@
             "frametrail:licenseType": null,
             "frametrail:licenseAttribution": null,
             "frametrail:resourceId": "83",
-            "frametrail:attributes": []
+            "frametrail:attributes": {}
         }
     },
     {
         "@context": [
             "http://www.w3.org/ns/anno.jsonld",
-            {
-                "frametrail": "http://frametrail.org/ns/"
-            }
+            "https://frametrail.org/ns/context.jsonld"
         ],
         "creator": {
             "nickname": "demo",
             "type": "Person",
             "id": "1"
         },
-        "created": "Fri May 25 2018 11:31:36 GMT+0200 (Central European Summer Time)",
+        "created": "2018-05-25T09:31:36.000Z",
         "type": "Annotation",
         "frametrail:type": "Annotation",
         "frametrail:tags": [
@@ -892,22 +846,20 @@
             "frametrail:licenseType": null,
             "frametrail:licenseAttribution": null,
             "frametrail:resourceId": "84",
-            "frametrail:attributes": []
+            "frametrail:attributes": {}
         }
     },
     {
         "@context": [
             "http://www.w3.org/ns/anno.jsonld",
-            {
-                "frametrail": "http://frametrail.org/ns/"
-            }
+            "https://frametrail.org/ns/context.jsonld"
         ],
         "creator": {
             "nickname": "demo",
             "type": "Person",
             "id": "1"
         },
-        "created": "Fri May 25 2018 11:31:39 GMT+0200 (Central European Summer Time)",
+        "created": "2018-05-25T09:31:39.000Z",
         "type": "Annotation",
         "frametrail:type": "Annotation",
         "frametrail:tags": [
@@ -930,22 +882,20 @@
             "frametrail:licenseType": null,
             "frametrail:licenseAttribution": null,
             "frametrail:resourceId": "85",
-            "frametrail:attributes": []
+            "frametrail:attributes": {}
         }
     },
     {
         "@context": [
             "http://www.w3.org/ns/anno.jsonld",
-            {
-                "frametrail": "http://frametrail.org/ns/"
-            }
+            "https://frametrail.org/ns/context.jsonld"
         ],
         "creator": {
             "nickname": "demo",
             "type": "Person",
             "id": "1"
         },
-        "created": "Fri May 25 2018 11:31:44 GMT+0200 (Central European Summer Time)",
+        "created": "2018-05-25T09:31:44.000Z",
         "type": "Annotation",
         "frametrail:type": "Annotation",
         "frametrail:tags": [
@@ -968,22 +918,20 @@
             "frametrail:licenseType": null,
             "frametrail:licenseAttribution": null,
             "frametrail:resourceId": "86",
-            "frametrail:attributes": []
+            "frametrail:attributes": {}
         }
     },
     {
         "@context": [
             "http://www.w3.org/ns/anno.jsonld",
-            {
-                "frametrail": "http://frametrail.org/ns/"
-            }
+            "https://frametrail.org/ns/context.jsonld"
         ],
         "creator": {
             "nickname": "demo",
             "type": "Person",
             "id": "1"
         },
-        "created": "Fri May 25 2018 11:44:49 GMT+0200 (Central European Summer Time)",
+        "created": "2018-05-25T09:44:49.000Z",
         "type": "Annotation",
         "frametrail:type": "Annotation",
         "frametrail:tags": [
@@ -1006,22 +954,20 @@
             "frametrail:licenseType": null,
             "frametrail:licenseAttribution": null,
             "frametrail:resourceId": "77",
-            "frametrail:attributes": []
+            "frametrail:attributes": {}
         }
     },
     {
         "@context": [
             "http://www.w3.org/ns/anno.jsonld",
-            {
-                "frametrail": "http://frametrail.org/ns/"
-            }
+            "https://frametrail.org/ns/context.jsonld"
         ],
         "creator": {
             "nickname": "demo",
             "type": "Person",
             "id": "1"
         },
-        "created": "Fri May 25 2018 11:45:19 GMT+0200 (Central European Summer Time)",
+        "created": "2018-05-25T09:45:19.000Z",
         "type": "Annotation",
         "frametrail:type": "Annotation",
         "frametrail:tags": [
@@ -1044,22 +990,20 @@
             "frametrail:licenseType": null,
             "frametrail:licenseAttribution": null,
             "frametrail:resourceId": "78",
-            "frametrail:attributes": []
+            "frametrail:attributes": {}
         }
     },
     {
         "@context": [
             "http://www.w3.org/ns/anno.jsonld",
-            {
-                "frametrail": "http://frametrail.org/ns/"
-            }
+            "https://frametrail.org/ns/context.jsonld"
         ],
         "creator": {
             "nickname": "demo",
             "type": "Person",
             "id": "1"
         },
-        "created": "Fri May 25 2018 11:45:41 GMT+0200 (Central European Summer Time)",
+        "created": "2018-05-25T09:45:41.000Z",
         "type": "Annotation",
         "frametrail:type": "Annotation",
         "frametrail:tags": [
@@ -1082,22 +1026,20 @@
             "frametrail:licenseType": null,
             "frametrail:licenseAttribution": null,
             "frametrail:resourceId": "79",
-            "frametrail:attributes": []
+            "frametrail:attributes": {}
         }
     },
     {
         "@context": [
             "http://www.w3.org/ns/anno.jsonld",
-            {
-                "frametrail": "http://frametrail.org/ns/"
-            }
+            "https://frametrail.org/ns/context.jsonld"
         ],
         "creator": {
             "nickname": "demo",
             "type": "Person",
             "id": "1"
         },
-        "created": "Fri May 25 2018 11:51:05 GMT+0200 (Central European Summer Time)",
+        "created": "2018-05-25T09:51:05.000Z",
         "type": "Annotation",
         "frametrail:type": "Annotation",
         "frametrail:tags": [
@@ -1131,16 +1073,14 @@
     {
         "@context": [
             "http://www.w3.org/ns/anno.jsonld",
-            {
-                "frametrail": "http://frametrail.org/ns/"
-            }
+            "https://frametrail.org/ns/context.jsonld"
         ],
         "creator": {
             "nickname": "demo",
             "type": "Person",
             "id": "1"
         },
-        "created": "Fri May 25 2018 11:51:22 GMT+0200 (Central European Summer Time)",
+        "created": "2018-05-25T09:51:22.000Z",
         "type": "Annotation",
         "frametrail:type": "Annotation",
         "frametrail:tags": [
@@ -1174,16 +1114,14 @@
     {
         "@context": [
             "http://www.w3.org/ns/anno.jsonld",
-            {
-                "frametrail": "http://frametrail.org/ns/"
-            }
+            "https://frametrail.org/ns/context.jsonld"
         ],
         "creator": {
             "nickname": "demo",
             "type": "Person",
             "id": "1"
         },
-        "created": "Fri May 25 2018 11:55:49 GMT+0200 (Central European Summer Time)",
+        "created": "2018-05-25T09:55:49.000Z",
         "type": "Annotation",
         "frametrail:type": "Annotation",
         "frametrail:tags": [
@@ -1217,16 +1155,14 @@
     {
         "@context": [
             "http://www.w3.org/ns/anno.jsonld",
-            {
-                "frametrail": "http://frametrail.org/ns/"
-            }
+            "https://frametrail.org/ns/context.jsonld"
         ],
         "creator": {
             "nickname": "demo",
             "type": "Person",
             "id": "1"
         },
-        "created": "Sun Jul 15 2018 20:50:57 GMT+0200 (Central European Summer Time)",
+        "created": "2018-07-15T18:50:57.000Z",
         "type": "Annotation",
         "frametrail:type": "Annotation",
         "frametrail:tags": [
@@ -1252,22 +1188,20 @@
             "frametrail:licenseType": null,
             "frametrail:licenseAttribution": null,
             "frametrail:resourceId": "19",
-            "frametrail:attributes": []
+            "frametrail:attributes": {}
         }
     },
     {
         "@context": [
             "http://www.w3.org/ns/anno.jsonld",
-            {
-                "frametrail": "http://frametrail.org/ns/"
-            }
+            "https://frametrail.org/ns/context.jsonld"
         ],
         "creator": {
             "nickname": "demo",
             "type": "Person",
             "id": "1"
         },
-        "created": "Thu Sep 13 2018 16:05:43 GMT+0200 (Central European Summer Time)",
+        "created": "2018-09-13T14:05:43.000Z",
         "type": "Annotation",
         "frametrail:type": "Annotation",
         "frametrail:tags": [
@@ -1290,22 +1224,20 @@
             "frametrail:licenseType": null,
             "frametrail:licenseAttribution": null,
             "frametrail:resourceId": "89",
-            "frametrail:attributes": []
+            "frametrail:attributes": {}
         }
     },
     {
         "@context": [
             "http://www.w3.org/ns/anno.jsonld",
-            {
-                "frametrail": "http://frametrail.org/ns/"
-            }
+            "https://frametrail.org/ns/context.jsonld"
         ],
         "creator": {
             "nickname": "demo",
             "type": "Person",
             "id": "1"
         },
-        "created": "Tue Oct 23 2018 10:41:19 GMT+0200 (Central European Summer Time)",
+        "created": "2018-10-23T08:41:19.000Z",
         "type": "Annotation",
         "frametrail:type": "Annotation",
         "frametrail:tags": [

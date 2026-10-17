@@ -2,16 +2,14 @@
     {
         "@context": [
             "http://www.w3.org/ns/anno.jsonld",
-            {
-                "frametrail": "http://frametrail.org/ns/"
-            }
+            "https://frametrail.org/ns/context.jsonld"
         ],
         "creator": {
             "nickname": "demo",
             "type": "Person",
             "id": "1"
         },
-        "created": "Wed Aug 09 2017 15:52:25 GMT+0200 (Central European Summer Time)",
+        "created": "2017-08-09T13:52:25.000Z",
         "type": "Annotation",
         "frametrail:type": "Annotation",
         "frametrail:tags": [],
@@ -48,16 +46,14 @@
     {
         "@context": [
             "http://www.w3.org/ns/anno.jsonld",
-            {
-                "frametrail": "http://frametrail.org/ns/"
-            }
+            "https://frametrail.org/ns/context.jsonld"
         ],
         "creator": {
             "nickname": "demo",
             "type": "Person",
             "id": "1"
         },
-        "created": "Wed Aug 09 2017 15:52:25 GMT+0200 (Central European Summer Time)",
+        "created": "2017-08-09T13:52:25.001Z",
         "type": "Annotation",
         "frametrail:type": "Annotation",
         "frametrail:tags": [],
@@ -94,16 +90,14 @@
     {
         "@context": [
             "http://www.w3.org/ns/anno.jsonld",
-            {
-                "frametrail": "http://frametrail.org/ns/"
-            }
+            "https://frametrail.org/ns/context.jsonld"
         ],
         "creator": {
             "nickname": "demo",
             "type": "Person",
             "id": "1"
         },
-        "created": "Wed Aug 09 2017 15:52:25 GMT+0200 (Central European Summer Time)",
+        "created": "2017-08-09T13:52:25.002Z",
         "type": "Annotation",
         "frametrail:type": "Annotation",
         "frametrail:tags": [],
@@ -140,16 +134,14 @@
     {
         "@context": [
             "http://www.w3.org/ns/anno.jsonld",
-            {
-                "frametrail": "http://frametrail.org/ns/"
-            }
+            "https://frametrail.org/ns/context.jsonld"
         ],
         "creator": {
             "nickname": "demo",
             "type": "Person",
             "id": "1"
         },
-        "created": "Wed Aug 09 2017 15:52:25 GMT+0200 (Central European Summer Time)",
+        "created": "2017-08-09T13:52:25.003Z",
         "type": "Annotation",
         "frametrail:type": "Annotation",
         "frametrail:tags": [],
@@ -186,16 +178,14 @@
     {
         "@context": [
             "http://www.w3.org/ns/anno.jsonld",
-            {
-                "frametrail": "http://frametrail.org/ns/"
-            }
+            "https://frametrail.org/ns/context.jsonld"
         ],
         "creator": {
             "nickname": "demo",
             "type": "Person",
             "id": "1"
         },
-        "created": "Wed Aug 09 2017 15:52:25 GMT+0200 (Central European Summer Time)",
+        "created": "2017-08-09T13:52:25.004Z",
         "type": "Annotation",
         "frametrail:type": "Annotation",
         "frametrail:tags": [],
@@ -232,16 +222,14 @@
     {
         "@context": [
             "http://www.w3.org/ns/anno.jsonld",
-            {
-                "frametrail": "http://frametrail.org/ns/"
-            }
+            "https://frametrail.org/ns/context.jsonld"
         ],
         "creator": {
             "nickname": "demo",
             "type": "Person",
             "id": "1"
         },
-        "created": "Wed Aug 09 2017 15:52:25 GMT+0200 (Central European Summer Time)",
+        "created": "2017-08-09T13:52:25.005Z",
         "type": "Annotation",
         "frametrail:type": "Annotation",
         "frametrail:tags": [],
@@ -278,16 +266,14 @@
     {
         "@context": [
             "http://www.w3.org/ns/anno.jsonld",
-            {
-                "frametrail": "http://frametrail.org/ns/"
-            }
+            "https://frametrail.org/ns/context.jsonld"
         ],
         "creator": {
             "nickname": "demo",
             "type": "Person",
             "id": "1"
         },
-        "created": "Wed Aug 09 2017 15:52:25 GMT+0200 (Central European Summer Time)",
+        "created": "2017-08-09T13:52:25.006Z",
         "type": "Annotation",
         "frametrail:type": "Annotation",
         "frametrail:tags": [],
@@ -324,16 +310,14 @@
     {
         "@context": [
             "http://www.w3.org/ns/anno.jsonld",
-            {
-                "frametrail": "http://frametrail.org/ns/"
-            }
+            "https://frametrail.org/ns/context.jsonld"
         ],
         "creator": {
             "nickname": "demo",
             "type": "Person",
             "id": "1"
         },
-        "created": "Wed Aug 09 2017 15:52:25 GMT+0200 (Central European Summer Time)",
+        "created": "2017-08-09T13:52:25.007Z",
         "type": "Annotation",
         "frametrail:type": "Annotation",
         "frametrail:tags": [],
@@ -370,16 +354,14 @@
     {
         "@context": [
             "http://www.w3.org/ns/anno.jsonld",
-            {
-                "frametrail": "http://frametrail.org/ns/"
-            }
+            "https://frametrail.org/ns/context.jsonld"
         ],
         "creator": {
             "nickname": "demo",
             "type": "Person",
             "id": "1"
         },
-        "created": "Wed Aug 09 2017 15:52:25 GMT+0200 (Central European Summer Time)",
+        "created": "2017-08-09T13:52:25.008Z",
         "type": "Annotation",
         "frametrail:type": "Annotation",
         "frametrail:tags": [],
@@ -416,16 +398,14 @@
     {
         "@context": [
             "http://www.w3.org/ns/anno.jsonld",
-            {
-                "frametrail": "http://frametrail.org/ns/"
-            }
+            "https://frametrail.org/ns/context.jsonld"
         ],
         "creator": {
             "nickname": "demo",
             "type": "Person",
             "id": "1"
         },
-        "created": "Wed Aug 09 2017 15:52:25 GMT+0200 (Central European Summer Time)",
+        "created": "2017-08-09T13:52:25.009Z",
         "type": "Annotation",
         "frametrail:type": "Annotation",
         "frametrail:tags": [],
@@ -462,16 +442,14 @@
     {
         "@context": [
             "http://www.w3.org/ns/anno.jsonld",
-            {
-                "frametrail": "http://frametrail.org/ns/"
-            }
+            "https://frametrail.org/ns/context.jsonld"
         ],
         "creator": {
             "nickname": "demo",
             "type": "Person",
             "id": "1"
         },
-        "created": "Wed Aug 09 2017 15:52:25 GMT+0200 (Central European Summer Time)",
+        "created": "2017-08-09T13:52:25.010Z",
         "type": "Annotation",
         "frametrail:type": "Annotation",
         "frametrail:tags": [],
@@ -508,16 +486,14 @@
     {
         "@context": [
             "http://www.w3.org/ns/anno.jsonld",
-            {
-                "frametrail": "http://frametrail.org/ns/"
-            }
+            "https://frametrail.org/ns/context.jsonld"
         ],
         "creator": {
             "nickname": "demo",
             "type": "Person",
             "id": "1"
         },
-        "created": "Wed Aug 09 2017 15:52:25 GMT+0200 (Central European Summer Time)",
+        "created": "2017-08-09T13:52:25.011Z",
         "type": "Annotation",
         "frametrail:type": "Annotation",
         "frametrail:tags": [],
@@ -554,16 +530,14 @@
     {
         "@context": [
             "http://www.w3.org/ns/anno.jsonld",
-            {
-                "frametrail": "http://frametrail.org/ns/"
-            }
+            "https://frametrail.org/ns/context.jsonld"
         ],
         "creator": {
             "nickname": "demo",
             "type": "Person",
             "id": "1"
         },
-        "created": "Wed Aug 09 2017 15:52:25 GMT+0200 (Central European Summer Time)",
+        "created": "2017-08-09T13:52:25.012Z",
         "type": "Annotation",
         "frametrail:type": "Annotation",
         "frametrail:tags": [],
@@ -600,16 +574,14 @@
     {
         "@context": [
             "http://www.w3.org/ns/anno.jsonld",
-            {
-                "frametrail": "http://frametrail.org/ns/"
-            }
+            "https://frametrail.org/ns/context.jsonld"
         ],
         "creator": {
             "nickname": "demo",
             "type": "Person",
             "id": "1"
         },
-        "created": "Wed Aug 09 2017 15:52:25 GMT+0200 (Central European Summer Time)",
+        "created": "2017-08-09T13:52:25.013Z",
         "type": "Annotation",
         "frametrail:type": "Annotation",
         "frametrail:tags": [],
@@ -646,16 +618,14 @@
     {
         "@context": [
             "http://www.w3.org/ns/anno.jsonld",
-            {
-                "frametrail": "http://frametrail.org/ns/"
-            }
+            "https://frametrail.org/ns/context.jsonld"
         ],
         "creator": {
             "nickname": "demo",
             "type": "Person",
             "id": "1"
         },
-        "created": "Wed Aug 09 2017 15:52:25 GMT+0200 (Central European Summer Time)",
+        "created": "2017-08-09T13:52:25.014Z",
         "type": "Annotation",
         "frametrail:type": "Annotation",
         "frametrail:tags": [],
@@ -692,16 +662,14 @@
     {
         "@context": [
             "http://www.w3.org/ns/anno.jsonld",
-            {
-                "frametrail": "http://frametrail.org/ns/"
-            }
+            "https://frametrail.org/ns/context.jsonld"
         ],
         "creator": {
             "nickname": "demo",
             "type": "Person",
             "id": "1"
         },
-        "created": "Wed Aug 09 2017 15:52:25 GMT+0200 (Central European Summer Time)",
+        "created": "2017-08-09T13:52:25.015Z",
         "type": "Annotation",
         "frametrail:type": "Annotation",
         "frametrail:tags": [],
@@ -738,16 +706,14 @@
     {
         "@context": [
             "http://www.w3.org/ns/anno.jsonld",
-            {
-                "frametrail": "http://frametrail.org/ns/"
-            }
+            "https://frametrail.org/ns/context.jsonld"
         ],
         "creator": {
             "nickname": "demo",
             "type": "Person",
             "id": "1"
         },
-        "created": "Wed Aug 09 2017 15:52:25 GMT+0200 (Central European Summer Time)",
+        "created": "2017-08-09T13:52:25.016Z",
         "type": "Annotation",
         "frametrail:type": "Annotation",
         "frametrail:tags": [],
@@ -784,16 +750,14 @@
     {
         "@context": [
             "http://www.w3.org/ns/anno.jsonld",
-            {
-                "frametrail": "http://frametrail.org/ns/"
-            }
+            "https://frametrail.org/ns/context.jsonld"
         ],
         "creator": {
             "nickname": "demo",
             "type": "Person",
             "id": "1"
         },
-        "created": "Wed Aug 09 2017 15:52:25 GMT+0200 (Central European Summer Time)",
+        "created": "2017-08-09T13:52:25.017Z",
         "type": "Annotation",
         "frametrail:type": "Annotation",
         "frametrail:tags": [],
@@ -830,16 +794,14 @@
     {
         "@context": [
             "http://www.w3.org/ns/anno.jsonld",
-            {
-                "frametrail": "http://frametrail.org/ns/"
-            }
+            "https://frametrail.org/ns/context.jsonld"
         ],
         "creator": {
             "nickname": "demo",
             "type": "Person",
             "id": "1"
         },
-        "created": "Wed Aug 09 2017 15:52:25 GMT+0200 (Central European Summer Time)",
+        "created": "2017-08-09T13:52:25.018Z",
         "type": "Annotation",
         "frametrail:type": "Annotation",
         "frametrail:tags": [],
@@ -876,16 +838,14 @@
     {
         "@context": [
             "http://www.w3.org/ns/anno.jsonld",
-            {
-                "frametrail": "http://frametrail.org/ns/"
-            }
+            "https://frametrail.org/ns/context.jsonld"
         ],
         "creator": {
             "nickname": "demo",
             "type": "Person",
             "id": "1"
         },
-        "created": "Wed Aug 09 2017 15:52:25 GMT+0200 (Central European Summer Time)",
+        "created": "2017-08-09T13:52:25.019Z",
         "type": "Annotation",
         "frametrail:type": "Annotation",
         "frametrail:tags": [],
@@ -922,16 +882,14 @@
     {
         "@context": [
             "http://www.w3.org/ns/anno.jsonld",
-            {
-                "frametrail": "http://frametrail.org/ns/"
-            }
+            "https://frametrail.org/ns/context.jsonld"
         ],
         "creator": {
             "nickname": "demo",
             "type": "Person",
             "id": "1"
         },
-        "created": "Wed Aug 09 2017 15:52:25 GMT+0200 (Central European Summer Time)",
+        "created": "2017-08-09T13:52:25.020Z",
         "type": "Annotation",
         "frametrail:type": "Annotation",
         "frametrail:tags": [],
@@ -968,16 +926,14 @@
     {
         "@context": [
             "http://www.w3.org/ns/anno.jsonld",
-            {
-                "frametrail": "http://frametrail.org/ns/"
-            }
+            "https://frametrail.org/ns/context.jsonld"
         ],
         "creator": {
             "nickname": "demo",
             "type": "Person",
             "id": "1"
         },
-        "created": "Wed Aug 09 2017 15:52:25 GMT+0200 (Central European Summer Time)",
+        "created": "2017-08-09T13:52:25.021Z",
         "type": "Annotation",
         "frametrail:type": "Annotation",
         "frametrail:tags": [],
@@ -1018,16 +974,14 @@
     {
         "@context": [
             "http://www.w3.org/ns/anno.jsonld",
-            {
-                "frametrail": "http://frametrail.org/ns/"
-            }
+            "https://frametrail.org/ns/context.jsonld"
         ],
         "creator": {
             "nickname": "demo",
             "type": "Person",
             "id": "1"
         },
-        "created": "Wed Aug 09 2017 15:52:25 GMT+0200 (Central European Summer Time)",
+        "created": "2017-08-09T13:52:25.022Z",
         "type": "Annotation",
         "frametrail:type": "Annotation",
         "frametrail:tags": [],
@@ -1064,16 +1018,14 @@
     {
         "@context": [
             "http://www.w3.org/ns/anno.jsonld",
-            {
-                "frametrail": "http://frametrail.org/ns/"
-            }
+            "https://frametrail.org/ns/context.jsonld"
         ],
         "creator": {
             "nickname": "demo",
             "type": "Person",
             "id": "1"
         },
-        "created": "Wed Aug 09 2017 15:52:25 GMT+0200 (Central European Summer Time)",
+        "created": "2017-08-09T13:52:25.023Z",
         "type": "Annotation",
         "frametrail:type": "Annotation",
         "frametrail:tags": [],
@@ -1110,16 +1062,14 @@
     {
         "@context": [
             "http://www.w3.org/ns/anno.jsonld",
-            {
-                "frametrail": "http://frametrail.org/ns/"
-            }
+            "https://frametrail.org/ns/context.jsonld"
         ],
         "creator": {
             "nickname": "demo",
             "type": "Person",
             "id": "1"
         },
-        "created": "Wed Aug 09 2017 15:52:25 GMT+0200 (Central European Summer Time)",
+        "created": "2017-08-09T13:52:25.024Z",
         "type": "Annotation",
         "frametrail:type": "Annotation",
         "frametrail:tags": [],

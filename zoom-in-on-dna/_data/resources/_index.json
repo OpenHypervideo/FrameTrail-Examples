@@ -9,7 +9,7 @@
             "description": null,
             "src": "https://www.youtube.com/embed/wZozOrFluiw",
             "type": "youtube",
-            "attributes": [],
+            "attributes": {},
             "thumb": "https://img.youtube.com/vi/wZozOrFluiw/hqdefault.jpg",
             "licenseType": "CC-BY",
             "licenseAttribution": "yourgenome.org, Genome Research Limited"
@@ -22,7 +22,7 @@
             "description": null,
             "src": "https://www.youtube.com/embed/TNKWgcFPHqw",
             "type": "youtube",
-            "attributes": [],
+            "attributes": {},
             "thumb": "https://img.youtube.com/vi/TNKWgcFPHqw/hqdefault.jpg",
             "licenseType": "CC-BY",
             "licenseAttribution": "yourgenome.org, Genome Research Limited"
@@ -35,7 +35,7 @@
             "description": null,
             "src": "https://www.youtube.com/embed/gG7uCskUOrA?start=3",
             "type": "youtube",
-            "attributes": [],
+            "attributes": {},
             "thumb": "https://img.youtube.com/vi/gG7uCskUOrA/hqdefault.jpg",
             "licenseType": "CC-BY",
             "licenseAttribution": "yourgenome.org, Genome Research Limited"
@@ -48,7 +48,7 @@
             "description": null,
             "src": "https://www.youtube.com/embed/ONGdehkB8jU?start=1",
             "type": "youtube",
-            "attributes": [],
+            "attributes": {},
             "thumb": "https://img.youtube.com/vi/ONGdehkB8jU/hqdefault.jpg",
             "licenseType": "CC-BY",
             "licenseAttribution": "yourgenome.org, Genome Research Limited"
@@ -61,7 +61,7 @@
             "description": null,
             "src": "https://www.youtube.com/embed/v10bUR2aL5g",
             "type": "youtube",
-            "attributes": [],
+            "attributes": {},
             "thumb": "https://img.youtube.com/vi/v10bUR2aL5g/hqdefault.jpg",
             "licenseType": "CC-BY",
             "licenseAttribution": "yourgenome.org, Genome Research Limited"
@@ -74,7 +74,7 @@
             "description": null,
             "src": "https://www.youtube.com/embed/f3dZH6Yi7Po",
             "type": "youtube",
-            "attributes": [],
+            "attributes": {},
             "thumb": "https://img.youtube.com/vi/f3dZH6Yi7Po/hqdefault.jpg",
             "licenseType": "CC-BY",
             "licenseAttribution": "yourgenome.org, Genome Research Limited"
@@ -87,7 +87,7 @@
             "description": null,
             "src": "https://www.youtube.com/embed/Q2847XA-Rfk",
             "type": "youtube",
-            "attributes": [],
+            "attributes": {},
             "thumb": "https://img.youtube.com/vi/Q2847XA-Rfk/hqdefault.jpg",
             "licenseType": "CC-BY",
             "licenseAttribution": "yourgenome.org, Genome Research Limited"
@@ -100,7 +100,7 @@
             "description": null,
             "src": "https://www.youtube.com/embed/ELz3MIjZpgA",
             "type": "youtube",
-            "attributes": [],
+            "attributes": {},
             "thumb": "https://img.youtube.com/vi/ELz3MIjZpgA/hqdefault.jpg",
             "licenseType": "CC-BY",
             "licenseAttribution": "yourgenome.org, Genome Research Limited"
@@ -113,7 +113,7 @@
             "description": null,
             "src": "https://www.youtube.com/embed/BQQEX8rU2tY",
             "type": "youtube",
-            "attributes": [],
+            "attributes": {},
             "thumb": "https://img.youtube.com/vi/BQQEX8rU2tY/hqdefault.jpg",
             "licenseType": "CC-BY",
             "licenseAttribution": "yourgenome.org, Genome Research Limited"
@@ -605,7 +605,7 @@
             "description": null,
             "src": "https://img.youtube.com/vi/wZozOrFluiw/maxresdefault.jpg",
             "type": "image",
-            "attributes": [],
+            "attributes": {},
             "thumb": "https://img.youtube.com/vi/wZozOrFluiw/maxresdefault.jpg"
         },
         "39": {
@@ -616,7 +616,7 @@
             "description": null,
             "src": "1_1773245345_logoblack.svg",
             "type": "image",
-            "attributes": [],
+            "attributes": {},
             "thumb": "1_1773245345_thumb_logoblack.png",
             "licenseType": "",
             "licenseAttribution": ""

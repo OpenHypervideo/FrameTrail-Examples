@@ -6,14 +6,13 @@
         "creator": "Andrea Bertino",
         "creatorId": "3",
         "created": 1521201554218,
-        "lastchanged": 1773103839925
+        "lastchanged": 1792275877369
     },
     "config": {
         "slidingMode": "adjust",
         "slidingTrigger": "key",
         "autohideControls": false,
         "captionsVisible": false,
-        "theme": "",
         "layoutArea": {
             "areaTop": [],
             "areaBottom": [
@@ -86,6 +85,7 @@
     "clips": [
         {
             "resourceId": "2",
+            "src": "3_1521200577_hirmeos-sub-and-sound.mp4",
             "duration": 0,
             "start": 0,
             "end": 0,

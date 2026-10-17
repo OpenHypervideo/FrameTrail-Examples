@@ -223,9 +223,7 @@
             "licenseType": null,
             "licenseAttribution": null,
             "tags": null,
-            "attributes": {
-                "embed": "forbidden"
-            }
+            "attributes": {}
         },
         "21": {
             "name": "webumenia - tumblr",
@@ -239,9 +237,7 @@
             "licenseType": null,
             "licenseAttribution": null,
             "tags": null,
-            "attributes": {
-                "embed": "forbidden"
-            }
+            "attributes": {}
         },
         "22": {
             "name": "Instructions Slavin",
@@ -523,9 +519,7 @@
             "licenseType": null,
             "licenseAttribution": null,
             "tags": null,
-            "attributes": {
-                "embed": "forbidden"
-            }
+            "attributes": {}
         },
         "41": {
             "name": "Vpád vojsk Varšavskej zmluvy do Česko-Slovenska",
@@ -722,9 +716,7 @@
             "licenseType": null,
             "licenseAttribution": null,
             "tags": null,
-            "attributes": {
-                "embed": "forbidden"
-            }
+            "attributes": {}
         },
         "52": {
             "name": "Archive Film Credits - SK Cinema",
@@ -770,9 +762,7 @@
             "licenseType": null,
             "licenseAttribution": null,
             "tags": null,
-            "attributes": {
-                "embed": "forbidden"
-            }
+            "attributes": {}
         },
         "55": {
             "name": "Instructions Overlay Slavin SK HD",
@@ -800,9 +790,7 @@
             "licenseType": null,
             "licenseAttribution": null,
             "tags": null,
-            "attributes": {
-                "alternateVideoFile": "2_1468312905_slavin-sd.mp4"
-            }
+            "attributes": {}
         }
     }
 }

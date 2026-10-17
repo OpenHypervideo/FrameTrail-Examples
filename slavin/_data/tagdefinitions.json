@@ -1,22 +1,10 @@
 {
-	"english": {
-		"en": {
-			"label": "English",
-			"description": ""
-		},
-		"de": {
-			"label": "English",
-			"description": ""
-		}
-	},
-	"slovak": {
-		"en": {
-			"label": "Slovak",
-			"description": ""
-		},
-		"de": {
-			"label": "Slovak",
-			"description": ""
-		}
-	}
+    "english": {
+        "label": "English",
+        "description": ""
+    },
+    "slovak": {
+        "label": "Slovak",
+        "description": ""
+    }
 }

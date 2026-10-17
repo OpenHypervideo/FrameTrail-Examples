@@ -871,9 +871,7 @@
             "licenseType": null,
             "licenseAttribution": null,
             "tags": null,
-            "attributes": {
-                "embed": "forbidden"
-            }
+            "attributes": {}
         },
         "43": {
             "name": "LHC",
@@ -1234,9 +1232,7 @@
             "licenseType": null,
             "licenseAttribution": null,
             "tags": null,
-            "attributes": {
-                "embed": "forbidden"
-            }
+            "attributes": {}
         },
         "61": {
             "name": "American Physical Society",
@@ -1347,7 +1343,7 @@
             "licenseType": null,
             "licenseAttribution": null,
             "tags": null,
-            "attributes": []
+            "attributes": {}
         },
         "67": {
             "name": "Tevatron",
@@ -1640,7 +1636,7 @@
             "licenseType": null,
             "licenseAttribution": null,
             "tags": null,
-            "attributes": []
+            "attributes": {}
         },
         "83": {
             "name": "Invarianz",
@@ -1696,7 +1692,7 @@
             "licenseType": null,
             "licenseAttribution": null,
             "tags": null,
-            "attributes": []
+            "attributes": {}
         },
         "86": {
             "name": "Standardmodell",
@@ -1899,9 +1895,7 @@
             "licenseType": null,
             "licenseAttribution": null,
             "tags": null,
-            "attributes": {
-                "embed": "forbidden"
-            }
+            "attributes": {}
         },
         "96": {
             "name": "DESY",
@@ -1936,9 +1930,7 @@
             "licenseType": null,
             "licenseAttribution": null,
             "tags": null,
-            "attributes": {
-                "embed": "forbidden"
-            }
+            "attributes": {}
         },
         "99": {
             "name": "DESY",
@@ -2091,9 +2083,7 @@
             "licenseType": null,
             "licenseAttribution": null,
             "tags": null,
-            "attributes": {
-                "embed": "forbidden"
-            }
+            "attributes": {}
         },
         "107": {
             "name": "Heinrich Hertz",
@@ -2223,9 +2213,7 @@
             "licenseType": null,
             "licenseAttribution": null,
             "tags": null,
-            "attributes": {
-                "embed": "forbidden"
-            }
+            "attributes": {}
         },
         "114": {
             "name": "Stephen Hawking",
@@ -2386,7 +2374,7 @@
             "licenseType": null,
             "licenseAttribution": null,
             "tags": null,
-            "attributes": []
+            "attributes": {}
         }
     }
 }

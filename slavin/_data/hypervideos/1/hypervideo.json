@@ -6,15 +6,13 @@
         "creator": "demo",
         "creatorId": "2",
         "created": 1509193741768,
-        "lastchanged": 1773104296142
+        "lastchanged": 1792275877369
     },
     "config": {
         "slidingMode": "adjust",
         "slidingTrigger": "key",
         "autohideControls": false,
         "captionsVisible": true,
-        "hidden": false,
-        "theme": "bright",
         "layoutArea": {
             "areaTop": [],
             "areaBottom": [
@@ -109,6 +107,7 @@
     "clips": [
         {
             "resourceId": "4",
+            "src": "2_1465486227_slavin.mp4",
             "duration": 0,
             "start": 0,
             "end": 0,

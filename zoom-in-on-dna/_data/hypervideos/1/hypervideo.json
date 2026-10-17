@@ -6,7 +6,7 @@
         "creator": "demo",
         "creatorId": "1",
         "created": 1773150038269,
-        "lastchanged": 1773249134459
+        "lastchanged": 1792275877369
     },
     "config": {
         "slidingMode": "adjust",
@@ -14,7 +14,6 @@
         "autohideControls": false,
         "captionsVisible": false,
         "clipTimeVisible": false,
-        "theme": "",
         "layoutArea": {
             "areaTop": [],
             "areaBottom": [
@@ -101,16 +100,14 @@
         {
             "@context": [
                 "http://www.w3.org/ns/anno.jsonld",
-                {
-                    "frametrail": "http://frametrail.org/ns/"
-                }
+                "https://frametrail.org/ns/context.jsonld"
             ],
             "creator": {
                 "nickname": "demo",
                 "type": "Person",
                 "id": "1"
             },
-            "created": "Wed Mar 11 2026 17:02:20 GMT+0100 (Central European Standard Time)",
+            "created": "2026-03-11T16:02:20.000Z",
             "type": "Annotation",
             "frametrail:type": "Overlay",
             "frametrail:tags": [],
@@ -133,7 +130,13 @@
                 "frametrail:licenseType": null,
                 "frametrail:licenseAttribution": null,
                 "frametrail:attributes": {
-                    "animationOut": "fade"
+                    "animation": {
+                        "out": {
+                            "preset": "fadeOut",
+                            "duration": 300,
+                            "ease": "easeIn"
+                        }
+                    }
                 }
             },
             "frametrail:events": {}
@@ -141,16 +144,14 @@
         {
             "@context": [
                 "http://www.w3.org/ns/anno.jsonld",
-                {
-                    "frametrail": "http://frametrail.org/ns/"
-                }
+                "https://frametrail.org/ns/context.jsonld"
             ],
             "creator": {
                 "nickname": "demo",
                 "type": "Person",
                 "id": "1"
             },
-            "created": "Wed Mar 11 2026 17:09:41 GMT+0100 (Central European Standard Time)",
+            "created": "2026-03-11T16:09:41.000Z",
             "type": "Annotation",
             "frametrail:type": "Overlay",
             "frametrail:tags": [],
@@ -179,16 +180,14 @@
         {
             "@context": [
                 "http://www.w3.org/ns/anno.jsonld",
-                {
-                    "frametrail": "http://frametrail.org/ns/"
-                }
+                "https://frametrail.org/ns/context.jsonld"
             ],
             "creator": {
                 "nickname": "demo",
                 "type": "Person",
                 "id": "1"
             },
-            "created": "Wed Mar 11 2026 17:10:14 GMT+0100 (Central European Standard Time)",
+            "created": "2026-03-11T16:10:14.000Z",
             "type": "Annotation",
             "frametrail:type": "Overlay",
             "frametrail:tags": [],
@@ -211,7 +210,9 @@
                 "frametrail:licenseAttribution": null,
                 "frametrail:attributes": {
                     "color": "#d2d8e1",
-                    "linkUrl": "https://www.yourgenome.org/",
+                    "linkUrl": "",
+                    "action": "openUrl",
+                    "actionTarget": "https://www.yourgenome.org/",
                     "borderWidth": 2,
                     "shape": "rectangle",
                     "borderRadius": 10
@@ -224,16 +225,14 @@
         {
             "@context": [
                 "http://www.w3.org/ns/anno.jsonld",
-                {
-                    "frametrail": "http://frametrail.org/ns/"
-                }
+                "https://frametrail.org/ns/context.jsonld"
             ],
             "creator": {
                 "nickname": "demo",
                 "type": "Person",
                 "id": "1"
             },
-            "created": "Wed Mar 11 2026 17:16:54 GMT+0100 (Central European Standard Time)",
+            "created": "2026-03-11T16:16:54.000Z",
             "type": "Annotation",
             "frametrail:type": "Overlay",
             "frametrail:tags": [],
@@ -262,16 +261,14 @@
         {
             "@context": [
                 "http://www.w3.org/ns/anno.jsonld",
-                {
-                    "frametrail": "http://frametrail.org/ns/"
-                }
+                "https://frametrail.org/ns/context.jsonld"
             ],
             "creator": {
                 "nickname": "demo",
                 "type": "Person",
                 "id": "1"
             },
-            "created": "Wed Mar 11 2026 17:17:35 GMT+0100 (Central European Standard Time)",
+            "created": "2026-03-11T16:17:35.000Z",
             "type": "Annotation",
             "frametrail:type": "Overlay",
             "frametrail:tags": [],
@@ -300,16 +297,14 @@
         {
             "@context": [
                 "http://www.w3.org/ns/anno.jsonld",
-                {
-                    "frametrail": "http://frametrail.org/ns/"
-                }
+                "https://frametrail.org/ns/context.jsonld"
             ],
             "creator": {
                 "nickname": "demo",
                 "type": "Person",
                 "id": "1"
             },
-            "created": "Wed Mar 11 2026 17:18:33 GMT+0100 (Central European Standard Time)",
+            "created": "2026-03-11T16:18:33.000Z",
             "type": "Annotation",
             "frametrail:type": "Overlay",
             "frametrail:tags": [],
@@ -332,7 +327,9 @@
                 "frametrail:licenseAttribution": null,
                 "frametrail:attributes": {
                     "color": "#d2d8e1",
-                    "linkUrl": "https://www.yourgenome.org/",
+                    "linkUrl": "",
+                    "action": "openUrl",
+                    "actionTarget": "https://www.yourgenome.org/",
                     "borderWidth": 2,
                     "shape": "rectangle",
                     "borderRadius": 10
