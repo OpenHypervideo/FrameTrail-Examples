@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+    <meta http-equiv="cache-control" content="no-cache">
+    <title>Archives de la Ville de Bruxelles (2012) - FrameTrail Demo</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@frametrail/frametrail@v1.4.4/frametrail.min.css">
+    <link rel="stylesheet" href="_data/custom.css">
+    <style>
+        .stage {
+            position: fixed;
+            inset: 0;
+            box-sizing: border-box;
+            padding: clamp(24px, 4vh, 112px) clamp(24px, 12vw, 224px);
+            background-color: #eceeee;
+        }
+        .stage > #player {
+            box-shadow: 0 4px 32px rgba(0, 0, 0, .14);
+        }
+        @media (max-width: 640px), (max-height: 480px) {
+            .stage {
+                padding: 0;
+            }
+            .stage > #player {
+                box-shadow: none;
+            }
+        }
+    </style>
+    <script src="https://cdn.jsdelivr.net/npm/@frametrail/frametrail@v1.4.4/frametrail.min.js"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            window.myInstance = FrameTrail.init({
+                target:         '#player',
+                fullPage:       true,
+                dataPath:       './_data/',
+                resources:      [{ label: "Choose Resources",
+                                   data: "_data/resources/_index.json",
+                                   type: "frametrail" }]
+            });
+        });
+    </script>
+</head>
+<body><div class="stage"><div id="player"></div></div></body>
+</html>

@@ -1,0 +1,56 @@
+/* Custom styles for Archives de la Ville de Bruxelles (2012) */
+
+.collectionElement .resourceThumb .resourceTitle {
+    display: none;
+}
+
+.archivesSearch {
+    position: absolute;
+    inset: 0;
+    overflow-y: auto;
+    padding: 2% 3%;
+    box-sizing: border-box;
+    background-color: #111;
+    color: #fff;
+}
+
+.archivesSearch h3 {
+    margin: 0.4em 0;
+    font-size: 14px;
+    font-weight: normal;
+}
+
+.archivesSearch h3 a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.archivesSearch h3 a:hover {
+    color: #81999A;
+}
+
+.archivesSearchGrid {
+    display: grid;
+    grid-template-columns: repeat(6, minmax(0, 1fr));
+    gap: 4px;
+}
+
+.archivesSearchGrid a {
+    display: block;
+    aspect-ratio: 3 / 4;
+}
+
+.archivesSearchGrid img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: top;
+    border: 3px solid transparent;
+    box-sizing: border-box;
+    opacity: 0.7;
+}
+
+.archivesSearchGrid a:hover img {
+    border-color: #81999A;
+    opacity: 1;
+}

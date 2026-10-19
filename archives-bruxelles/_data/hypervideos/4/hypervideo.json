@@ -1,0 +1,404 @@
+{
+    "meta": {
+        "name": "Travaux publics",
+        "description": "Through the stacks of the public works records. The documents of each box light up around the video.",
+        "thumb": "1_1792328404_thumb_travaux-publics.png",
+        "creator": "demo",
+        "creatorId": "1",
+        "created": 1792328504000,
+        "lastchanged": 1792328504000
+    },
+    "config": {
+        "slidingMode": "adjust",
+        "slidingTrigger": "key",
+        "autohideControls": false,
+        "captionsVisible": false,
+        "clipTimeVisible": false,
+        "layoutArea": {
+            "areaTop": [],
+            "areaBottom": [],
+            "areaLeft": [],
+            "areaRight": [],
+            "areaCircular": [
+                {
+                    "type": "TimedContent",
+                    "name": "",
+                    "contentSize": "medium",
+                    "initClosed": false,
+                    "collectionFilter": {
+                        "tags": [],
+                        "types": [],
+                        "users": [],
+                        "text": ""
+                    }
+                }
+            ]
+        }
+    },
+    "clips": [
+        {
+            "resourceId": "4",
+            "src": "1_1792328404_travaux-publics.mp4",
+            "duration": 0,
+            "in": 0,
+            "out": 0
+        }
+    ],
+    "contents": [
+        {
+            "@context": [
+                "http://www.w3.org/ns/anno.jsonld",
+                "https://frametrail.org/ns/context.jsonld"
+            ],
+            "creator": {
+                "nickname": "demo",
+                "type": "Person",
+                "id": "1"
+            },
+            "created": "2026-10-18T13:01:40.036Z",
+            "type": "Annotation",
+            "frametrail:type": "Overlay",
+            "frametrail:tags": [],
+            "target": {
+                "type": "Video",
+                "source": "1_1792328404_travaux-publics.mp4",
+                "selector": {
+                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                    "type": "FragmentSelector",
+                    "value": "t=11,14&xywh=percent:29,21,50,68"
+                }
+            },
+            "body": {
+                "type": "TextualBody",
+                "frametrail:type": "hotspot",
+                "format": "text/html",
+                "value": "",
+                "frametrail:name": "Documents 1",
+                "frametrail:thumb": null,
+                "frametrail:licenseType": null,
+                "frametrail:licenseAttribution": null,
+                "frametrail:attributes": {
+                    "shape": "rectangle",
+                    "color": "#81999A",
+                    "borderWidth": 3,
+                    "action": ""
+                }
+            },
+            "frametrail:events": {
+                "onStart": "hypervideo.pause(); window.setTimeout(function () { if (FrameTrail.module('HypervideoController') === hypervideo && !hypervideo.isPlaying) { hypervideo.play(); } }, 3000);"
+            }
+        },
+        {
+            "@context": [
+                "http://www.w3.org/ns/anno.jsonld",
+                "https://frametrail.org/ns/context.jsonld"
+            ],
+            "creator": {
+                "nickname": "demo",
+                "type": "Person",
+                "id": "1"
+            },
+            "created": "2026-10-18T13:01:40.039Z",
+            "type": "Annotation",
+            "frametrail:type": "Overlay",
+            "frametrail:tags": [],
+            "target": {
+                "type": "Video",
+                "source": "1_1792328404_travaux-publics.mp4",
+                "selector": {
+                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                    "type": "FragmentSelector",
+                    "value": "t=26,29&xywh=percent:38,28,34,52"
+                }
+            },
+            "body": {
+                "type": "TextualBody",
+                "frametrail:type": "hotspot",
+                "format": "text/html",
+                "value": "",
+                "frametrail:name": "Documents 2",
+                "frametrail:thumb": null,
+                "frametrail:licenseType": null,
+                "frametrail:licenseAttribution": null,
+                "frametrail:attributes": {
+                    "shape": "rectangle",
+                    "color": "#81999A",
+                    "borderWidth": 3,
+                    "action": ""
+                }
+            },
+            "frametrail:events": {
+                "onStart": "hypervideo.pause(); window.setTimeout(function () { if (FrameTrail.module('HypervideoController') === hypervideo && !hypervideo.isPlaying) { hypervideo.play(); } }, 3000);"
+            }
+        },
+        {
+            "@context": [
+                "http://www.w3.org/ns/anno.jsonld",
+                "https://frametrail.org/ns/context.jsonld"
+            ],
+            "creator": {
+                "nickname": "demo",
+                "type": "Person",
+                "id": "1"
+            },
+            "created": "2026-10-18T13:01:40.044Z",
+            "type": "Annotation",
+            "frametrail:type": "Overlay",
+            "frametrail:tags": [],
+            "target": {
+                "type": "Video",
+                "source": "1_1792328404_travaux-publics.mp4",
+                "selector": {
+                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                    "type": "FragmentSelector",
+                    "value": "t=60,63&xywh=percent:23,3,36,90"
+                }
+            },
+            "body": {
+                "type": "TextualBody",
+                "frametrail:type": "hotspot",
+                "format": "text/html",
+                "value": "",
+                "frametrail:name": "Documents 3",
+                "frametrail:thumb": null,
+                "frametrail:licenseType": null,
+                "frametrail:licenseAttribution": null,
+                "frametrail:attributes": {
+                    "shape": "rectangle",
+                    "color": "#81999A",
+                    "borderWidth": 3,
+                    "action": ""
+                }
+            },
+            "frametrail:events": {
+                "onStart": "hypervideo.pause(); window.setTimeout(function () { if (FrameTrail.module('HypervideoController') === hypervideo && !hypervideo.isPlaying) { hypervideo.play(); } }, 3000);"
+            }
+        },
+        {
+            "@context": [
+                "http://www.w3.org/ns/anno.jsonld",
+                "https://frametrail.org/ns/context.jsonld"
+            ],
+            "creator": {
+                "nickname": "demo",
+                "type": "Person",
+                "id": "1"
+            },
+            "created": "2026-10-18T13:01:40.048Z",
+            "type": "Annotation",
+            "frametrail:type": "Overlay",
+            "frametrail:tags": [],
+            "target": {
+                "type": "Video",
+                "source": "1_1792328404_travaux-publics.mp4",
+                "selector": {
+                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                    "type": "FragmentSelector",
+                    "value": "t=76,79&xywh=percent:65,13,33,61"
+                }
+            },
+            "body": {
+                "type": "TextualBody",
+                "frametrail:type": "hotspot",
+                "format": "text/html",
+                "value": "",
+                "frametrail:name": "Documents 4",
+                "frametrail:thumb": null,
+                "frametrail:licenseType": null,
+                "frametrail:licenseAttribution": null,
+                "frametrail:attributes": {
+                    "shape": "rectangle",
+                    "color": "#81999A",
+                    "borderWidth": 3,
+                    "action": ""
+                }
+            },
+            "frametrail:events": {
+                "onStart": "hypervideo.pause(); window.setTimeout(function () { if (FrameTrail.module('HypervideoController') === hypervideo && !hypervideo.isPlaying) { hypervideo.play(); } }, 3000);"
+            }
+        },
+        {
+            "@context": [
+                "http://www.w3.org/ns/anno.jsonld",
+                "https://frametrail.org/ns/context.jsonld"
+            ],
+            "creator": {
+                "nickname": "demo",
+                "type": "Person",
+                "id": "1"
+            },
+            "created": "2026-10-18T13:01:40.053Z",
+            "type": "Annotation",
+            "frametrail:type": "Overlay",
+            "frametrail:tags": [],
+            "target": {
+                "type": "Video",
+                "source": "1_1792328404_travaux-publics.mp4",
+                "selector": {
+                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                    "type": "FragmentSelector",
+                    "value": "t=90,93&xywh=percent:60,9,16,15"
+                }
+            },
+            "body": {
+                "type": "TextualBody",
+                "frametrail:type": "hotspot",
+                "format": "text/html",
+                "value": "",
+                "frametrail:name": "Documents 5",
+                "frametrail:thumb": null,
+                "frametrail:licenseType": null,
+                "frametrail:licenseAttribution": null,
+                "frametrail:attributes": {
+                    "shape": "rectangle",
+                    "color": "#81999A",
+                    "borderWidth": 3,
+                    "action": ""
+                }
+            },
+            "frametrail:events": {
+                "onStart": "hypervideo.pause(); window.setTimeout(function () { if (FrameTrail.module('HypervideoController') === hypervideo && !hypervideo.isPlaying) { hypervideo.play(); } }, 3000);"
+            }
+        },
+        {
+            "@context": [
+                "http://www.w3.org/ns/anno.jsonld",
+                "https://frametrail.org/ns/context.jsonld"
+            ],
+            "creator": {
+                "nickname": "demo",
+                "type": "Person",
+                "id": "1"
+            },
+            "created": "2026-10-18T13:01:40.059Z",
+            "type": "Annotation",
+            "frametrail:type": "Overlay",
+            "frametrail:tags": [],
+            "target": {
+                "type": "Video",
+                "source": "1_1792328404_travaux-publics.mp4",
+                "selector": {
+                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                    "type": "FragmentSelector",
+                    "value": "t=115.83,119&xywh=percent:20,32,8,19"
+                }
+            },
+            "body": {
+                "type": "TextualBody",
+                "frametrail:type": "hotspot",
+                "format": "text/html",
+                "value": "",
+                "frametrail:name": "Documents 6",
+                "frametrail:thumb": null,
+                "frametrail:licenseType": null,
+                "frametrail:licenseAttribution": null,
+                "frametrail:attributes": {
+                    "shape": "rectangle",
+                    "color": "#81999A",
+                    "borderWidth": 3,
+                    "action": ""
+                }
+            },
+            "frametrail:events": {
+                "onStart": "hypervideo.pause(); window.setTimeout(function () { if (FrameTrail.module('HypervideoController') === hypervideo && !hypervideo.isPlaying) { hypervideo.play(); } }, 3000);"
+            }
+        },
+        {
+            "@context": [
+                "http://www.w3.org/ns/anno.jsonld",
+                "https://frametrail.org/ns/context.jsonld"
+            ],
+            "creator": {
+                "nickname": "demo",
+                "type": "Person",
+                "id": "1"
+            },
+            "created": "2026-10-18T13:01:40.062Z",
+            "type": "Annotation",
+            "frametrail:type": "Overlay",
+            "frametrail:tags": [],
+            "target": {
+                "type": "Video",
+                "source": "1_1792328404_travaux-publics.mp4",
+                "selector": {
+                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                    "type": "FragmentSelector",
+                    "value": "t=120.44,128.44&xywh=percent:2,31,32,18"
+                }
+            },
+            "body": {
+                "type": "TextualBody",
+                "frametrail:type": "hotspot",
+                "format": "text/html",
+                "value": "",
+                "frametrail:name": "Archives de la Police",
+                "frametrail:thumb": null,
+                "frametrail:licenseType": null,
+                "frametrail:licenseAttribution": null,
+                "frametrail:attributes": {
+                    "shape": "rounded",
+                    "color": "#81999A",
+                    "backgroundColor": "rgba(17,17,17,0.75)",
+                    "text": "Archives de la Police",
+                    "textColor": "#ffffff",
+                    "action": "jumpToHypervideo",
+                    "actionTarget": "3"
+                }
+            },
+            "frametrail:events": {}
+        },
+        {
+            "@context": [
+                "http://www.w3.org/ns/anno.jsonld",
+                "https://frametrail.org/ns/context.jsonld"
+            ],
+            "creator": {
+                "nickname": "demo",
+                "type": "Person",
+                "id": "1"
+            },
+            "created": "2026-10-18T13:01:40.063Z",
+            "type": "Annotation",
+            "frametrail:type": "Overlay",
+            "frametrail:tags": [],
+            "target": {
+                "type": "Video",
+                "source": "1_1792328404_travaux-publics.mp4",
+                "selector": {
+                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                    "type": "FragmentSelector",
+                    "value": "t=120.44,128.44&xywh=percent:41,76,32,18"
+                }
+            },
+            "body": {
+                "type": "TextualBody",
+                "frametrail:type": "hotspot",
+                "format": "text/html",
+                "value": "",
+                "frametrail:name": "Retour à la salle de lecture",
+                "frametrail:thumb": null,
+                "frametrail:licenseType": null,
+                "frametrail:licenseAttribution": null,
+                "frametrail:attributes": {
+                    "shape": "rounded",
+                    "color": "#81999A",
+                    "backgroundColor": "rgba(17,17,17,0.75)",
+                    "text": "Retour à la salle de lecture",
+                    "textColor": "#ffffff",
+                    "action": "jumpToHypervideo",
+                    "actionTarget": "2"
+                }
+            },
+            "frametrail:events": {}
+        }
+    ],
+    "chapters": [],
+    "subtitles": [],
+    "globalEvents": {
+        "onReady": "hypervideo.play();",
+        "onPlay": "",
+        "onPause": "",
+        "onEnded": "FrameTrail.module('HypervideoController').pause();"
+    },
+    "customCSS": ""
+}

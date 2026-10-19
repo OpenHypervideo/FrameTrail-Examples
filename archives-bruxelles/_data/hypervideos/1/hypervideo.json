@@ -1,0 +1,133 @@
+{
+    "meta": {
+        "name": "Salle de lecture",
+        "description": "The reading room of the Archives de la Ville de Bruxelles. Pick a document on the screen to go to the place in the archive where it is kept.",
+        "thumb": "1_1792328401_thumb_salle-de-lecture.png",
+        "creator": "demo",
+        "creatorId": "1",
+        "created": 1792328501000,
+        "lastchanged": 1792328501000
+    },
+    "config": {
+        "slidingMode": "adjust",
+        "slidingTrigger": "key",
+        "autohideControls": false,
+        "captionsVisible": false,
+        "clipTimeVisible": false,
+        "layoutArea": {
+            "areaTop": [],
+            "areaBottom": [],
+            "areaLeft": [],
+            "areaRight": [],
+            "areaCircular": [
+                {
+                    "type": "TimedContent",
+                    "name": "",
+                    "contentSize": "medium",
+                    "initClosed": false,
+                    "collectionFilter": {
+                        "tags": [],
+                        "types": [],
+                        "users": [],
+                        "text": ""
+                    }
+                }
+            ]
+        }
+    },
+    "clips": [
+        {
+            "resourceId": "1",
+            "src": "1_1792328401_salle-de-lecture.mp4",
+            "duration": 0,
+            "in": 0,
+            "out": 0
+        }
+    ],
+    "contents": [
+        {
+            "@context": [
+                "http://www.w3.org/ns/anno.jsonld",
+                "https://frametrail.org/ns/context.jsonld"
+            ],
+            "creator": {
+                "nickname": "demo",
+                "type": "Person",
+                "id": "1"
+            },
+            "created": "2026-10-18T13:01:40.001Z",
+            "type": "Annotation",
+            "frametrail:type": "Overlay",
+            "frametrail:tags": [],
+            "target": {
+                "type": "Video",
+                "source": "1_1792328401_salle-de-lecture.mp4",
+                "selector": {
+                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                    "type": "FragmentSelector",
+                    "value": "t=23,40&xywh=percent:3,4,40,90"
+                }
+            },
+            "body": {
+                "type": "Text",
+                "frametrail:type": "webpage",
+                "format": "text/html",
+                "value": "https://web.archive.org/web/20120308123138if_/http://m.bruxelles.be:80/",
+                "frametrail:name": "Ville de Bruxelles (site mobile, 2012)",
+                "frametrail:thumb": null,
+                "frametrail:licenseType": "Copyright",
+                "frametrail:licenseAttribution": "Ville de Bruxelles, via the Internet Archive",
+                "frametrail:resourceId": "45",
+                "frametrail:attributes": {
+                    "embed": "allowed"
+                }
+            },
+            "frametrail:events": {}
+        },
+        {
+            "@context": [
+                "http://www.w3.org/ns/anno.jsonld",
+                "https://frametrail.org/ns/context.jsonld"
+            ],
+            "creator": {
+                "nickname": "demo",
+                "type": "Person",
+                "id": "1"
+            },
+            "created": "2026-10-18T13:01:40.002Z",
+            "type": "Annotation",
+            "frametrail:type": "Overlay",
+            "frametrail:tags": [],
+            "target": {
+                "type": "Video",
+                "source": "1_1792328401_salle-de-lecture.mp4",
+                "selector": {
+                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                    "type": "FragmentSelector",
+                    "value": "t=43,45.64&xywh=percent:32.6,12,40.5,57",
+                    "frametrail:rotation": -1
+                }
+            },
+            "body": {
+                "frametrail:type": "html",
+                "source": "",
+                "frametrail:name": "Recherche",
+                "frametrail:attributes": {
+                    "text": "&lt;div class=&quot;archivesSearch&quot;&gt;&lt;h3&gt;&lt;a href=&quot;#hypervideo=3&quot;&gt;Archives de la Police&lt;/a&gt;&lt;/h3&gt;&lt;div class=&quot;archivesSearchGrid&quot;&gt;&lt;a href=&quot;#hypervideo=3&amp;amp;t=11.5&quot; title=&quot;Police – document 01&quot;&gt;&lt;img src=&quot;_data/resources/1_1792328405_thumb_pol-01.jpg&quot; alt=&quot;Police – document 01&quot;&gt;&lt;/a&gt;&lt;a href=&quot;#hypervideo=3&amp;amp;t=58.5&quot; title=&quot;Police – document 30&quot;&gt;&lt;img src=&quot;_data/resources/1_1792328422_thumb_pol-30.jpg&quot; alt=&quot;Police – document 30&quot;&gt;&lt;/a&gt;&lt;a href=&quot;#hypervideo=3&amp;amp;t=58.5&quot; title=&quot;Police – document 31&quot;&gt;&lt;img src=&quot;_data/resources/1_1792328423_thumb_pol-31.jpg&quot; alt=&quot;Police – document 31&quot;&gt;&lt;/a&gt;&lt;a href=&quot;#hypervideo=3&amp;amp;t=58.5&quot; title=&quot;Police – document 32&quot;&gt;&lt;img src=&quot;_data/resources/1_1792328424_thumb_pol-32.jpg&quot; alt=&quot;Police – document 32&quot;&gt;&lt;/a&gt;&lt;a href=&quot;#hypervideo=3&amp;amp;t=58.5&quot; title=&quot;Police – document 07&quot;&gt;&lt;img src=&quot;_data/resources/1_1792328408_thumb_pol-07.jpg&quot; alt=&quot;Police – document 07&quot;&gt;&lt;/a&gt;&lt;a href=&quot;#hypervideo=3&amp;amp;t=109.5&quot; title=&quot;Police – document 05&quot;&gt;&lt;img src=&quot;_data/resources/1_1792328407_thumb_pol-05.jpg&quot; alt=&quot;Police – document 05&quot;&gt;&lt;/a&gt;&lt;a href=&quot;#hypervideo=3&amp;amp;t=139.5&quot; title=&quot;Police – document 03&quot;&gt;&lt;img src=&quot;_data/resources/1_1792328406_thumb_pol-03.jpg&quot; alt=&quot;Police – document 03&quot;&gt;&lt;/a&gt;&lt;a href=&quot;#hypervideo=3&amp;amp;t=139.5&quot; title=&quot;Police – document 09&quot;&gt;&lt;img src=&quot;_data/resources/1_1792328409_thumb_pol-09.jpg&quot; alt=&quot;Police – document 09&quot;&gt;&lt;/a&gt;&lt;a href=&quot;#hypervideo=3&amp;amp;t=139.5&quot; title=&quot;Police – document 14&quot;&gt;&lt;img src=&quot;_data/resources/1_1792328413_thumb_pol-14.jpg&quot; alt=&quot;Police – document 14&quot;&gt;&lt;/a&gt;&lt;a href=&quot;#hypervideo=3&amp;amp;t=139.5&quot; title=&quot;Police – document 26&quot;&gt;&lt;img src=&quot;_data/resources/1_1792328419_thumb_pol-26.jpg&quot; alt=&quot;Police – document 26&quot;&gt;&lt;/a&gt;&lt;a href=&quot;#hypervideo=3&amp;amp;t=139.5&quot; title=&quot;Police – document 29&quot;&gt;&lt;img src=&quot;_data/resources/1_1792328421_thumb_pol-29.jpg&quot; alt=&quot;Police – document 29&quot;&gt;&lt;/a&gt;&lt;a href=&quot;#hypervideo=3&amp;amp;t=159.5&quot; title=&quot;Police – document 28&quot;&gt;&lt;img src=&quot;_data/resources/1_1792328420_thumb_pol-28.jpg&quot; alt=&quot;Police – document 28&quot;&gt;&lt;/a&gt;&lt;a href=&quot;#hypervideo=3&amp;amp;t=159.5&quot; title=&quot;Police – document 13&quot;&gt;&lt;img src=&quot;_data/resources/1_1792328412_thumb_pol-13.jpg&quot; alt=&quot;Police – document 13&quot;&gt;&lt;/a&gt;&lt;a href=&quot;#hypervideo=3&amp;amp;t=159.5&quot; title=&quot;Police – document 15&quot;&gt;&lt;img src=&quot;_data/resources/1_1792328414_thumb_pol-15.jpg&quot; alt=&quot;Police – document 15&quot;&gt;&lt;/a&gt;&lt;a href=&quot;#hypervideo=3&amp;amp;t=159.5&quot; title=&quot;Police – document 21&quot;&gt;&lt;img src=&quot;_data/resources/1_1792328416_thumb_pol-21.jpg&quot; alt=&quot;Police – document 21&quot;&gt;&lt;/a&gt;&lt;a href=&quot;#hypervideo=3&amp;amp;t=185.5&quot; title=&quot;Police – document 10&quot;&gt;&lt;img src=&quot;_data/resources/1_1792328410_thumb_pol-10.jpg&quot; alt=&quot;Police – document 10&quot;&gt;&lt;/a&gt;&lt;a href=&quot;#hypervideo=3&amp;amp;t=185.5&quot; title=&quot;Police – document 12&quot;&gt;&lt;img src=&quot;_data/resources/1_1792328411_thumb_pol-12.jpg&quot; alt=&quot;Police – document 12&quot;&gt;&lt;/a&gt;&lt;a href=&quot;#hypervideo=3&amp;amp;t=185.5&quot; title=&quot;Police – document 18&quot;&gt;&lt;img src=&quot;_data/resources/1_1792328415_thumb_pol-18.jpg&quot; alt=&quot;Police – document 18&quot;&gt;&lt;/a&gt;&lt;a href=&quot;#hypervideo=3&amp;amp;t=185.5&quot; title=&quot;Police – document 23&quot;&gt;&lt;img src=&quot;_data/resources/1_1792328417_thumb_pol-23.jpg&quot; alt=&quot;Police – document 23&quot;&gt;&lt;/a&gt;&lt;a href=&quot;#hypervideo=3&amp;amp;t=185.5&quot; title=&quot;Police – document 25&quot;&gt;&lt;img src=&quot;_data/resources/1_1792328418_thumb_pol-25.jpg&quot; alt=&quot;Police – document 25&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;h3&gt;&lt;a href=&quot;#hypervideo=4&quot;&gt;Travaux publics&lt;/a&gt;&lt;/h3&gt;&lt;div class=&quot;archivesSearchGrid&quot;&gt;&lt;a href=&quot;#hypervideo=4&amp;amp;t=10.5&quot; title=&quot;Travaux publics – document 16&quot;&gt;&lt;img src=&quot;_data/resources/1_1792328425_thumb_tp-16.jpg&quot; alt=&quot;Travaux publics – document 16&quot;&gt;&lt;/a&gt;&lt;a href=&quot;#hypervideo=4&amp;amp;t=10.5&quot; title=&quot;Travaux publics – document 17&quot;&gt;&lt;img src=&quot;_data/resources/1_1792328426_thumb_tp-17.jpg&quot; alt=&quot;Travaux publics – document 17&quot;&gt;&lt;/a&gt;&lt;a href=&quot;#hypervideo=4&amp;amp;t=25.5&quot; title=&quot;Travaux publics – document 20&quot;&gt;&lt;img src=&quot;_data/resources/1_1792328427_thumb_tp-20.jpg&quot; alt=&quot;Travaux publics – document 20&quot;&gt;&lt;/a&gt;&lt;a href=&quot;#hypervideo=4&amp;amp;t=25.5&quot; title=&quot;Travaux publics – document 32&quot;&gt;&lt;img src=&quot;_data/resources/1_1792328428_thumb_tp-32.jpg&quot; alt=&quot;Travaux publics – document 32&quot;&gt;&lt;/a&gt;&lt;a href=&quot;#hypervideo=4&amp;amp;t=25.5&quot; title=&quot;Travaux publics – document 46&quot;&gt;&lt;img src=&quot;_data/resources/1_1792328429_thumb_tp-46.jpg&quot; alt=&quot;Travaux publics – document 46&quot;&gt;&lt;/a&gt;&lt;a href=&quot;#hypervideo=4&amp;amp;t=25.5&quot; title=&quot;Travaux publics – document 47&quot;&gt;&lt;img src=&quot;_data/resources/1_1792328430_thumb_tp-47.jpg&quot; alt=&quot;Travaux publics – document 47&quot;&gt;&lt;/a&gt;&lt;a href=&quot;#hypervideo=4&amp;amp;t=59.5&quot; title=&quot;Travaux publics – document 52&quot;&gt;&lt;img src=&quot;_data/resources/1_1792328431_thumb_tp-52.jpg&quot; alt=&quot;Travaux publics – document 52&quot;&gt;&lt;/a&gt;&lt;a href=&quot;#hypervideo=4&amp;amp;t=59.5&quot; title=&quot;Travaux publics – document 57&quot;&gt;&lt;img src=&quot;_data/resources/1_1792328432_thumb_tp-57.jpg&quot; alt=&quot;Travaux publics – document 57&quot;&gt;&lt;/a&gt;&lt;a href=&quot;#hypervideo=4&amp;amp;t=59.5&quot; title=&quot;Travaux publics – document 58&quot;&gt;&lt;img src=&quot;_data/resources/1_1792328433_thumb_tp-58.jpg&quot; alt=&quot;Travaux publics – document 58&quot;&gt;&lt;/a&gt;&lt;a href=&quot;#hypervideo=4&amp;amp;t=75.5&quot; title=&quot;Travaux publics – document 59&quot;&gt;&lt;img src=&quot;_data/resources/1_1792328434_thumb_tp-59.jpg&quot; alt=&quot;Travaux publics – document 59&quot;&gt;&lt;/a&gt;&lt;a href=&quot;#hypervideo=4&amp;amp;t=75.5&quot; title=&quot;Travaux publics – document 61&quot;&gt;&lt;img src=&quot;_data/resources/1_1792328435_thumb_tp-61.jpg&quot; alt=&quot;Travaux publics – document 61&quot;&gt;&lt;/a&gt;&lt;a href=&quot;#hypervideo=4&amp;amp;t=75.5&quot; title=&quot;Travaux publics – document 64&quot;&gt;&lt;img src=&quot;_data/resources/1_1792328436_thumb_tp-64.jpg&quot; alt=&quot;Travaux publics – document 64&quot;&gt;&lt;/a&gt;&lt;a href=&quot;#hypervideo=4&amp;amp;t=75.5&quot; title=&quot;Travaux publics – document 65&quot;&gt;&lt;img src=&quot;_data/resources/1_1792328437_thumb_tp-65.jpg&quot; alt=&quot;Travaux publics – document 65&quot;&gt;&lt;/a&gt;&lt;a href=&quot;#hypervideo=4&amp;amp;t=89.5&quot; title=&quot;Travaux publics – document 68&quot;&gt;&lt;img src=&quot;_data/resources/1_1792328438_thumb_tp-68.jpg&quot; alt=&quot;Travaux publics – document 68&quot;&gt;&lt;/a&gt;&lt;a href=&quot;#hypervideo=4&amp;amp;t=89.5&quot; title=&quot;Travaux publics – document 69&quot;&gt;&lt;img src=&quot;_data/resources/1_1792328439_thumb_tp-69.jpg&quot; alt=&quot;Travaux publics – document 69&quot;&gt;&lt;/a&gt;&lt;a href=&quot;#hypervideo=4&amp;amp;t=89.5&quot; title=&quot;Travaux publics – document 71&quot;&gt;&lt;img src=&quot;_data/resources/1_1792328440_thumb_tp-71.jpg&quot; alt=&quot;Travaux publics – document 71&quot;&gt;&lt;/a&gt;&lt;a href=&quot;#hypervideo=4&amp;amp;t=89.5&quot; title=&quot;Travaux publics – document 74&quot;&gt;&lt;img src=&quot;_data/resources/1_1792328441_thumb_tp-74.jpg&quot; alt=&quot;Travaux publics – document 74&quot;&gt;&lt;/a&gt;&lt;a href=&quot;#hypervideo=4&amp;amp;t=89.5&quot; title=&quot;Travaux publics – document 76&quot;&gt;&lt;img src=&quot;_data/resources/1_1792328442_thumb_tp-76.jpg&quot; alt=&quot;Travaux publics – document 76&quot;&gt;&lt;/a&gt;&lt;a href=&quot;#hypervideo=4&amp;amp;t=115.33&quot; title=&quot;Travaux publics – document 77&quot;&gt;&lt;img src=&quot;_data/resources/1_1792328443_thumb_tp-77.jpg&quot; alt=&quot;Travaux publics – document 77&quot;&gt;&lt;/a&gt;&lt;a href=&quot;#hypervideo=4&amp;amp;t=115.33&quot; title=&quot;Travaux publics – document 79&quot;&gt;&lt;img src=&quot;_data/resources/1_1792328444_thumb_tp-79.jpg&quot; alt=&quot;Travaux publics – document 79&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;"
+                }
+            },
+            "frametrail:events": {
+                "onStart": "FrameTrail.module('HypervideoController').pause();"
+            }
+        }
+    ],
+    "chapters": [],
+    "subtitles": [],
+    "globalEvents": {
+        "onReady": "hypervideo.play();",
+        "onPlay": "",
+        "onPause": "",
+        "onEnded": ""
+    },
+    "customCSS": ""
+}

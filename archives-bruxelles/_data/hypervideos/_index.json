@@ -1,0 +1,36 @@
+{
+    "hypervideo-increment": 4,
+    "hypervideos": {
+        "1": "./1",
+        "2": "./2",
+        "3": "./3",
+        "4": "./4"
+    },
+    "overviewMap": {
+        "background": "1_1792342079_archives-bruxelles-rue-des-tanneurs-65.svg",
+        "backgroundColor": "#ffffff",
+        "fit": "contain",
+        "padding": 2,
+        "paddingUnit": "percent",
+        "pinStyle": "thumb",
+        "pinAnimation": "ripple",
+        "lastchanged": 1792342079000,
+        "markers": {
+            "1": {
+                "x": 0.71,
+                "y": 0.76,
+                "size": 6
+            },
+            "3": {
+                "x": 0.28,
+                "y": 0.47,
+                "size": 6
+            },
+            "4": {
+                "x": 0.46,
+                "y": 0.26,
+                "size": 6
+            }
+        }
+    }
+}

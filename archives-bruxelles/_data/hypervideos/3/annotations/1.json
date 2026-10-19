@@ -1,0 +1,866 @@
+[
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-10-18T13:01:40.004Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "target": {
+            "type": "Video",
+            "source": "1_1792328403_police-archives.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=12,15"
+            }
+        },
+        "body": {
+            "type": "Image",
+            "frametrail:type": "image",
+            "format": "image/jpeg",
+            "source": "1_1792328405_pol-01.jpg",
+            "frametrail:name": "Police – document 01",
+            "frametrail:thumb": "1_1792328405_thumb_pol-01.jpg",
+            "frametrail:licenseType": "Copyright",
+            "frametrail:licenseAttribution": "Archives de la Ville de Bruxelles",
+            "frametrail:resourceId": "5",
+            "frametrail:attributes": {}
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-10-18T13:01:40.006Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "target": {
+            "type": "Video",
+            "source": "1_1792328403_police-archives.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=59,62"
+            }
+        },
+        "body": {
+            "type": "Image",
+            "frametrail:type": "image",
+            "format": "image/jpeg",
+            "source": "1_1792328422_pol-30.jpg",
+            "frametrail:name": "Police – document 30",
+            "frametrail:thumb": "1_1792328422_thumb_pol-30.jpg",
+            "frametrail:licenseType": "Copyright",
+            "frametrail:licenseAttribution": "Archives de la Ville de Bruxelles",
+            "frametrail:resourceId": "22",
+            "frametrail:attributes": {}
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-10-18T13:01:40.007Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "target": {
+            "type": "Video",
+            "source": "1_1792328403_police-archives.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=59,62"
+            }
+        },
+        "body": {
+            "type": "Image",
+            "frametrail:type": "image",
+            "format": "image/jpeg",
+            "source": "1_1792328423_pol-31.jpg",
+            "frametrail:name": "Police – document 31",
+            "frametrail:thumb": "1_1792328423_thumb_pol-31.jpg",
+            "frametrail:licenseType": "Copyright",
+            "frametrail:licenseAttribution": "Archives de la Ville de Bruxelles",
+            "frametrail:resourceId": "23",
+            "frametrail:attributes": {}
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-10-18T13:01:40.008Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "target": {
+            "type": "Video",
+            "source": "1_1792328403_police-archives.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=59,62"
+            }
+        },
+        "body": {
+            "type": "Image",
+            "frametrail:type": "image",
+            "format": "image/jpeg",
+            "source": "1_1792328424_pol-32.jpg",
+            "frametrail:name": "Police – document 32",
+            "frametrail:thumb": "1_1792328424_thumb_pol-32.jpg",
+            "frametrail:licenseType": "Copyright",
+            "frametrail:licenseAttribution": "Archives de la Ville de Bruxelles",
+            "frametrail:resourceId": "24",
+            "frametrail:attributes": {}
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-10-18T13:01:40.009Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "target": {
+            "type": "Video",
+            "source": "1_1792328403_police-archives.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=59,62"
+            }
+        },
+        "body": {
+            "type": "Image",
+            "frametrail:type": "image",
+            "format": "image/jpeg",
+            "source": "1_1792328408_pol-07.jpg",
+            "frametrail:name": "Police – document 07",
+            "frametrail:thumb": "1_1792328408_thumb_pol-07.jpg",
+            "frametrail:licenseType": "Copyright",
+            "frametrail:licenseAttribution": "Archives de la Ville de Bruxelles",
+            "frametrail:resourceId": "8",
+            "frametrail:attributes": {}
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-10-18T13:01:40.011Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "target": {
+            "type": "Video",
+            "source": "1_1792328403_police-archives.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=110,113"
+            }
+        },
+        "body": {
+            "type": "Image",
+            "frametrail:type": "image",
+            "format": "image/jpeg",
+            "source": "1_1792328407_pol-05.jpg",
+            "frametrail:name": "Police – document 05",
+            "frametrail:thumb": "1_1792328407_thumb_pol-05.jpg",
+            "frametrail:licenseType": "Copyright",
+            "frametrail:licenseAttribution": "Archives de la Ville de Bruxelles",
+            "frametrail:resourceId": "7",
+            "frametrail:attributes": {}
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-10-18T13:01:40.013Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "target": {
+            "type": "Video",
+            "source": "1_1792328403_police-archives.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=140,143"
+            }
+        },
+        "body": {
+            "type": "Image",
+            "frametrail:type": "image",
+            "format": "image/jpeg",
+            "source": "1_1792328406_pol-03.jpg",
+            "frametrail:name": "Police – document 03",
+            "frametrail:thumb": "1_1792328406_thumb_pol-03.jpg",
+            "frametrail:licenseType": "Copyright",
+            "frametrail:licenseAttribution": "Archives de la Ville de Bruxelles",
+            "frametrail:resourceId": "6",
+            "frametrail:attributes": {}
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-10-18T13:01:40.014Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "target": {
+            "type": "Video",
+            "source": "1_1792328403_police-archives.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=140,143"
+            }
+        },
+        "body": {
+            "type": "Image",
+            "frametrail:type": "image",
+            "format": "image/jpeg",
+            "source": "1_1792328409_pol-09.jpg",
+            "frametrail:name": "Police – document 09",
+            "frametrail:thumb": "1_1792328409_thumb_pol-09.jpg",
+            "frametrail:licenseType": "Copyright",
+            "frametrail:licenseAttribution": "Archives de la Ville de Bruxelles",
+            "frametrail:resourceId": "9",
+            "frametrail:attributes": {}
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-10-18T13:01:40.015Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "target": {
+            "type": "Video",
+            "source": "1_1792328403_police-archives.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=140,143"
+            }
+        },
+        "body": {
+            "type": "Image",
+            "frametrail:type": "image",
+            "format": "image/jpeg",
+            "source": "1_1792328413_pol-14.jpg",
+            "frametrail:name": "Police – document 14",
+            "frametrail:thumb": "1_1792328413_thumb_pol-14.jpg",
+            "frametrail:licenseType": "Copyright",
+            "frametrail:licenseAttribution": "Archives de la Ville de Bruxelles",
+            "frametrail:resourceId": "13",
+            "frametrail:attributes": {}
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-10-18T13:01:40.016Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "target": {
+            "type": "Video",
+            "source": "1_1792328403_police-archives.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=140,143"
+            }
+        },
+        "body": {
+            "type": "Image",
+            "frametrail:type": "image",
+            "format": "image/jpeg",
+            "source": "1_1792328419_pol-26.jpg",
+            "frametrail:name": "Police – document 26",
+            "frametrail:thumb": "1_1792328419_thumb_pol-26.jpg",
+            "frametrail:licenseType": "Copyright",
+            "frametrail:licenseAttribution": "Archives de la Ville de Bruxelles",
+            "frametrail:resourceId": "19",
+            "frametrail:attributes": {}
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-10-18T13:01:40.017Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "target": {
+            "type": "Video",
+            "source": "1_1792328403_police-archives.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=140,143"
+            }
+        },
+        "body": {
+            "type": "Image",
+            "frametrail:type": "image",
+            "format": "image/jpeg",
+            "source": "1_1792328421_pol-29.jpg",
+            "frametrail:name": "Police – document 29",
+            "frametrail:thumb": "1_1792328421_thumb_pol-29.jpg",
+            "frametrail:licenseType": "Copyright",
+            "frametrail:licenseAttribution": "Archives de la Ville de Bruxelles",
+            "frametrail:resourceId": "21",
+            "frametrail:attributes": {}
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-10-18T13:01:40.019Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "target": {
+            "type": "Video",
+            "source": "1_1792328403_police-archives.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=160,163"
+            }
+        },
+        "body": {
+            "type": "Image",
+            "frametrail:type": "image",
+            "format": "image/jpeg",
+            "source": "1_1792328420_pol-28.jpg",
+            "frametrail:name": "Police – document 28",
+            "frametrail:thumb": "1_1792328420_thumb_pol-28.jpg",
+            "frametrail:licenseType": "Copyright",
+            "frametrail:licenseAttribution": "Archives de la Ville de Bruxelles",
+            "frametrail:resourceId": "20",
+            "frametrail:attributes": {}
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-10-18T13:01:40.020Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "target": {
+            "type": "Video",
+            "source": "1_1792328403_police-archives.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=160,163"
+            }
+        },
+        "body": {
+            "type": "Image",
+            "frametrail:type": "image",
+            "format": "image/jpeg",
+            "source": "1_1792328412_pol-13.jpg",
+            "frametrail:name": "Police – document 13",
+            "frametrail:thumb": "1_1792328412_thumb_pol-13.jpg",
+            "frametrail:licenseType": "Copyright",
+            "frametrail:licenseAttribution": "Archives de la Ville de Bruxelles",
+            "frametrail:resourceId": "12",
+            "frametrail:attributes": {}
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-10-18T13:01:40.021Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "target": {
+            "type": "Video",
+            "source": "1_1792328403_police-archives.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=160,163"
+            }
+        },
+        "body": {
+            "type": "Image",
+            "frametrail:type": "image",
+            "format": "image/jpeg",
+            "source": "1_1792328414_pol-15.jpg",
+            "frametrail:name": "Police – document 15",
+            "frametrail:thumb": "1_1792328414_thumb_pol-15.jpg",
+            "frametrail:licenseType": "Copyright",
+            "frametrail:licenseAttribution": "Archives de la Ville de Bruxelles",
+            "frametrail:resourceId": "14",
+            "frametrail:attributes": {}
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-10-18T13:01:40.022Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "target": {
+            "type": "Video",
+            "source": "1_1792328403_police-archives.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=160,163"
+            }
+        },
+        "body": {
+            "type": "Image",
+            "frametrail:type": "image",
+            "format": "image/jpeg",
+            "source": "1_1792328416_pol-21.jpg",
+            "frametrail:name": "Police – document 21",
+            "frametrail:thumb": "1_1792328416_thumb_pol-21.jpg",
+            "frametrail:licenseType": "Copyright",
+            "frametrail:licenseAttribution": "Archives de la Ville de Bruxelles",
+            "frametrail:resourceId": "16",
+            "frametrail:attributes": {}
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-10-18T13:01:40.024Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "target": {
+            "type": "Video",
+            "source": "1_1792328403_police-archives.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=186,189"
+            }
+        },
+        "body": {
+            "type": "Image",
+            "frametrail:type": "image",
+            "format": "image/jpeg",
+            "source": "1_1792328410_pol-10.jpg",
+            "frametrail:name": "Police – document 10",
+            "frametrail:thumb": "1_1792328410_thumb_pol-10.jpg",
+            "frametrail:licenseType": "Copyright",
+            "frametrail:licenseAttribution": "Archives de la Ville de Bruxelles",
+            "frametrail:resourceId": "10",
+            "frametrail:attributes": {}
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-10-18T13:01:40.025Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "target": {
+            "type": "Video",
+            "source": "1_1792328403_police-archives.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=186,189"
+            }
+        },
+        "body": {
+            "type": "Image",
+            "frametrail:type": "image",
+            "format": "image/jpeg",
+            "source": "1_1792328411_pol-12.jpg",
+            "frametrail:name": "Police – document 12",
+            "frametrail:thumb": "1_1792328411_thumb_pol-12.jpg",
+            "frametrail:licenseType": "Copyright",
+            "frametrail:licenseAttribution": "Archives de la Ville de Bruxelles",
+            "frametrail:resourceId": "11",
+            "frametrail:attributes": {}
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-10-18T13:01:40.026Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "target": {
+            "type": "Video",
+            "source": "1_1792328403_police-archives.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=186,189"
+            }
+        },
+        "body": {
+            "type": "Image",
+            "frametrail:type": "image",
+            "format": "image/jpeg",
+            "source": "1_1792328415_pol-18.jpg",
+            "frametrail:name": "Police – document 18",
+            "frametrail:thumb": "1_1792328415_thumb_pol-18.jpg",
+            "frametrail:licenseType": "Copyright",
+            "frametrail:licenseAttribution": "Archives de la Ville de Bruxelles",
+            "frametrail:resourceId": "15",
+            "frametrail:attributes": {}
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-10-18T13:01:40.027Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "target": {
+            "type": "Video",
+            "source": "1_1792328403_police-archives.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=186,189"
+            }
+        },
+        "body": {
+            "type": "Image",
+            "frametrail:type": "image",
+            "format": "image/jpeg",
+            "source": "1_1792328417_pol-23.jpg",
+            "frametrail:name": "Police – document 23",
+            "frametrail:thumb": "1_1792328417_thumb_pol-23.jpg",
+            "frametrail:licenseType": "Copyright",
+            "frametrail:licenseAttribution": "Archives de la Ville de Bruxelles",
+            "frametrail:resourceId": "17",
+            "frametrail:attributes": {}
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-10-18T13:01:40.028Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "target": {
+            "type": "Video",
+            "source": "1_1792328403_police-archives.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=186,189"
+            }
+        },
+        "body": {
+            "type": "Image",
+            "frametrail:type": "image",
+            "format": "image/jpeg",
+            "source": "1_1792328418_pol-25.jpg",
+            "frametrail:name": "Police – document 25",
+            "frametrail:thumb": "1_1792328418_thumb_pol-25.jpg",
+            "frametrail:licenseType": "Copyright",
+            "frametrail:licenseAttribution": "Archives de la Ville de Bruxelles",
+            "frametrail:resourceId": "18",
+            "frametrail:attributes": {}
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-10-18T13:01:40.030Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "target": {
+            "type": "Video",
+            "source": "1_1792328403_police-archives.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=204,207"
+            }
+        },
+        "body": {
+            "type": "Image",
+            "frametrail:type": "image",
+            "format": "image/jpeg",
+            "source": "1_1792328422_pol-30.jpg",
+            "frametrail:name": "Police – document 30",
+            "frametrail:thumb": "1_1792328422_thumb_pol-30.jpg",
+            "frametrail:licenseType": "Copyright",
+            "frametrail:licenseAttribution": "Archives de la Ville de Bruxelles",
+            "frametrail:resourceId": "22",
+            "frametrail:attributes": {}
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-10-18T13:01:40.031Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "target": {
+            "type": "Video",
+            "source": "1_1792328403_police-archives.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=204,207"
+            }
+        },
+        "body": {
+            "type": "Image",
+            "frametrail:type": "image",
+            "format": "image/jpeg",
+            "source": "1_1792328423_pol-31.jpg",
+            "frametrail:name": "Police – document 31",
+            "frametrail:thumb": "1_1792328423_thumb_pol-31.jpg",
+            "frametrail:licenseType": "Copyright",
+            "frametrail:licenseAttribution": "Archives de la Ville de Bruxelles",
+            "frametrail:resourceId": "23",
+            "frametrail:attributes": {}
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-10-18T13:01:40.032Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "target": {
+            "type": "Video",
+            "source": "1_1792328403_police-archives.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=204,207"
+            }
+        },
+        "body": {
+            "type": "Image",
+            "frametrail:type": "image",
+            "format": "image/jpeg",
+            "source": "1_1792328424_pol-32.jpg",
+            "frametrail:name": "Police – document 32",
+            "frametrail:thumb": "1_1792328424_thumb_pol-32.jpg",
+            "frametrail:licenseType": "Copyright",
+            "frametrail:licenseAttribution": "Archives de la Ville de Bruxelles",
+            "frametrail:resourceId": "24",
+            "frametrail:attributes": {}
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-10-18T13:01:40.033Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "target": {
+            "type": "Video",
+            "source": "1_1792328403_police-archives.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=204,207"
+            }
+        },
+        "body": {
+            "type": "Image",
+            "frametrail:type": "image",
+            "format": "image/jpeg",
+            "source": "1_1792328408_pol-07.jpg",
+            "frametrail:name": "Police – document 07",
+            "frametrail:thumb": "1_1792328408_thumb_pol-07.jpg",
+            "frametrail:licenseType": "Copyright",
+            "frametrail:licenseAttribution": "Archives de la Ville de Bruxelles",
+            "frametrail:resourceId": "8",
+            "frametrail:attributes": {}
+        }
+    }
+]

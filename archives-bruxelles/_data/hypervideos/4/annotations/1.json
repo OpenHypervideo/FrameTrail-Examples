@@ -1,0 +1,722 @@
+[
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-10-18T13:01:40.037Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "target": {
+            "type": "Video",
+            "source": "1_1792328404_travaux-publics.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=11,14"
+            }
+        },
+        "body": {
+            "type": "Image",
+            "frametrail:type": "image",
+            "format": "image/jpeg",
+            "source": "1_1792328425_tp-16.jpg",
+            "frametrail:name": "Travaux publics – document 16",
+            "frametrail:thumb": "1_1792328425_thumb_tp-16.jpg",
+            "frametrail:licenseType": "Copyright",
+            "frametrail:licenseAttribution": "Archives de la Ville de Bruxelles",
+            "frametrail:resourceId": "25",
+            "frametrail:attributes": {}
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-10-18T13:01:40.038Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "target": {
+            "type": "Video",
+            "source": "1_1792328404_travaux-publics.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=11,14"
+            }
+        },
+        "body": {
+            "type": "Image",
+            "frametrail:type": "image",
+            "format": "image/jpeg",
+            "source": "1_1792328426_tp-17.jpg",
+            "frametrail:name": "Travaux publics – document 17",
+            "frametrail:thumb": "1_1792328426_thumb_tp-17.jpg",
+            "frametrail:licenseType": "Copyright",
+            "frametrail:licenseAttribution": "Archives de la Ville de Bruxelles",
+            "frametrail:resourceId": "26",
+            "frametrail:attributes": {}
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-10-18T13:01:40.040Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "target": {
+            "type": "Video",
+            "source": "1_1792328404_travaux-publics.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=26,29"
+            }
+        },
+        "body": {
+            "type": "Image",
+            "frametrail:type": "image",
+            "format": "image/jpeg",
+            "source": "1_1792328427_tp-20.jpg",
+            "frametrail:name": "Travaux publics – document 20",
+            "frametrail:thumb": "1_1792328427_thumb_tp-20.jpg",
+            "frametrail:licenseType": "Copyright",
+            "frametrail:licenseAttribution": "Archives de la Ville de Bruxelles",
+            "frametrail:resourceId": "27",
+            "frametrail:attributes": {}
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-10-18T13:01:40.041Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "target": {
+            "type": "Video",
+            "source": "1_1792328404_travaux-publics.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=26,29"
+            }
+        },
+        "body": {
+            "type": "Image",
+            "frametrail:type": "image",
+            "format": "image/jpeg",
+            "source": "1_1792328428_tp-32.jpg",
+            "frametrail:name": "Travaux publics – document 32",
+            "frametrail:thumb": "1_1792328428_thumb_tp-32.jpg",
+            "frametrail:licenseType": "Copyright",
+            "frametrail:licenseAttribution": "Archives de la Ville de Bruxelles",
+            "frametrail:resourceId": "28",
+            "frametrail:attributes": {}
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-10-18T13:01:40.042Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "target": {
+            "type": "Video",
+            "source": "1_1792328404_travaux-publics.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=26,29"
+            }
+        },
+        "body": {
+            "type": "Image",
+            "frametrail:type": "image",
+            "format": "image/jpeg",
+            "source": "1_1792328429_tp-46.jpg",
+            "frametrail:name": "Travaux publics – document 46",
+            "frametrail:thumb": "1_1792328429_thumb_tp-46.jpg",
+            "frametrail:licenseType": "Copyright",
+            "frametrail:licenseAttribution": "Archives de la Ville de Bruxelles",
+            "frametrail:resourceId": "29",
+            "frametrail:attributes": {}
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-10-18T13:01:40.043Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "target": {
+            "type": "Video",
+            "source": "1_1792328404_travaux-publics.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=26,29"
+            }
+        },
+        "body": {
+            "type": "Image",
+            "frametrail:type": "image",
+            "format": "image/jpeg",
+            "source": "1_1792328430_tp-47.jpg",
+            "frametrail:name": "Travaux publics – document 47",
+            "frametrail:thumb": "1_1792328430_thumb_tp-47.jpg",
+            "frametrail:licenseType": "Copyright",
+            "frametrail:licenseAttribution": "Archives de la Ville de Bruxelles",
+            "frametrail:resourceId": "30",
+            "frametrail:attributes": {}
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-10-18T13:01:40.045Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "target": {
+            "type": "Video",
+            "source": "1_1792328404_travaux-publics.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=60,63"
+            }
+        },
+        "body": {
+            "type": "Image",
+            "frametrail:type": "image",
+            "format": "image/jpeg",
+            "source": "1_1792328431_tp-52.jpg",
+            "frametrail:name": "Travaux publics – document 52",
+            "frametrail:thumb": "1_1792328431_thumb_tp-52.jpg",
+            "frametrail:licenseType": "Copyright",
+            "frametrail:licenseAttribution": "Archives de la Ville de Bruxelles",
+            "frametrail:resourceId": "31",
+            "frametrail:attributes": {}
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-10-18T13:01:40.046Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "target": {
+            "type": "Video",
+            "source": "1_1792328404_travaux-publics.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=60,63"
+            }
+        },
+        "body": {
+            "type": "Image",
+            "frametrail:type": "image",
+            "format": "image/jpeg",
+            "source": "1_1792328432_tp-57.jpg",
+            "frametrail:name": "Travaux publics – document 57",
+            "frametrail:thumb": "1_1792328432_thumb_tp-57.jpg",
+            "frametrail:licenseType": "Copyright",
+            "frametrail:licenseAttribution": "Archives de la Ville de Bruxelles",
+            "frametrail:resourceId": "32",
+            "frametrail:attributes": {}
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-10-18T13:01:40.047Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "target": {
+            "type": "Video",
+            "source": "1_1792328404_travaux-publics.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=60,63"
+            }
+        },
+        "body": {
+            "type": "Image",
+            "frametrail:type": "image",
+            "format": "image/jpeg",
+            "source": "1_1792328433_tp-58.jpg",
+            "frametrail:name": "Travaux publics – document 58",
+            "frametrail:thumb": "1_1792328433_thumb_tp-58.jpg",
+            "frametrail:licenseType": "Copyright",
+            "frametrail:licenseAttribution": "Archives de la Ville de Bruxelles",
+            "frametrail:resourceId": "33",
+            "frametrail:attributes": {}
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-10-18T13:01:40.049Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "target": {
+            "type": "Video",
+            "source": "1_1792328404_travaux-publics.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=76,79"
+            }
+        },
+        "body": {
+            "type": "Image",
+            "frametrail:type": "image",
+            "format": "image/jpeg",
+            "source": "1_1792328434_tp-59.jpg",
+            "frametrail:name": "Travaux publics – document 59",
+            "frametrail:thumb": "1_1792328434_thumb_tp-59.jpg",
+            "frametrail:licenseType": "Copyright",
+            "frametrail:licenseAttribution": "Archives de la Ville de Bruxelles",
+            "frametrail:resourceId": "34",
+            "frametrail:attributes": {}
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-10-18T13:01:40.050Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "target": {
+            "type": "Video",
+            "source": "1_1792328404_travaux-publics.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=76,79"
+            }
+        },
+        "body": {
+            "type": "Image",
+            "frametrail:type": "image",
+            "format": "image/jpeg",
+            "source": "1_1792328435_tp-61.jpg",
+            "frametrail:name": "Travaux publics – document 61",
+            "frametrail:thumb": "1_1792328435_thumb_tp-61.jpg",
+            "frametrail:licenseType": "Copyright",
+            "frametrail:licenseAttribution": "Archives de la Ville de Bruxelles",
+            "frametrail:resourceId": "35",
+            "frametrail:attributes": {}
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-10-18T13:01:40.051Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "target": {
+            "type": "Video",
+            "source": "1_1792328404_travaux-publics.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=76,79"
+            }
+        },
+        "body": {
+            "type": "Image",
+            "frametrail:type": "image",
+            "format": "image/jpeg",
+            "source": "1_1792328436_tp-64.jpg",
+            "frametrail:name": "Travaux publics – document 64",
+            "frametrail:thumb": "1_1792328436_thumb_tp-64.jpg",
+            "frametrail:licenseType": "Copyright",
+            "frametrail:licenseAttribution": "Archives de la Ville de Bruxelles",
+            "frametrail:resourceId": "36",
+            "frametrail:attributes": {}
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-10-18T13:01:40.052Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "target": {
+            "type": "Video",
+            "source": "1_1792328404_travaux-publics.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=76,79"
+            }
+        },
+        "body": {
+            "type": "Image",
+            "frametrail:type": "image",
+            "format": "image/jpeg",
+            "source": "1_1792328437_tp-65.jpg",
+            "frametrail:name": "Travaux publics – document 65",
+            "frametrail:thumb": "1_1792328437_thumb_tp-65.jpg",
+            "frametrail:licenseType": "Copyright",
+            "frametrail:licenseAttribution": "Archives de la Ville de Bruxelles",
+            "frametrail:resourceId": "37",
+            "frametrail:attributes": {}
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-10-18T13:01:40.054Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "target": {
+            "type": "Video",
+            "source": "1_1792328404_travaux-publics.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=90,93"
+            }
+        },
+        "body": {
+            "type": "Image",
+            "frametrail:type": "image",
+            "format": "image/jpeg",
+            "source": "1_1792328438_tp-68.jpg",
+            "frametrail:name": "Travaux publics – document 68",
+            "frametrail:thumb": "1_1792328438_thumb_tp-68.jpg",
+            "frametrail:licenseType": "Copyright",
+            "frametrail:licenseAttribution": "Archives de la Ville de Bruxelles",
+            "frametrail:resourceId": "38",
+            "frametrail:attributes": {}
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-10-18T13:01:40.055Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "target": {
+            "type": "Video",
+            "source": "1_1792328404_travaux-publics.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=90,93"
+            }
+        },
+        "body": {
+            "type": "Image",
+            "frametrail:type": "image",
+            "format": "image/jpeg",
+            "source": "1_1792328439_tp-69.jpg",
+            "frametrail:name": "Travaux publics – document 69",
+            "frametrail:thumb": "1_1792328439_thumb_tp-69.jpg",
+            "frametrail:licenseType": "Copyright",
+            "frametrail:licenseAttribution": "Archives de la Ville de Bruxelles",
+            "frametrail:resourceId": "39",
+            "frametrail:attributes": {}
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-10-18T13:01:40.056Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "target": {
+            "type": "Video",
+            "source": "1_1792328404_travaux-publics.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=90,93"
+            }
+        },
+        "body": {
+            "type": "Image",
+            "frametrail:type": "image",
+            "format": "image/jpeg",
+            "source": "1_1792328440_tp-71.jpg",
+            "frametrail:name": "Travaux publics – document 71",
+            "frametrail:thumb": "1_1792328440_thumb_tp-71.jpg",
+            "frametrail:licenseType": "Copyright",
+            "frametrail:licenseAttribution": "Archives de la Ville de Bruxelles",
+            "frametrail:resourceId": "40",
+            "frametrail:attributes": {}
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-10-18T13:01:40.057Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "target": {
+            "type": "Video",
+            "source": "1_1792328404_travaux-publics.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=90,93"
+            }
+        },
+        "body": {
+            "type": "Image",
+            "frametrail:type": "image",
+            "format": "image/jpeg",
+            "source": "1_1792328441_tp-74.jpg",
+            "frametrail:name": "Travaux publics – document 74",
+            "frametrail:thumb": "1_1792328441_thumb_tp-74.jpg",
+            "frametrail:licenseType": "Copyright",
+            "frametrail:licenseAttribution": "Archives de la Ville de Bruxelles",
+            "frametrail:resourceId": "41",
+            "frametrail:attributes": {}
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-10-18T13:01:40.058Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "target": {
+            "type": "Video",
+            "source": "1_1792328404_travaux-publics.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=90,93"
+            }
+        },
+        "body": {
+            "type": "Image",
+            "frametrail:type": "image",
+            "format": "image/jpeg",
+            "source": "1_1792328442_tp-76.jpg",
+            "frametrail:name": "Travaux publics – document 76",
+            "frametrail:thumb": "1_1792328442_thumb_tp-76.jpg",
+            "frametrail:licenseType": "Copyright",
+            "frametrail:licenseAttribution": "Archives de la Ville de Bruxelles",
+            "frametrail:resourceId": "42",
+            "frametrail:attributes": {}
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-10-18T13:01:40.060Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "target": {
+            "type": "Video",
+            "source": "1_1792328404_travaux-publics.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=115.83,119"
+            }
+        },
+        "body": {
+            "type": "Image",
+            "frametrail:type": "image",
+            "format": "image/jpeg",
+            "source": "1_1792328443_tp-77.jpg",
+            "frametrail:name": "Travaux publics – document 77",
+            "frametrail:thumb": "1_1792328443_thumb_tp-77.jpg",
+            "frametrail:licenseType": "Copyright",
+            "frametrail:licenseAttribution": "Archives de la Ville de Bruxelles",
+            "frametrail:resourceId": "43",
+            "frametrail:attributes": {}
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-10-18T13:01:40.061Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "target": {
+            "type": "Video",
+            "source": "1_1792328404_travaux-publics.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=115.83,119"
+            }
+        },
+        "body": {
+            "type": "Image",
+            "frametrail:type": "image",
+            "format": "image/jpeg",
+            "source": "1_1792328444_tp-79.jpg",
+            "frametrail:name": "Travaux publics – document 79",
+            "frametrail:thumb": "1_1792328444_thumb_tp-79.jpg",
+            "frametrail:licenseType": "Copyright",
+            "frametrail:licenseAttribution": "Archives de la Ville de Bruxelles",
+            "frametrail:resourceId": "44",
+            "frametrail:attributes": {}
+        }
+    }
+]

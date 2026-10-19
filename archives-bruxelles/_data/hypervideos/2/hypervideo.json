@@ -1,0 +1,57 @@
+{
+    "meta": {
+        "name": "Retour à la salle de lecture",
+        "description": "Back through the entrance hall to the reading room.",
+        "thumb": "1_1792328402_thumb_navigational-bridge-01.png",
+        "creator": "demo",
+        "creatorId": "1",
+        "created": 1792328502000,
+        "lastchanged": 1792328502000
+    },
+    "config": {
+        "slidingMode": "adjust",
+        "slidingTrigger": "key",
+        "autohideControls": false,
+        "captionsVisible": false,
+        "clipTimeVisible": false,
+        "layoutArea": {
+            "areaTop": [],
+            "areaBottom": [],
+            "areaLeft": [],
+            "areaRight": [],
+            "areaCircular": [
+                {
+                    "type": "TimedContent",
+                    "name": "",
+                    "contentSize": "medium",
+                    "initClosed": false,
+                    "collectionFilter": {
+                        "tags": [],
+                        "types": [],
+                        "users": [],
+                        "text": ""
+                    }
+                }
+            ]
+        }
+    },
+    "clips": [
+        {
+            "resourceId": "2",
+            "src": "1_1792328402_navigational-bridge-01.mp4",
+            "duration": 0,
+            "in": 1,
+            "out": 0
+        }
+    ],
+    "contents": [],
+    "chapters": [],
+    "subtitles": [],
+    "globalEvents": {
+        "onReady": "hypervideo.play();",
+        "onPlay": "",
+        "onPause": "",
+        "onEnded": "window.location.hash = 'hypervideo=1&t=14';"
+    },
+    "customCSS": ""
+}
