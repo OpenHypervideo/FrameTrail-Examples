@@ -14,3 +14,4 @@ Demos and Examples of FrameTrail Projects
 - [Trump UN Debate (2017)](https://openhypervideo.github.io/FrameTrail-Examples/trump-un-debate/)
 - [Slavin (2016)](https://openhypervideo.github.io/FrameTrail-Examples/slavin/)
 - [Inside Science (2012)](https://openhypervideo.github.io/FrameTrail-Examples/inside-science/)
+- [Archives de la Ville de Bruxelles (2012)](https://openhypervideo.github.io/FrameTrail-Examples/archives-bruxelles/) - The Open Hypervideo prototype of 2012, rebuilt in FrameTrail: four linked hypervideos through the city archives of Brussels, with 40 archive documents that light up around the video.
