@@ -80,7 +80,7 @@
                 "frametrail:attributes": {
                     "shape": "rectangle",
                     "color": "#81999A",
-                    "borderWidth": 3,
+                    "borderWidth": 5,
                     "action": ""
                 }
             },
@@ -123,7 +123,7 @@
                 "frametrail:attributes": {
                     "shape": "rectangle",
                     "color": "#81999A",
-                    "borderWidth": 3,
+                    "borderWidth": 5,
                     "action": ""
                 }
             },
@@ -166,7 +166,7 @@
                 "frametrail:attributes": {
                     "shape": "rectangle",
                     "color": "#81999A",
-                    "borderWidth": 3,
+                    "borderWidth": 5,
                     "action": ""
                 }
             },
@@ -209,7 +209,7 @@
                 "frametrail:attributes": {
                     "shape": "rectangle",
                     "color": "#81999A",
-                    "borderWidth": 3,
+                    "borderWidth": 5,
                     "action": ""
                 }
             },
@@ -252,7 +252,7 @@
                 "frametrail:attributes": {
                     "shape": "rectangle",
                     "color": "#81999A",
-                    "borderWidth": 3,
+                    "borderWidth": 5,
                     "action": ""
                 }
             },
@@ -295,7 +295,7 @@
                 "frametrail:attributes": {
                     "shape": "rectangle",
                     "color": "#81999A",
-                    "borderWidth": 3,
+                    "borderWidth": 5,
                     "action": ""
                 }
             },

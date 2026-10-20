@@ -213,7 +213,7 @@
                     "linkUrl": "",
                     "action": "openUrl",
                     "actionTarget": "https://www.yourgenome.org/",
-                    "borderWidth": 2,
+                    "borderWidth": 5,
                     "shape": "rectangle",
                     "borderRadius": 10
                 }
@@ -330,7 +330,7 @@
                     "linkUrl": "",
                     "action": "openUrl",
                     "actionTarget": "https://www.yourgenome.org/",
-                    "borderWidth": 2,
+                    "borderWidth": 5,
                     "shape": "rectangle",
                     "borderRadius": 10
                 }

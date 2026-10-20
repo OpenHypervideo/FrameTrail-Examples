@@ -65,7 +65,7 @@
                 "selector": {
                     "conformsTo": "http://www.w3.org/TR/media-frags/",
                     "type": "FragmentSelector",
-                    "value": "t=12,13&xywh=percent:36,11,10,87"
+                    "value": "t=12,13&xywh=percent:33.9965,11.9429,12.2087,88.1203"
                 }
             },
             "body": {
@@ -78,10 +78,38 @@
                 "frametrail:licenseType": null,
                 "frametrail:licenseAttribution": null,
                 "frametrail:attributes": {
-                    "shape": "rectangle",
+                    "shape": "freeform",
                     "color": "#81999A",
-                    "borderWidth": 3,
-                    "action": ""
+                    "borderWidth": 5,
+                    "action": "",
+                    "linkUrl": "",
+                    "borderRadius": 10,
+                    "text": "",
+                    "textColor": "#ffffff",
+                    "backgroundColor": "",
+                    "points": [
+                        {
+                            "x": 30.67,
+                            "y": 0.34
+                        },
+                        {
+                            "x": 100,
+                            "y": 0
+                        },
+                        {
+                            "x": 82.7,
+                            "y": 100
+                        },
+                        {
+                            "x": 0,
+                            "y": 99.82
+                        },
+                        {
+                            "x": 19.69,
+                            "y": 34.46
+                        }
+                    ],
+                    "path": "M30.67,0.34 L100,0 L82.7,100 L0,99.82 L19.69,34.46 Z"
                 }
             },
             "frametrail:events": {
@@ -121,10 +149,15 @@
                 "frametrail:licenseType": null,
                 "frametrail:licenseAttribution": null,
                 "frametrail:attributes": {
-                    "shape": "rectangle",
+                    "shape": "rounded",
                     "color": "#81999A",
-                    "borderWidth": 3,
-                    "action": ""
+                    "borderWidth": 5,
+                    "action": "",
+                    "linkUrl": "",
+                    "borderRadius": 10,
+                    "text": "",
+                    "textColor": "#ffffff",
+                    "backgroundColor": ""
                 }
             },
             "frametrail:events": {
@@ -164,10 +197,15 @@
                 "frametrail:licenseType": null,
                 "frametrail:licenseAttribution": null,
                 "frametrail:attributes": {
-                    "shape": "rectangle",
+                    "shape": "rounded",
                     "color": "#81999A",
-                    "borderWidth": 3,
-                    "action": ""
+                    "borderWidth": 5,
+                    "action": "",
+                    "linkUrl": "",
+                    "borderRadius": 10,
+                    "text": "",
+                    "textColor": "#ffffff",
+                    "backgroundColor": ""
                 }
             },
             "frametrail:events": {
@@ -194,7 +232,7 @@
                 "selector": {
                     "conformsTo": "http://www.w3.org/TR/media-frags/",
                     "type": "FragmentSelector",
-                    "value": "t=140,141&xywh=percent:5,44,35,53"
+                    "value": "t=140,141&xywh=percent:3.5042,46.0292,35.2254,54.0091"
                 }
             },
             "body": {
@@ -207,10 +245,34 @@
                 "frametrail:licenseType": null,
                 "frametrail:licenseAttribution": null,
                 "frametrail:attributes": {
-                    "shape": "rectangle",
+                    "shape": "freeform",
                     "color": "#81999A",
-                    "borderWidth": 3,
-                    "action": ""
+                    "borderWidth": 5,
+                    "action": "",
+                    "linkUrl": "",
+                    "borderRadius": 10,
+                    "text": "",
+                    "textColor": "#ffffff",
+                    "backgroundColor": "",
+                    "points": [
+                        {
+                            "x": 0,
+                            "y": 0.63
+                        },
+                        {
+                            "x": 99.9,
+                            "y": 0
+                        },
+                        {
+                            "x": 100,
+                            "y": 80.22
+                        },
+                        {
+                            "x": 0.6,
+                            "y": 100
+                        }
+                    ],
+                    "path": "M0,0.63 L99.9,0 L100,80.22 L0.6,100 Z"
                 }
             },
             "frametrail:events": {
@@ -250,10 +312,15 @@
                 "frametrail:licenseType": null,
                 "frametrail:licenseAttribution": null,
                 "frametrail:attributes": {
-                    "shape": "rectangle",
+                    "shape": "rounded",
                     "color": "#81999A",
-                    "borderWidth": 3,
-                    "action": ""
+                    "borderWidth": 5,
+                    "action": "",
+                    "linkUrl": "",
+                    "borderRadius": 19,
+                    "text": "",
+                    "textColor": "#ffffff",
+                    "backgroundColor": ""
                 }
             },
             "frametrail:events": {
@@ -280,7 +347,7 @@
                 "selector": {
                     "conformsTo": "http://www.w3.org/TR/media-frags/",
                     "type": "FragmentSelector",
-                    "value": "t=186,187&xywh=percent:26,46,26,48"
+                    "value": "t=186,187&xywh=percent:26.3867,46.9757,25.9056,46.9583"
                 }
             },
             "body": {
@@ -293,10 +360,34 @@
                 "frametrail:licenseType": null,
                 "frametrail:licenseAttribution": null,
                 "frametrail:attributes": {
-                    "shape": "rectangle",
+                    "shape": "freeform",
                     "color": "#81999A",
-                    "borderWidth": 3,
-                    "action": ""
+                    "borderWidth": 5,
+                    "action": "",
+                    "linkUrl": "",
+                    "borderRadius": 10,
+                    "text": "",
+                    "textColor": "#ffffff",
+                    "backgroundColor": "",
+                    "points": [
+                        {
+                            "x": 0,
+                            "y": 13.11
+                        },
+                        {
+                            "x": 98.63,
+                            "y": 0
+                        },
+                        {
+                            "x": 100,
+                            "y": 86.43
+                        },
+                        {
+                            "x": 1.15,
+                            "y": 100
+                        }
+                    ],
+                    "path": "M0,13.11 L98.63,0 L100,86.43 L1.15,100 Z"
                 }
             },
             "frametrail:events": {
@@ -323,7 +414,7 @@
                 "selector": {
                     "conformsTo": "http://www.w3.org/TR/media-frags/",
                     "type": "FragmentSelector",
-                    "value": "t=204,205&xywh=percent:22,11,54,59"
+                    "value": "t=204,205&xywh=percent:24.5097,12.3783,51.0708,56.5646"
                 }
             },
             "body": {
@@ -336,10 +427,38 @@
                 "frametrail:licenseType": null,
                 "frametrail:licenseAttribution": null,
                 "frametrail:attributes": {
-                    "shape": "rectangle",
+                    "shape": "freeform",
                     "color": "#81999A",
-                    "borderWidth": 3,
-                    "action": ""
+                    "borderWidth": 5,
+                    "action": "",
+                    "linkUrl": "",
+                    "borderRadius": 10,
+                    "text": "",
+                    "textColor": "#ffffff",
+                    "backgroundColor": "",
+                    "points": [
+                        {
+                            "x": 54.61,
+                            "y": 3.93
+                        },
+                        {
+                            "x": 93.68,
+                            "y": 9.95
+                        },
+                        {
+                            "x": 100,
+                            "y": 100
+                        },
+                        {
+                            "x": 0,
+                            "y": 93.7
+                        },
+                        {
+                            "x": 8.25,
+                            "y": 0
+                        }
+                    ],
+                    "path": "M54.61,3.93 L93.68,9.95 L100,100 L0,93.7 L8.25,0 Z"
                 }
             },
             "frametrail:events": {
