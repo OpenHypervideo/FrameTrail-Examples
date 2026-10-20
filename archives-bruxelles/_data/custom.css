@@ -1,6 +1,16 @@
 /* Custom styles for Archives de la Ville de Bruxelles (2012) */
 
-.collectionElement .resourceThumb .resourceTitle {
+.collectionElement .resourceThumb .resourceTitle,
+.resourceThumb.resourceAnimationDiv .resourceTitle {
+    display: none;
+}
+
+.resourcePreviewDialog .resourceDetail[data-type="image"] img {
+    width: 100%;
+    height: auto;
+}
+
+.resourceDetail[data-type="image"] .licenseInformation {
     display: none;
 }
 

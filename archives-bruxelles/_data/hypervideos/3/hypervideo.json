@@ -65,7 +65,7 @@
                 "selector": {
                     "conformsTo": "http://www.w3.org/TR/media-frags/",
                     "type": "FragmentSelector",
-                    "value": "t=12,15&xywh=percent:36,11,10,87"
+                    "value": "t=12,13&xywh=percent:36,11,10,87"
                 }
             },
             "body": {
@@ -85,7 +85,7 @@
                 }
             },
             "frametrail:events": {
-                "onStart": "hypervideo.pause(); window.setTimeout(function () { if (FrameTrail.module('HypervideoController') === hypervideo && !hypervideo.isPlaying) { hypervideo.play(); } }, 3000);"
+                "onStart": "hypervideo.pause();"
             }
         },
         {
@@ -108,7 +108,7 @@
                 "selector": {
                     "conformsTo": "http://www.w3.org/TR/media-frags/",
                     "type": "FragmentSelector",
-                    "value": "t=59,62&xywh=percent:45,26,6,43"
+                    "value": "t=59,60&xywh=percent:45,26,6,43"
                 }
             },
             "body": {
@@ -128,7 +128,7 @@
                 }
             },
             "frametrail:events": {
-                "onStart": "hypervideo.pause(); window.setTimeout(function () { if (FrameTrail.module('HypervideoController') === hypervideo && !hypervideo.isPlaying) { hypervideo.play(); } }, 3000);"
+                "onStart": "hypervideo.pause();"
             }
         },
         {
@@ -151,7 +151,7 @@
                 "selector": {
                     "conformsTo": "http://www.w3.org/TR/media-frags/",
                     "type": "FragmentSelector",
-                    "value": "t=110,113&xywh=percent:47,25,24,34"
+                    "value": "t=110,111&xywh=percent:47,25,24,34"
                 }
             },
             "body": {
@@ -171,7 +171,7 @@
                 }
             },
             "frametrail:events": {
-                "onStart": "hypervideo.pause(); window.setTimeout(function () { if (FrameTrail.module('HypervideoController') === hypervideo && !hypervideo.isPlaying) { hypervideo.play(); } }, 3000);"
+                "onStart": "hypervideo.pause();"
             }
         },
         {
@@ -194,7 +194,7 @@
                 "selector": {
                     "conformsTo": "http://www.w3.org/TR/media-frags/",
                     "type": "FragmentSelector",
-                    "value": "t=140,143&xywh=percent:5,44,35,53"
+                    "value": "t=140,141&xywh=percent:5,44,35,53"
                 }
             },
             "body": {
@@ -214,7 +214,7 @@
                 }
             },
             "frametrail:events": {
-                "onStart": "hypervideo.pause(); window.setTimeout(function () { if (FrameTrail.module('HypervideoController') === hypervideo && !hypervideo.isPlaying) { hypervideo.play(); } }, 3000);"
+                "onStart": "hypervideo.pause();"
             }
         },
         {
@@ -237,7 +237,7 @@
                 "selector": {
                     "conformsTo": "http://www.w3.org/TR/media-frags/",
                     "type": "FragmentSelector",
-                    "value": "t=160,163&xywh=percent:6,29,52,66"
+                    "value": "t=160,161&xywh=percent:6,29,52,66"
                 }
             },
             "body": {
@@ -257,7 +257,7 @@
                 }
             },
             "frametrail:events": {
-                "onStart": "hypervideo.pause(); window.setTimeout(function () { if (FrameTrail.module('HypervideoController') === hypervideo && !hypervideo.isPlaying) { hypervideo.play(); } }, 3000);"
+                "onStart": "hypervideo.pause();"
             }
         },
         {
@@ -280,7 +280,7 @@
                 "selector": {
                     "conformsTo": "http://www.w3.org/TR/media-frags/",
                     "type": "FragmentSelector",
-                    "value": "t=186,189&xywh=percent:26,46,26,48"
+                    "value": "t=186,187&xywh=percent:26,46,26,48"
                 }
             },
             "body": {
@@ -300,7 +300,7 @@
                 }
             },
             "frametrail:events": {
-                "onStart": "hypervideo.pause(); window.setTimeout(function () { if (FrameTrail.module('HypervideoController') === hypervideo && !hypervideo.isPlaying) { hypervideo.play(); } }, 3000);"
+                "onStart": "hypervideo.pause();"
             }
         },
         {
@@ -323,7 +323,7 @@
                 "selector": {
                     "conformsTo": "http://www.w3.org/TR/media-frags/",
                     "type": "FragmentSelector",
-                    "value": "t=204,207&xywh=percent:22,11,54,59"
+                    "value": "t=204,205&xywh=percent:22,11,54,59"
                 }
             },
             "body": {
@@ -343,7 +343,7 @@
                 }
             },
             "frametrail:events": {
-                "onStart": "hypervideo.pause(); window.setTimeout(function () { if (FrameTrail.module('HypervideoController') === hypervideo && !hypervideo.isPlaying) { hypervideo.play(); } }, 3000);"
+                "onStart": "hypervideo.pause();"
             }
         },
         {
@@ -418,7 +418,7 @@
                 "frametrail:type": "hotspot",
                 "format": "text/html",
                 "value": "",
-                "frametrail:name": "Retour à la salle de lecture",
+                "frametrail:name": "Retour \u00e0 la salle de lecture",
                 "frametrail:thumb": null,
                 "frametrail:licenseType": null,
                 "frametrail:licenseAttribution": null,
@@ -426,7 +426,7 @@
                     "shape": "rounded",
                     "color": "#81999A",
                     "backgroundColor": "rgba(17,17,17,0.75)",
-                    "text": "Retour à la salle de lecture",
+                    "text": "Retour \u00e0 la salle de lecture",
                     "textColor": "#ffffff",
                     "action": "jumpToHypervideo",
                     "actionTarget": "2"
