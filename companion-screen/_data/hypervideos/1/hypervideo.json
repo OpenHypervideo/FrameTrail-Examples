@@ -41,25 +41,6 @@
             "areaRight": [],
             "areaCompanion": [
                 {
-                    "name": "Transcript",
-                    "icon": "icon-doc-text",
-                    "type": "CustomHTML",
-                    "contentSize": "large",
-                    "cssClass": "",
-                    "collectionFilter": {
-                        "tags": [],
-                        "types": [],
-                        "users": [],
-                        "text": ""
-                    },
-                    "onClickContentItem": "",
-                    "html": "<div style=\"background: var(--primary-bg-color); padding: 10px; box-sizing: border-box;\">\n    <p class=\"mb-1\">\n        <span class=\"timebased\" data-start=\"3.000\" data-end=\"14.000\">Large <b>organisms</b> like humans are made up of <b>organ systems</b> such as the <b>circulatory system</b> and <b>digestive system</b>.</span>\n        <span class=\"timebased\" data-start=\"14.000\" data-end=\"19.000\">These systems include a number of <b>organs</b>.</span>\n        <span class=\"timebased\" data-start=\"19.000\" data-end=\"24.000\">One of them is the <b>liver</b>.</span>\n        <span class=\"timebased\" data-start=\"24.000\" data-end=\"32.000\">Look closer, and these organs are made up of <b>tissues</b>.</span>\n        <span class=\"timebased\" data-start=\"32.000\" data-end=\"45.000\">And these tissues are built of <b>cells</b>, each specialized to perform a particular function.</span>\n    </p>\n    <p class=\"mb-1\">\n        <span class=\"timebased\" data-start=\"45.000\" data-end=\"51.000\">Within each cell are structures and compartments called <b>organelles</b>.</span>\n        <span class=\"timebased\" data-start=\"51.000\" data-end=\"67.000\">These include the <b>cell membrane</b>, <b>mitochondria</b>, and <b>nucleus</b>.</span>\n    </p>\n    <p class=\"mb-1\">\n        <span class=\"timebased\" data-start=\"67.000\" data-end=\"80.000\">The nucleus contains 23 pairs of <b>chromosomes</b>, including a pair that determine your biological sex.</span>\n        <span class=\"timebased\" data-start=\"80.000\" data-end=\"90.000\">Each chromosome is one long length of tightly coiled <b>DNA</b>.</span>\n    </p>\n    <p class=\"mb-1\">\n        <span class=\"timebased\" data-start=\"90.000\" data-end=\"97.000\">Unwind it and we see the DNA is wrapped around proteins called <b>histones</b>.</span>\n        <span class=\"timebased\" data-start=\"97.000\" data-end=\"102.000\">The DNA is a double helix like a twisted ladder.</span>\n        <span class=\"timebased\" data-start=\"102.000\" data-end=\"107.000\">It is made up of four nucleotides which contain different bases.</span>\n        <span class=\"timebased\" data-start=\"107.000\" data-end=\"112.000\"><b>Adinine</b>, <b>Cytosine</b>, <b>Guanine</b> and <b>Thymine</b>.</span>\n        <span class=\"timebased\" data-start=\"112.000\" data-end=\"117.000\">A, C, G, and T.</span>\n        <span class=\"timebased\" data-start=\"117.000\" data-end=\"124.000\"><b>A</b> always pairs with <b>T</b> and <b>C</b> always pairs with <b>G</b>.</span>\n    </p>\n    <p class=\"mb-1\">\n        <span class=\"timebased\" data-start=\"124.000\" data-end=\"137.000\">The order or sequence of these bases in specific sections of the DNA - called <b>genes</b> - carries the instructions for a cell's structure and function.</span>\n        <span class=\"timebased\" data-start=\"137.000\" data-end=\"147.000\">One copy of the entire DNA instructions for an organism is known as the <b>genome</b>.</span>\n    </p>\n    <p class=\"mb-1\">\n        <span class=\"timebased\" data-start=\"147.000\" data-end=\"158.000\">The genome, organized in chromosomes within the nucleus, tells each specialized cell how to function with its neighbors.</span>\n        <span class=\"timebased\" data-start=\"158.000\" data-end=\"162.000\">These make the tissues that together build organs, which work in organ systems and collectively enable an organism to grow and live.</span>\n    </p>\n</div>",
-                    "transcriptSource": "",
-                    "initClosed": false,
-                    "filterAspect": "creatorId",
-                    "zoomControls": false
-                },
-                {
                     "name": "Annotations",
                     "icon": "icon-annotations",
                     "type": "TimedContent",
@@ -73,6 +54,25 @@
                     },
                     "onClickContentItem": "",
                     "html": "",
+                    "transcriptSource": "",
+                    "initClosed": false,
+                    "filterAspect": "creatorId",
+                    "zoomControls": false
+                },
+                {
+                    "name": "Transcript",
+                    "icon": "icon-doc-text",
+                    "type": "CustomHTML",
+                    "contentSize": "large",
+                    "cssClass": "",
+                    "collectionFilter": {
+                        "tags": [],
+                        "types": [],
+                        "users": [],
+                        "text": ""
+                    },
+                    "onClickContentItem": "",
+                    "html": "<div style=\"background: var(--primary-bg-color); padding: 10px; box-sizing: border-box;\">\n    <p class=\"mb-1\">\n        <span class=\"timebased\" data-start=\"3.000\" data-end=\"14.000\">Large <b>organisms</b> like humans are made up of <b>organ systems</b> such as the <b>circulatory system</b> and <b>digestive system</b>.</span>\n        <span class=\"timebased\" data-start=\"14.000\" data-end=\"19.000\">These systems include a number of <b>organs</b>.</span>\n        <span class=\"timebased\" data-start=\"19.000\" data-end=\"24.000\">One of them is the <b>liver</b>.</span>\n        <span class=\"timebased\" data-start=\"24.000\" data-end=\"32.000\">Look closer, and these organs are made up of <b>tissues</b>.</span>\n        <span class=\"timebased\" data-start=\"32.000\" data-end=\"45.000\">And these tissues are built of <b>cells</b>, each specialized to perform a particular function.</span>\n    </p>\n    <p class=\"mb-1\">\n        <span class=\"timebased\" data-start=\"45.000\" data-end=\"51.000\">Within each cell are structures and compartments called <b>organelles</b>.</span>\n        <span class=\"timebased\" data-start=\"51.000\" data-end=\"67.000\">These include the <b>cell membrane</b>, <b>mitochondria</b>, and <b>nucleus</b>.</span>\n    </p>\n    <p class=\"mb-1\">\n        <span class=\"timebased\" data-start=\"67.000\" data-end=\"80.000\">The nucleus contains 23 pairs of <b>chromosomes</b>, including a pair that determine your biological sex.</span>\n        <span class=\"timebased\" data-start=\"80.000\" data-end=\"90.000\">Each chromosome is one long length of tightly coiled <b>DNA</b>.</span>\n    </p>\n    <p class=\"mb-1\">\n        <span class=\"timebased\" data-start=\"90.000\" data-end=\"97.000\">Unwind it and we see the DNA is wrapped around proteins called <b>histones</b>.</span>\n        <span class=\"timebased\" data-start=\"97.000\" data-end=\"102.000\">The DNA is a double helix like a twisted ladder.</span>\n        <span class=\"timebased\" data-start=\"102.000\" data-end=\"107.000\">It is made up of four nucleotides which contain different bases.</span>\n        <span class=\"timebased\" data-start=\"107.000\" data-end=\"112.000\"><b>Adinine</b>, <b>Cytosine</b>, <b>Guanine</b> and <b>Thymine</b>.</span>\n        <span class=\"timebased\" data-start=\"112.000\" data-end=\"117.000\">A, C, G, and T.</span>\n        <span class=\"timebased\" data-start=\"117.000\" data-end=\"124.000\"><b>A</b> always pairs with <b>T</b> and <b>C</b> always pairs with <b>G</b>.</span>\n    </p>\n    <p class=\"mb-1\">\n        <span class=\"timebased\" data-start=\"124.000\" data-end=\"137.000\">The order or sequence of these bases in specific sections of the DNA - called <b>genes</b> - carries the instructions for a cell's structure and function.</span>\n        <span class=\"timebased\" data-start=\"137.000\" data-end=\"147.000\">One copy of the entire DNA instructions for an organism is known as the <b>genome</b>.</span>\n    </p>\n    <p class=\"mb-1\">\n        <span class=\"timebased\" data-start=\"147.000\" data-end=\"158.000\">The genome, organized in chromosomes within the nucleus, tells each specialized cell how to function with its neighbors.</span>\n        <span class=\"timebased\" data-start=\"158.000\" data-end=\"162.000\">These make the tissues that together build organs, which work in organ systems and collectively enable an organism to grow and live.</span>\n    </p>\n</div>",
                     "transcriptSource": "",
                     "initClosed": false,
                     "filterAspect": "creatorId",
