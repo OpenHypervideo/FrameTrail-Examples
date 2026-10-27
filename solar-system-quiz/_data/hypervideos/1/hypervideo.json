@@ -1,0 +1,619 @@
+{
+    "meta": {
+        "name": "Solar System Quiz",
+        "description": "An interactive quiz about the Solar System demonstrating all quiz overlay action types",
+        "thumb": "",
+        "creator": "demo",
+        "creatorId": "1",
+        "created": 1773300000000,
+        "lastchanged": 1792275877369
+    },
+    "config": {
+        "slidingMode": "adjust",
+        "slidingTrigger": "key",
+        "autohideControls": false,
+        "captionsVisible": false,
+        "clipTimeVisible": false,
+        "layoutArea": {
+            "areaTop": [
+                {
+                    "name": "",
+                    "icon": "",
+                    "type": "TimedContent",
+                    "contentSize": "large",
+                    "cssClass": "",
+                    "collectionFilter": {
+                        "tags": [],
+                        "types": [],
+                        "users": [],
+                        "text": ""
+                    },
+                    "onClickContentItem": "",
+                    "html": "",
+                    "transcriptSource": "",
+                    "initClosed": false,
+                    "filterAspect": "creatorId",
+                    "zoomControls": false
+                }
+            ],
+            "areaBottom": [],
+            "areaLeft": [],
+            "areaRight": [
+                {
+                    "name": "",
+                    "icon": "",
+                    "type": "CustomHTML",
+                    "contentSize": "large",
+                    "cssClass": "",
+                    "collectionFilter": {
+                        "tags": [],
+                        "types": [],
+                        "users": [],
+                        "text": ""
+                    },
+                    "onClickContentItem": "",
+                    "html": "<style>\n  .quiz-progress {\n    padding: 16px;\n    font-family: 'Space Grotesk', sans-serif;\n    box-sizing: border-box;\n    height: 100%;\n  }\n  .quiz-progress h3 {\n    margin: 0 0 16px 0;\n    font-size: 1.1em;\n    text-transform: uppercase;\n    letter-spacing: 0.05em;\n  }\n  .quiz-progress__item {\n    display: flex;\n    align-items: center;\n    gap: 10px;\n    padding: 8px 0;\n    border-bottom: 1px solid rgba(255,255,255,0.08);\n  }\n  .quiz-progress__dot {\n    width: 12px;\n    height: 12px;\n    border-radius: 50%;\n    background: rgba(255,255,255,0.15);\n    flex-shrink: 0;\n    transition: background 0.4s, box-shadow 0.4s;\n  }\n  .quiz-progress__dot.correct {\n    background: #4caf50;\n    box-shadow: 0 0 8px rgba(76,175,80,0.6);\n  }\n  .quiz-progress__dot.wrong {\n    background: #ff9800;\n    box-shadow: 0 0 8px rgba(255,152,0,0.6);\n  }\n  .quiz-progress__score {\n    margin-top: 20px;\n    padding: 12px;\n    border-radius: 8px;\n    background: rgba(255,255,255,0.05);\n    text-align: center;\n    font-size: 1.2em;\n  }\n</style>\n<div class=\"quiz-progress\">\n  <h3>Quiz Progress</h3>\n  <div id=\"quizProgressList\"></div>\n  <div class=\"quiz-progress__score\" id=\"quizScore\">Score: 0 / 0</div>\n</div>",
+                    "transcriptSource": "",
+                    "initClosed": false,
+                    "filterAspect": "creatorId",
+                    "zoomControls": false
+                }
+            ]
+        }
+    },
+    "clips": [
+        {
+            "resourceId": "1",
+            "src": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Solar_System_explained_by_simpleshow_foundation.webm",
+            "duration": 179.203,
+            "start": 0,
+            "end": 179.203,
+            "in": 0,
+            "out": 179.203
+        }
+    ],
+    "globalEvents": {
+        "onReady": "window.quizData = [\n  { id: 1, label: 'Closest planet to the Sun', question: 'Which planet is closest to the Sun?' },\n  { id: 2, label: 'Planet order from the Sun', question: 'What is the correct order of the first four planets from the Sun?' },\n  { id: 3, label: 'Largest planet', question: 'Which is the largest planet in our Solar System?' },\n  { id: 4, label: 'The Red Planet', question: 'Which planet is known as the \\'Red Planet\\'?' },\n  { id: 5, label: 'Gas giants vs rocky planets', question: 'Which of the following are classified as gas giants?' },\n  { id: 6, label: 'Multi-answer: Inner planets', question: 'Which of the following are rocky inner planets? (Select the best answer)' },\n  { id: 7, label: 'Distance unit in space', question: 'What unit is used to measure distances within the Solar System?' }\n];\nwindow.quizResults = {};\nwindow.quizTotal = 0;\nwindow.quizCorrect = 0;\n\nvar list = document.getElementById('quizProgressList');\nif (list) {\n  quizData.forEach(function(q) {\n    var item = document.createElement('div');\n    item.className = 'quiz-progress__item';\n    item.innerHTML = '<div class=\"quiz-progress__dot\" id=\"quizDot' + q.id + '\"></div><span>' + q.label + '</span>';\n    list.appendChild(item);\n  });\n}\n\nwindow.updateQuizProgress = function(quizId, correct) {\n  if (window.quizResults[quizId]) return;\n  window.quizResults[quizId] = correct ? 'correct' : 'wrong';\n  window.quizTotal++;\n  if (correct) window.quizCorrect++;\n  var dot = document.getElementById('quizDot' + quizId);\n  if (dot) dot.className = 'quiz-progress__dot ' + (correct ? 'correct' : 'wrong');\n  var score = document.getElementById('quizScore');\n  if (score) score.textContent = 'Score: ' + window.quizCorrect + ' / ' + window.quizTotal;\n};\n\n// The quizAnswered event names the question; it marks the matching entry.\nif (window.quizAnsweredHandler) {\n  FrameTrail.removeEventListener('quizAnswered', window.quizAnsweredHandler);\n}\nwindow.quizAnsweredHandler = function(evt) {\n  var q = window.quizData.filter(function(q) { return q.question === evt.detail.question; })[0];\n  if (q) window.updateQuizProgress(q.id, evt.detail.correct);\n};\nFrameTrail.addEventListener('quizAnswered', window.quizAnsweredHandler);",
+        "onPlay": "",
+        "onPause": "",
+        "onEnded": ""
+    },
+    "customCSS": "@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;600;700&display=swap');\n\n.frametrail-body {\n    font-family: 'Space Grotesk', sans-serif;\n}\n\n.overlayElement .resourceDetail[data-type=\"quiz\"] {\n    background: radial-gradient(ellipse at 30% 40%, rgba(30,40,80,0.95), rgba(10,12,30,0.97)) !important;\n    border-radius: 12px !important;\n    border: 1px solid rgba(100,140,255,0.2) !important;\n}\n\n.resourceDetail[data-type=\"quiz\"] .resourceQuizQuestion {\n    font-family: 'Space Grotesk', sans-serif;\n    font-weight: 600;\n}\n\n.resourceDetail[data-type=\"quiz\"] .resourceQuizAnswersContainer button {\n    border-radius: 8px;\n    transition: background 0.2s;\n}\n\n.overlayElement .resourceDetail[data-type=\"text\"] {\n    border-radius: 8px !important;\n}",
+    "contents": [
+        {
+            "@context": [
+                "http://www.w3.org/ns/anno.jsonld",
+                "https://frametrail.org/ns/context.jsonld"
+            ],
+            "creator": {
+                "nickname": "demo",
+                "type": "Person",
+                "id": "1"
+            },
+            "created": "2026-03-14T09:00:00.000Z",
+            "type": "Annotation",
+            "frametrail:type": "Overlay",
+            "frametrail:tags": [],
+            "target": {
+                "type": "Video",
+                "source": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Solar_System_explained_by_simpleshow_foundation.webm",
+                "selector": {
+                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                    "type": "FragmentSelector",
+                    "value": "t=25,30&xywh=percent:10,10,80,80"
+                }
+            },
+            "body": {
+                "type": "TextualBody",
+                "frametrail:type": "quiz",
+                "format": "text/html",
+                "frametrail:name": "Quiz",
+                "frametrail:thumb": null,
+                "frametrail:licenseType": null,
+                "frametrail:licenseAttribution": null,
+                "frametrail:attributes": {
+                    "question": "Which planet is closest to the Sun?",
+                    "answers": [
+                        {
+                            "text": "Venus",
+                            "correct": false
+                        },
+                        {
+                            "text": "Mercury",
+                            "correct": true
+                        },
+                        {
+                            "text": "Mars",
+                            "correct": false
+                        },
+                        {
+                            "text": "Earth",
+                            "correct": false
+                        }
+                    ],
+                    "onCorrectAnswer": {
+                        "jumpForward": false,
+                        "resumePlayback": true,
+                        "showText": false
+                    },
+                    "onWrongAnswer": {
+                        "jumpBackward": false,
+                        "resumePlayback": false,
+                        "showText": false
+                    }
+                }
+            },
+            "frametrail:events": {
+                "onReady": "window.updateQuizProgress && (this._quizTracked = false);",
+                "onStart": "FrameTrail.module('HypervideoController').pause();"
+            }
+        },
+        {
+            "@context": [
+                "http://www.w3.org/ns/anno.jsonld",
+                "https://frametrail.org/ns/context.jsonld"
+            ],
+            "creator": {
+                "nickname": "demo",
+                "type": "Person",
+                "id": "1"
+            },
+            "created": "2026-03-14T09:01:00.000Z",
+            "type": "Annotation",
+            "frametrail:type": "Overlay",
+            "frametrail:tags": [],
+            "target": {
+                "type": "Video",
+                "source": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Solar_System_explained_by_simpleshow_foundation.webm",
+                "selector": {
+                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                    "type": "FragmentSelector",
+                    "value": "t=50,55&xywh=percent:10,10,80,80"
+                }
+            },
+            "body": {
+                "type": "TextualBody",
+                "frametrail:type": "quiz",
+                "format": "text/html",
+                "frametrail:name": "Quiz",
+                "frametrail:thumb": null,
+                "frametrail:licenseType": null,
+                "frametrail:licenseAttribution": null,
+                "frametrail:attributes": {
+                    "question": "What is the correct order of the first four planets from the Sun?",
+                    "answers": [
+                        {
+                            "text": "Mercury, Venus, Earth, Mars",
+                            "correct": true
+                        },
+                        {
+                            "text": "Venus, Mercury, Earth, Mars",
+                            "correct": false
+                        },
+                        {
+                            "text": "Mercury, Earth, Venus, Mars",
+                            "correct": false
+                        },
+                        {
+                            "text": "Mars, Venus, Earth, Mercury",
+                            "correct": false
+                        }
+                    ],
+                    "onCorrectAnswer": {
+                        "jumpForward": false,
+                        "resumePlayback": true,
+                        "showText": "Correct! Mercury, Venus, Earth, Mars — the four rocky inner planets."
+                    },
+                    "onWrongAnswer": {
+                        "jumpBackward": false,
+                        "resumePlayback": false,
+                        "showText": "Not quite. The order is: Mercury, Venus, Earth, Mars."
+                    }
+                }
+            },
+            "frametrail:events": {
+                "onStart": "FrameTrail.module('HypervideoController').pause();"
+            }
+        },
+        {
+            "@context": [
+                "http://www.w3.org/ns/anno.jsonld",
+                "https://frametrail.org/ns/context.jsonld"
+            ],
+            "creator": {
+                "nickname": "demo",
+                "type": "Person",
+                "id": "1"
+            },
+            "created": "2026-03-14T09:02:00.000Z",
+            "type": "Annotation",
+            "frametrail:type": "Overlay",
+            "frametrail:tags": [],
+            "target": {
+                "type": "Video",
+                "source": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Solar_System_explained_by_simpleshow_foundation.webm",
+                "selector": {
+                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                    "type": "FragmentSelector",
+                    "value": "t=80,85&xywh=percent:10,10,80,80"
+                }
+            },
+            "body": {
+                "type": "TextualBody",
+                "frametrail:type": "quiz",
+                "format": "text/html",
+                "frametrail:name": "Quiz",
+                "frametrail:thumb": null,
+                "frametrail:licenseType": null,
+                "frametrail:licenseAttribution": null,
+                "frametrail:attributes": {
+                    "question": "Which is the largest planet in our Solar System?",
+                    "answers": [
+                        {
+                            "text": "Saturn",
+                            "correct": false
+                        },
+                        {
+                            "text": "Neptune",
+                            "correct": false
+                        },
+                        {
+                            "text": "Jupiter",
+                            "correct": true
+                        },
+                        {
+                            "text": "Uranus",
+                            "correct": false
+                        }
+                    ],
+                    "onCorrectAnswer": {
+                        "jumpForward": 10,
+                        "resumePlayback": true,
+                        "showText": false
+                    },
+                    "onWrongAnswer": {
+                        "jumpBackward": false,
+                        "resumePlayback": false,
+                        "showText": "That's not right. Jupiter is the largest planet!"
+                    }
+                }
+            },
+            "frametrail:events": {
+                "onStart": "FrameTrail.module('HypervideoController').pause();"
+            }
+        },
+        {
+            "@context": [
+                "http://www.w3.org/ns/anno.jsonld",
+                "https://frametrail.org/ns/context.jsonld"
+            ],
+            "creator": {
+                "nickname": "demo",
+                "type": "Person",
+                "id": "1"
+            },
+            "created": "2026-03-14T09:03:00.000Z",
+            "type": "Annotation",
+            "frametrail:type": "Overlay",
+            "frametrail:tags": [],
+            "target": {
+                "type": "Video",
+                "source": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Solar_System_explained_by_simpleshow_foundation.webm",
+                "selector": {
+                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                    "type": "FragmentSelector",
+                    "value": "t=105,110&xywh=percent:10,10,80,80"
+                }
+            },
+            "body": {
+                "type": "TextualBody",
+                "frametrail:type": "quiz",
+                "format": "text/html",
+                "frametrail:name": "Quiz",
+                "frametrail:thumb": null,
+                "frametrail:licenseType": null,
+                "frametrail:licenseAttribution": null,
+                "frametrail:attributes": {
+                    "question": "Which planet is known as the 'Red Planet'?",
+                    "answers": [
+                        {
+                            "text": "Jupiter",
+                            "correct": false
+                        },
+                        {
+                            "text": "Mars",
+                            "correct": true
+                        },
+                        {
+                            "text": "Venus",
+                            "correct": false
+                        }
+                    ],
+                    "onCorrectAnswer": {
+                        "jumpForward": false,
+                        "resumePlayback": true,
+                        "showText": false
+                    },
+                    "onWrongAnswer": {
+                        "jumpBackward": 15,
+                        "resumePlayback": true,
+                        "showText": "Incorrect. Let's go back and review that section."
+                    }
+                }
+            },
+            "frametrail:events": {
+                "onStart": "FrameTrail.module('HypervideoController').pause();"
+            }
+        },
+        {
+            "@context": [
+                "http://www.w3.org/ns/anno.jsonld",
+                "https://frametrail.org/ns/context.jsonld"
+            ],
+            "creator": {
+                "nickname": "demo",
+                "type": "Person",
+                "id": "1"
+            },
+            "created": "2026-03-14T09:04:00.000Z",
+            "type": "Annotation",
+            "frametrail:type": "Overlay",
+            "frametrail:tags": [],
+            "target": {
+                "type": "Video",
+                "source": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Solar_System_explained_by_simpleshow_foundation.webm",
+                "selector": {
+                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                    "type": "FragmentSelector",
+                    "value": "t=130,135&xywh=percent:10,10,80,80"
+                }
+            },
+            "body": {
+                "type": "TextualBody",
+                "frametrail:type": "quiz",
+                "format": "text/html",
+                "frametrail:name": "Quiz",
+                "frametrail:thumb": null,
+                "frametrail:licenseType": null,
+                "frametrail:licenseAttribution": null,
+                "frametrail:attributes": {
+                    "question": "Which of the following are classified as gas giants?",
+                    "answers": [
+                        {
+                            "text": "Earth and Mars",
+                            "correct": false
+                        },
+                        {
+                            "text": "Jupiter and Saturn",
+                            "correct": true
+                        },
+                        {
+                            "text": "Mercury and Venus",
+                            "correct": false
+                        }
+                    ],
+                    "onCorrectAnswer": {
+                        "jumpForward": false,
+                        "resumePlayback": true,
+                        "showText": "Correct! Jupiter and Saturn are gas giants, made mostly of hydrogen and helium."
+                    },
+                    "onWrongAnswer": {
+                        "jumpBackward": 15,
+                        "resumePlayback": true,
+                        "showText": "Not quite. Let's review the section on gas giants."
+                    }
+                }
+            },
+            "frametrail:events": {
+                "onStart": "FrameTrail.module('HypervideoController').pause();"
+            }
+        },
+        {
+            "@context": [
+                "http://www.w3.org/ns/anno.jsonld",
+                "https://frametrail.org/ns/context.jsonld"
+            ],
+            "creator": {
+                "nickname": "demo",
+                "type": "Person",
+                "id": "1"
+            },
+            "created": "2026-03-14T09:05:00.000Z",
+            "type": "Annotation",
+            "frametrail:type": "Overlay",
+            "frametrail:tags": [],
+            "target": {
+                "type": "Video",
+                "source": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Solar_System_explained_by_simpleshow_foundation.webm",
+                "selector": {
+                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                    "type": "FragmentSelector",
+                    "value": "t=150,155&xywh=percent:10,10,80,80"
+                }
+            },
+            "body": {
+                "type": "TextualBody",
+                "frametrail:type": "quiz",
+                "format": "text/html",
+                "frametrail:name": "Quiz",
+                "frametrail:thumb": null,
+                "frametrail:licenseType": null,
+                "frametrail:licenseAttribution": null,
+                "frametrail:attributes": {
+                    "question": "Which of the following are rocky inner planets? (Select the best answer)",
+                    "answers": [
+                        {
+                            "text": "Mercury, Venus, Earth, and Mars",
+                            "correct": true
+                        },
+                        {
+                            "text": "Jupiter, Saturn, Uranus, and Neptune",
+                            "correct": false
+                        },
+                        {
+                            "text": "Earth, Mars, Jupiter, and Saturn",
+                            "correct": false
+                        }
+                    ],
+                    "onCorrectAnswer": {
+                        "jumpForward": false,
+                        "resumePlayback": true,
+                        "showText": "Correct! The four inner planets are all rocky (terrestrial) planets."
+                    },
+                    "onWrongAnswer": {
+                        "jumpBackward": false,
+                        "resumePlayback": false,
+                        "showText": "Not quite. The rocky inner planets are Mercury, Venus, Earth, and Mars."
+                    }
+                }
+            },
+            "frametrail:events": {
+                "onStart": "FrameTrail.module('HypervideoController').pause();"
+            }
+        },
+        {
+            "@context": [
+                "http://www.w3.org/ns/anno.jsonld",
+                "https://frametrail.org/ns/context.jsonld"
+            ],
+            "creator": {
+                "nickname": "demo",
+                "type": "Person",
+                "id": "1"
+            },
+            "created": "2026-03-14T09:06:00.000Z",
+            "type": "Annotation",
+            "frametrail:type": "Overlay",
+            "frametrail:tags": [],
+            "target": {
+                "type": "Video",
+                "source": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Solar_System_explained_by_simpleshow_foundation.webm",
+                "selector": {
+                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                    "type": "FragmentSelector",
+                    "value": "t=168,174&xywh=percent:10,10,80,80"
+                }
+            },
+            "body": {
+                "type": "TextualBody",
+                "frametrail:type": "quiz",
+                "format": "text/html",
+                "frametrail:name": "Quiz",
+                "frametrail:thumb": null,
+                "frametrail:licenseType": null,
+                "frametrail:licenseAttribution": null,
+                "frametrail:attributes": {
+                    "question": "What unit is used to measure distances within the Solar System?",
+                    "answers": [
+                        {
+                            "text": "Light year",
+                            "correct": false
+                        },
+                        {
+                            "text": "Astronomical Unit (AU)",
+                            "correct": true
+                        },
+                        {
+                            "text": "Parsec",
+                            "correct": false
+                        },
+                        {
+                            "text": "Kilometer",
+                            "correct": false
+                        }
+                    ],
+                    "onCorrectAnswer": {
+                        "jumpForward": false,
+                        "resumePlayback": true,
+                        "showText": "Correct! One AU is the average distance from the Earth to the Sun."
+                    },
+                    "onWrongAnswer": {
+                        "jumpBackward": false,
+                        "resumePlayback": false,
+                        "showText": "Not quite. The Astronomical Unit (AU) is the standard unit for Solar System distances."
+                    }
+                }
+            },
+            "frametrail:events": {
+                "onStart": "FrameTrail.module('HypervideoController').pause();"
+            }
+        },
+        {
+            "@context": [
+                "http://www.w3.org/ns/anno.jsonld",
+                "https://frametrail.org/ns/context.jsonld"
+            ],
+            "creator": {
+                "nickname": "demo",
+                "type": "Person",
+                "id": "1"
+            },
+            "created": "2026-03-14T09:07:00.000Z",
+            "type": "Annotation",
+            "frametrail:type": "Overlay",
+            "frametrail:tags": [],
+            "target": {
+                "type": "Video",
+                "source": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Solar_System_explained_by_simpleshow_foundation.webm",
+                "selector": {
+                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                    "type": "FragmentSelector",
+                    "value": "t=5,20&xywh=percent:60,5,38,18"
+                }
+            },
+            "body": {
+                "type": "TextualBody",
+                "frametrail:type": "text",
+                "format": "text/html",
+                "value": "",
+                "frametrail:name": "Custom Text / HTML",
+                "frametrail:thumb": null,
+                "frametrail:licenseType": null,
+                "frametrail:licenseAttribution": null,
+                "frametrail:attributes": {
+                    "text": "&lt;div style='background: rgba(10,15,40,0.85); color: #e0e8ff; padding: 10px 14px; border-radius: 8px; border-left: 3px solid #648cff; font-size: 0.85em;'&gt;&lt;strong&gt;Key Term&lt;/strong&gt;&lt;br&gt;The Solar System formed ~4.6 billion years ago from a collapsing molecular cloud.&lt;/div&gt;"
+                }
+            },
+            "frametrail:events": {}
+        },
+        {
+            "@context": [
+                "http://www.w3.org/ns/anno.jsonld",
+                "https://frametrail.org/ns/context.jsonld"
+            ],
+            "creator": {
+                "nickname": "demo",
+                "type": "Person",
+                "id": "1"
+            },
+            "created": "2026-03-14T09:08:00.000Z",
+            "type": "Annotation",
+            "frametrail:type": "Overlay",
+            "frametrail:tags": [],
+            "target": {
+                "type": "Video",
+                "source": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Solar_System_explained_by_simpleshow_foundation.webm",
+                "selector": {
+                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                    "type": "FragmentSelector",
+                    "value": "t=60,75&xywh=percent:60,5,38,18"
+                }
+            },
+            "body": {
+                "type": "TextualBody",
+                "frametrail:type": "text",
+                "format": "text/html",
+                "value": "",
+                "frametrail:name": "Custom Text / HTML",
+                "frametrail:thumb": null,
+                "frametrail:licenseType": null,
+                "frametrail:licenseAttribution": null,
+                "frametrail:attributes": {
+                    "text": "&lt;div style='background: rgba(10,15,40,0.85); color: #e0e8ff; padding: 10px 14px; border-radius: 8px; border-left: 3px solid #648cff; font-size: 0.85em;'&gt;&lt;strong&gt;Astronomical Unit (AU)&lt;/strong&gt;&lt;br&gt;The distance from Earth to the Sun: ~150 million km.&lt;/div&gt;"
+                }
+            },
+            "frametrail:events": {}
+        }
+    ],
+    "subtitles": []
+}

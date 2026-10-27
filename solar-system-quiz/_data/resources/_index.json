@@ -1,0 +1,122 @@
+{
+    "resources-increment": 9,
+    "resources": {
+        "1": {
+            "name": "Solar System explained by simpleshow foundation",
+            "creator": "demo",
+            "creatorId": "1",
+            "created": 1773300000,
+            "description": null,
+            "src": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Solar_System_explained_by_simpleshow_foundation.webm",
+            "type": "video",
+            "attributes": {},
+            "thumb": "",
+            "licenseType": "CC-BY-SA",
+            "licenseAttribution": "simpleshow foundation / Wikimedia Commons"
+        },
+        "2": {
+            "name": "Solar System",
+            "creator": "demo",
+            "creatorId": "1",
+            "created": 1773300001,
+            "description": null,
+            "src": "https://en.wikipedia.org/wiki/Solar_System",
+            "type": "wikipedia",
+            "attributes": {},
+            "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Solar_System_true_color_%28title_and_caption%29.jpg/330px-Solar_System_true_color_%28title_and_caption%29.jpg",
+            "licenseType": null,
+            "licenseAttribution": null
+        },
+        "3": {
+            "name": "Mercury (planet)",
+            "creator": "demo",
+            "creatorId": "1",
+            "created": 1773300002,
+            "description": null,
+            "src": "https://en.wikipedia.org/wiki/Mercury_(planet)",
+            "type": "wikipedia",
+            "attributes": {},
+            "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Mercury_in_true_color.jpg/330px-Mercury_in_true_color.jpg",
+            "licenseType": null,
+            "licenseAttribution": null
+        },
+        "4": {
+            "name": "Venus",
+            "creator": "demo",
+            "creatorId": "1",
+            "created": 1773300003,
+            "description": null,
+            "src": "https://en.wikipedia.org/wiki/Venus",
+            "type": "wikipedia",
+            "attributes": {},
+            "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Venus_2_Approach_Image.jpg/330px-Venus_2_Approach_Image.jpg",
+            "licenseType": null,
+            "licenseAttribution": null
+        },
+        "5": {
+            "name": "Earth",
+            "creator": "demo",
+            "creatorId": "1",
+            "created": 1773300004,
+            "description": null,
+            "src": "https://en.wikipedia.org/wiki/Earth",
+            "type": "wikipedia",
+            "attributes": {},
+            "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Meteosat-12-fci-march-equinox-2025-noon.jpg/330px-Meteosat-12-fci-march-equinox-2025-noon.jpg",
+            "licenseType": null,
+            "licenseAttribution": null
+        },
+        "6": {
+            "name": "Mars",
+            "creator": "demo",
+            "creatorId": "1",
+            "created": 1773300005,
+            "description": null,
+            "src": "https://en.wikipedia.org/wiki/Mars",
+            "type": "wikipedia",
+            "attributes": {},
+            "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Mars_-_August_30_2021_-_Flickr_-_Kevin_M._Gill.png/330px-Mars_-_August_30_2021_-_Flickr_-_Kevin_M._Gill.png",
+            "licenseType": null,
+            "licenseAttribution": null
+        },
+        "7": {
+            "name": "Jupiter",
+            "creator": "demo",
+            "creatorId": "1",
+            "created": 1773300006,
+            "description": null,
+            "src": "https://en.wikipedia.org/wiki/Jupiter",
+            "type": "wikipedia",
+            "attributes": {},
+            "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Jupiter_OPAL_2024.png/330px-Jupiter_OPAL_2024.png",
+            "licenseType": null,
+            "licenseAttribution": null
+        },
+        "8": {
+            "name": "Saturn",
+            "creator": "demo",
+            "creatorId": "1",
+            "created": 1773300007,
+            "description": null,
+            "src": "https://en.wikipedia.org/wiki/Saturn",
+            "type": "wikipedia",
+            "attributes": {},
+            "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Saturn_during_Equinox.jpg/330px-Saturn_during_Equinox.jpg",
+            "licenseType": null,
+            "licenseAttribution": null
+        },
+        "9": {
+            "name": "Astronomical unit",
+            "creator": "demo",
+            "creatorId": "1",
+            "created": 1773300008,
+            "description": null,
+            "src": "https://en.wikipedia.org/wiki/Astronomical_unit",
+            "type": "wikipedia",
+            "attributes": {},
+            "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Astronomical_unit_svg.svg/330px-Astronomical_unit_svg.svg.png",
+            "licenseType": null,
+            "licenseAttribution": null
+        }
+    }
+}

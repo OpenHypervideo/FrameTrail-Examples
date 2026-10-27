@@ -1,0 +1,4 @@
+.areaBottomContainer.hiddenTabs[data-size="large"], .areaTopContainer.hiddenTabs[data-size="large"] {
+    flex-basis: clamp(164px,calc(var(--ft-height, 100vh)*.6 - 76px),260px);
+    min-height: clamp(164px,calc(var(--ft-height, 100vh)*.6 - 76px),260px);
+}

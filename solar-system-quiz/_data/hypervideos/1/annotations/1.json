@@ -1,0 +1,354 @@
+[
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-03-14T09:10:00.000Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Solar_System_explained_by_simpleshow_foundation.webm",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=2,20"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/Solar_System",
+            "frametrail:name": "Solar System",
+            "frametrail:thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Solar_System_true_color_%28title_and_caption%29.jpg/330px-Solar_System_true_color_%28title_and_caption%29.jpg",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:resourceId": "2",
+            "frametrail:attributes": {
+                "extract": "The Solar System is the gravitationally bound system of the Sun and the masses that orbit it, most prominently its eight planets, of which Earth is one. The system formed about 4.6 billion years ago when a dense region of a molecular cloud collapsed, creating the Sun and a protoplanetary disc from which the orbiting bodies assembled.",
+                "extract_html": "<p>The <b>Solar System</b> is the gravitationally bound system of the Sun and the masses that orbit it, most prominently its eight planets, of which Earth is one. The system formed about 4.6 billion years ago when a dense region of a molecular cloud collapsed, creating the Sun and a protoplanetary disc from which the orbiting bodies assembled.</p>",
+                "description": "Planetary system consisting of the Sun and objects orbiting it",
+                "articleUrl": "https://en.wikipedia.org/wiki/Solar_System",
+                "wikiLang": "en",
+                "dir": "ltr"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-03-14T09:11:00.000Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Solar_System_explained_by_simpleshow_foundation.webm",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=20,35"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/Mercury_(planet)",
+            "frametrail:name": "Mercury (planet)",
+            "frametrail:thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Mercury_in_true_color.jpg/330px-Mercury_in_true_color.jpg",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:resourceId": "3",
+            "frametrail:attributes": {
+                "extract": "Mercury is the first planet from the Sun and the smallest in the Solar System. It is a rocky planet with a trace atmosphere and a surface gravity slightly higher than that of Mars. The surface of Mercury is similar to Earth's Moon, being cratered, with an expansive rupes system generated from thrust faults, and bright ray systems, formed by ejecta. Its largest crater, Caloris Planitia, has a diameter of 1,550 km (960 mi), which is about one-third the diameter of the planet. Being the most inferior orbiting planet, it always appears close to the Sun in Earth's sky, either as a \"morning star\" or an \"evening star\". It is the planet with the highest delta-v required for travel from Earth, as well as to and from the other planets in the Solar System.",
+                "extract_html": "<p><b>Mercury</b> is the first planet from the Sun and the smallest in the Solar System. It is a rocky planet with a trace atmosphere and a surface gravity slightly higher than that of Mars.</p>",
+                "description": "First planet from the Sun",
+                "articleUrl": "https://en.wikipedia.org/wiki/Mercury_(planet)",
+                "wikiLang": "en",
+                "dir": "ltr"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-03-14T09:12:00.000Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Solar_System_explained_by_simpleshow_foundation.webm",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=35,50"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/Venus",
+            "frametrail:name": "Venus",
+            "frametrail:thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Venus_2_Approach_Image.jpg/330px-Venus_2_Approach_Image.jpg",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:resourceId": "4",
+            "frametrail:attributes": {
+                "extract": "Venus is the second planet from the Sun. It is often called Earth's \"twin\" or \"sister\" among the planets of the Solar System for its orbit being the closest to Earth's, both being terrestrial planets, and having the most similar and nearly equal size, mass, and surface gravity.",
+                "extract_html": "<p><b>Venus</b> is the second planet from the Sun. It is often called Earth's \"twin\" or \"sister\" among the planets of the Solar System for its orbit being the closest to Earth's, both being terrestrial planets, and having the most similar and nearly equal size, mass, and surface gravity.</p>",
+                "description": "Second planet from the Sun",
+                "articleUrl": "https://en.wikipedia.org/wiki/Venus",
+                "wikiLang": "en",
+                "dir": "ltr"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-03-14T09:13:00.000Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Solar_System_explained_by_simpleshow_foundation.webm",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=50,65"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/Earth",
+            "frametrail:name": "Earth",
+            "frametrail:thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Meteosat-12-fci-march-equinox-2025-noon.jpg/330px-Meteosat-12-fci-march-equinox-2025-noon.jpg",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:resourceId": "5",
+            "frametrail:attributes": {
+                "extract": "Earth is the third planet from the Sun and the only astronomical object known to harbor life. This is made possible by Earth being an ocean world, the only one in the Solar System sustaining liquid surface water. Almost all of Earth's water is contained in its global ocean, covering 70.8% of Earth's crust.",
+                "extract_html": "<p><b>Earth</b> is the third planet from the Sun and the only astronomical object known to harbor life. This is made possible by Earth being an ocean world, the only one in the Solar System sustaining liquid surface water.</p>",
+                "description": "Third planet from the Sun",
+                "articleUrl": "https://en.wikipedia.org/wiki/Earth",
+                "wikiLang": "en",
+                "dir": "ltr"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-03-14T09:14:00.000Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Solar_System_explained_by_simpleshow_foundation.webm",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=65,85"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/Mars",
+            "frametrail:name": "Mars",
+            "frametrail:thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Mars_-_August_30_2021_-_Flickr_-_Kevin_M._Gill.png/330px-Mars_-_August_30_2021_-_Flickr_-_Kevin_M._Gill.png",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:resourceId": "6",
+            "frametrail:attributes": {
+                "extract": "Mars is the fourth planet from the Sun. It is also known as the \"Red Planet\", for its orange-red appearance. Mars is a desert-like rocky planet with a tenuous atmosphere that is primarily carbon dioxide.",
+                "extract_html": "<p><b>Mars</b> is the fourth planet from the Sun. It is also known as the \"<b>Red Planet</b>\", for its orange-red appearance.</p>",
+                "description": "Fourth planet from the Sun",
+                "articleUrl": "https://en.wikipedia.org/wiki/Mars",
+                "wikiLang": "en",
+                "dir": "ltr"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-03-14T09:15:00.000Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Solar_System_explained_by_simpleshow_foundation.webm",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=85,110"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/Jupiter",
+            "frametrail:name": "Jupiter",
+            "frametrail:thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Jupiter_OPAL_2024.png/330px-Jupiter_OPAL_2024.png",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:resourceId": "7",
+            "frametrail:attributes": {
+                "extract": "Jupiter is the fifth planet from the Sun, and the largest in the Solar System. It is a gas giant with a mass nearly 2.5 times that of all the other planets in the Solar System combined and slightly less than one-thousandth the mass of the Sun.",
+                "extract_html": "<p><b>Jupiter</b> is the fifth planet from the Sun, and the largest in the Solar System. It is a gas giant with a mass nearly 2.5 times that of all the other planets in the Solar System combined.</p>",
+                "description": "Fifth planet from the Sun",
+                "articleUrl": "https://en.wikipedia.org/wiki/Jupiter",
+                "wikiLang": "en",
+                "dir": "ltr"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-03-14T09:16:00.000Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Solar_System_explained_by_simpleshow_foundation.webm",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=110,135"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/Saturn",
+            "frametrail:name": "Saturn",
+            "frametrail:thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Saturn_during_Equinox.jpg/330px-Saturn_during_Equinox.jpg",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:resourceId": "8",
+            "frametrail:attributes": {
+                "extract": "Saturn is the sixth planet from the Sun and the second largest in the Solar System, after Jupiter. It is a gas giant, with an average radius of about 9 times that of Earth. It has an eighth of the average density of Earth, but is over 95 times more massive.",
+                "extract_html": "<p><b>Saturn</b> is the sixth planet from the Sun and the second largest in the Solar System, after Jupiter. It is a gas giant, with an average radius of about 9 times that of Earth.</p>",
+                "description": "Sixth planet from the Sun",
+                "articleUrl": "https://en.wikipedia.org/wiki/Saturn",
+                "wikiLang": "en",
+                "dir": "ltr"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-03-14T09:17:00.000Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Solar_System_explained_by_simpleshow_foundation.webm",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=55,75"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/Astronomical_unit",
+            "frametrail:name": "Astronomical unit",
+            "frametrail:thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Astronomical_unit_svg.svg/330px-Astronomical_unit_svg.svg.png",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:resourceId": "9",
+            "frametrail:attributes": {
+                "extract": "The astronomical unit is a unit of length defined to be exactly equal to 149,597,870,700 m. Historically, the astronomical unit was conceived as the average Earth-Sun distance, before its modern redefinition in 2012.",
+                "extract_html": "<p>The <b>astronomical unit</b> is a unit of length defined to be exactly equal to 149,597,870,700 m. Historically, the astronomical unit was conceived as the average Earth-Sun distance, before its modern redefinition in 2012.</p>",
+                "description": "Mean distance between Earth and the Sun",
+                "articleUrl": "https://en.wikipedia.org/wiki/Astronomical_unit",
+                "wikiLang": "en",
+                "dir": "ltr"
+            }
+        }
+    }
+]
