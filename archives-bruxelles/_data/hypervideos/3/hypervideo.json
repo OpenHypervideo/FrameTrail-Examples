@@ -112,9 +112,8 @@
                     "path": "M30.67,0.34 L100,0 L82.7,100 L0,99.82 L19.69,34.46 Z"
                 }
             },
-            "frametrail:events": {
-                "onStart": "hypervideo.pause();"
-            }
+            "frametrail:events": {},
+            "frametrail:pause": true
         },
         {
             "@context": [
@@ -160,9 +159,8 @@
                     "backgroundColor": ""
                 }
             },
-            "frametrail:events": {
-                "onStart": "hypervideo.pause();"
-            }
+            "frametrail:events": {},
+            "frametrail:pause": true
         },
         {
             "@context": [
@@ -208,9 +206,8 @@
                     "backgroundColor": ""
                 }
             },
-            "frametrail:events": {
-                "onStart": "hypervideo.pause();"
-            }
+            "frametrail:events": {},
+            "frametrail:pause": true
         },
         {
             "@context": [
@@ -275,9 +272,8 @@
                     "path": "M0,0.63 L99.9,0 L100,80.22 L0.6,100 Z"
                 }
             },
-            "frametrail:events": {
-                "onStart": "hypervideo.pause();"
-            }
+            "frametrail:events": {},
+            "frametrail:pause": true
         },
         {
             "@context": [
@@ -323,9 +319,8 @@
                     "backgroundColor": ""
                 }
             },
-            "frametrail:events": {
-                "onStart": "hypervideo.pause();"
-            }
+            "frametrail:events": {},
+            "frametrail:pause": true
         },
         {
             "@context": [
@@ -390,9 +385,8 @@
                     "path": "M0,13.11 L98.63,0 L100,86.43 L1.15,100 Z"
                 }
             },
-            "frametrail:events": {
-                "onStart": "hypervideo.pause();"
-            }
+            "frametrail:events": {},
+            "frametrail:pause": true
         },
         {
             "@context": [
@@ -461,9 +455,8 @@
                     "path": "M54.61,3.93 L93.68,9.95 L100,100 L0,93.7 L8.25,0 Z"
                 }
             },
-            "frametrail:events": {
-                "onStart": "hypervideo.pause();"
-            }
+            "frametrail:events": {},
+            "frametrail:pause": true
         },
         {
             "@context": [

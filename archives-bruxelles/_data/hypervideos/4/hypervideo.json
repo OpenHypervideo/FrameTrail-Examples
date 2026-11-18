@@ -84,9 +84,8 @@
                     "action": ""
                 }
             },
-            "frametrail:events": {
-                "onStart": "hypervideo.pause();"
-            }
+            "frametrail:events": {},
+            "frametrail:pause": true
         },
         {
             "@context": [
@@ -127,9 +126,8 @@
                     "action": ""
                 }
             },
-            "frametrail:events": {
-                "onStart": "hypervideo.pause();"
-            }
+            "frametrail:events": {},
+            "frametrail:pause": true
         },
         {
             "@context": [
@@ -170,9 +168,8 @@
                     "action": ""
                 }
             },
-            "frametrail:events": {
-                "onStart": "hypervideo.pause();"
-            }
+            "frametrail:events": {},
+            "frametrail:pause": true
         },
         {
             "@context": [
@@ -213,9 +210,8 @@
                     "action": ""
                 }
             },
-            "frametrail:events": {
-                "onStart": "hypervideo.pause();"
-            }
+            "frametrail:events": {},
+            "frametrail:pause": true
         },
         {
             "@context": [
@@ -256,9 +252,8 @@
                     "action": ""
                 }
             },
-            "frametrail:events": {
-                "onStart": "hypervideo.pause();"
-            }
+            "frametrail:events": {},
+            "frametrail:pause": true
         },
         {
             "@context": [
@@ -299,9 +294,8 @@
                     "action": ""
                 }
             },
-            "frametrail:events": {
-                "onStart": "hypervideo.pause();"
-            }
+            "frametrail:events": {},
+            "frametrail:pause": true
         },
         {
             "@context": [

@@ -116,37 +116,31 @@
                     "answers": [
                         {
                             "text": "Venus",
-                            "correct": false
+                            "correct": false,
+                            "action": "pause"
                         },
                         {
                             "text": "Mercury",
-                            "correct": true
+                            "correct": true,
+                            "action": ""
                         },
                         {
                             "text": "Mars",
-                            "correct": false
+                            "correct": false,
+                            "action": "pause"
                         },
                         {
                             "text": "Earth",
-                            "correct": false
+                            "correct": false,
+                            "action": "pause"
                         }
-                    ],
-                    "onCorrectAnswer": {
-                        "jumpForward": false,
-                        "resumePlayback": true,
-                        "showText": false
-                    },
-                    "onWrongAnswer": {
-                        "jumpBackward": false,
-                        "resumePlayback": false,
-                        "showText": false
-                    }
+                    ]
                 }
             },
             "frametrail:events": {
-                "onReady": "window.updateQuizProgress && (this._quizTracked = false);",
-                "onStart": "FrameTrail.module('HypervideoController').pause();"
-            }
+                "onReady": "window.updateQuizProgress && (this._quizTracked = false);"
+            },
+            "frametrail:pause": true
         },
         {
             "@context": [
@@ -184,36 +178,33 @@
                     "answers": [
                         {
                             "text": "Mercury, Venus, Earth, Mars",
-                            "correct": true
+                            "correct": true,
+                            "action": "",
+                            "feedback": "Correct! Mercury, Venus, Earth, Mars — the four rocky inner planets."
                         },
                         {
                             "text": "Venus, Mercury, Earth, Mars",
-                            "correct": false
+                            "correct": false,
+                            "action": "pause",
+                            "feedback": "Not quite. The order is: Mercury, Venus, Earth, Mars."
                         },
                         {
                             "text": "Mercury, Earth, Venus, Mars",
-                            "correct": false
+                            "correct": false,
+                            "action": "pause",
+                            "feedback": "Not quite. The order is: Mercury, Venus, Earth, Mars."
                         },
                         {
                             "text": "Mars, Venus, Earth, Mercury",
-                            "correct": false
+                            "correct": false,
+                            "action": "pause",
+                            "feedback": "Not quite. The order is: Mercury, Venus, Earth, Mars."
                         }
-                    ],
-                    "onCorrectAnswer": {
-                        "jumpForward": false,
-                        "resumePlayback": true,
-                        "showText": "Correct! Mercury, Venus, Earth, Mars — the four rocky inner planets."
-                    },
-                    "onWrongAnswer": {
-                        "jumpBackward": false,
-                        "resumePlayback": false,
-                        "showText": "Not quite. The order is: Mercury, Venus, Earth, Mars."
-                    }
+                    ]
                 }
             },
-            "frametrail:events": {
-                "onStart": "FrameTrail.module('HypervideoController').pause();"
-            }
+            "frametrail:events": {},
+            "frametrail:pause": true
         },
         {
             "@context": [
@@ -251,36 +242,33 @@
                     "answers": [
                         {
                             "text": "Saturn",
-                            "correct": false
+                            "correct": false,
+                            "action": "pause",
+                            "feedback": "That's not right. Jupiter is the largest planet!"
                         },
                         {
                             "text": "Neptune",
-                            "correct": false
+                            "correct": false,
+                            "action": "pause",
+                            "feedback": "That's not right. Jupiter is the largest planet!"
                         },
                         {
                             "text": "Jupiter",
-                            "correct": true
+                            "correct": true,
+                            "action": "jumpToTime",
+                            "actionTarget": 90
                         },
                         {
                             "text": "Uranus",
-                            "correct": false
+                            "correct": false,
+                            "action": "pause",
+                            "feedback": "That's not right. Jupiter is the largest planet!"
                         }
-                    ],
-                    "onCorrectAnswer": {
-                        "jumpForward": 10,
-                        "resumePlayback": true,
-                        "showText": false
-                    },
-                    "onWrongAnswer": {
-                        "jumpBackward": false,
-                        "resumePlayback": false,
-                        "showText": "That's not right. Jupiter is the largest planet!"
-                    }
+                    ]
                 }
             },
-            "frametrail:events": {
-                "onStart": "FrameTrail.module('HypervideoController').pause();"
-            }
+            "frametrail:events": {},
+            "frametrail:pause": true
         },
         {
             "@context": [
@@ -318,32 +306,28 @@
                     "answers": [
                         {
                             "text": "Jupiter",
-                            "correct": false
+                            "correct": false,
+                            "action": "jumpToTime",
+                            "actionTarget": 90,
+                            "feedback": "Incorrect. Let's go back and review that section."
                         },
                         {
                             "text": "Mars",
-                            "correct": true
+                            "correct": true,
+                            "action": ""
                         },
                         {
                             "text": "Venus",
-                            "correct": false
+                            "correct": false,
+                            "action": "jumpToTime",
+                            "actionTarget": 90,
+                            "feedback": "Incorrect. Let's go back and review that section."
                         }
-                    ],
-                    "onCorrectAnswer": {
-                        "jumpForward": false,
-                        "resumePlayback": true,
-                        "showText": false
-                    },
-                    "onWrongAnswer": {
-                        "jumpBackward": 15,
-                        "resumePlayback": true,
-                        "showText": "Incorrect. Let's go back and review that section."
-                    }
+                    ]
                 }
             },
-            "frametrail:events": {
-                "onStart": "FrameTrail.module('HypervideoController').pause();"
-            }
+            "frametrail:events": {},
+            "frametrail:pause": true
         },
         {
             "@context": [
@@ -381,32 +365,29 @@
                     "answers": [
                         {
                             "text": "Earth and Mars",
-                            "correct": false
+                            "correct": false,
+                            "action": "jumpToTime",
+                            "actionTarget": 115,
+                            "feedback": "Not quite. Let's review the section on gas giants."
                         },
                         {
                             "text": "Jupiter and Saturn",
-                            "correct": true
+                            "correct": true,
+                            "action": "",
+                            "feedback": "Correct! Jupiter and Saturn are gas giants, made mostly of hydrogen and helium."
                         },
                         {
                             "text": "Mercury and Venus",
-                            "correct": false
+                            "correct": false,
+                            "action": "jumpToTime",
+                            "actionTarget": 115,
+                            "feedback": "Not quite. Let's review the section on gas giants."
                         }
-                    ],
-                    "onCorrectAnswer": {
-                        "jumpForward": false,
-                        "resumePlayback": true,
-                        "showText": "Correct! Jupiter and Saturn are gas giants, made mostly of hydrogen and helium."
-                    },
-                    "onWrongAnswer": {
-                        "jumpBackward": 15,
-                        "resumePlayback": true,
-                        "showText": "Not quite. Let's review the section on gas giants."
-                    }
+                    ]
                 }
             },
-            "frametrail:events": {
-                "onStart": "FrameTrail.module('HypervideoController').pause();"
-            }
+            "frametrail:events": {},
+            "frametrail:pause": true
         },
         {
             "@context": [
@@ -444,32 +425,27 @@
                     "answers": [
                         {
                             "text": "Mercury, Venus, Earth, and Mars",
-                            "correct": true
+                            "correct": true,
+                            "action": "",
+                            "feedback": "Correct! The four inner planets are all rocky (terrestrial) planets."
                         },
                         {
                             "text": "Jupiter, Saturn, Uranus, and Neptune",
-                            "correct": false
+                            "correct": false,
+                            "action": "pause",
+                            "feedback": "Not quite. The rocky inner planets are Mercury, Venus, Earth, and Mars."
                         },
                         {
                             "text": "Earth, Mars, Jupiter, and Saturn",
-                            "correct": false
+                            "correct": false,
+                            "action": "pause",
+                            "feedback": "Not quite. The rocky inner planets are Mercury, Venus, Earth, and Mars."
                         }
-                    ],
-                    "onCorrectAnswer": {
-                        "jumpForward": false,
-                        "resumePlayback": true,
-                        "showText": "Correct! The four inner planets are all rocky (terrestrial) planets."
-                    },
-                    "onWrongAnswer": {
-                        "jumpBackward": false,
-                        "resumePlayback": false,
-                        "showText": "Not quite. The rocky inner planets are Mercury, Venus, Earth, and Mars."
-                    }
+                    ]
                 }
             },
-            "frametrail:events": {
-                "onStart": "FrameTrail.module('HypervideoController').pause();"
-            }
+            "frametrail:events": {},
+            "frametrail:pause": true
         },
         {
             "@context": [
@@ -507,36 +483,33 @@
                     "answers": [
                         {
                             "text": "Light year",
-                            "correct": false
+                            "correct": false,
+                            "action": "pause",
+                            "feedback": "Not quite. The Astronomical Unit (AU) is the standard unit for Solar System distances."
                         },
                         {
                             "text": "Astronomical Unit (AU)",
-                            "correct": true
+                            "correct": true,
+                            "action": "",
+                            "feedback": "Correct! One AU is the average distance from the Earth to the Sun."
                         },
                         {
                             "text": "Parsec",
-                            "correct": false
+                            "correct": false,
+                            "action": "pause",
+                            "feedback": "Not quite. The Astronomical Unit (AU) is the standard unit for Solar System distances."
                         },
                         {
                             "text": "Kilometer",
-                            "correct": false
+                            "correct": false,
+                            "action": "pause",
+                            "feedback": "Not quite. The Astronomical Unit (AU) is the standard unit for Solar System distances."
                         }
-                    ],
-                    "onCorrectAnswer": {
-                        "jumpForward": false,
-                        "resumePlayback": true,
-                        "showText": "Correct! One AU is the average distance from the Earth to the Sun."
-                    },
-                    "onWrongAnswer": {
-                        "jumpBackward": false,
-                        "resumePlayback": false,
-                        "showText": "Not quite. The Astronomical Unit (AU) is the standard unit for Solar System distances."
-                    }
+                    ]
                 }
             },
-            "frametrail:events": {
-                "onStart": "FrameTrail.module('HypervideoController').pause();"
-            }
+            "frametrail:events": {},
+            "frametrail:pause": true
         },
         {
             "@context": [

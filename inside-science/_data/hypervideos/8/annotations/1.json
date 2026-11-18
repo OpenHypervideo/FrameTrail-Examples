@@ -967,7 +967,7 @@
                 "controls": {
                     "scrollWheelZoom": false
                 },
-                "tileStyle": "carto-light"
+                "tileStyle": "light"
             }
         }
     },
