@@ -1,0 +1,318 @@
+/* Custom styles for Field Trip (2019) */
+
+/* Restyles FrameTrail's own elements to come close to the original at en.fieldtrip.berlin. All of it is optional: without this file the example is a stock FrameTrail map with round photo pins. Paths are relative to _data/. */
+
+/* ---------- Typefaces and accent ---------- */
+
+/* As in the original: Rubik for the interface and the uppercase labels, Inconsolata for what is read (text cards, subtitles). Both are under the SIL Open Font License, see fonts/OFL-*.txt. */
+@font-face { font-family: "Inconsolata"; font-style: normal; font-weight: 200; font-display: swap; src: url("fonts/inconsolata-v21-latin-ext_latin-200.woff2") format("woff2"); }
+@font-face { font-family: "Inconsolata"; font-style: normal; font-weight: 300; font-display: swap; src: url("fonts/inconsolata-v21-latin-ext_latin-300.woff2") format("woff2"); }
+@font-face { font-family: "Inconsolata"; font-style: normal; font-weight: 400; font-display: swap; src: url("fonts/inconsolata-v21-latin-ext_latin-regular.woff2") format("woff2"); }
+@font-face { font-family: "Inconsolata"; font-style: normal; font-weight: 700; font-display: swap; src: url("fonts/inconsolata-v21-latin-ext_latin-700.woff2") format("woff2"); }
+@font-face { font-family: "Rubik"; font-style: normal; font-weight: 400; font-display: swap; src: url("fonts/rubik-v18-latin-ext_latin-regular.woff2") format("woff2"); }
+@font-face { font-family: "Rubik"; font-style: italic; font-weight: 400; font-display: swap; src: url("fonts/rubik-v18-latin-ext_latin-italic.woff2") format("woff2"); }
+@font-face { font-family: "Rubik"; font-style: normal; font-weight: 500; font-display: swap; src: url("fonts/rubik-v18-latin-ext_latin-500.woff2") format("woff2"); }
+@font-face { font-family: "Rubik"; font-style: normal; font-weight: 600; font-display: swap; src: url("fonts/rubik-v18-latin-ext_latin-600.woff2") format("woff2"); }
+@font-face { font-family: "Rubik"; font-style: normal; font-weight: 700; font-display: swap; src: url("fonts/rubik-v18-latin-ext_latin-700.woff2") format("woff2"); }
+
+.frametrail-body,
+.ft-dialog,
+body > .contentViewPreview,
+body > .timelineElement.previewPopupWrapper,
+.ft-drag-clone,
+button, input[type="submit"], input[type="button"], .button,
+input[type="text"], input[type="password"], textarea, input[type="number"], input[type="time"], input[type="email"] {
+    font-family: Rubik, TitilliumWeb, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.frametrail-body {
+    --fieldtrip-accent: #fec570;
+}
+
+/* ---------- Overview map: the original's night look ---------- */
+
+/* The photo at a quarter of its strength over a near-black ground is the original's veil of rgba(2, 5, 15, .75). */
+.overviewMap .overviewMapStage {
+    background-color: #02050f;
+}
+
+.overviewMap:not(.editActive) .overviewMapBackground {
+    opacity: .25;
+}
+
+/* The line drawing of runways, taxiways and terminal, placed on the photo as in the original. */
+.overviewMap .overviewMapStage::after {
+    content: "";
+    position: absolute;
+    left: 20.309%;
+    top: 11.599%;
+    width: 60.173%;
+    height: 76.211%;
+    background: url("resources/1_1556097985_overview-vector.svg") center / 100% 100% no-repeat;
+    opacity: .25;
+    pointer-events: none;
+}
+
+.overviewMap .overviewMapFrame::after {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background: radial-gradient(ellipse at center, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, .65) 100%);
+    pointer-events: none;
+}
+
+/* ---------- Pins: the character silhouettes instead of round photos ---------- */
+
+.overviewMap .overviewMapMarker .overviewMapMarkerBody {
+    background-color: transparent;
+    background-size: auto 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    border: 0;
+    border-radius: 0;
+    box-shadow: none;
+}
+
+.overviewMap .overviewMapMarker:hover .overviewMapMarkerBody {
+    box-shadow: none;
+}
+
+/* The pin body gets the hypervideo's thumbnail as an inline style, hence !important. */
+.overviewMap .overviewMapMarker[data-hypervideoid="1"] .overviewMapMarkerBody { background-image: url("resources/1_1556536338_icon-episode-1.png") !important; }
+.overviewMap .overviewMapMarker[data-hypervideoid="2"] .overviewMapMarkerBody { background-image: url("resources/1_1556536362_icon-episode-2.png") !important; }
+.overviewMap .overviewMapMarker[data-hypervideoid="3"] .overviewMapMarkerBody { background-image: url("resources/1_1556536378_icon-episode-3.png") !important; }
+.overviewMap .overviewMapMarker[data-hypervideoid="4"] .overviewMapMarkerBody { background-image: url("resources/1_1556536391_icon-episode-4.png") !important; }
+.overviewMap .overviewMapMarker[data-hypervideoid="5"] .overviewMapMarkerBody { background-image: url("resources/1_1556536405_icon-episode-5.png") !important; }
+.overviewMap .overviewMapMarker[data-hypervideoid="6"] .overviewMapMarkerBody { background-image: url("resources/1_1556536420_icon-episode-6.png") !important; }
+.overviewMap .overviewMapMarker[data-hypervideoid="7"] .overviewMapMarkerBody { background-image: url("resources/1_1556536434_icon-episode-7.png") !important; }
+.overviewMap .overviewMapMarker[data-hypervideoid="8"] .overviewMapMarkerBody { background-image: url("resources/1_1556536448_icon-episode-8.png") !important; }
+.overviewMap .overviewMapMarker[data-hypervideoid="9"] .overviewMapMarkerBody { background-image: url("resources/1_1556536468_icon-episode-9.png") !important; }
+.overviewMap .overviewMapMarker[data-hypervideoid="10"] .overviewMapMarkerBody { background-image: url("resources/1_1558436811_icon-episode-10.png") !important; }
+.overviewMap .overviewMapMarker[data-hypervideoid="11"] .overviewMapMarkerBody { background-image: url("resources/1_1558436701_icon-episode-11.png") !important; }
+.overviewMap .overviewMapMarker[data-hypervideoid="12"] .overviewMapMarkerBody { background-image: url("resources/1_1560761898_icon-episode-12.png") !important; }
+.overviewMap .overviewMapMarker[data-hypervideoid="13"] .overviewMapMarkerBody { background-image: url("resources/1_1560761928_icon-episode-13.png") !important; }
+.overviewMap .overviewMapMarker[data-hypervideoid="14"] .overviewMapMarkerBody { background-image: url("resources/1_1560761949_icon-episode-14.png") !important; }
+
+/* The original's wobble: a steady rocking about the feet, in place of FrameTrail's wobble with a pause. */
+@media (prefers-reduced-motion: no-preference) {
+    .overviewMap.pinAnimation-wobble .overviewMapMarker .overviewMapMarkerBody {
+        transform-origin: 50% 100%;
+        animation: fieldTripWobble 1s linear infinite;
+    }
+}
+
+@keyframes fieldTripWobble {
+    33% { transform: rotate(3deg); }
+    66% { transform: rotate(-3deg); }
+}
+
+/* Hover: the original's amber glow behind the figure. */
+.overviewMap .overviewMapMarker::before {
+    content: "";
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+    background: rgba(254, 197, 112, .5);
+    box-shadow: 0 0 0 14px rgba(254, 197, 112, .25);
+    transform: translate(-50%, -50%) scale(.3);
+    opacity: 0;
+    transition: opacity 300ms ease-in-out, transform 300ms ease-in-out;
+    pointer-events: none;
+}
+
+.overviewMap:not(.editActive) .overviewMapMarker:hover::before {
+    opacity: 1;
+    transform: translate(-50%, -50%) scale(.8);
+}
+
+/* Titles show on hover only, as the original kept the map free of text; the popup names the episode. While the map is being arranged they stay on. */
+.overviewMap .overviewMapMarkerLabel {
+    max-width: none;
+    padding: 6px 10px;
+    border-radius: 0;
+    background: rgba(12, 0, 12, .65);
+    color: #ffffff;
+    font-size: 12px;
+    font-weight: 600;
+    line-height: 1.25em;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    box-shadow: none;
+}
+
+.overviewMap:not(.editActive) .overviewMapMarker:not(:hover) .overviewMapMarkerLabel {
+    opacity: 0;
+}
+
+/* Above the figure where the original put the title above. */
+.overviewMap .overviewMapMarker:is([data-hypervideoid="1"], [data-hypervideoid="6"], [data-hypervideoid="7"], [data-hypervideoid="8"], [data-hypervideoid="10"], [data-hypervideoid="11"], [data-hypervideoid="13"]) .overviewMapMarkerLabel {
+    top: auto;
+    bottom: 100%;
+    margin: 0 0 6px;
+}
+
+/* ---------- Popup: the round portrait of the original ---------- */
+
+.overviewMapPopup .hypervideoThumb.mapCard {
+    width: 232px;
+    height: 232px;
+    border: 4px solid var(--fieldtrip-accent);
+    border-radius: 50%;
+    background-color: rgba(5, 3, 5, .75);
+    background-size: cover;
+    box-shadow: 0 0 15px 5px rgba(0, 0, 0, .15);
+    cursor: pointer;
+}
+
+.overviewMapPopup .hypervideoThumb.mapCard .hypervideoThumbContent {
+    border-radius: 50%;
+    background: rgba(0, 0, 0, .15);
+    box-shadow: none;
+}
+
+.overviewMapPopup .hypervideoThumb.mapCard .hypervideoIcon [class^="icon-"]::before,
+.overviewMapPopup .hypervideoThumb.mapCard .hypervideoIcon [class*=" icon-"]::before {
+    color: var(--fieldtrip-accent);
+    background: transparent;
+    font-size: 56px;
+    margin-left: -28px;
+    margin-top: -34px;
+    text-shadow: 0 0 20px rgba(0, 0, 0, .6);
+}
+
+.overviewMapPopup .hypervideoThumb.mapCard .hypervideoTitle {
+    bottom: -46px;
+    left: 50%;
+    width: auto;
+    padding: 6px 10px;
+    transform: translateX(-50%);
+    background: rgba(12, 0, 12, .65);
+    color: #ffffff;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 1.25em;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    white-space: nowrap;
+    opacity: 1;
+}
+
+/* ---------- Episodes: text cards and the animated links ---------- */
+
+/* Text overlays are laid out on a stage 800 px wide and scaled with the video. 19.2 px there is the size the original's cards have in a window 1920 px wide, which is the size their boxes were drawn for. */
+.overlayContainer .overlayElement .resourceDetail[data-type="text"] .textOverlayBody {
+    font-family: Inconsolata, monospace;
+    font-size: 19.2px;
+    line-height: 1.15;
+    letter-spacing: 0;
+}
+
+.overlayContainer .overlayElement .resourceDetail[data-type="text"] .textOverlayBody p {
+    margin: 0;
+}
+
+/* A link is an animated GIF with an invisible hotspot over it. The hotspot's glow would draw a frame around the figure. */
+.overlayContainer .overlayElement .hotspot-element {
+    box-shadow: none;
+}
+
+/* A hotspot with a label ("Skip intro"), set like the original's buttons. */
+.overlayContainer .overlayElement .hotspot-element .hotspot-label {
+    font-family: Rubik, sans-serif;
+    font-weight: 600;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+}
+
+/* The figure stands a little smaller and grows when its link is hovered, as in the original. */
+.overlayContainer .overlayElement .resourceDetail[data-type="image"] img {
+    transform: scale(.8);
+    transform-origin: center bottom;
+    transition: transform 300ms;
+}
+
+.overlayContainer .overlayElement .resourceDetail[data-type="image"] img[src$="animation-plane-head.gif"] {
+    transform-origin: right center;
+}
+
+.mainContainer:not(.editActive) .overlayContainer:has(.hotspot-element.hasAction:hover) .overlayElement.active .resourceDetail[data-type="image"] img {
+    transform: scale(1);
+}
+
+/* ---------- Subtitles ---------- */
+
+.hypervideoContainer .videoContainer .hypervideo .captionContainer {
+    background: transparent;
+}
+
+.captionContainer .subtitleElement {
+    margin: 16px 5vw 56px;
+    font-family: Inconsolata, monospace;
+    font-size: clamp(16px, 2vw, 40px);
+    font-weight: 200;
+    line-height: 1.1;
+    letter-spacing: 0;
+    text-shadow: 0 0 6px rgba(0, 0, 0, .7);
+}
+
+@media (max-width: 920px) {
+    .captionContainer .subtitleElement {
+        font-size: 3vw;
+    }
+}
+
+/* ---------- Title bar and player controls ---------- */
+
+.titlebar .titlebarTitle {
+    font-weight: 600;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+}
+
+/* Over the video the bars fade out instead of ending in an edge. */
+.autohideControls:has(.mainContainer:not(.editActive)) > .titlebar {
+    background: linear-gradient(to bottom, rgba(0, 0, 0, .55), rgba(0, 0, 0, 0));
+}
+
+.autohideControls .mainContainer:not(.editActive) .playerContainer .controls {
+    background: linear-gradient(to top, rgba(0, 0, 0, .6), rgba(0, 0, 0, 0));
+}
+
+.mainContainer:not(.editActive) .playerContainer .controls :is(.sharingWidget, .annotationSearchButton) {
+    display: none !important;
+}
+
+.playerContainer .playerProgress .ui-slider-range {
+    background: var(--fieldtrip-accent);
+}
+
+.hypervideoContainer .videoContainer .videoStartOverlay .playButtonBig {
+    border: 3px solid var(--fieldtrip-accent);
+    background-color: rgba(5, 3, 5, .45);
+    color: var(--fieldtrip-accent);
+}
+
+/* ---------- Narrow portrait screens ---------- */
+
+/* The video and the map fill the screen and are cropped to it, so on a phone held upright most of the picture, the text cards and the pins are cut off. The original asked for the phone to be turned, and so does this. */
+@media screen and (max-width: 480px) and (orientation: portrait) {
+    .frametrail-body::after {
+        content: "Please turn smartphone";
+        position: fixed;
+        inset: 0;
+        z-index: 100000;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        padding: 0 10vw;
+        background: #000000;
+        color: #ffffff;
+        font-family: Inconsolata, monospace;
+        font-size: 6vw;
+        line-height: 1.15;
+        text-align: center;
+    }
+}

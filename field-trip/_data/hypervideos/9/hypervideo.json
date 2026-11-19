@@ -1,0 +1,444 @@
+{
+    "meta": {
+        "name": "The StoryboXX",
+        "description": "In the summer of 2018, Field Trip started a collaboration with BücherboXX, a book exchange initiative in former phone booths. The Field Trip team converted these “book boxes” into a story exchange, the StoryboXX.",
+        "thumb": "1_1795006800_thumb_portrait-episode-9.jpg",
+        "creator": "demo",
+        "creatorId": "1",
+        "created": 1556093244546,
+        "lastchanged": 1795006800000
+    },
+    "config": {
+        "slidingMode": "adjust",
+        "slidingTrigger": "key",
+        "autohideControls": true,
+        "captionsVisible": true,
+        "clipTimeVisible": false,
+        "layoutArea": {
+            "areaTop": [],
+            "areaBottom": [],
+            "areaLeft": [],
+            "areaRight": []
+        }
+    },
+    "clips": [
+        {
+            "resourceId": "10",
+            "src": "https://interaktiv.tagesspiegel.de/fieldtrip/videos/6276641933001.mp4",
+            "duration": 350.251,
+            "in": 0,
+            "out": 0
+        }
+    ],
+    "contents": [
+        {
+            "@context": [
+                "http://www.w3.org/ns/anno.jsonld",
+                "https://frametrail.org/ns/context.jsonld"
+            ],
+            "creator": {
+                "nickname": "demo",
+                "type": "Person",
+                "id": "1"
+            },
+            "created": "2019-04-29T07:52:06.000Z",
+            "type": "Annotation",
+            "frametrail:type": "Overlay",
+            "frametrail:tags": [],
+            "target": {
+                "type": "Video",
+                "source": "https://interaktiv.tagesspiegel.de/fieldtrip/videos/6276641933001.mp4",
+                "selector": {
+                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                    "type": "FragmentSelector",
+                    "value": "t=130,138&xywh=percent:43.67,27.26,11.65,48.12"
+                }
+            },
+            "body": {
+                "type": "Image",
+                "frametrail:type": "image",
+                "format": "image/gif",
+                "source": "1_1556094037_animation-dancer.gif",
+                "frametrail:name": "Animation Dancer",
+                "frametrail:thumb": null,
+                "frametrail:licenseType": "CC-BY-SA-3.0",
+                "frametrail:licenseAttribution": "Filippo Letizi, Animator, macaia.com",
+                "frametrail:resourceId": "27",
+                "frametrail:attributes": {
+                    "animation": {
+                        "in": {
+                            "preset": "fadeIn",
+                            "duration": 800
+                        },
+                        "out": {
+                            "preset": "fadeOut",
+                            "duration": 800
+                        }
+                    }
+                }
+            },
+            "frametrail:events": {}
+        },
+        {
+            "@context": [
+                "http://www.w3.org/ns/anno.jsonld",
+                "https://frametrail.org/ns/context.jsonld"
+            ],
+            "creator": {
+                "nickname": "demo",
+                "type": "Person",
+                "id": "1"
+            },
+            "created": "2019-04-29T07:52:06.001Z",
+            "type": "Annotation",
+            "frametrail:type": "Overlay",
+            "frametrail:tags": [],
+            "target": {
+                "type": "Video",
+                "source": "https://interaktiv.tagesspiegel.de/fieldtrip/videos/6276641933001.mp4",
+                "selector": {
+                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                    "type": "FragmentSelector",
+                    "value": "t=130,138&xywh=percent:43.67,27.26,11.65,48.12"
+                }
+            },
+            "body": {
+                "type": "TextualBody",
+                "frametrail:type": "hotspot",
+                "format": "text/html",
+                "value": "",
+                "frametrail:name": "Link: The Field Dancer",
+                "frametrail:thumb": null,
+                "frametrail:licenseType": null,
+                "frametrail:licenseAttribution": null,
+                "frametrail:attributes": {
+                    "shape": "rectangle",
+                    "color": "#ffffff",
+                    "borderWidth": 0,
+                    "backgroundColor": "",
+                    "pulse": false,
+                    "text": "",
+                    "action": "jumpToHypervideo",
+                    "actionTarget": "3",
+                    "actionTargetTime": 0
+                }
+            },
+            "frametrail:events": {},
+            "frametrail:pause": false
+        },
+        {
+            "@context": [
+                "http://www.w3.org/ns/anno.jsonld",
+                "https://frametrail.org/ns/context.jsonld"
+            ],
+            "creator": {
+                "nickname": "demo",
+                "type": "Person",
+                "id": "1"
+            },
+            "created": "2019-04-29T07:56:27.000Z",
+            "type": "Annotation",
+            "frametrail:type": "Overlay",
+            "frametrail:tags": [],
+            "target": {
+                "type": "Video",
+                "source": "https://interaktiv.tagesspiegel.de/fieldtrip/videos/6276641933001.mp4",
+                "selector": {
+                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                    "type": "FragmentSelector",
+                    "value": "t=307,315&xywh=percent:48.82,47.47,36.01,40.1"
+                }
+            },
+            "body": {
+                "type": "Image",
+                "frametrail:type": "image",
+                "format": "image/gif",
+                "source": "1_1556094111_animation-mann-miniatur.gif",
+                "frametrail:name": "Animation Mann Miniatur",
+                "frametrail:thumb": null,
+                "frametrail:licenseType": "CC-BY-SA-3.0",
+                "frametrail:licenseAttribution": "Filippo Letizi, Animator, macaia.com",
+                "frametrail:resourceId": "29",
+                "frametrail:attributes": {
+                    "animation": {
+                        "in": {
+                            "preset": "fadeIn",
+                            "duration": 800
+                        },
+                        "out": {
+                            "preset": "fadeOut",
+                            "duration": 800
+                        }
+                    }
+                }
+            },
+            "frametrail:events": {}
+        },
+        {
+            "@context": [
+                "http://www.w3.org/ns/anno.jsonld",
+                "https://frametrail.org/ns/context.jsonld"
+            ],
+            "creator": {
+                "nickname": "demo",
+                "type": "Person",
+                "id": "1"
+            },
+            "created": "2019-04-29T07:56:27.001Z",
+            "type": "Annotation",
+            "frametrail:type": "Overlay",
+            "frametrail:tags": [],
+            "target": {
+                "type": "Video",
+                "source": "https://interaktiv.tagesspiegel.de/fieldtrip/videos/6276641933001.mp4",
+                "selector": {
+                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                    "type": "FragmentSelector",
+                    "value": "t=307,315&xywh=percent:48.82,47.47,36.01,40.1"
+                }
+            },
+            "body": {
+                "type": "TextualBody",
+                "frametrail:type": "hotspot",
+                "format": "text/html",
+                "value": "",
+                "frametrail:name": "Link: The Investor",
+                "frametrail:thumb": null,
+                "frametrail:licenseType": null,
+                "frametrail:licenseAttribution": null,
+                "frametrail:attributes": {
+                    "shape": "rectangle",
+                    "color": "#ffffff",
+                    "borderWidth": 0,
+                    "backgroundColor": "",
+                    "pulse": false,
+                    "text": "",
+                    "action": "jumpToHypervideo",
+                    "actionTarget": "6",
+                    "actionTargetTime": 57
+                }
+            },
+            "frametrail:events": {},
+            "frametrail:pause": false
+        },
+        {
+            "@context": [
+                "http://www.w3.org/ns/anno.jsonld",
+                "https://frametrail.org/ns/context.jsonld"
+            ],
+            "creator": {
+                "nickname": "demo",
+                "type": "Person",
+                "id": "1"
+            },
+            "created": "2019-04-30T08:51:31.000Z",
+            "type": "Annotation",
+            "frametrail:type": "Overlay",
+            "frametrail:tags": [],
+            "target": {
+                "type": "Video",
+                "source": "https://interaktiv.tagesspiegel.de/fieldtrip/videos/6276641933001.mp4",
+                "selector": {
+                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                    "type": "FragmentSelector",
+                    "value": "t=4,9.2&xywh=percent:11.53,38.76,76.85,23.11"
+                }
+            },
+            "body": {
+                "type": "TextualBody",
+                "frametrail:type": "text",
+                "format": "text/html",
+                "value": "",
+                "frametrail:name": "In the summer of 2018, Field Trip starte…",
+                "frametrail:thumb": null,
+                "frametrail:licenseType": null,
+                "frametrail:licenseAttribution": null,
+                "frametrail:attributes": {
+                    "text": "&lt;p style=\"text-align: center;\"&gt;In the summer of 2018, Field Trip started &lt;br&gt;a collaboration with BücherboXX,&lt;br&gt;a book exchange initiative in former phone booths.&lt;/p&gt;",
+                    "box": {
+                        "shape": "rectangle",
+                        "background": "rgba(0,0,0,0.45)",
+                        "textColor": "#ffffff",
+                        "padding": 19
+                    },
+                    "autoSize": "height",
+                    "animation": {
+                        "in": {
+                            "preset": "fadeIn",
+                            "duration": 800
+                        },
+                        "out": {
+                            "preset": "fadeOut",
+                            "duration": 800
+                        }
+                    }
+                }
+            },
+            "frametrail:events": {}
+        },
+        {
+            "@context": [
+                "http://www.w3.org/ns/anno.jsonld",
+                "https://frametrail.org/ns/context.jsonld"
+            ],
+            "creator": {
+                "nickname": "demo",
+                "type": "Person",
+                "id": "1"
+            },
+            "created": "2019-05-01T10:57:59.000Z",
+            "type": "Annotation",
+            "frametrail:type": "Overlay",
+            "frametrail:tags": [],
+            "target": {
+                "type": "Video",
+                "source": "https://interaktiv.tagesspiegel.de/fieldtrip/videos/6276641933001.mp4",
+                "selector": {
+                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                    "type": "FragmentSelector",
+                    "value": "t=16,24&xywh=percent:8.26,56.8,82.78,32.89"
+                }
+            },
+            "body": {
+                "type": "TextualBody",
+                "frametrail:type": "text",
+                "format": "text/html",
+                "value": "",
+                "frametrail:name": "The Field Trip team converted these “boo…",
+                "frametrail:thumb": null,
+                "frametrail:licenseType": null,
+                "frametrail:licenseAttribution": null,
+                "frametrail:attributes": {
+                    "text": "&lt;p style=\"text-align: center;\"&gt;The Field Trip team converted these “book boxes”&lt;br&gt;into a story exchange, the StoryboXX.&lt;br&gt;&lt;br&gt;Anyone can leave their story about Tempelhof Field&lt;br&gt;under +49 (0)30 54 90 75 90.&lt;/p&gt;",
+                    "box": {
+                        "shape": "rectangle",
+                        "background": "rgba(0,0,0,0.45)",
+                        "textColor": "#ffffff",
+                        "padding": 19
+                    },
+                    "autoSize": "height",
+                    "animation": {
+                        "in": {
+                            "preset": "fadeIn",
+                            "duration": 800
+                        },
+                        "out": {
+                            "preset": "fadeOut",
+                            "duration": 800
+                        }
+                    }
+                }
+            },
+            "frametrail:events": {}
+        },
+        {
+            "@context": [
+                "http://www.w3.org/ns/anno.jsonld",
+                "https://frametrail.org/ns/context.jsonld"
+            ],
+            "creator": {
+                "nickname": "demo",
+                "type": "Person",
+                "id": "1"
+            },
+            "created": "2019-06-18T07:58:20.000Z",
+            "type": "Annotation",
+            "frametrail:type": "Overlay",
+            "frametrail:tags": [],
+            "target": {
+                "type": "Video",
+                "source": "https://interaktiv.tagesspiegel.de/fieldtrip/videos/6276641933001.mp4",
+                "selector": {
+                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                    "type": "FragmentSelector",
+                    "value": "t=71,79&xywh=percent:46.53,28.33,44.16,46.93"
+                }
+            },
+            "body": {
+                "type": "Image",
+                "frametrail:type": "image",
+                "format": "image/gif",
+                "source": "1_1560762366_animation-container.gif",
+                "frametrail:name": "Animation Container",
+                "frametrail:thumb": null,
+                "frametrail:licenseType": "CC-BY-SA-3.0",
+                "frametrail:licenseAttribution": "Filippo Letizi, Animator, macaia.com",
+                "frametrail:resourceId": "70",
+                "frametrail:attributes": {
+                    "animation": {
+                        "in": {
+                            "preset": "fadeIn",
+                            "duration": 800
+                        },
+                        "out": {
+                            "preset": "fadeOut",
+                            "duration": 800
+                        }
+                    }
+                }
+            },
+            "frametrail:events": {}
+        },
+        {
+            "@context": [
+                "http://www.w3.org/ns/anno.jsonld",
+                "https://frametrail.org/ns/context.jsonld"
+            ],
+            "creator": {
+                "nickname": "demo",
+                "type": "Person",
+                "id": "1"
+            },
+            "created": "2019-06-18T07:58:20.001Z",
+            "type": "Annotation",
+            "frametrail:type": "Overlay",
+            "frametrail:tags": [],
+            "target": {
+                "type": "Video",
+                "source": "https://interaktiv.tagesspiegel.de/fieldtrip/videos/6276641933001.mp4",
+                "selector": {
+                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                    "type": "FragmentSelector",
+                    "value": "t=71,79&xywh=percent:46.53,28.33,44.16,46.93"
+                }
+            },
+            "body": {
+                "type": "TextualBody",
+                "frametrail:type": "hotspot",
+                "format": "text/html",
+                "value": "",
+                "frametrail:name": "Link: The Father on hold",
+                "frametrail:thumb": null,
+                "frametrail:licenseType": null,
+                "frametrail:licenseAttribution": null,
+                "frametrail:attributes": {
+                    "shape": "rectangle",
+                    "color": "#ffffff",
+                    "borderWidth": 0,
+                    "backgroundColor": "",
+                    "pulse": false,
+                    "text": "",
+                    "action": "jumpToHypervideo",
+                    "actionTarget": "12",
+                    "actionTargetTime": 439
+                }
+            },
+            "frametrail:events": {},
+            "frametrail:pause": false
+        }
+    ],
+    "chapters": [],
+    "subtitles": [
+        {
+            "src": "en.vtt",
+            "srclang": "en"
+        }
+    ],
+    "globalEvents": {
+        "onReady": "hypervideo.play();",
+        "onPlay": "",
+        "onPause": "",
+        "onEnded": "window.location.hash = 'overview';"
+    },
+    "customCSS": ""
+}

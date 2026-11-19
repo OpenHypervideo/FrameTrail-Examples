@@ -1,0 +1,349 @@
+{
+    "meta": {
+        "name": "The Investor",
+        "description": "In order to get an investor’s perspective on Tempelhof Field, we meet up with real estate investor Patrick Steinberg. He is not directly involved in the planning for Tempelhof Field’s future.",
+        "thumb": "1_1795006800_thumb_portrait-episode-6.jpg",
+        "creator": "demo",
+        "creatorId": "1",
+        "created": 1556093214017,
+        "lastchanged": 1795006800000
+    },
+    "config": {
+        "slidingMode": "adjust",
+        "slidingTrigger": "key",
+        "autohideControls": true,
+        "captionsVisible": true,
+        "clipTimeVisible": false,
+        "layoutArea": {
+            "areaTop": [],
+            "areaBottom": [],
+            "areaLeft": [],
+            "areaRight": []
+        }
+    },
+    "clips": [
+        {
+            "resourceId": "7",
+            "src": "https://interaktiv.tagesspiegel.de/fieldtrip/videos/6276639035001.mp4",
+            "duration": 386.539,
+            "in": 0,
+            "out": 0
+        }
+    ],
+    "contents": [
+        {
+            "@context": [
+                "http://www.w3.org/ns/anno.jsonld",
+                "https://frametrail.org/ns/context.jsonld"
+            ],
+            "creator": {
+                "nickname": "demo",
+                "type": "Person",
+                "id": "1"
+            },
+            "created": "2019-04-29T07:30:07.000Z",
+            "type": "Annotation",
+            "frametrail:type": "Overlay",
+            "frametrail:tags": [],
+            "target": {
+                "type": "Video",
+                "source": "https://interaktiv.tagesspiegel.de/fieldtrip/videos/6276639035001.mp4",
+                "selector": {
+                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                    "type": "FragmentSelector",
+                    "value": "t=280,288&xywh=percent:73.76,0,26.24,49.26"
+                }
+            },
+            "body": {
+                "type": "Image",
+                "frametrail:type": "image",
+                "format": "image/gif",
+                "source": "1_1556093905_animation-flag.gif",
+                "frametrail:name": "Animation Flag",
+                "frametrail:thumb": null,
+                "frametrail:licenseType": "CC-BY-SA-3.0",
+                "frametrail:licenseAttribution": "Filippo Letizi, Animator, macaia.com",
+                "frametrail:resourceId": "22",
+                "frametrail:attributes": {
+                    "animation": {
+                        "in": {
+                            "preset": "fadeIn",
+                            "duration": 800
+                        },
+                        "out": {
+                            "preset": "fadeOut",
+                            "duration": 800
+                        }
+                    }
+                }
+            },
+            "frametrail:events": {}
+        },
+        {
+            "@context": [
+                "http://www.w3.org/ns/anno.jsonld",
+                "https://frametrail.org/ns/context.jsonld"
+            ],
+            "creator": {
+                "nickname": "demo",
+                "type": "Person",
+                "id": "1"
+            },
+            "created": "2019-04-29T07:30:07.001Z",
+            "type": "Annotation",
+            "frametrail:type": "Overlay",
+            "frametrail:tags": [],
+            "target": {
+                "type": "Video",
+                "source": "https://interaktiv.tagesspiegel.de/fieldtrip/videos/6276639035001.mp4",
+                "selector": {
+                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                    "type": "FragmentSelector",
+                    "value": "t=280,288&xywh=percent:73.76,0,26.24,49.26"
+                }
+            },
+            "body": {
+                "type": "TextualBody",
+                "frametrail:type": "hotspot",
+                "format": "text/html",
+                "value": "",
+                "frametrail:name": "Link: The Veteran Protesters",
+                "frametrail:thumb": null,
+                "frametrail:licenseType": null,
+                "frametrail:licenseAttribution": null,
+                "frametrail:attributes": {
+                    "shape": "rectangle",
+                    "color": "#ffffff",
+                    "borderWidth": 0,
+                    "backgroundColor": "",
+                    "pulse": false,
+                    "text": "",
+                    "action": "jumpToHypervideo",
+                    "actionTarget": "1",
+                    "actionTargetTime": 157
+                }
+            },
+            "frametrail:events": {},
+            "frametrail:pause": false
+        },
+        {
+            "@context": [
+                "http://www.w3.org/ns/anno.jsonld",
+                "https://frametrail.org/ns/context.jsonld"
+            ],
+            "creator": {
+                "nickname": "demo",
+                "type": "Person",
+                "id": "1"
+            },
+            "created": "2019-04-30T08:45:51.000Z",
+            "type": "Annotation",
+            "frametrail:type": "Overlay",
+            "frametrail:tags": [],
+            "target": {
+                "type": "Video",
+                "source": "https://interaktiv.tagesspiegel.de/fieldtrip/videos/6276639035001.mp4",
+                "selector": {
+                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                    "type": "FragmentSelector",
+                    "value": "t=3.568,15.51&xywh=percent:14.84,58.75,71.45,32.89"
+                }
+            },
+            "body": {
+                "type": "TextualBody",
+                "frametrail:type": "text",
+                "format": "text/html",
+                "value": "",
+                "frametrail:name": "In order to get an investor’s perspectiv…",
+                "frametrail:thumb": null,
+                "frametrail:licenseType": null,
+                "frametrail:licenseAttribution": null,
+                "frametrail:attributes": {
+                    "text": "&lt;p style=\"text-align: center;\"&gt;In order to get an investor’s perspective on Tempelhof Field, we meet up with real estate investor Patrick Steinberg. &lt;br&gt;He is not directly involved in the planning for Tempelhof Field’s future.&lt;/p&gt;",
+                    "box": {
+                        "shape": "rectangle",
+                        "background": "rgba(0,0,0,0.45)",
+                        "textColor": "#ffffff",
+                        "padding": 19
+                    },
+                    "autoSize": "height",
+                    "animation": {
+                        "in": {
+                            "preset": "fadeIn",
+                            "duration": 800
+                        },
+                        "out": {
+                            "preset": "fadeOut",
+                            "duration": 800
+                        }
+                    }
+                }
+            },
+            "frametrail:events": {}
+        },
+        {
+            "@context": [
+                "http://www.w3.org/ns/anno.jsonld",
+                "https://frametrail.org/ns/context.jsonld"
+            ],
+            "creator": {
+                "nickname": "demo",
+                "type": "Person",
+                "id": "1"
+            },
+            "created": "2019-04-30T08:46:38.000Z",
+            "type": "Annotation",
+            "frametrail:type": "Overlay",
+            "frametrail:tags": [],
+            "target": {
+                "type": "Video",
+                "source": "https://interaktiv.tagesspiegel.de/fieldtrip/videos/6276639035001.mp4",
+                "selector": {
+                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                    "type": "FragmentSelector",
+                    "value": "t=42.088,55.618&xywh=percent:13.78,18.89,73.82,32.89"
+                }
+            },
+            "body": {
+                "type": "TextualBody",
+                "frametrail:type": "text",
+                "format": "text/html",
+                "value": "",
+                "frametrail:name": "Given the housing shortage in Berlin, th…",
+                "frametrail:thumb": null,
+                "frametrail:licenseType": null,
+                "frametrail:licenseAttribution": null,
+                "frametrail:attributes": {
+                    "text": "&lt;p style=\"text-align: center;\"&gt;Given the housing shortage in Berlin, there have been various proposals to build on the 300 hectares of open space. &lt;br&gt;Critics fear that this would lead to real estate speculation.&lt;/p&gt;",
+                    "box": {
+                        "shape": "rectangle",
+                        "background": "rgba(0,0,0,0.45)",
+                        "textColor": "#ffffff",
+                        "padding": 19
+                    },
+                    "autoSize": "height",
+                    "animation": {
+                        "in": {
+                            "preset": "fadeIn",
+                            "duration": 800
+                        },
+                        "out": {
+                            "preset": "fadeOut",
+                            "duration": 800
+                        }
+                    }
+                }
+            },
+            "frametrail:events": {}
+        },
+        {
+            "@context": [
+                "http://www.w3.org/ns/anno.jsonld",
+                "https://frametrail.org/ns/context.jsonld"
+            ],
+            "creator": {
+                "nickname": "demo",
+                "type": "Person",
+                "id": "1"
+            },
+            "created": "2019-06-18T07:50:28.000Z",
+            "type": "Annotation",
+            "frametrail:type": "Overlay",
+            "frametrail:tags": [],
+            "target": {
+                "type": "Video",
+                "source": "https://interaktiv.tagesspiegel.de/fieldtrip/videos/6276639035001.mp4",
+                "selector": {
+                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                    "type": "FragmentSelector",
+                    "value": "t=357,365&xywh=percent:44.34,10.94,48.15,52.65"
+                }
+            },
+            "body": {
+                "type": "Image",
+                "frametrail:type": "image",
+                "format": "image/gif",
+                "source": "1_1560762366_animation-container.gif",
+                "frametrail:name": "Animation Container",
+                "frametrail:thumb": null,
+                "frametrail:licenseType": "CC-BY-SA-3.0",
+                "frametrail:licenseAttribution": "Filippo Letizi, Animator, macaia.com",
+                "frametrail:resourceId": "70",
+                "frametrail:attributes": {
+                    "animation": {
+                        "in": {
+                            "preset": "fadeIn",
+                            "duration": 800
+                        },
+                        "out": {
+                            "preset": "fadeOut",
+                            "duration": 800
+                        }
+                    }
+                }
+            },
+            "frametrail:events": {}
+        },
+        {
+            "@context": [
+                "http://www.w3.org/ns/anno.jsonld",
+                "https://frametrail.org/ns/context.jsonld"
+            ],
+            "creator": {
+                "nickname": "demo",
+                "type": "Person",
+                "id": "1"
+            },
+            "created": "2019-06-18T07:50:28.001Z",
+            "type": "Annotation",
+            "frametrail:type": "Overlay",
+            "frametrail:tags": [],
+            "target": {
+                "type": "Video",
+                "source": "https://interaktiv.tagesspiegel.de/fieldtrip/videos/6276639035001.mp4",
+                "selector": {
+                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                    "type": "FragmentSelector",
+                    "value": "t=357,365&xywh=percent:44.34,10.94,48.15,52.65"
+                }
+            },
+            "body": {
+                "type": "TextualBody",
+                "frametrail:type": "hotspot",
+                "format": "text/html",
+                "value": "",
+                "frametrail:name": "Link: The Father on hold",
+                "frametrail:thumb": null,
+                "frametrail:licenseType": null,
+                "frametrail:licenseAttribution": null,
+                "frametrail:attributes": {
+                    "shape": "rectangle",
+                    "color": "#ffffff",
+                    "borderWidth": 0,
+                    "backgroundColor": "",
+                    "pulse": false,
+                    "text": "",
+                    "action": "jumpToHypervideo",
+                    "actionTarget": "12",
+                    "actionTargetTime": 0
+                }
+            },
+            "frametrail:events": {},
+            "frametrail:pause": false
+        }
+    ],
+    "chapters": [],
+    "subtitles": [
+        {
+            "src": "en.vtt",
+            "srclang": "en"
+        }
+    ],
+    "globalEvents": {
+        "onReady": "hypervideo.play();",
+        "onPlay": "",
+        "onPause": "",
+        "onEnded": "window.location.hash = 'overview';"
+    },
+    "customCSS": ""
+}

@@ -1,0 +1,294 @@
+{
+    "meta": {
+        "name": "The Courage Runner",
+        "description": "In 2017, a so-called “Courage Run” took place on Tempelhof Field. It was an event against the stigmatisation of depression and mental health issues.",
+        "thumb": "1_1795006800_thumb_portrait-episode-14.jpg",
+        "creator": "demo",
+        "creatorId": "1",
+        "created": 1560581087482,
+        "lastchanged": 1795006800000
+    },
+    "config": {
+        "slidingMode": "adjust",
+        "slidingTrigger": "key",
+        "autohideControls": true,
+        "captionsVisible": true,
+        "clipTimeVisible": false,
+        "layoutArea": {
+            "areaTop": [],
+            "areaBottom": [],
+            "areaLeft": [],
+            "areaRight": []
+        }
+    },
+    "clips": [
+        {
+            "resourceId": "64",
+            "src": "https://interaktiv.tagesspiegel.de/fieldtrip/videos/6276641565001.mp4",
+            "duration": 160.576,
+            "in": 0,
+            "out": 0
+        }
+    ],
+    "contents": [
+        {
+            "@context": [
+                "http://www.w3.org/ns/anno.jsonld",
+                "https://frametrail.org/ns/context.jsonld"
+            ],
+            "creator": {
+                "nickname": "demo",
+                "type": "Person",
+                "id": "1"
+            },
+            "created": "2019-06-17T11:50:13.000Z",
+            "type": "Annotation",
+            "frametrail:type": "Overlay",
+            "frametrail:tags": [],
+            "target": {
+                "type": "Video",
+                "source": "https://interaktiv.tagesspiegel.de/fieldtrip/videos/6276641565001.mp4",
+                "selector": {
+                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                    "type": "FragmentSelector",
+                    "value": "t=15.1,21.1&xywh=percent:17.27,70,65.14,28"
+                }
+            },
+            "body": {
+                "type": "TextualBody",
+                "frametrail:type": "text",
+                "format": "text/html",
+                "value": "",
+                "frametrail:name": "In 2017, a so-called “Courage Run” took…",
+                "frametrail:thumb": null,
+                "frametrail:licenseType": null,
+                "frametrail:licenseAttribution": null,
+                "frametrail:attributes": {
+                    "text": "&lt;p style=\"text-align: center;\"&gt;In 2017, a so-called “Courage Run” took place on Tempelhof Field.&lt;br&gt;It was an event against the stigmatisation of depression and mental health issues.&lt;/p&gt;",
+                    "box": {
+                        "shape": "rectangle",
+                        "background": "rgba(0,0,0,0.45)",
+                        "textColor": "#ffffff",
+                        "padding": 19
+                    },
+                    "autoSize": "height",
+                    "animation": {
+                        "in": {
+                            "preset": "fadeIn",
+                            "duration": 800
+                        },
+                        "out": {
+                            "preset": "fadeOut",
+                            "duration": 800
+                        }
+                    }
+                }
+            },
+            "frametrail:events": {}
+        },
+        {
+            "@context": [
+                "http://www.w3.org/ns/anno.jsonld",
+                "https://frametrail.org/ns/context.jsonld"
+            ],
+            "creator": {
+                "nickname": "demo",
+                "type": "Person",
+                "id": "1"
+            },
+            "created": "2019-06-18T08:23:43.000Z",
+            "type": "Annotation",
+            "frametrail:type": "Overlay",
+            "frametrail:tags": [],
+            "target": {
+                "type": "Video",
+                "source": "https://interaktiv.tagesspiegel.de/fieldtrip/videos/6276641565001.mp4",
+                "selector": {
+                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                    "type": "FragmentSelector",
+                    "value": "t=149,157&xywh=percent:20.42,47.48,44.15,47.31"
+                }
+            },
+            "body": {
+                "type": "Image",
+                "frametrail:type": "image",
+                "format": "image/gif",
+                "source": "1_1560762366_animation-container.gif",
+                "frametrail:name": "Animation Container",
+                "frametrail:thumb": null,
+                "frametrail:licenseType": "CC-BY-SA-3.0",
+                "frametrail:licenseAttribution": "Filippo Letizi, Animator, macaia.com",
+                "frametrail:resourceId": "70",
+                "frametrail:attributes": {
+                    "animation": {
+                        "in": {
+                            "preset": "fadeIn",
+                            "duration": 800
+                        },
+                        "out": {
+                            "preset": "fadeOut",
+                            "duration": 800
+                        }
+                    }
+                }
+            },
+            "frametrail:events": {}
+        },
+        {
+            "@context": [
+                "http://www.w3.org/ns/anno.jsonld",
+                "https://frametrail.org/ns/context.jsonld"
+            ],
+            "creator": {
+                "nickname": "demo",
+                "type": "Person",
+                "id": "1"
+            },
+            "created": "2019-06-18T08:23:43.001Z",
+            "type": "Annotation",
+            "frametrail:type": "Overlay",
+            "frametrail:tags": [],
+            "target": {
+                "type": "Video",
+                "source": "https://interaktiv.tagesspiegel.de/fieldtrip/videos/6276641565001.mp4",
+                "selector": {
+                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                    "type": "FragmentSelector",
+                    "value": "t=149,157&xywh=percent:20.42,47.48,44.15,47.31"
+                }
+            },
+            "body": {
+                "type": "TextualBody",
+                "frametrail:type": "hotspot",
+                "format": "text/html",
+                "value": "",
+                "frametrail:name": "Link: The Father on hold",
+                "frametrail:thumb": null,
+                "frametrail:licenseType": null,
+                "frametrail:licenseAttribution": null,
+                "frametrail:attributes": {
+                    "shape": "rectangle",
+                    "color": "#ffffff",
+                    "borderWidth": 0,
+                    "backgroundColor": "",
+                    "pulse": false,
+                    "text": "",
+                    "action": "jumpToHypervideo",
+                    "actionTarget": "12",
+                    "actionTargetTime": 193
+                }
+            },
+            "frametrail:events": {},
+            "frametrail:pause": false
+        },
+        {
+            "@context": [
+                "http://www.w3.org/ns/anno.jsonld",
+                "https://frametrail.org/ns/context.jsonld"
+            ],
+            "creator": {
+                "nickname": "demo",
+                "type": "Person",
+                "id": "1"
+            },
+            "created": "2019-06-18T08:48:19.000Z",
+            "type": "Annotation",
+            "frametrail:type": "Overlay",
+            "frametrail:tags": [],
+            "target": {
+                "type": "Video",
+                "source": "https://interaktiv.tagesspiegel.de/fieldtrip/videos/6276641565001.mp4",
+                "selector": {
+                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                    "type": "FragmentSelector",
+                    "value": "t=78,86&xywh=percent:61.42,0.88,38.58,98.92"
+                }
+            },
+            "body": {
+                "type": "Image",
+                "frametrail:type": "image",
+                "format": "image/gif",
+                "source": "1_1560762493_animation-plane-head.gif",
+                "frametrail:name": "Animation Plane-Head",
+                "frametrail:thumb": null,
+                "frametrail:licenseType": "CC-BY-SA-3.0",
+                "frametrail:licenseAttribution": "Filippo Letizi, Animator, macaia.com",
+                "frametrail:resourceId": "76",
+                "frametrail:attributes": {
+                    "animation": {
+                        "in": {
+                            "preset": "fadeIn",
+                            "duration": 800
+                        },
+                        "out": {
+                            "preset": "fadeOut",
+                            "duration": 800
+                        }
+                    }
+                }
+            },
+            "frametrail:events": {}
+        },
+        {
+            "@context": [
+                "http://www.w3.org/ns/anno.jsonld",
+                "https://frametrail.org/ns/context.jsonld"
+            ],
+            "creator": {
+                "nickname": "demo",
+                "type": "Person",
+                "id": "1"
+            },
+            "created": "2019-06-18T08:48:19.001Z",
+            "type": "Annotation",
+            "frametrail:type": "Overlay",
+            "frametrail:tags": [],
+            "target": {
+                "type": "Video",
+                "source": "https://interaktiv.tagesspiegel.de/fieldtrip/videos/6276641565001.mp4",
+                "selector": {
+                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                    "type": "FragmentSelector",
+                    "value": "t=78,86&xywh=percent:61.42,0.88,38.58,98.92"
+                }
+            },
+            "body": {
+                "type": "TextualBody",
+                "frametrail:type": "hotspot",
+                "format": "text/html",
+                "value": "",
+                "frametrail:name": "Link: The Escapee",
+                "frametrail:thumb": null,
+                "frametrail:licenseType": null,
+                "frametrail:licenseAttribution": null,
+                "frametrail:attributes": {
+                    "shape": "rectangle",
+                    "color": "#ffffff",
+                    "borderWidth": 0,
+                    "backgroundColor": "",
+                    "pulse": false,
+                    "text": "",
+                    "action": "jumpToHypervideo",
+                    "actionTarget": "10",
+                    "actionTargetTime": 6
+                }
+            },
+            "frametrail:events": {},
+            "frametrail:pause": false
+        }
+    ],
+    "chapters": [],
+    "subtitles": [
+        {
+            "src": "en.vtt",
+            "srclang": "en"
+        }
+    ],
+    "globalEvents": {
+        "onReady": "hypervideo.play();",
+        "onPlay": "",
+        "onPause": "",
+        "onEnded": "window.location.hash = 'overview';"
+    },
+    "customCSS": ""
+}

@@ -1,0 +1,53 @@
+{
+    "hypervideo-increment": 6,
+    "hypervideos": {
+        "1": "./1",
+        "2": "./2",
+        "3": "./3",
+        "4": "./4",
+        "5": "./5",
+        "6": "./6"
+    },
+    "overviewMap": {
+        "background": "1_1795090011_map-of-the-film.svg",
+        "backgroundColor": "#ECE9E6",
+        "fit": "contain",
+        "padding": 2,
+        "paddingUnit": "percent",
+        "pinStyle": "thumb",
+        "pinAnimation": "ripple",
+        "lastchanged": 1795078800000,
+        "markers": {
+            "1": {
+                "x": 0.156,
+                "y": 0.5,
+                "size": 7
+            },
+            "2": {
+                "x": 0.5,
+                "y": 0.167,
+                "size": 7
+            },
+            "3": {
+                "x": 0.5,
+                "y": 0.389,
+                "size": 7
+            },
+            "4": {
+                "x": 0.5,
+                "y": 0.611,
+                "size": 7
+            },
+            "5": {
+                "x": 0.5,
+                "y": 0.833,
+                "size": 7
+            },
+            "6": {
+                "x": 0.844,
+                "y": 0.5,
+                "size": 7
+            }
+        }
+    }
+}

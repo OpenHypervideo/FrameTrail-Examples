@@ -1,0 +1,514 @@
+{
+    "meta": {
+        "name": "The Planters",
+        "description": "In May 2011, one year after the former airport had been opened to the public, 8000 square metres of Tempelhof Field were allocated to three urban garden projects. Today, there are around 600 people cultivating the beds.",
+        "thumb": "1_1795006800_thumb_portrait-episode-11.jpg",
+        "creator": "demo",
+        "creatorId": "1",
+        "created": 1558510803519,
+        "lastchanged": 1795006800000
+    },
+    "config": {
+        "slidingMode": "adjust",
+        "slidingTrigger": "key",
+        "autohideControls": true,
+        "captionsVisible": true,
+        "clipTimeVisible": false,
+        "layoutArea": {
+            "areaTop": [],
+            "areaBottom": [],
+            "areaLeft": [],
+            "areaRight": []
+        }
+    },
+    "clips": [
+        {
+            "resourceId": "61",
+            "src": "https://interaktiv.tagesspiegel.de/fieldtrip/videos/6276643422001.mp4",
+            "duration": 436.651,
+            "in": 0,
+            "out": 0
+        }
+    ],
+    "contents": [
+        {
+            "@context": [
+                "http://www.w3.org/ns/anno.jsonld",
+                "https://frametrail.org/ns/context.jsonld"
+            ],
+            "creator": {
+                "nickname": "demo",
+                "type": "Person",
+                "id": "1"
+            },
+            "created": "2019-05-22T08:04:46.000Z",
+            "type": "Annotation",
+            "frametrail:type": "Overlay",
+            "frametrail:tags": [],
+            "target": {
+                "type": "Video",
+                "source": "https://interaktiv.tagesspiegel.de/fieldtrip/videos/6276643422001.mp4",
+                "selector": {
+                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                    "type": "FragmentSelector",
+                    "value": "t=10.9,19.2&xywh=percent:12.5,60,75,28"
+                }
+            },
+            "body": {
+                "type": "TextualBody",
+                "frametrail:type": "text",
+                "format": "text/html",
+                "value": "",
+                "frametrail:name": "In May 2011, one year after the former a…",
+                "frametrail:thumb": null,
+                "frametrail:licenseType": null,
+                "frametrail:licenseAttribution": null,
+                "frametrail:attributes": {
+                    "text": "&lt;p style=\"text-align: center;\"&gt;In May 2011, one year after the former airport had been opened to the public, 8000 square metres of Tempelhof Field were allocated to three urban garden projects.&lt;br&gt;Today, there are around 600 people cultivating the beds.&lt;/p&gt;",
+                    "box": {
+                        "shape": "rectangle",
+                        "background": "rgba(0,0,0,0.45)",
+                        "textColor": "#ffffff",
+                        "padding": 19
+                    },
+                    "autoSize": "height",
+                    "animation": {
+                        "in": {
+                            "preset": "fadeIn",
+                            "duration": 800
+                        },
+                        "out": {
+                            "preset": "fadeOut",
+                            "duration": 800
+                        }
+                    }
+                }
+            },
+            "frametrail:events": {}
+        },
+        {
+            "@context": [
+                "http://www.w3.org/ns/anno.jsonld",
+                "https://frametrail.org/ns/context.jsonld"
+            ],
+            "creator": {
+                "nickname": "demo",
+                "type": "Person",
+                "id": "1"
+            },
+            "created": "2019-05-22T08:06:08.000Z",
+            "type": "Annotation",
+            "frametrail:type": "Overlay",
+            "frametrail:tags": [],
+            "target": {
+                "type": "Video",
+                "source": "https://interaktiv.tagesspiegel.de/fieldtrip/videos/6276643422001.mp4",
+                "selector": {
+                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                    "type": "FragmentSelector",
+                    "value": "t=21,29.3&xywh=percent:12.5,60,75,32.89"
+                }
+            },
+            "body": {
+                "type": "TextualBody",
+                "frametrail:type": "text",
+                "format": "text/html",
+                "value": "",
+                "frametrail:name": "The exuberant green island is a complex…",
+                "frametrail:thumb": null,
+                "frametrail:licenseType": null,
+                "frametrail:licenseAttribution": null,
+                "frametrail:attributes": {
+                    "text": "&lt;p style=\"text-align: center;\"&gt;The exuberant green island is a complex universe interrupting the vastness of the field.&lt;br&gt;For some, the gardens are a political statement, for others a space for ecological or social experiments:&lt;br&gt;All gardens are freely accessible and not fenced in&lt;/p&gt;",
+                    "box": {
+                        "shape": "rectangle",
+                        "background": "rgba(0,0,0,0.45)",
+                        "textColor": "#ffffff",
+                        "padding": 19
+                    },
+                    "autoSize": "height",
+                    "animation": {
+                        "in": {
+                            "preset": "fadeIn",
+                            "duration": 800
+                        },
+                        "out": {
+                            "preset": "fadeOut",
+                            "duration": 800
+                        }
+                    }
+                }
+            },
+            "frametrail:events": {}
+        },
+        {
+            "@context": [
+                "http://www.w3.org/ns/anno.jsonld",
+                "https://frametrail.org/ns/context.jsonld"
+            ],
+            "creator": {
+                "nickname": "demo",
+                "type": "Person",
+                "id": "1"
+            },
+            "created": "2019-05-22T08:10:00.000Z",
+            "type": "Annotation",
+            "frametrail:type": "Overlay",
+            "frametrail:tags": [],
+            "target": {
+                "type": "Video",
+                "source": "https://interaktiv.tagesspiegel.de/fieldtrip/videos/6276643422001.mp4",
+                "selector": {
+                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                    "type": "FragmentSelector",
+                    "value": "t=31.5,34.8&xywh=percent:12.5,73,75,13.33"
+                }
+            },
+            "body": {
+                "type": "TextualBody",
+                "frametrail:type": "text",
+                "format": "text/html",
+                "value": "",
+                "frametrail:name": "Christophe conducts worldwide research o…",
+                "frametrail:thumb": null,
+                "frametrail:licenseType": null,
+                "frametrail:licenseAttribution": null,
+                "frametrail:attributes": {
+                    "text": "&lt;p style=\"text-align: center;\"&gt;Christophe conducts worldwide research on urban gardening.&lt;/p&gt;",
+                    "box": {
+                        "shape": "rectangle",
+                        "background": "rgba(0,0,0,0.45)",
+                        "textColor": "#ffffff",
+                        "padding": 19
+                    },
+                    "autoSize": "height",
+                    "animation": {
+                        "in": {
+                            "preset": "fadeIn",
+                            "duration": 800
+                        },
+                        "out": {
+                            "preset": "fadeOut",
+                            "duration": 800
+                        }
+                    }
+                }
+            },
+            "frametrail:events": {}
+        },
+        {
+            "@context": [
+                "http://www.w3.org/ns/anno.jsonld",
+                "https://frametrail.org/ns/context.jsonld"
+            ],
+            "creator": {
+                "nickname": "demo",
+                "type": "Person",
+                "id": "1"
+            },
+            "created": "2019-05-22T08:13:09.000Z",
+            "type": "Annotation",
+            "frametrail:type": "Overlay",
+            "frametrail:tags": [],
+            "target": {
+                "type": "Video",
+                "source": "https://interaktiv.tagesspiegel.de/fieldtrip/videos/6276643422001.mp4",
+                "selector": {
+                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                    "type": "FragmentSelector",
+                    "value": "t=193.896,198.27&xywh=percent:12.5,69.2,75,18.22"
+                }
+            },
+            "body": {
+                "type": "TextualBody",
+                "frametrail:type": "text",
+                "format": "text/html",
+                "value": "",
+                "frametrail:name": "Every Sunday, Vanessa meets up with othe…",
+                "frametrail:thumb": null,
+                "frametrail:licenseType": null,
+                "frametrail:licenseAttribution": null,
+                "frametrail:attributes": {
+                    "text": "&lt;p style=\"text-align: center;\"&gt;Every Sunday, Vanessa meets up with other musicians on the field.&lt;/p&gt;",
+                    "box": {
+                        "shape": "rectangle",
+                        "background": "rgba(0,0,0,0.45)",
+                        "textColor": "#ffffff",
+                        "padding": 19
+                    },
+                    "autoSize": "height",
+                    "animation": {
+                        "in": {
+                            "preset": "fadeIn",
+                            "duration": 800
+                        },
+                        "out": {
+                            "preset": "fadeOut",
+                            "duration": 800
+                        }
+                    }
+                }
+            },
+            "frametrail:events": {}
+        },
+        {
+            "@context": [
+                "http://www.w3.org/ns/anno.jsonld",
+                "https://frametrail.org/ns/context.jsonld"
+            ],
+            "creator": {
+                "nickname": "demo",
+                "type": "Person",
+                "id": "1"
+            },
+            "created": "2019-05-22T08:15:50.000Z",
+            "type": "Annotation",
+            "frametrail:type": "Overlay",
+            "frametrail:tags": [],
+            "target": {
+                "type": "Video",
+                "source": "https://interaktiv.tagesspiegel.de/fieldtrip/videos/6276643422001.mp4",
+                "selector": {
+                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                    "type": "FragmentSelector",
+                    "value": "t=305,309.9&xywh=percent:12.5,69.52,75,13.33"
+                }
+            },
+            "body": {
+                "type": "TextualBody",
+                "frametrail:type": "text",
+                "format": "text/html",
+                "value": "",
+                "frametrail:name": "Christian was one of the original garden…",
+                "frametrail:thumb": null,
+                "frametrail:licenseType": null,
+                "frametrail:licenseAttribution": null,
+                "frametrail:attributes": {
+                    "text": "&lt;p style=\"text-align: center;\"&gt;Christian was one of the original gardeners.&lt;/p&gt;",
+                    "box": {
+                        "shape": "rectangle",
+                        "background": "rgba(0,0,0,0.45)",
+                        "textColor": "#ffffff",
+                        "padding": 19
+                    },
+                    "autoSize": "height",
+                    "animation": {
+                        "in": {
+                            "preset": "fadeIn",
+                            "duration": 800
+                        },
+                        "out": {
+                            "preset": "fadeOut",
+                            "duration": 800
+                        }
+                    }
+                }
+            },
+            "frametrail:events": {}
+        },
+        {
+            "@context": [
+                "http://www.w3.org/ns/anno.jsonld",
+                "https://frametrail.org/ns/context.jsonld"
+            ],
+            "creator": {
+                "nickname": "demo",
+                "type": "Person",
+                "id": "1"
+            },
+            "created": "2019-05-22T10:43:31.000Z",
+            "type": "Annotation",
+            "frametrail:type": "Overlay",
+            "frametrail:tags": [],
+            "target": {
+                "type": "Video",
+                "source": "https://interaktiv.tagesspiegel.de/fieldtrip/videos/6276643422001.mp4",
+                "selector": {
+                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                    "type": "FragmentSelector",
+                    "value": "t=180,188&xywh=percent:59.03,0.96,23.39,61.89"
+                }
+            },
+            "body": {
+                "type": "Image",
+                "frametrail:type": "image",
+                "format": "image/gif",
+                "source": "1_1556093905_animation-flag.gif",
+                "frametrail:name": "Animation Flag",
+                "frametrail:thumb": null,
+                "frametrail:licenseType": "CC-BY-SA-3.0",
+                "frametrail:licenseAttribution": "Filippo Letizi, Animator, macaia.com",
+                "frametrail:resourceId": "22",
+                "frametrail:attributes": {
+                    "animation": {
+                        "in": {
+                            "preset": "fadeIn",
+                            "duration": 800
+                        },
+                        "out": {
+                            "preset": "fadeOut",
+                            "duration": 800
+                        }
+                    }
+                }
+            },
+            "frametrail:events": {}
+        },
+        {
+            "@context": [
+                "http://www.w3.org/ns/anno.jsonld",
+                "https://frametrail.org/ns/context.jsonld"
+            ],
+            "creator": {
+                "nickname": "demo",
+                "type": "Person",
+                "id": "1"
+            },
+            "created": "2019-05-22T10:43:31.001Z",
+            "type": "Annotation",
+            "frametrail:type": "Overlay",
+            "frametrail:tags": [],
+            "target": {
+                "type": "Video",
+                "source": "https://interaktiv.tagesspiegel.de/fieldtrip/videos/6276643422001.mp4",
+                "selector": {
+                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                    "type": "FragmentSelector",
+                    "value": "t=180,188&xywh=percent:59.03,0.96,23.39,61.89"
+                }
+            },
+            "body": {
+                "type": "TextualBody",
+                "frametrail:type": "hotspot",
+                "format": "text/html",
+                "value": "",
+                "frametrail:name": "Link: The Veteran Protesters",
+                "frametrail:thumb": null,
+                "frametrail:licenseType": null,
+                "frametrail:licenseAttribution": null,
+                "frametrail:attributes": {
+                    "shape": "rectangle",
+                    "color": "#ffffff",
+                    "borderWidth": 0,
+                    "backgroundColor": "",
+                    "pulse": false,
+                    "text": "",
+                    "action": "jumpToHypervideo",
+                    "actionTarget": "1",
+                    "actionTargetTime": 157
+                }
+            },
+            "frametrail:events": {},
+            "frametrail:pause": false
+        },
+        {
+            "@context": [
+                "http://www.w3.org/ns/anno.jsonld",
+                "https://frametrail.org/ns/context.jsonld"
+            ],
+            "creator": {
+                "nickname": "demo",
+                "type": "Person",
+                "id": "1"
+            },
+            "created": "2019-06-18T08:01:40.000Z",
+            "type": "Annotation",
+            "frametrail:type": "Overlay",
+            "frametrail:tags": [],
+            "target": {
+                "type": "Video",
+                "source": "https://interaktiv.tagesspiegel.de/fieldtrip/videos/6276643422001.mp4",
+                "selector": {
+                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                    "type": "FragmentSelector",
+                    "value": "t=264,272&xywh=percent:23.87,39.31,47.25,58.15"
+                }
+            },
+            "body": {
+                "type": "Image",
+                "frametrail:type": "image",
+                "format": "image/gif",
+                "source": "1_1560762314_animation-trommel.gif",
+                "frametrail:name": "Animation Trommel",
+                "frametrail:thumb": null,
+                "frametrail:licenseType": "CC-BY-SA-3.0",
+                "frametrail:licenseAttribution": "Filippo Letizi, Animator, macaia.com",
+                "frametrail:resourceId": "68",
+                "frametrail:attributes": {
+                    "animation": {
+                        "in": {
+                            "preset": "fadeIn",
+                            "duration": 800
+                        },
+                        "out": {
+                            "preset": "fadeOut",
+                            "duration": 800
+                        }
+                    }
+                }
+            },
+            "frametrail:events": {}
+        },
+        {
+            "@context": [
+                "http://www.w3.org/ns/anno.jsonld",
+                "https://frametrail.org/ns/context.jsonld"
+            ],
+            "creator": {
+                "nickname": "demo",
+                "type": "Person",
+                "id": "1"
+            },
+            "created": "2019-06-18T08:01:40.001Z",
+            "type": "Annotation",
+            "frametrail:type": "Overlay",
+            "frametrail:tags": [],
+            "target": {
+                "type": "Video",
+                "source": "https://interaktiv.tagesspiegel.de/fieldtrip/videos/6276643422001.mp4",
+                "selector": {
+                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                    "type": "FragmentSelector",
+                    "value": "t=264,272&xywh=percent:23.87,39.31,47.25,58.15"
+                }
+            },
+            "body": {
+                "type": "TextualBody",
+                "frametrail:type": "hotspot",
+                "format": "text/html",
+                "value": "",
+                "frametrail:name": "Link: The Courage Runner",
+                "frametrail:thumb": null,
+                "frametrail:licenseType": null,
+                "frametrail:licenseAttribution": null,
+                "frametrail:attributes": {
+                    "shape": "rectangle",
+                    "color": "#ffffff",
+                    "borderWidth": 0,
+                    "backgroundColor": "",
+                    "pulse": false,
+                    "text": "",
+                    "action": "jumpToHypervideo",
+                    "actionTarget": "14",
+                    "actionTargetTime": 0
+                }
+            },
+            "frametrail:events": {},
+            "frametrail:pause": false
+        }
+    ],
+    "chapters": [],
+    "subtitles": [
+        {
+            "src": "en.vtt",
+            "srclang": "en"
+        }
+    ],
+    "globalEvents": {
+        "onReady": "hypervideo.play();",
+        "onPlay": "",
+        "onPause": "",
+        "onEnded": "window.location.hash = 'overview';"
+    },
+    "customCSS": ""
+}

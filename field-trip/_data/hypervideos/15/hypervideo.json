@@ -1,0 +1,257 @@
+{
+    "meta": {
+        "name": "Intro",
+        "description": "An interactive documentary about Tempelhof Field.",
+        "thumb": "1_1556092260_thumb_intro.jpg",
+        "posterFrame": "1_1795006800_intro-video-poster.jpg",
+        "creator": "demo",
+        "creatorId": "1",
+        "created": 1795006800000,
+        "lastchanged": 1795006800000
+    },
+    "config": {
+        "slidingMode": "adjust",
+        "slidingTrigger": "key",
+        "autohideControls": true,
+        "captionsVisible": true,
+        "clipTimeVisible": false,
+        "layoutArea": {
+            "areaTop": [],
+            "areaBottom": [],
+            "areaLeft": [],
+            "areaRight": []
+        }
+    },
+    "clips": [
+        {
+            "resourceId": "1",
+            "src": "https://interaktiv.tagesspiegel.de/fieldtrip/videos/6276642023001.mp4",
+            "duration": 23.851,
+            "in": 0,
+            "out": 0
+        }
+    ],
+    "contents": [
+        {
+            "@context": [
+                "http://www.w3.org/ns/anno.jsonld",
+                "https://frametrail.org/ns/context.jsonld"
+            ],
+            "creator": {
+                "nickname": "demo",
+                "type": "Person",
+                "id": "1"
+            },
+            "created": "2026-11-18T13:00:00.000Z",
+            "type": "Annotation",
+            "frametrail:type": "Overlay",
+            "frametrail:tags": [],
+            "target": {
+                "type": "Video",
+                "source": "https://interaktiv.tagesspiegel.de/fieldtrip/videos/6276642023001.mp4",
+                "selector": {
+                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                    "type": "FragmentSelector",
+                    "value": "t=0,23.85&xywh=percent:72,76,13,6.5"
+                }
+            },
+            "body": {
+                "type": "TextualBody",
+                "frametrail:type": "hotspot",
+                "format": "text/html",
+                "value": "",
+                "frametrail:name": "Skip intro",
+                "frametrail:thumb": null,
+                "frametrail:licenseType": null,
+                "frametrail:licenseAttribution": null,
+                "frametrail:attributes": {
+                    "shape": "rectangle",
+                    "color": "#ffffff",
+                    "borderWidth": 2,
+                    "backgroundColor": "",
+                    "pulse": false,
+                    "text": "Skip intro",
+                    "textColor": "#ffffff",
+                    "action": "openUrl",
+                    "actionTarget": "#overview"
+                }
+            },
+            "frametrail:events": {},
+            "frametrail:pause": false
+        },
+        {
+            "@context": [
+                "http://www.w3.org/ns/anno.jsonld",
+                "https://frametrail.org/ns/context.jsonld"
+            ],
+            "creator": {
+                "nickname": "demo",
+                "type": "Person",
+                "id": "1"
+            },
+            "created": "2026-11-18T13:00:00.010Z",
+            "type": "Annotation",
+            "frametrail:type": "Overlay",
+            "frametrail:tags": [],
+            "target": {
+                "type": "Video",
+                "source": "https://interaktiv.tagesspiegel.de/fieldtrip/videos/6276642023001.mp4",
+                "selector": {
+                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                    "type": "FragmentSelector",
+                    "value": "t=0.2,4.96&xywh=percent:15,40.87,70,18.22"
+                }
+            },
+            "body": {
+                "type": "TextualBody",
+                "frametrail:type": "text",
+                "format": "text/html",
+                "value": "",
+                "frametrail:name": "For three years, a film crew has been vi…",
+                "frametrail:thumb": null,
+                "frametrail:licenseType": null,
+                "frametrail:licenseAttribution": null,
+                "frametrail:attributes": {
+                    "text": "&lt;p style=\"text-align: center;\"&gt;For three years,&lt;br&gt;a film crew has been visiting Tempelhof Field.&lt;/p&gt;",
+                    "box": {
+                        "shape": "rectangle",
+                        "background": "rgba(0,0,0,0.45)",
+                        "textColor": "#ffffff",
+                        "padding": 19
+                    },
+                    "autoSize": "height",
+                    "animation": {
+                        "in": {
+                            "preset": "fadeIn",
+                            "duration": 800
+                        },
+                        "out": {
+                            "preset": "fadeOut",
+                            "duration": 800
+                        }
+                    }
+                }
+            },
+            "frametrail:events": {}
+        },
+        {
+            "@context": [
+                "http://www.w3.org/ns/anno.jsonld",
+                "https://frametrail.org/ns/context.jsonld"
+            ],
+            "creator": {
+                "nickname": "demo",
+                "type": "Person",
+                "id": "1"
+            },
+            "created": "2026-11-18T13:00:00.020Z",
+            "type": "Annotation",
+            "frametrail:type": "Overlay",
+            "frametrail:tags": [],
+            "target": {
+                "type": "Video",
+                "source": "https://interaktiv.tagesspiegel.de/fieldtrip/videos/6276642023001.mp4",
+                "selector": {
+                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                    "type": "FragmentSelector",
+                    "value": "t=7.16,12.84&xywh=percent:15,38.42,70,23.11"
+                }
+            },
+            "body": {
+                "type": "TextualBody",
+                "frametrail:type": "text",
+                "format": "text/html",
+                "value": "",
+                "frametrail:name": "Field Trip is looking for the stories of…",
+                "frametrail:thumb": null,
+                "frametrail:licenseType": null,
+                "frametrail:licenseAttribution": null,
+                "frametrail:attributes": {
+                    "text": "&lt;p style=\"text-align: center;\"&gt;Field Trip is looking&lt;br&gt;for the stories of the people&lt;br&gt;who make this place what it is.&lt;/p&gt;",
+                    "box": {
+                        "shape": "rectangle",
+                        "background": "rgba(0,0,0,0.45)",
+                        "textColor": "#ffffff",
+                        "padding": 19
+                    },
+                    "autoSize": "height",
+                    "animation": {
+                        "in": {
+                            "preset": "fadeIn",
+                            "duration": 800
+                        },
+                        "out": {
+                            "preset": "fadeOut",
+                            "duration": 800
+                        }
+                    }
+                }
+            },
+            "frametrail:events": {}
+        },
+        {
+            "@context": [
+                "http://www.w3.org/ns/anno.jsonld",
+                "https://frametrail.org/ns/context.jsonld"
+            ],
+            "creator": {
+                "nickname": "demo",
+                "type": "Person",
+                "id": "1"
+            },
+            "created": "2026-11-18T13:00:00.030Z",
+            "type": "Annotation",
+            "frametrail:type": "Overlay",
+            "frametrail:tags": [],
+            "target": {
+                "type": "Video",
+                "source": "https://interaktiv.tagesspiegel.de/fieldtrip/videos/6276642023001.mp4",
+                "selector": {
+                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                    "type": "FragmentSelector",
+                    "value": "t=15.84,22.8&xywh=percent:15,40.87,70,18.22"
+                }
+            },
+            "body": {
+                "type": "TextualBody",
+                "frametrail:type": "text",
+                "format": "text/html",
+                "value": "",
+                "frametrail:name": "Get to know the people. Or tell us your…",
+                "frametrail:thumb": null,
+                "frametrail:licenseType": null,
+                "frametrail:licenseAttribution": null,
+                "frametrail:attributes": {
+                    "text": "&lt;p style=\"text-align: center;\"&gt;Get to know the people.&lt;br&gt;Or tell us your own story.&lt;/p&gt;",
+                    "box": {
+                        "shape": "rectangle",
+                        "background": "rgba(0,0,0,0.45)",
+                        "textColor": "#ffffff",
+                        "padding": 19
+                    },
+                    "autoSize": "height",
+                    "animation": {
+                        "in": {
+                            "preset": "fadeIn",
+                            "duration": 800
+                        },
+                        "out": {
+                            "preset": "fadeOut",
+                            "duration": 800
+                        }
+                    }
+                }
+            },
+            "frametrail:events": {}
+        }
+    ],
+    "chapters": [],
+    "subtitles": [],
+    "globalEvents": {
+        "onReady": "hypervideo.play();",
+        "onPlay": "",
+        "onPause": "",
+        "onEnded": "window.location.hash = 'overview';"
+    },
+    "customCSS": ""
+}

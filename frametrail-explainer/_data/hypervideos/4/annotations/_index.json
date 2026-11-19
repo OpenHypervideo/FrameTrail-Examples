@@ -1,0 +1,23 @@
+{
+    "mainAnnotation": "guest_anna-c9cce27b",
+    "annotationfiles": {
+        "guest_anna-c9cce27b": {
+            "name": "Anna",
+            "description": "Anna's annotations",
+            "created": 1795081200,
+            "lastchanged": 1795081200000,
+            "hidden": false,
+            "owner": "Anna",
+            "ownerId": "guest_anna-c9cce27b"
+        },
+        "guest_ben-5aae56aa": {
+            "name": "Ben",
+            "description": "Ben's annotations",
+            "created": 1795081200,
+            "lastchanged": 1795081200000,
+            "hidden": false,
+            "owner": "Ben",
+            "ownerId": "guest_ben-5aae56aa"
+        }
+    }
+}

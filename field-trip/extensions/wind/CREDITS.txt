@@ -1,0 +1,11 @@
+Wind transition of Field Trip (2019), https://github.com/OpenHypervideo/FieldTrip
+
+wind-in.json, wind-loading.json, wind-out.json
+    The animation data of the original's _custom/js/transitions.js, unchanged.
+
+wind-in.mp3, wind-loading.mp3, wind-out.mp3
+    Frieder Nagel, Audio Postproduktion, friedernagel.com, resonant-workshop.com
+    CC BY-SA 3.0, https://creativecommons.org/licenses/by-sa/3.0/
+    The original's _data/resources/1_1556097474_sound-wind-in.mp3, 1_1556097493_sound-wind-loading.mp3 and 1_1556097509_sound-wind-out.mp3, unchanged.
+
+The animations are played with lottie-web 5.12.2 (MIT licence), which wind.js loads from jsDelivr.

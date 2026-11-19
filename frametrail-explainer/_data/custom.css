@@ -1,0 +1,315 @@
+/* FrameTrail Explainer: the look of frametrail.org on FrameTrail's player. The films are data; this file sets the ground they play on, the type, and what takes clicks. It targets FrameTrail's internal class names, so check it after every version upgrade. */
+
+/* ---------- Type ---------- */
+
+/* Data labels are set in "Courier New", a face of FrameTrail's text editor, so an edited label keeps its face. Here that name is Inconsolata (OFL, see fonts/), which draws the same on every system. */
+@font-face { font-family: "Courier New"; font-style: normal; font-weight: 400; font-display: swap; src: url("fonts/inconsolata-v21-latin-ext_latin-regular.woff2") format("woff2"); }
+@font-face { font-family: "Courier New"; font-style: normal; font-weight: 700; font-display: swap; src: url("fonts/inconsolata-v21-latin-ext_latin-700.woff2") format("woff2"); }
+
+.frametrail-body {
+    --xp-ink: #2F323A;
+    /* What can be clicked is filled in the identity's dark blue, with paper-coloured lettering. */
+    --xp-action: #2F323A;
+    --xp-action-hover: #3C3F47;
+    --xp-on-action: #ECE9E6;
+    --xp-grey: #9FA3AB;
+    --xp-sand: #D7CFC3;
+    --xp-paper: #ECE9E6;
+}
+
+.overlayContainer .overlayElement .resourceDetail[data-type="text"] .resourceContent {
+    color: var(--xp-ink);
+}
+
+.overlayContainer .overlayElement .resourceDetail[data-type="text"] .textOverlayBody {
+    font-family: TitilliumWeb, "Helvetica Neue", Arial, sans-serif;
+    font-weight: 400;
+    line-height: 1.25;
+}
+
+.overlayContainer .overlayElement .resourceDetail[data-type="text"] .textOverlayBody p {
+    margin: 0;
+}
+
+/* Headlines: Titillium Light, set tight. The sizes are the ones the films use for headlines. */
+.overlayContainer .overlayElement .textOverlayBody :is([style*="font-size: 60px"], [style*="font-size: 46px"], [style*="font-size: 34px"], [style*="font-size: 26px"]) {
+    font-weight: 300;
+    letter-spacing: -0.02em;
+    line-height: 1.08;
+}
+
+/* Eyebrows: small bold capitals, set wide. */
+.overlayContainer .overlayElement .textOverlayBody strong[style*="font-size: 12px"] {
+    letter-spacing: 0.12em;
+}
+
+.overlayContainer .overlayElement .textOverlayBody [style*="Courier New"] {
+    letter-spacing: 0;
+    line-height: 1.3;
+}
+
+/* A paragraph takes its line height from its text: without this, small monospace lines stand as far apart as body text. */
+.overlayContainer .overlayElement .resourceDetail[data-type="text"] .textOverlayBody p:has(> [style*="Courier New"]) {
+    line-height: 1;
+}
+
+/* ---------- The ground ---------- */
+
+/* A film without video has no picture: the stage is paper with the graph-paper grid of frametrail.org, sized in percent so it scales with the player. */
+.hypervideoContainer .videoContainer {
+    background: var(--xp-ink);
+}
+
+/* The ground is painted on the overlay container, the box the overlays are placed in, so an overlay that fills the stage covers it to the last pixel. */
+.hypervideoContainer .videoContainer .hypervideo {
+    background: var(--xp-ink);
+}
+
+.hypervideoContainer .videoContainer .hypervideo .overlayContainer {
+    background-color: var(--xp-paper);
+    background-image:
+        linear-gradient(to right, rgba(47, 50, 58, .055) 1px, transparent 1px),
+        linear-gradient(to bottom, rgba(47, 50, 58, .055) 1px, transparent 1px);
+    background-size: 2.5% 4.4444%;
+}
+
+.hypervideoContainer .videoContainer .hypervideo video.video {
+    background: transparent;
+}
+
+/* ---------- What takes clicks ---------- */
+
+/* Every active overlay takes clicks over its whole box. Only hotspots with an action, quizzes and maps are meant to: the rest lets clicks through to what lies beneath and to the stage. Not while editing, where every overlay must be picked. */
+.mainContainer:not(.editActive) .overlayContainer .overlayElement.active:has(.resourceDetail:is([data-type="text"], [data-type="html"], [data-type="image"], [data-type="audio"], [data-type="counter"], [data-type="chart"], [data-type="cursor"])),
+.mainContainer:not(.editActive) .overlayContainer .overlayElement.active:has(.resourceDetail[data-type="hotspot"]):not(:has(.hasAction)) {
+    pointer-events: none;
+}
+
+/* ---------- Hotspots ---------- */
+
+.overlayContainer .overlayElement .hotspot-element {
+    box-shadow: none;
+}
+
+/* A hotspot's label is 14 px at any player size. Here it follows the height of its box, so buttons scale with the stage. */
+.overlayContainer .overlayElement .hotspot-container {
+    container-type: size;
+}
+
+.overlayContainer .overlayElement .hotspot-label {
+    font-family: TitilliumWeb, "Helvetica Neue", Arial, sans-serif;
+    font-size: min(40cqh, 16cqw) !important;
+    font-weight: 600;
+    white-space: nowrap;
+}
+
+.overlayContainer .overlayElement .hotspot-element.hasAction {
+    box-shadow: 0 6px 16px rgba(47, 50, 58, .22);
+}
+
+/* ---------- Counters ---------- */
+
+.overlayContainer .overlayElement .resourceDetail[data-type="counter"] .counterValue {
+    font-family: TitilliumWeb, "Helvetica Neue", Arial, sans-serif;
+}
+
+/* Readouts of an element's own data (the counters the films write with weight 500) are set like the data labels. */
+.overlayContainer .overlayElement .resourceDetail[data-type="counter"] .counterValue[style*="font-weight: 500"] {
+    font-family: "Courier New", monospace;
+    font-weight: 400 !important;
+    white-space: pre;
+}
+
+/* ---------- Quiz ---------- */
+
+/* A white card with answers in the dark blue, as everything that can be clicked. Sizes follow the card's width. */
+.overlayContainer .overlayElement .resourceDetail[data-type="quiz"] {
+    container-type: inline-size;
+    overflow: visible;
+}
+
+.overlayContainer .overlayElement .resourceDetail[data-type="quiz"] .resourceContent {
+    padding: 5cqw 5cqw 4cqw;
+    border-radius: 2.6cqw;
+    background: #ffffff;
+    box-shadow: 0 2.5cqw 7cqw rgba(47, 50, 58, .22);
+    color: var(--xp-ink);
+    font-family: TitilliumWeb, "Helvetica Neue", Arial, sans-serif;
+    font-size: 4.4cqw;
+    height: 100%;
+    box-sizing: border-box;
+}
+
+/* The card keeps the size of its box. The answers share the height that is left, and give some of it up when the feedback and the button to go on appear below them. */
+.overlayContainer .overlayElement .resourceDetail[data-type="quiz"] .resourceQuizAnswersContainer {
+    flex: 1 1 0;
+    min-height: 0;
+}
+
+.overlayContainer .overlayElement .resourceDetail[data-type="quiz"] :is(.resourceQuizQuestion, .quizStatus, .quizResult, .quizResultBlock) {
+    flex: 0 0 auto;
+}
+
+.overlayContainer .overlayElement .resourceDetail[data-type="quiz"] .resourceQuizQuestion {
+    margin-bottom: 1.5cqw;
+    font-size: 7cqw;
+    font-weight: 300;
+    letter-spacing: -0.02em;
+    line-height: 1.1;
+}
+
+.overlayContainer .overlayElement .resourceDetail[data-type="quiz"] .resourceQuizAnswersContainer button {
+    position: relative;
+    flex: 1 1 0;
+    min-height: 0;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    margin-top: 2.2cqw;
+    padding: 0 4cqw;
+    border: 2px solid var(--xp-action);
+    border-radius: 2cqw;
+    background-color: var(--xp-action);
+    color: var(--xp-on-action);
+    font-family: inherit;
+    font-size: 4.6cqw;
+    font-weight: 600;
+    text-align: left;
+    cursor: pointer;
+    transition: background-color 150ms, translate 150ms;
+}
+
+.overlayContainer .overlayElement .resourceDetail[data-type="quiz"] .resourceQuizAnswersContainer button:hover:not(:disabled) {
+    border-color: var(--xp-action-hover);
+    background-color: var(--xp-action-hover);
+    translate: 0.8cqw 0;
+}
+
+/* The answer that was chosen keeps a ring; the right one a tick, a wrong one is struck through. */
+.overlayContainer .overlayElement .resourceDetail[data-type="quiz"] .resourceQuizAnswersContainer .quizAnswer.decided {
+    border-color: var(--xp-action);
+    box-shadow: 0 0 0 3px #ffffff, 0 0 0 5px var(--xp-action);
+}
+
+.overlayContainer .overlayElement .resourceDetail[data-type="quiz"] .resourceQuizAnswersContainer button.correct,
+.overlayContainer .overlayElement .resourceDetail[data-type="quiz"] .resourceQuizAnswersContainer button.correct:hover {
+    border-color: var(--xp-action);
+    background-color: var(--xp-action);
+    color: var(--xp-on-action);
+    padding-right: 11cqw;
+    opacity: 1;
+}
+
+.overlayContainer .overlayElement .resourceDetail[data-type="quiz"] .resourceQuizAnswersContainer button.correct::after {
+    content: "\2713";
+    position: absolute;
+    right: 4cqw;
+    top: 50%;
+    translate: 0 -50%;
+    font-weight: 700;
+}
+
+.overlayContainer .overlayElement .resourceDetail[data-type="quiz"] .resourceQuizAnswersContainer button.wrong {
+    border-color: var(--xp-grey);
+    background-color: var(--xp-paper);
+    color: var(--xp-ink);
+    text-decoration: line-through;
+}
+
+.overlayContainer .overlayElement .resourceDetail[data-type="quiz"] .quizResultBlock .quizFeedback {
+    font-size: 4.2cqw;
+    line-height: 1.25;
+}
+
+.overlayContainer .overlayElement .resourceDetail[data-type="quiz"] .quizResultBlock .quizResultButton {
+    border: 2px solid var(--xp-action);
+    border-radius: 2cqw;
+    padding: 1.2cqw 4cqw;
+    background-color: var(--xp-action);
+    color: var(--xp-on-action);
+    font-family: inherit;
+    font-size: 4.2cqw;
+    font-weight: 600;
+}
+
+/* The buttons below a quiz card (play from here) belong to the editor's view of it. */
+.mainContainer:not(.editActive) .overlayContainer .overlayElement .resourceDetail[data-type="quiz"] .resourceButtons {
+    display: none;
+}
+
+/* ---------- Player chrome ---------- */
+
+/* The start button: in the dark blue, as everything that can be clicked, and sized with the window. It sits at the centre of the stage; the cover frame of film 1 is composed around it. */
+.hypervideoContainer .videoContainer .videoStartOverlay .playButtonBig {
+    --play-button-size: clamp(44px, 7vw, 104px);
+    background-color: var(--xp-on-action);
+    box-shadow: 0 10px 26px rgba(47, 50, 58, .3);
+}
+
+/* The icon is a disc with the triangle cut out of it: the disc takes the dark blue, and the button's own colour shows through as the triangle. */
+.hypervideoContainer .videoContainer .videoStartOverlay .playButtonBig [class^="icon-"]::before {
+    color: var(--xp-action);
+    font-size: calc(var(--play-button-size) * 1.075);
+    opacity: 1;
+}
+
+.mainContainer:not(.editActive) .playerContainer .controls :is(.sharingWidget, .annotationSearchButton) {
+    display: none !important;
+}
+
+/* ---------- The ending's miniature of the six films ---------- */
+
+.xp-mini {
+    display: block;
+    width: 100%;
+    height: 100%;
+    overflow: visible;
+}
+
+.xp-mini-row {
+    transform-box: fill-box;
+    transform-origin: left center;
+    animation: ftxpGrow 700ms cubic-bezier(.2, .7, .2, 1) calc(var(--i) * 110ms + 150ms) both;
+}
+
+.xp-mini-track { fill: rgba(47, 50, 58, .07); }
+/* Dark bars are the items that take clicks. */
+.xp-mini-bar   { fill: var(--xp-grey); }
+.xp-mini-click { fill: var(--xp-action); }
+
+.xp-mini-label {
+    fill: var(--xp-ink);
+    font-family: TitilliumWeb, "Helvetica Neue", Arial, sans-serif;
+    font-size: 13px;
+    font-weight: 600;
+}
+
+@keyframes ftxpGrow {
+    from { transform: scaleX(0); opacity: 0; }
+    to   { transform: scaleX(1); opacity: 1; }
+}
+
+/* ---------- The ending's cue for the Edit button ---------- */
+
+/* While the ending says "Press Edit", the real button in the title bar lights up: light on the dark bar. */
+.frametrail-body:has(.overlayContainer .overlayElement.active .xp-edit-cue) .titlebar .startEditButton {
+    border-radius: 4px;
+    background-color: var(--xp-paper);
+    color: var(--xp-ink);
+    animation: xpEditCue 1.4s ease-in-out infinite;
+}
+
+@keyframes xpEditCue {
+    0%, 100% { box-shadow: 0 0 0 0 rgba(236, 233, 230, .6); }
+    50%      { box-shadow: 0 0 0 9px rgba(236, 233, 230, 0); }
+}
+
+/* FrameTrail hides the Edit button in players up to 768 px wide; there the ending says so instead. */
+.xp-edit-narrow {
+    display: none;
+}
+
+@media (max-width: 768px) {
+    .xp-edit-cue    { display: none; }
+    .xp-edit-narrow { display: inline; }
+}

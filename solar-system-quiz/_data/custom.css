@@ -1,4 +1,246 @@
+/* The row of background tiles below the video */
 .areaBottomContainer.hiddenTabs[data-size="large"], .areaTopContainer.hiddenTabs[data-size="large"] {
     flex-basis: clamp(164px,calc(var(--ft-height, 100vh)*.6 - 76px),260px);
     min-height: clamp(164px,calc(var(--ft-height, 100vh)*.6 - 76px),260px);
+}
+
+/* Colours taken from the video: ink on a white board, and the purple of the simpleshow logo */
+.frametrail-body {
+    --quiz-ink: #1d1d1f;
+    --quiz-paper: #ffffff;
+    --quiz-accent: #8a1078;
+    --quiz-right: #4f8f1c;
+    --quiz-retry: #c96f00;
+}
+
+/* A question over the video: a paper card. Its text scales with the card, so it also fits a small player. */
+.overlayElement .resourceDetail[data-type="quiz"] .resourceContent {
+    height: 100%;
+    padding: .7em .9em .9em;
+    overflow-y: auto;
+    font-size: clamp(11px, 3.6cqw, 24px);
+    line-height: 1.3;
+    color: var(--quiz-ink);
+    background: var(--quiz-paper);
+    border: 2px solid var(--quiz-ink);
+    border-radius: .6em;
+    box-shadow: .25em .25em 0 rgba(29, 29, 31, .15);
+}
+
+.overlayElement .resourceDetail[data-type="quiz"] .resourceQuizQuestion {
+    padding-bottom: .2em;
+    font-weight: 700;
+}
+
+.overlayElement .resourceDetail[data-type="quiz"] .resourceQuizAnswersContainer button {
+    margin-top: .45em;
+    padding: .3em .7em;
+    font-size: 1em;
+    line-height: 1.25;
+    text-align: left;
+    color: var(--quiz-ink);
+    background-color: #f5f2f6;
+    border: 2px solid transparent;
+    border-radius: .4em;
+}
+
+.overlayElement .resourceDetail[data-type="quiz"] .resourceQuizAnswersContainer button:hover:not(:disabled),
+.overlayElement .resourceDetail[data-type="quiz"] .resourceQuizAnswersContainer button.selected {
+    border-color: var(--quiz-accent);
+}
+
+.overlayElement .resourceDetail[data-type="quiz"] .resourceQuizAnswersContainer button.correct,
+.overlayElement .resourceDetail[data-type="quiz"] .resourceQuizAnswersContainer button.wrong {
+    font-weight: 700;
+    color: var(--quiz-ink);
+    opacity: 1;
+}
+
+.overlayElement .resourceDetail[data-type="quiz"] .resourceQuizAnswersContainer button.correct {
+    background-color: #e0f0d0;
+    border-color: var(--quiz-right);
+}
+
+.overlayElement .resourceDetail[data-type="quiz"] .resourceQuizAnswersContainer button.wrong {
+    background-color: #f8dedb;
+    border-color: #b3261e;
+}
+
+.overlayElement .resourceDetail[data-type="quiz"] .resourceQuizAnswersContainer button.correct::after {
+    content: " \2713";
+}
+
+.overlayElement .resourceDetail[data-type="quiz"] .resourceQuizAnswersContainer button.wrong::after {
+    content: " \2717";
+}
+
+/* A wrong choice does not give the right one away: the passage plays again and the question comes back. */
+.overlayElement .resourceDetail[data-question-type="multipleChoice"]:has(.quizAnswer.wrong) .resourceQuizAnswersContainer .quizAnswer.correct {
+    font-weight: 400;
+    background-color: #f5f2f6;
+    border-color: transparent;
+    opacity: .75;
+}
+
+.overlayElement .resourceDetail[data-question-type="multipleChoice"]:has(.quizAnswer.wrong) .resourceQuizAnswersContainer .quizAnswer.correct::after {
+    content: none;
+}
+
+/* Once the answers are in, the result takes the place of the submit button */
+.overlayElement .resourceDetail[data-type="quiz"].quizDecided .resourceQuizAnswersContainer .quizSubmitButton {
+    display: none;
+}
+
+.overlayElement .resourceDetail[data-type="quiz"] .resourceQuizAnswersContainer .quizSubmitButton,
+.overlayElement .resourceDetail[data-type="quiz"] .quizResultBlock .quizResultButton {
+    flex: 0 0 auto;
+    padding: .3em 1.2em;
+    font-size: 1em;
+    text-align: center;
+    color: #fff;
+    background-color: var(--quiz-accent);
+    border: 2px solid var(--quiz-accent);
+    border-radius: .4em;
+}
+
+.overlayElement .resourceDetail[data-type="quiz"] .quizResultBlock {
+    margin-top: .5em;
+    gap: .4em;
+}
+
+.overlayElement .resourceDetail[data-type="quiz"] .quizResultBlock .quizFeedback {
+    font-size: .85em;
+}
+
+/* The learning path beside the video: one row per chapter, a dot per question */
+.customhtmlContainer .learningPath {
+    padding: 8px 10px 16px;
+    font-size: 15px;
+    line-height: 1.4;
+}
+
+.customhtmlContainer .learningPath p {
+    margin: 0;
+}
+
+.customhtmlContainer .learningPath .lpIntro {
+    padding: 0 8px 12px;
+}
+
+.layoutArea .contentViewContainer .contentViewContents .customhtmlContainer .lpRow.timebased {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    padding: 9px 8px;
+    border-bottom: 1px solid rgba(29, 29, 31, .1);
+    border-left: 4px solid transparent;
+    opacity: 1;
+    cursor: pointer;
+}
+
+.layoutArea .contentViewContainer .contentViewContents .customhtmlContainer .lpRow.timebased:hover {
+    background: rgba(138, 16, 120, .05);
+}
+
+.layoutArea .contentViewContainer .contentViewContents .customhtmlContainer .lpRow.timebased.active {
+    font-weight: 700;
+    background: rgba(138, 16, 120, .09);
+    border-left-color: var(--quiz-accent);
+}
+
+/* FrameTrail seeks when the row itself is clicked */
+.customhtmlContainer .learningPath .lpRow > * {
+    pointer-events: none;
+}
+
+.customhtmlContainer .learningPath .lpTime {
+    flex: 0 0 2.4em;
+    font-variant-numeric: tabular-nums;
+    font-weight: 400;
+    opacity: .65;
+}
+
+.customhtmlContainer .learningPath .lpTitle {
+    flex: 1;
+}
+
+.customhtmlContainer .learningPath .lpDots {
+    display: flex;
+    gap: 5px;
+}
+
+.customhtmlContainer .learningPath .lpDot {
+    display: inline-block;
+    box-sizing: border-box;
+    width: 20px;
+    height: 20px;
+    font-size: 13px;
+    font-weight: 700;
+    line-height: 16px;
+    text-align: center;
+    vertical-align: -4px;
+    background: var(--quiz-paper);
+    border: 2px solid #a9a9b2;
+    border-radius: 50%;
+}
+
+.customhtmlContainer .learningPath .lpDot.right {
+    color: #fff;
+    background: var(--quiz-right);
+    border-color: var(--quiz-right);
+}
+
+.customhtmlContainer .learningPath .lpDot.retried,
+.customhtmlContainer .learningPath .lpDot.wrong {
+    color: var(--quiz-retry);
+    border-color: var(--quiz-retry);
+}
+
+.customhtmlContainer .learningPath .lpDot.right::before,
+.customhtmlContainer .learningPath .lpDot.retried::before {
+    content: "\2713";
+}
+
+.customhtmlContainer .learningPath .lpDot.wrong::before {
+    content: "\2717";
+}
+
+.customhtmlContainer .learningPath .lpScore {
+    padding: 16px 8px 6px;
+    font-size: 17px;
+}
+
+.customhtmlContainer .learningPath .lpScoreValue {
+    font-weight: 700;
+    color: var(--quiz-accent);
+}
+
+.customhtmlContainer .learningPath .lpLegend {
+    padding: 0 8px;
+    font-size: 13px;
+    opacity: .8;
+}
+
+.customhtmlContainer .learningPath .lpLegend .lpDot {
+    margin: 0 3px 0 10px;
+}
+
+.customhtmlContainer .learningPath .lpLegend .lpDot:first-child {
+    margin-left: 0;
+}
+
+.customhtmlContainer .learningPath .lpCredit {
+    padding: 18px 8px 0;
+    font-size: 12px;
+    opacity: .75;
+}
+
+.customhtmlContainer .learningPath .lpCredit a {
+    color: inherit;
+    text-decoration: underline;
+}
+
+/* A text tile among the background tiles: keep its text clear of the tile's play button */
+.contentViewContainer .collectionElement .resourceDetail[data-type="text"] .textOverlayBody {
+    padding-right: 40px;
 }

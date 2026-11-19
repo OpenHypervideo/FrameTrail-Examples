@@ -9,7 +9,11 @@
             "type": "Person",
             "id": "1"
         },
-        "created": "2026-03-14T09:10:00.000Z",
+        "created": "2026-11-18T16:29:11.731Z",
+        "generator": {
+            "type": "Software",
+            "name": "FrameTrail-Skills"
+        },
         "type": "Annotation",
         "frametrail:type": "Annotation",
         "frametrail:tags": [],
@@ -20,24 +24,24 @@
             "selector": {
                 "conformsTo": "http://www.w3.org/TR/media-frags/",
                 "type": "FragmentSelector",
-                "value": "t=2,20"
+                "value": "t=3.2,16"
             }
         },
         "body": {
             "type": "Text",
             "frametrail:type": "wikipedia",
             "format": "text/html",
-            "value": "https://en.wikipedia.org/wiki/Solar_System",
-            "frametrail:name": "Solar System",
-            "frametrail:thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Solar_System_true_color_%28title_and_caption%29.jpg/330px-Solar_System_true_color_%28title_and_caption%29.jpg",
+            "value": "https://en.wikipedia.org/wiki/Sun",
+            "frametrail:name": "Sun",
+            "frametrail:thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/The_Sun_in_white_light.jpg/330px-The_Sun_in_white_light.jpg",
             "frametrail:licenseType": null,
             "frametrail:licenseAttribution": null,
-            "frametrail:resourceId": "2",
+            "frametrail:resourceId": "10",
             "frametrail:attributes": {
-                "extract": "The Solar System is the gravitationally bound system of the Sun and the masses that orbit it, most prominently its eight planets, of which Earth is one. The system formed about 4.6 billion years ago when a dense region of a molecular cloud collapsed, creating the Sun and a protoplanetary disc from which the orbiting bodies assembled.",
-                "extract_html": "<p>The <b>Solar System</b> is the gravitationally bound system of the Sun and the masses that orbit it, most prominently its eight planets, of which Earth is one. The system formed about 4.6 billion years ago when a dense region of a molecular cloud collapsed, creating the Sun and a protoplanetary disc from which the orbiting bodies assembled.</p>",
-                "description": "Planetary system consisting of the Sun and objects orbiting it",
-                "articleUrl": "https://en.wikipedia.org/wiki/Solar_System",
+                "extract": "The Sun is the star located at the centre of the Solar System. It is a massive sphere of hot plasma, heated to incandescence by nuclear fusion reactions in its core, radiating the energy from its surface mainly as visible light and infrared radiation, with 10% at ultraviolet energies. It is the main source of energy for life on Earth. The Sun has been an object of veneration in many cultures and a central subject of astronomical research since antiquity.",
+                "extract_html": "<p>The <b>Sun</b> is the star located at the centre of the Solar System. It is a massive sphere of hot plasma, heated to incandescence by nuclear fusion reactions in its core, radiating the energy from its surface mainly as visible light and infrared radiation, with 10% at ultraviolet energies. It is the main source of energy for life on Earth. The Sun has been an object of veneration in many cultures and a central subject of astronomical research since antiquity.</p>",
+                "description": "Star at the centre of the Solar System",
+                "articleUrl": "https://en.wikipedia.org/wiki/Sun",
                 "wikiLang": "en",
                 "dir": "ltr"
             }
@@ -53,7 +57,11 @@
             "type": "Person",
             "id": "1"
         },
-        "created": "2026-03-14T09:11:00.000Z",
+        "created": "2026-11-18T16:29:11.732Z",
+        "generator": {
+            "type": "Software",
+            "name": "FrameTrail-Skills"
+        },
         "type": "Annotation",
         "frametrail:type": "Annotation",
         "frametrail:tags": [],
@@ -64,24 +72,24 @@
             "selector": {
                 "conformsTo": "http://www.w3.org/TR/media-frags/",
                 "type": "FragmentSelector",
-                "value": "t=20,35"
+                "value": "t=20.4,40"
             }
         },
         "body": {
             "type": "Text",
             "frametrail:type": "wikipedia",
             "format": "text/html",
-            "value": "https://en.wikipedia.org/wiki/Mercury_(planet)",
-            "frametrail:name": "Mercury (planet)",
-            "frametrail:thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Mercury_in_true_color.jpg/330px-Mercury_in_true_color.jpg",
+            "value": "https://en.wikipedia.org/wiki/Formation_and_evolution_of_the_Solar_System",
+            "frametrail:name": "Formation and evolution of the Solar System",
+            "frametrail:thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/The_Mysterious_Case_of_the_Disappearing_Dust.jpg/330px-The_Mysterious_Case_of_the_Disappearing_Dust.jpg",
             "frametrail:licenseType": null,
             "frametrail:licenseAttribution": null,
-            "frametrail:resourceId": "3",
+            "frametrail:resourceId": "11",
             "frametrail:attributes": {
-                "extract": "Mercury is the first planet from the Sun and the smallest in the Solar System. It is a rocky planet with a trace atmosphere and a surface gravity slightly higher than that of Mars. The surface of Mercury is similar to Earth's Moon, being cratered, with an expansive rupes system generated from thrust faults, and bright ray systems, formed by ejecta. Its largest crater, Caloris Planitia, has a diameter of 1,550 km (960 mi), which is about one-third the diameter of the planet. Being the most inferior orbiting planet, it always appears close to the Sun in Earth's sky, either as a \"morning star\" or an \"evening star\". It is the planet with the highest delta-v required for travel from Earth, as well as to and from the other planets in the Solar System.",
-                "extract_html": "<p><b>Mercury</b> is the first planet from the Sun and the smallest in the Solar System. It is a rocky planet with a trace atmosphere and a surface gravity slightly higher than that of Mars.</p>",
-                "description": "First planet from the Sun",
-                "articleUrl": "https://en.wikipedia.org/wiki/Mercury_(planet)",
+                "extract": "The formation of the Solar System began about 4.6 billion years ago with the gravitational collapse of a small part of a giant molecular cloud. Most of the collapsing mass collected in the center, forming the Sun, while the rest flattened into a protoplanetary disk out of which the planets, moons, asteroids, and other small Solar System bodies formed.",
+                "extract_html": "<p>The formation of the Solar System began about 4.6 billion years ago with the gravitational collapse of a small part of a giant molecular cloud. Most of the collapsing mass collected in the center, forming the Sun, while the rest flattened into a protoplanetary disk out of which the planets, moons, asteroids, and other small Solar System bodies formed.</p>",
+                "description": "",
+                "articleUrl": "https://en.wikipedia.org/wiki/Formation_and_evolution_of_the_Solar_System",
                 "wikiLang": "en",
                 "dir": "ltr"
             }
@@ -97,7 +105,11 @@
             "type": "Person",
             "id": "1"
         },
-        "created": "2026-03-14T09:12:00.000Z",
+        "created": "2026-11-18T16:29:11.733Z",
+        "generator": {
+            "type": "Software",
+            "name": "FrameTrail-Skills"
+        },
         "type": "Annotation",
         "frametrail:type": "Annotation",
         "frametrail:tags": [],
@@ -108,24 +120,24 @@
             "selector": {
                 "conformsTo": "http://www.w3.org/TR/media-frags/",
                 "type": "FragmentSelector",
-                "value": "t=35,50"
+                "value": "t=28.6,50"
             }
         },
         "body": {
             "type": "Text",
             "frametrail:type": "wikipedia",
             "format": "text/html",
-            "value": "https://en.wikipedia.org/wiki/Venus",
-            "frametrail:name": "Venus",
-            "frametrail:thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Venus_2_Approach_Image.jpg/330px-Venus_2_Approach_Image.jpg",
+            "value": "https://en.wikipedia.org/wiki/Gravity",
+            "frametrail:name": "Gravity",
+            "frametrail:thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/UGC_1810_and_UGC_1813_in_Arp_273_%28captured_by_the_Hubble_Space_Telescope%29.jpg/330px-UGC_1810_and_UGC_1813_in_Arp_273_%28captured_by_the_Hubble_Space_Telescope%29.jpg",
             "frametrail:licenseType": null,
             "frametrail:licenseAttribution": null,
-            "frametrail:resourceId": "4",
+            "frametrail:resourceId": "12",
             "frametrail:attributes": {
-                "extract": "Venus is the second planet from the Sun. It is often called Earth's \"twin\" or \"sister\" among the planets of the Solar System for its orbit being the closest to Earth's, both being terrestrial planets, and having the most similar and nearly equal size, mass, and surface gravity.",
-                "extract_html": "<p><b>Venus</b> is the second planet from the Sun. It is often called Earth's \"twin\" or \"sister\" among the planets of the Solar System for its orbit being the closest to Earth's, both being terrestrial planets, and having the most similar and nearly equal size, mass, and surface gravity.</p>",
-                "description": "Second planet from the Sun",
-                "articleUrl": "https://en.wikipedia.org/wiki/Venus",
+                "extract": "In physics, gravity, also known as gravitation or a gravitational interaction, is a fundamental interaction, which may be described as the force that draws material objects towards each other.",
+                "extract_html": "<p>In physics, <b>gravity</b>, also known as <b>gravitation</b> or a <b>gravitational interaction</b>, is a fundamental interaction, which may be described as the force that draws material objects towards each other.</p>",
+                "description": "Attraction of masses and energy",
+                "articleUrl": "https://en.wikipedia.org/wiki/Gravity",
                 "wikiLang": "en",
                 "dir": "ltr"
             }
@@ -141,7 +153,11 @@
             "type": "Person",
             "id": "1"
         },
-        "created": "2026-03-14T09:13:00.000Z",
+        "created": "2026-11-18T16:29:11.734Z",
+        "generator": {
+            "type": "Software",
+            "name": "FrameTrail-Skills"
+        },
         "type": "Annotation",
         "frametrail:type": "Annotation",
         "frametrail:tags": [],
@@ -152,24 +168,66 @@
             "selector": {
                 "conformsTo": "http://www.w3.org/TR/media-frags/",
                 "type": "FragmentSelector",
-                "value": "t=50,65"
+                "value": "t=44.2,50"
+            }
+        },
+        "body": {
+            "type": "TextualBody",
+            "frametrail:type": "text",
+            "format": "text/html",
+            "value": "",
+            "frametrail:name": "Fact check: 98 %?",
+            "frametrail:thumb": null,
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "text": "&lt;p&gt;&lt;strong style=\"color: #8a1078;\"&gt;Fact check.&lt;/strong&gt; The video says the Sun makes up 98 % of all matter in the Solar System. Measured by mass it is even more: about 99.86 %.&lt;/p&gt;"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-18T16:29:11.735Z",
+        "generator": {
+            "type": "Software",
+            "name": "FrameTrail-Skills"
+        },
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Solar_System_explained_by_simpleshow_foundation.webm",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=65.2,75.5"
             }
         },
         "body": {
             "type": "Text",
             "frametrail:type": "wikipedia",
             "format": "text/html",
-            "value": "https://en.wikipedia.org/wiki/Earth",
-            "frametrail:name": "Earth",
-            "frametrail:thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Meteosat-12-fci-march-equinox-2025-noon.jpg/330px-Meteosat-12-fci-march-equinox-2025-noon.jpg",
+            "value": "https://en.wikipedia.org/wiki/Orbit",
+            "frametrail:name": "Orbit",
+            "frametrail:thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Animation_of_Orbital_eccentricity.gif/330px-Animation_of_Orbital_eccentricity.gif",
             "frametrail:licenseType": null,
             "frametrail:licenseAttribution": null,
-            "frametrail:resourceId": "5",
+            "frametrail:resourceId": "13",
             "frametrail:attributes": {
-                "extract": "Earth is the third planet from the Sun and the only astronomical object known to harbor life. This is made possible by Earth being an ocean world, the only one in the Solar System sustaining liquid surface water. Almost all of Earth's water is contained in its global ocean, covering 70.8% of Earth's crust.",
-                "extract_html": "<p><b>Earth</b> is the third planet from the Sun and the only astronomical object known to harbor life. This is made possible by Earth being an ocean world, the only one in the Solar System sustaining liquid surface water.</p>",
-                "description": "Third planet from the Sun",
-                "articleUrl": "https://en.wikipedia.org/wiki/Earth",
+                "extract": "In celestial mechanics, an orbit is the curved trajectory of an object under the influence of an attracting force. Alternatively, it is known as an orbital revolution, because it is a rotation around an axis external to the moving body. Examples for orbits include the trajectory of a planet around a star, a natural satellite around a planet, or an artificial satellite around an object or position in space such as a planet, moon, asteroid, or Lagrange point. Normally, orbit refers to a regularly repeating trajectory, although it may also refer to a non-repeating trajectory. To a close approximation, planets, and satellites follow elliptic orbits, with the center of mass being orbited at a focal point of the ellipse, as described by Kepler's laws of planetary motion.",
+                "extract_html": "<p>In celestial mechanics, an <b>orbit</b> is the curved trajectory of an object under the influence of an attracting force. Alternatively, it is known as an <b>orbital revolution</b>, because it is a rotation around an axis external to the moving body. Examples for orbits include the trajectory of a planet around a star, a natural satellite around a planet, or an artificial satellite around an object or position in space such as a planet, moon, asteroid, or Lagrange point. Normally, orbit refers to a regularly repeating trajectory, although it may also refer to a non-repeating trajectory. To a close approximation, planets, and satellites follow elliptic orbits, with the center of mass being orbited at a focal point of the ellipse, as described by Kepler's laws of planetary motion.</p>",
+                "description": "Curved path of an object around a point",
+                "articleUrl": "https://en.wikipedia.org/wiki/Orbit",
                 "wikiLang": "en",
                 "dir": "ltr"
             }
@@ -185,7 +243,11 @@
             "type": "Person",
             "id": "1"
         },
-        "created": "2026-03-14T09:14:00.000Z",
+        "created": "2026-11-18T16:29:11.736Z",
+        "generator": {
+            "type": "Software",
+            "name": "FrameTrail-Skills"
+        },
         "type": "Annotation",
         "frametrail:type": "Annotation",
         "frametrail:tags": [],
@@ -196,24 +258,24 @@
             "selector": {
                 "conformsTo": "http://www.w3.org/TR/media-frags/",
                 "type": "FragmentSelector",
-                "value": "t=65,85"
+                "value": "t=78,88"
             }
         },
         "body": {
             "type": "Text",
             "frametrail:type": "wikipedia",
             "format": "text/html",
-            "value": "https://en.wikipedia.org/wiki/Mars",
-            "frametrail:name": "Mars",
-            "frametrail:thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Mars_-_August_30_2021_-_Flickr_-_Kevin_M._Gill.png/330px-Mars_-_August_30_2021_-_Flickr_-_Kevin_M._Gill.png",
+            "value": "https://en.wikipedia.org/wiki/Terrestrial_planet",
+            "frametrail:name": "Terrestrial planet",
+            "frametrail:thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Terrestrial_planet_sizes_3.jpg/330px-Terrestrial_planet_sizes_3.jpg",
             "frametrail:licenseType": null,
             "frametrail:licenseAttribution": null,
-            "frametrail:resourceId": "6",
+            "frametrail:resourceId": "14",
             "frametrail:attributes": {
-                "extract": "Mars is the fourth planet from the Sun. It is also known as the \"Red Planet\", for its orange-red appearance. Mars is a desert-like rocky planet with a tenuous atmosphere that is primarily carbon dioxide.",
-                "extract_html": "<p><b>Mars</b> is the fourth planet from the Sun. It is also known as the \"<b>Red Planet</b>\", for its orange-red appearance.</p>",
-                "description": "Fourth planet from the Sun",
-                "articleUrl": "https://en.wikipedia.org/wiki/Mars",
+                "extract": "A terrestrial planet is a class of planet that is composed primarily of silicate, rocks, or metals. It may instead be referred to as a tellurian planet, telluric planet, or rocky planet. Within the Solar System, the terrestrial planets accepted by the International Astronomical Union are the inner planets closest to the Sun: Mercury, Venus, Earth and Mars. Among astronomers who use the geophysical definition of a planet, two or three planetary-mass satellites – Earth's Moon, Io, and sometimes Europa – may also count as terrestrial planets. The large rocky asteroids Pallas and Vesta are sometimes included as well, albeit rarely. The terms \"terrestrial planet\" and \"telluric planet\" are derived from Latin words for Earth, as these planets are, in terms of structure, Earth-like. Terrestrial planets are generally studied by geologists, astronomers, and geophysicists.",
+                "extract_html": "<p>A <b>terrestrial planet</b> is a class of planet that is composed primarily of silicate, rocks, or metals. It may instead be referred to as a <b>tellurian planet</b>, <b>telluric planet</b>, or <b>rocky planet</b>. Within the Solar System, the terrestrial planets accepted by the International Astronomical Union are the inner planets closest to the Sun: Mercury, Venus, Earth and Mars. Among astronomers who use the geophysical definition of a planet, two or three planetary-mass satellites – Earth's Moon, Io, and sometimes Europa – may also count as terrestrial planets. The large rocky asteroids Pallas and Vesta are sometimes included as well, albeit rarely. The terms \"terrestrial planet\" and \"telluric planet\" are derived from Latin words for Earth, as these planets are, in terms of structure, <i>Earth-like</i>. Terrestrial planets are generally studied by geologists, astronomers, and geophysicists.</p>",
+                "description": "Planet that is composed primarily of silicate rocks or metals",
+                "articleUrl": "https://en.wikipedia.org/wiki/Terrestrial_planet",
                 "wikiLang": "en",
                 "dir": "ltr"
             }
@@ -229,7 +291,11 @@
             "type": "Person",
             "id": "1"
         },
-        "created": "2026-03-14T09:15:00.000Z",
+        "created": "2026-11-18T16:29:11.737Z",
+        "generator": {
+            "type": "Software",
+            "name": "FrameTrail-Skills"
+        },
         "type": "Annotation",
         "frametrail:type": "Annotation",
         "frametrail:tags": [],
@@ -240,24 +306,24 @@
             "selector": {
                 "conformsTo": "http://www.w3.org/TR/media-frags/",
                 "type": "FragmentSelector",
-                "value": "t=85,110"
+                "value": "t=82.8,96"
             }
         },
         "body": {
             "type": "Text",
             "frametrail:type": "wikipedia",
             "format": "text/html",
-            "value": "https://en.wikipedia.org/wiki/Jupiter",
-            "frametrail:name": "Jupiter",
-            "frametrail:thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Jupiter_OPAL_2024.png/330px-Jupiter_OPAL_2024.png",
+            "value": "https://en.wikipedia.org/wiki/Giant_planet",
+            "frametrail:name": "Giant planet",
+            "frametrail:thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Jupiter_OPAL_2024_%28cropped%29.png/330px-Jupiter_OPAL_2024_%28cropped%29.png",
             "frametrail:licenseType": null,
             "frametrail:licenseAttribution": null,
-            "frametrail:resourceId": "7",
+            "frametrail:resourceId": "15",
             "frametrail:attributes": {
-                "extract": "Jupiter is the fifth planet from the Sun, and the largest in the Solar System. It is a gas giant with a mass nearly 2.5 times that of all the other planets in the Solar System combined and slightly less than one-thousandth the mass of the Sun.",
-                "extract_html": "<p><b>Jupiter</b> is the fifth planet from the Sun, and the largest in the Solar System. It is a gas giant with a mass nearly 2.5 times that of all the other planets in the Solar System combined.</p>",
-                "description": "Fifth planet from the Sun",
-                "articleUrl": "https://en.wikipedia.org/wiki/Jupiter",
+                "extract": "A giant planet is a diverse type of planet much larger than Earth. It is sometimes referred to as a Jovian planet, with Jove being another name for the Roman god Jupiter. Giant planets are usually primarily composed of low-boiling point materials (volatiles), rather than rock or other solid matter, but mega-Earths do also exist. There are four such giant planets in the Solar System: Jupiter, Saturn, Uranus, and Neptune. Many extrasolar giant planets have been identified.",
+                "extract_html": "<p>A <b>giant planet</b> is a diverse type of planet much larger than Earth. It is sometimes referred to as a <b>Jovian planet</b>, with <i>Jove</i> being another name for the Roman god Jupiter. Giant planets are usually primarily composed of low-boiling point materials (volatiles), rather than rock or other solid matter, but mega-Earths do also exist. There are four such giant planets in the Solar System: Jupiter, Saturn, Uranus, and Neptune. Many extrasolar giant planets have been identified.</p>",
+                "description": "Planet much larger than the Earth",
+                "articleUrl": "https://en.wikipedia.org/wiki/Giant_planet",
                 "wikiLang": "en",
                 "dir": "ltr"
             }
@@ -273,7 +339,11 @@
             "type": "Person",
             "id": "1"
         },
-        "created": "2026-03-14T09:16:00.000Z",
+        "created": "2026-11-18T16:29:11.738Z",
+        "generator": {
+            "type": "Software",
+            "name": "FrameTrail-Skills"
+        },
         "type": "Annotation",
         "frametrail:type": "Annotation",
         "frametrail:tags": [],
@@ -284,24 +354,24 @@
             "selector": {
                 "conformsTo": "http://www.w3.org/TR/media-frags/",
                 "type": "FragmentSelector",
-                "value": "t=110,135"
+                "value": "t=88.3,96"
             }
         },
         "body": {
             "type": "Text",
             "frametrail:type": "wikipedia",
             "format": "text/html",
-            "value": "https://en.wikipedia.org/wiki/Saturn",
-            "frametrail:name": "Saturn",
-            "frametrail:thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Saturn_during_Equinox.jpg/330px-Saturn_during_Equinox.jpg",
+            "value": "https://en.wikipedia.org/wiki/Asteroid_belt",
+            "frametrail:name": "Asteroid belt",
+            "frametrail:thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Asteroid_belt_positions-en.png/330px-Asteroid_belt_positions-en.png",
             "frametrail:licenseType": null,
             "frametrail:licenseAttribution": null,
-            "frametrail:resourceId": "8",
+            "frametrail:resourceId": "16",
             "frametrail:attributes": {
-                "extract": "Saturn is the sixth planet from the Sun and the second largest in the Solar System, after Jupiter. It is a gas giant, with an average radius of about 9 times that of Earth. It has an eighth of the average density of Earth, but is over 95 times more massive.",
-                "extract_html": "<p><b>Saturn</b> is the sixth planet from the Sun and the second largest in the Solar System, after Jupiter. It is a gas giant, with an average radius of about 9 times that of Earth.</p>",
-                "description": "Sixth planet from the Sun",
-                "articleUrl": "https://en.wikipedia.org/wiki/Saturn",
+                "extract": "The asteroid belt is a torus-shaped region in the Solar System, centered on the Sun and roughly spanning the space between the orbits of the planets Jupiter and Mars. It contains a great many solid, irregularly shaped bodies called asteroids or minor planets. The identified objects are of many sizes, but much smaller than planets, and, on average, are about one million kilometers apart. This asteroid belt is also called the main asteroid belt or main belt to distinguish it from other asteroid populations in the Solar System.",
+                "extract_html": "<p>The <b>asteroid belt</b> is a torus-shaped region in the Solar System, centered on the Sun and roughly spanning the space between the orbits of the planets Jupiter and Mars. It contains a great many solid, irregularly shaped bodies called asteroids or minor planets. The identified objects are of many sizes, but much smaller than planets, and, on average, are about one million kilometers apart. This asteroid belt is also called the <b>main asteroid belt</b> or <b>main belt</b> to distinguish it from other asteroid populations in the Solar System.</p>",
+                "description": "Region between the orbits of Mars and Jupiter",
+                "articleUrl": "https://en.wikipedia.org/wiki/Asteroid_belt",
                 "wikiLang": "en",
                 "dir": "ltr"
             }
@@ -317,7 +387,11 @@
             "type": "Person",
             "id": "1"
         },
-        "created": "2026-03-14T09:17:00.000Z",
+        "created": "2026-11-18T16:29:11.739Z",
+        "generator": {
+            "type": "Software",
+            "name": "FrameTrail-Skills"
+        },
         "type": "Annotation",
         "frametrail:type": "Annotation",
         "frametrail:tags": [],
@@ -328,7 +402,241 @@
             "selector": {
                 "conformsTo": "http://www.w3.org/TR/media-frags/",
                 "type": "FragmentSelector",
-                "value": "t=55,75"
+                "value": "t=92.5,96.5"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/Pluto",
+            "frametrail:name": "Pluto",
+            "frametrail:thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Pluto_in_True_Color_-_High-Res.png/330px-Pluto_in_True_Color_-_High-Res.png",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:resourceId": "17",
+            "frametrail:attributes": {
+                "extract": "Pluto is a dwarf planet in the Kuiper belt, a ring of bodies beyond the orbit of Neptune. It is the ninth-largest and tenth-most-massive known object to directly orbit the Sun. It is the largest known trans-Neptunian object by volume by a small margin, but is less massive than Eris, which is denser, making it the second most massive trans-Neptunian object. Like other Kuiper belt objects, Pluto is made primarily of ice and rock and is much smaller than the inner planets. Pluto has roughly one-sixth the mass of the Moon and one-third of its volume. Originally considered a planet, its status was changed when astronomers adopted a new definition of the word with new criteria.",
+                "extract_html": "<p><b>Pluto</b> is a dwarf planet in the Kuiper belt, a ring of bodies beyond the orbit of Neptune. It is the ninth-largest and tenth-most-massive known object to directly orbit the Sun. It is the largest known trans-Neptunian object by volume by a small margin, but is less massive than Eris, which is denser, making it the second most massive trans-Neptunian object. Like other Kuiper belt objects, Pluto is made primarily of ice and rock and is much smaller than the inner planets. Pluto has roughly one-sixth the mass of the Moon and one-third of its volume. Originally considered a planet, its status was changed when astronomers adopted a new definition of the word with new criteria.</p>",
+                "description": "Largest dwarf planet in the Solar System",
+                "articleUrl": "https://en.wikipedia.org/wiki/Pluto",
+                "wikiLang": "en",
+                "dir": "ltr"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-18T16:29:11.740Z",
+        "generator": {
+            "type": "Software",
+            "name": "FrameTrail-Skills"
+        },
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Solar_System_explained_by_simpleshow_foundation.webm",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=103,110"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/Nuclear_fusion",
+            "frametrail:name": "Nuclear fusion",
+            "frametrail:thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/EAST_Tokamak_plasma_image3.jpg/330px-EAST_Tokamak_plasma_image3.jpg",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:resourceId": "18",
+            "frametrail:attributes": {
+                "extract": "Nuclear fusion is a reaction in which two or more atomic nuclei combine to form a larger nucleus. The difference in mass between the reactants and products is manifested as either the release or the absorption of energy. This difference in mass arises as a result of the difference in nuclear binding energy between the atomic nuclei before and after the fusion reaction. Active stellar cores are powered by fusion. Nucleosynthesis via fusion, in the Big Bang and in stars, creates all elements lighter than nickel.",
+                "extract_html": "<p><b>Nuclear fusion</b> is a reaction in which two or more atomic nuclei combine to form a larger nucleus. The difference in mass between the reactants and products is manifested as either the release or the absorption of energy. This difference in mass arises as a result of the difference in nuclear binding energy between the atomic nuclei before and after the fusion reaction. Active stellar cores are powered by fusion. Nucleosynthesis via fusion, in the Big Bang and in stars, creates all elements lighter than nickel.</p>",
+                "description": "Reaction that combines atomic nuclei",
+                "articleUrl": "https://en.wikipedia.org/wiki/Nuclear_fusion",
+                "wikiLang": "en",
+                "dir": "ltr"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-18T16:29:11.741Z",
+        "generator": {
+            "type": "Software",
+            "name": "FrameTrail-Skills"
+        },
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Solar_System_explained_by_simpleshow_foundation.webm",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=103.6,110"
+            }
+        },
+        "body": {
+            "type": "TextualBody",
+            "frametrail:type": "text",
+            "format": "text/html",
+            "value": "",
+            "frametrail:name": "Fact check: fusion, not fission",
+            "frametrail:thumb": null,
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "text": "&lt;p&gt;&lt;strong style=\"color: #8a1078;\"&gt;Fact check.&lt;/strong&gt; The video says “nuclear fission” and draws a nuclear power plant. The Sun runs on nuclear &lt;strong&gt;fusion&lt;/strong&gt;: in its core, hydrogen nuclei merge into helium.&lt;/p&gt;"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-18T16:29:11.742Z",
+        "generator": {
+            "type": "Software",
+            "name": "FrameTrail-Skills"
+        },
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Solar_System_explained_by_simpleshow_foundation.webm",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=107.8,121.5"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/Solar_wind",
+            "frametrail:name": "Solar wind",
+            "frametrail:thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Solar_wind_flow.gif/330px-Solar_wind_flow.gif",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:resourceId": "19",
+            "frametrail:attributes": {
+                "extract": "The solar wind is a stream of charged particles released from the Sun's outermost atmospheric layer, the corona. This plasma mostly consists of electrons, protons and alpha particles with kinetic energy between 0.5 and 10 keV. The composition of the solar wind plasma also includes a mixture of particle species found in the solar plasma: trace amounts of heavy ions and atomic nuclei of elements such as carbon, nitrogen, oxygen, neon, magnesium, silicon, sulfur, and iron. There are also rarer traces of some other nuclei and isotopes such as phosphorus, titanium, chromium, and nickel's isotopes 58Ni, 60Ni, and 62Ni. Superimposed with the solar-wind plasma is the interplanetary magnetic field. The solar wind varies in density, temperature and speed over time and over solar latitude and longitude. Its particles can escape the Sun's gravity because of their high energy resulting from the high temperature of the corona, which in turn is a result of the coronal magnetic field. The boundary separating the corona from the solar wind is called the Alfvén surface.",
+                "extract_html": "<p>The <b>solar wind</b> is a stream of charged particles released from the Sun's outermost atmospheric layer, the corona. This plasma mostly consists of electrons, protons and alpha particles with kinetic energy between <span class=\"nowrap\">0.5 and 10 keV</span>. The composition of the solar wind plasma also includes a mixture of particle species found in the solar plasma: trace amounts of heavy ions and atomic nuclei of elements such as carbon, nitrogen, oxygen, neon, magnesium, silicon, sulfur, and iron. There are also rarer traces of some other nuclei and isotopes such as phosphorus, titanium, chromium, and nickel's isotopes <sup>58</sup>Ni, <sup>60</sup>Ni, and <sup>62</sup>Ni. Superimposed with the solar-wind plasma is the interplanetary magnetic field. The solar wind varies in density, temperature and speed over time and over solar latitude and longitude. Its particles can escape the Sun's gravity because of their high energy resulting from the high temperature of the corona, which in turn is a result of the coronal magnetic field. The boundary separating the corona from the solar wind is called the Alfvén surface.</p>",
+                "description": "Stream of charged particles from the Sun",
+                "articleUrl": "https://en.wikipedia.org/wiki/Solar_wind",
+                "wikiLang": "en",
+                "dir": "ltr"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-18T16:29:11.743Z",
+        "generator": {
+            "type": "Software",
+            "name": "FrameTrail-Skills"
+        },
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Solar_System_explained_by_simpleshow_foundation.webm",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=112.4,121.5"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/Aurora",
+            "frametrail:name": "Aurora",
+            "frametrail:thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Aurora_borealis_over_Eielson_Air_Force_Base%2C_Alaska.jpg/330px-Aurora_borealis_over_Eielson_Air_Force_Base%2C_Alaska.jpg",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:resourceId": "20",
+            "frametrail:attributes": {
+                "extract": "An aurora is a natural light display in Earth's upper atmosphere caused by charged particles from the Sun colliding with atoms in the atmosphere. These collisions excite oxygen and nitrogen, which then emit light of different colours such as green, red, and purple. When observed in high-latitude regions they are called polar lights and aurora polaris. In the Arctic they are called the northern lights or aurora borealis; in the Antarctic, the term southern lights or aurora australis is used. Auroras display dynamic patterns of radiant light that appear as curtains, rays, spirals or dynamic flickers covering the entire sky.",
+                "extract_html": "<p>An <b>aurora</b> is a natural light display in Earth's upper atmosphere caused by charged particles from the Sun colliding with atoms in the atmosphere. These collisions excite oxygen and nitrogen, which then emit light of different colours such as green, red, and purple. When observed in high-latitude regions they are called <b>polar lights</b> and <b>aurora polaris</b>. In the Arctic they are called the <b>northern lights</b> or <b>aurora borealis</b>; in the Antarctic, the term <b>southern lights</b> or <b>aurora australis</b> is used. Auroras display dynamic patterns of radiant light that appear as curtains, rays, spirals or dynamic flickers covering the entire sky.</p>",
+                "description": "Atmospheric effect caused by the solar wind",
+                "articleUrl": "https://en.wikipedia.org/wiki/Aurora",
+                "wikiLang": "en",
+                "dir": "ltr"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-18T16:29:11.744Z",
+        "generator": {
+            "type": "Software",
+            "name": "FrameTrail-Skills"
+        },
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Solar_System_explained_by_simpleshow_foundation.webm",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=121.8,137"
             }
         },
         "body": {
@@ -342,10 +650,154 @@
             "frametrail:licenseAttribution": null,
             "frametrail:resourceId": "9",
             "frametrail:attributes": {
-                "extract": "The astronomical unit is a unit of length defined to be exactly equal to 149,597,870,700 m. Historically, the astronomical unit was conceived as the average Earth-Sun distance, before its modern redefinition in 2012.",
-                "extract_html": "<p>The <b>astronomical unit</b> is a unit of length defined to be exactly equal to 149,597,870,700 m. Historically, the astronomical unit was conceived as the average Earth-Sun distance, before its modern redefinition in 2012.</p>",
+                "extract": "The astronomical unit is a unit of length defined as 149597870700 m. Historically, the astronomical unit was conceived as the average Earth-Sun distance, before its modern redefinition in 2012.",
+                "extract_html": "<p>The <b>astronomical unit</b> is a unit of length defined as <span class=\"nowrap\">149<span>597</span><span>870</span><span>700</span> m</span>. Historically, the astronomical unit was conceived as the average Earth-Sun distance, before its modern redefinition in 2012.</p>",
                 "description": "Mean distance between Earth and the Sun",
                 "articleUrl": "https://en.wikipedia.org/wiki/Astronomical_unit",
+                "wikiLang": "en",
+                "dir": "ltr"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-18T16:29:11.745Z",
+        "generator": {
+            "type": "Software",
+            "name": "FrameTrail-Skills"
+        },
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Solar_System_explained_by_simpleshow_foundation.webm",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=136.6,145"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/Heliosphere",
+            "frametrail:name": "Heliosphere",
+            "frametrail:thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/PIA22835-VoyagerProgram%26Heliosphere-Chart-20181210.png/330px-PIA22835-VoyagerProgram%26Heliosphere-Chart-20181210.png",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:resourceId": "21",
+            "frametrail:attributes": {
+                "extract": "The heliosphere is the astrosphere of the Sun, formed by the outward flow of the solar wind originating from the Sun’s outermost atmospheric layer, the corona. It takes the shape of a vast, tailed bubble-like region of space. In plasma physics terms, it is the cavity formed by the Sun in the surrounding interstellar medium. The \"bubble\" of the heliosphere is continuously \"inflated\" by plasma originating from the Sun, known as the solar wind. Outside the heliosphere, this solar plasma gives way to the interstellar plasma permeating the Milky Way. As part of the interplanetary magnetic field, the heliosphere shields the Solar System from significant amounts of cosmic ionizing radiation; uncharged gamma rays are, however, not affected. Its name was likely coined by Alexander J. Dessler, who is credited with the first use of the word in the scientific literature in 1967. The scientific study of the heliosphere is heliophysics, which includes space weather and space climate.",
+                "extract_html": "<p>The heliosphere is the astrosphere of the Sun, formed by the outward flow of the solar wind originating from the Sun’s outermost atmospheric layer, the corona. It takes the shape of a vast, tailed bubble-like region of space. In plasma physics terms, it is the cavity formed by the Sun in the surrounding interstellar medium. The \"bubble\" of the heliosphere is continuously \"inflated\" by plasma originating from the Sun, known as the solar wind. Outside the heliosphere, this solar plasma gives way to the interstellar plasma permeating the Milky Way. As part of the interplanetary magnetic field, the heliosphere shields the Solar System from significant amounts of cosmic ionizing radiation; uncharged gamma rays are, however, not affected. Its name was likely coined by Alexander J. Dessler, who is credited with the first use of the word in the scientific literature in 1967. The scientific study of the heliosphere is heliophysics, which includes space weather and space climate.</p>",
+                "description": "Region of space dominated by the Sun",
+                "articleUrl": "https://en.wikipedia.org/wiki/Heliosphere",
+                "wikiLang": "en",
+                "dir": "ltr"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-18T16:29:11.746Z",
+        "generator": {
+            "type": "Software",
+            "name": "FrameTrail-Skills"
+        },
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Solar_System_explained_by_simpleshow_foundation.webm",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=149.1,159"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/Oort_cloud",
+            "frametrail:name": "Oort cloud",
+            "frametrail:thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/PIA17046_-_Voyager_1_Goes_Interstellar.jpg/330px-PIA17046_-_Voyager_1_Goes_Interstellar.jpg",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:resourceId": "22",
+            "frametrail:attributes": {
+                "extract": "The Oort cloud, sometimes called the Öpik–Oort cloud, is theorized to be a cloud of billions of icy planetesimals surrounding the Sun at distances ranging from 2,000 to 200,000 AU. Its existence was proposed in 1950 by the Dutch astronomer Jan Oort, in whose honor the idea was later named. Oort proposed that the bodies in this cloud replenish and keep constant the number of long-period comets entering the inner Solar System—where they are eventually consumed and destroyed during close approaches to the Sun.",
+                "extract_html": "<p>The <b>Oort cloud</b>, sometimes called the <b>Öpik–Oort cloud</b>, is theorized to be a cloud of billions of icy planetesimals surrounding the Sun at distances ranging from 2,000 to 200,000 AU. Its existence was proposed in 1950 by the Dutch astronomer Jan Oort, in whose honor the idea was later named. Oort proposed that the bodies in this cloud replenish and keep constant the number of long-period comets entering the inner Solar System—where they are eventually consumed and destroyed during close approaches to the Sun.</p>",
+                "description": "Distant planetesimals in the Solar System",
+                "articleUrl": "https://en.wikipedia.org/wiki/Oort_cloud",
+                "wikiLang": "en",
+                "dir": "ltr"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-18T16:29:11.747Z",
+        "generator": {
+            "type": "Software",
+            "name": "FrameTrail-Skills"
+        },
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Solar_System_explained_by_simpleshow_foundation.webm",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=159.2,179"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/Solar_System",
+            "frametrail:name": "Solar System",
+            "frametrail:thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Solar_System_true_color_%28title_and_caption%29.jpg/330px-Solar_System_true_color_%28title_and_caption%29.jpg",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:resourceId": "2",
+            "frametrail:attributes": {
+                "extract": "The Solar System is the gravitationally bound system of the Sun and the masses that orbit it, most prominently its eight planets, of which Earth is one. The Solar System is an isolated single-star planetary system within the Milky Way Galaxy. The system formed about 4.6 billion years ago when a dense region of a molecular cloud collapsed, creating the Sun and a protoplanetary disc from which the orbiting bodies assembled.",
+                "extract_html": "<p>The <b>Solar System</b> is the gravitationally bound system of the Sun and the masses that orbit it, most prominently its eight planets, of which Earth is one. The Solar System is an isolated single-star planetary system within the Milky Way Galaxy. The system formed about 4.6 billion years ago when a dense region of a molecular cloud collapsed, creating the Sun and a protoplanetary disc from which the orbiting bodies assembled.</p>",
+                "description": "Planetary system consisting of the Sun and objects orbiting it",
+                "articleUrl": "https://en.wikipedia.org/wiki/Solar_System",
                 "wikiLang": "en",
                 "dir": "ltr"
             }

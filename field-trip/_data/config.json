@@ -1,0 +1,23 @@
+{
+    "updateServiceURL": "https://update.frametrail.org",
+    "autoUpdate": false,
+    "allowCaching": false,
+    "captureUserTraces": false,
+    "userTracesStartAction": "",
+    "userTracesEndAction": "",
+    "userNeedsConfirmation": true,
+    "alwaysForceLogin": false,
+    "allowUploads": true,
+    "theme": "dark",
+    "videoFit": "cover",
+    "defaultLanguage": "en",
+    "overviewTitle": "Field Trip",
+    "overviewMode": "map",
+    "extensions": [
+        {
+            "name": "wind",
+            "script": "extensions/wind/wind.js",
+            "style": "extensions/wind/wind.css"
+        }
+    ]
+}

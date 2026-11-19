@@ -1,0 +1,289 @@
+/* What is FrameTrail?: the front page of frametrail.org on FrameTrail's player, in the bright theme. The film is data; this file gives it the page's ground, type, tiles and buttons (after css/style.css of the website). It targets FrameTrail's internal class names, so check it after every version upgrade. */
+
+/* ---------- Type ---------- */
+
+/* The folder listing is set in "Courier New", a face of FrameTrail's text editor, so an edited line keeps its face. Here that name is Inconsolata (OFL, see fonts/), which draws the same on every system. */
+@font-face { font-family: "Courier New"; font-style: normal; font-weight: 400; font-display: swap; src: url("fonts/inconsolata-v21-latin-ext_latin-regular.woff2") format("woff2"); }
+@font-face { font-family: "Courier New"; font-style: normal; font-weight: 700; font-display: swap; src: url("fonts/inconsolata-v21-latin-ext_latin-700.woff2") format("woff2"); }
+
+.frametrail-body {
+    --xp-ink: #2F323A;
+    --xp-paper: #ECE9E6;
+    --xp-sand: #D7CFC3;
+    --xp-tile: #D4D7D9;
+    --xp-grey: #9FA3AB;
+    --xp-on-dark: #CCCCD5;
+    /* The page's dark button (.btn-primary): what can be clicked. */
+    --xp-button: #3C3F47;
+    --xp-button-border: #42454D;
+    --xp-button-text: #CCCCD5;
+}
+
+.overlayContainer .overlayElement .resourceDetail[data-type="text"] .resourceContent {
+    color: var(--xp-ink);
+}
+
+/* Body text as on the page: Titillium Web, 1.43 line height. */
+.overlayContainer .overlayElement .resourceDetail[data-type="text"] .textOverlayBody {
+    font-family: TitilliumWeb, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 400;
+    line-height: 1.42857143;
+}
+
+.overlayContainer .overlayElement .resourceDetail[data-type="text"] .textOverlayBody p {
+    margin: 0;
+}
+
+/* Headings as on the page: the Light cut, set tight. These are the sizes the film uses for headings. */
+.overlayContainer .overlayElement .textOverlayBody :is([style*="font-size: 60px"], [style*="font-size: 46px"], [style*="font-size: 34px"], [style*="font-size: 26px"]) {
+    font-weight: 300;
+    line-height: 1.1;
+}
+
+.overlayContainer .overlayElement .resourceDetail[data-type="text"] .textOverlayBody p:has(> :is([style*="font-size: 60px"], [style*="font-size: 46px"], [style*="font-size: 34px"], [style*="font-size: 26px"])) {
+    line-height: 1.1;
+}
+
+/* The hero's paragraphs and the column headings (h4 on the page): Light as well, with room between the lines. */
+.overlayContainer .overlayElement .textOverlayBody [style*="font-size: 22px"] {
+    font-weight: 300;
+}
+
+.overlayContainer .overlayElement .resourceDetail[data-type="text"] .textOverlayBody p:has(> [style*="font-size: 22px"]) {
+    line-height: 1.22;
+}
+
+/* Lists as on the page. */
+.overlayContainer .overlayElement .resourceDetail[data-type="text"] .textOverlayBody ol {
+    padding-left: 16px;
+}
+
+.overlayContainer .overlayElement .resourceDetail[data-type="text"] .textOverlayBody li {
+    margin-bottom: 7px;
+    line-height: 1.25;
+}
+
+.overlayContainer .overlayElement .textOverlayBody [style*="Courier New"] {
+    letter-spacing: 0;
+}
+
+/* A text revealed word by word is cut into boxes, and a line may then break between a word and the comma or full stop after it. Kept inline, the words wrap as plain text does; they fade in without rising. */
+.overlayContainer .overlayElement .resourceDetail[data-type="text"] .textOverlayBody .ftRevealUnit {
+    display: inline;
+}
+
+/* A paragraph's line height counts from its own font size: a line of small monospace text gets that size, so the lines of the folder listing stand close. */
+.overlayContainer .overlayElement .resourceDetail[data-type="text"] .textOverlayBody p:has(> [style*="Courier New"]) {
+    font-size: 12px;
+    line-height: 1.3;
+}
+
+/* ---------- The ground ---------- */
+
+/* A film without video has no picture. The stage is the page: paper running into white. It is painted on the overlay container, the box the overlays are placed in, so an overlay that fills the stage covers it to the last pixel. */
+.hypervideoContainer .videoContainer,
+.hypervideoContainer .videoContainer .hypervideo {
+    background: var(--xp-paper);
+}
+
+.hypervideoContainer .videoContainer .hypervideo .overlayContainer {
+    background: linear-gradient(90deg, #ece9e6 10%, #ffffff 90%);
+}
+
+.hypervideoContainer .videoContainer .hypervideo video.video {
+    background: transparent;
+}
+
+/* The hero band of the page: sand with a fine light grid and a hairline around it. An html overlay holds it. */
+.xp-hero {
+    width: 100%;
+    height: 100%;
+    box-sizing: border-box;
+    background-color: var(--xp-sand);
+    background-image:
+        linear-gradient(to right, rgba(223, 223, 223, .55) 1px, transparent 1px),
+        linear-gradient(to bottom, rgba(223, 223, 223, .55) 1px, transparent 1px);
+    background-size: 5px 5px;
+    box-shadow: 0 0 1px 1px #94979f inset;
+}
+
+/* ---------- Icons ---------- */
+
+/* FrameTrail's own icon font comes with the player. An html overlay holds one icon, as large as its box. */
+.overlayContainer .overlayElement .resourceDetail[data-type="html"],
+.overlayContainer .overlayElement .resourceDetail[data-type="html"] .resourceContent {
+    width: 100%;
+    height: 100%;
+    padding: 0;
+    overflow: visible;
+    background: transparent;
+}
+
+.xp-icon {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 100%;
+    container-type: size;
+    color: var(--xp-ink);
+}
+
+.xp-icon::before {
+    width: auto !important;
+    margin: 0 !important;
+    font-size: 92cqh;
+    line-height: 1 !important;
+}
+
+.xp-icon-light { color: #ffffff; }
+.xp-icon-dark  { color: var(--xp-on-dark); }
+
+/* ---------- What takes clicks ---------- */
+
+/* Every active overlay takes clicks over its whole box. Only hotspots with an action are meant to: the rest lets clicks through to what lies beneath and to the stage. Not while editing, where every overlay must be picked. */
+.mainContainer:not(.editActive) .overlayContainer .overlayElement.active:has(.resourceDetail:is([data-type="text"], [data-type="html"], [data-type="image"], [data-type="audio"])),
+.mainContainer:not(.editActive) .overlayContainer .overlayElement.active:has(.resourceDetail[data-type="hotspot"]):not(:has(.hasAction)) {
+    pointer-events: none;
+}
+
+/* ---------- Buttons and the tutorial circles ---------- */
+
+.overlayContainer .overlayElement .hotspot-element {
+    box-shadow: none;
+}
+
+/* A hotspot's label is 14 px at any player size. Here it follows its box, so buttons scale with the stage. */
+.overlayContainer .overlayElement .hotspot-container {
+    container-type: size;
+}
+
+.overlayContainer .overlayElement .hotspot-label {
+    font-family: TitilliumWeb, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: min(42cqh, 11cqw) !important;
+    font-weight: 400;
+    white-space: nowrap;
+}
+
+/* The circles of the page's Tutorials: the name inside, on two lines where it needs them. */
+.overlayContainer .overlayElement .resourceDetail[data-shape="circle"] .hotspot-label {
+    width: 78cqw;
+    font-size: 15cqw !important;
+    line-height: 1.15;
+    text-align: center;
+    white-space: normal;
+}
+
+/* ---------- Player chrome ---------- */
+
+/* The start button: a dark disc, as everything that can be clicked. The icon is a disc with the triangle cut out of it, so the disc takes the button's colour and its background shows through as the triangle. */
+.hypervideoContainer .videoContainer .videoStartOverlay .playButtonBig {
+    --play-button-size: clamp(44px, 7vw, 104px);
+    background-color: var(--xp-button-text);
+    box-shadow: 0 8px 22px rgba(47, 50, 58, .25);
+}
+
+.hypervideoContainer .videoContainer .videoStartOverlay .playButtonBig [class^="icon-"]::before {
+    color: var(--xp-button);
+    font-size: calc(var(--play-button-size) * 1.075);
+    opacity: 1;
+}
+
+.mainContainer:not(.editActive) .playerContainer .controls :is(.sharingWidget, .annotationSearchButton) {
+    display: none !important;
+}
+
+/* While the film says where this player's Edit button is, the real button is marked. */
+.frametrail-body:has(.overlayContainer .overlayElement.active .xp-edit-cue) .titlebar .startEditButton {
+    border-radius: 4px;
+    background-color: var(--xp-button);
+    color: var(--xp-button-text);
+    animation: xpEditCue 1.4s ease-in-out infinite;
+}
+
+@keyframes xpEditCue {
+    0%, 100% { box-shadow: 0 0 0 0 rgba(60, 63, 71, .5); }
+    50%      { box-shadow: 0 0 0 9px rgba(60, 63, 71, 0); }
+}
+
+/* FrameTrail hides the Edit button in players up to 768 px wide; there the film says so instead. */
+.xp-edit-narrow {
+    display: none;
+}
+
+@media (max-width: 768px) {
+    .xp-edit-cue    { display: none; }
+    .xp-edit-narrow { display: inline; }
+}
+
+/* ---------- The materials beside the film ---------- */
+
+/* FrameTrail shows an annotation in a side area as a tile with a picture at the left and its title at the right, in light letters. These materials have no pictures: here they are a list of white cards with the type's icon and a readable title, and the ones whose time has come stand out. */
+.layoutArea[data-area="areaRight"] {
+    --thumb-title-color: var(--xp-ink);
+    --thumb-title-shadow: none;
+    --thumb-title-bg: transparent;
+    --thumb-icon-color: var(--xp-grey);
+    --thumb-icon-shadow: none;
+}
+
+.layoutArea[data-area="areaRight"][data-size="medium"] .contentViewContainer .collectionElement {
+    height: auto;
+    margin-bottom: 6px;
+    border: 1px solid #dfdfdf;
+    background: #ffffff;
+    opacity: .55;
+    transition: opacity 300ms, border-color 300ms, box-shadow 300ms;
+}
+
+.layoutArea[data-area="areaRight"][data-size="medium"] .contentViewContainer .collectionElement.active {
+    border-color: var(--xp-ink);
+    box-shadow: inset 4px 0 0 var(--xp-ink);
+    opacity: 1;
+}
+
+.layoutArea[data-area="areaRight"][data-size="medium"] .contentViewContainer .collectionElement .resourceThumb {
+    width: auto;
+    height: auto;
+    min-height: 46px;
+    margin: 0;
+    padding: 8px 12px 8px 46px;
+    float: none;
+    background-color: transparent;
+}
+
+.layoutArea[data-area="areaRight"][data-size="medium"] .contentViewContainer .collectionElement .resourceThumb::before {
+    display: none;
+}
+
+.layoutArea[data-area="areaRight"][data-size="medium"] .contentViewContainer .collectionElement .resourceThumb .resourceOverlay {
+    width: 46px;
+    background: none;
+}
+
+.layoutArea[data-area="areaRight"][data-size="medium"] .contentViewContainer .collectionElement .resourceThumb .resourceOverlay .resourceIcon {
+    left: 14px;
+    right: auto;
+    top: 50%;
+    bottom: auto;
+    width: auto;
+    height: auto;
+    translate: 0 -50%;
+    line-height: 1;
+}
+
+.layoutArea[data-area="areaRight"][data-size="medium"] .contentViewContainer .collectionElement .resourceThumb .resourceOverlay .resourceIcon [class^="icon-"]::before {
+    margin: 0;
+    font-size: 18px;
+}
+
+.layoutArea[data-area="areaRight"][data-size="medium"] .contentViewContainer .collectionElement .resourceThumb .resourceTitle {
+    padding: 0;
+    font-size: 15px;
+    line-height: 1.25;
+    hyphens: manual;
+}
+
+.layoutArea[data-area="areaRight"][data-size="medium"] .contentViewContainer .collectionElement .resourceThumb .resourcePreviewButton {
+    display: none;
+}

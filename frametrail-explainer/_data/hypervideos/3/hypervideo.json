@@ -1,0 +1,1189 @@
+{
+    "meta": {
+        "name": "Reports that show their sources",
+        "description": "The reporting path: a claim, its fact check with the source on the timeline, a live map, and numbers that count on cue.",
+        "thumb": "1_1795090100_thumb_film-3.png",
+        "posterFrame": null,
+        "creator": "demo",
+        "creatorId": "1",
+        "created": 1795080600000,
+        "lastchanged": 1795080600000
+    },
+    "config": {
+        "slidingMode": "adjust",
+        "slidingTrigger": "key",
+        "autohideControls": false,
+        "captionsVisible": false,
+        "clipTimeVisible": false,
+        "layoutArea": {
+            "areaTop": [],
+            "areaLeft": [],
+            "areaRight": [],
+            "areaBottom": [
+                {
+                    "type": "TimedContent",
+                    "name": "Sources",
+                    "contentSize": "medium",
+                    "initClosed": false,
+                    "collectionFilter": {
+                        "tags": [],
+                        "types": [],
+                        "users": [],
+                        "text": ""
+                    }
+                }
+            ]
+        }
+    },
+    "clips": [
+        {
+            "resourceId": null,
+            "src": null,
+            "duration": 45.6,
+            "in": 0,
+            "out": 0
+        }
+    ],
+    "globalEvents": {
+        "onReady": "if (!navigator.userActivation || navigator.userActivation.hasBeenActive) { hypervideo.play(); }",
+        "onPlay": "",
+        "onPause": "",
+        "onEnded": "window.location.hash = 'hypervideo=6';"
+    },
+    "customCSS": "",
+    "contents": [
+        {
+            "@context": [
+                "http://www.w3.org/ns/anno.jsonld",
+                "https://frametrail.org/ns/context.jsonld"
+            ],
+            "creator": {
+                "nickname": "demo",
+                "type": "Person",
+                "id": "1"
+            },
+            "created": "2026-11-19T09:30:01.000Z",
+            "type": "Annotation",
+            "frametrail:type": "Overlay",
+            "frametrail:tags": [],
+            "target": {
+                "type": "Video",
+                "selector": {
+                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                    "type": "FragmentSelector",
+                    "value": "t=0,45.6&xywh=percent:0,0,1,1"
+                }
+            },
+            "body": {
+                "frametrail:type": "audio",
+                "source": "1_1795090013_bed-path.mp3",
+                "frametrail:name": "Music: path (placeholder)",
+                "frametrail:thumb": null,
+                "frametrail:licenseType": "CC0",
+                "frametrail:licenseAttribution": "Placeholder tone generated with FFmpeg",
+                "frametrail:resourceId": "13",
+                "frametrail:attributes": {
+                    "autoPlay": true,
+                    "opacity": 0
+                }
+            },
+            "frametrail:events": {}
+        },
+        {
+            "@context": [
+                "http://www.w3.org/ns/anno.jsonld",
+                "https://frametrail.org/ns/context.jsonld"
+            ],
+            "creator": {
+                "nickname": "demo",
+                "type": "Person",
+                "id": "1"
+            },
+            "created": "2026-11-19T09:30:01.001Z",
+            "type": "Annotation",
+            "frametrail:type": "Overlay",
+            "frametrail:tags": [],
+            "target": {
+                "type": "Video",
+                "selector": {
+                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                    "type": "FragmentSelector",
+                    "value": "t=0,19.2&xywh=percent:8.75,12.44,37.5,4"
+                }
+            },
+            "body": {
+                "type": "TextualBody",
+                "frametrail:type": "text",
+                "format": "text/html",
+                "value": "",
+                "frametrail:name": "Eyebrow",
+                "frametrail:attributes": {
+                    "text": "&lt;p&gt;&lt;strong style=\"font-size: 12px;\"&gt;REPORT&lt;/strong&gt;&lt;/p&gt;",
+                    "autoSize": "height",
+                    "animation": {
+                        "in": {
+                            "preset": "fadeIn",
+                            "duration": 0
+                        },
+                        "out": {
+                            "preset": "slideToTop",
+                            "duration": 400,
+                            "ease": "power2In",
+                            "params": {
+                                "distance": 4
+                            }
+                        }
+                    }
+                }
+            },
+            "frametrail:events": {}
+        },
+        {
+            "@context": [
+                "http://www.w3.org/ns/anno.jsonld",
+                "https://frametrail.org/ns/context.jsonld"
+            ],
+            "creator": {
+                "nickname": "demo",
+                "type": "Person",
+                "id": "1"
+            },
+            "created": "2026-11-19T09:30:01.002Z",
+            "type": "Annotation",
+            "frametrail:type": "Overlay",
+            "frametrail:tags": [],
+            "target": {
+                "type": "Video",
+                "selector": {
+                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                    "type": "FragmentSelector",
+                    "value": "t=1.8,8.1&xywh=percent:8.75,20.44,62.5,24.89"
+                }
+            },
+            "body": {
+                "type": "TextualBody",
+                "frametrail:type": "text",
+                "format": "text/html",
+                "value": "",
+                "frametrail:name": "Claim",
+                "frametrail:attributes": {
+                    "text": "&lt;p&gt;&lt;span style=\"font-size: 26px;\"&gt;“The Great Wall of China can be seen from the Moon.”&lt;/span&gt;&lt;/p&gt;",
+                    "box": {
+                        "shape": "speechBubble",
+                        "direction": "downLeft",
+                        "background": "#FFFFFF",
+                        "textColor": "#2F323A",
+                        "padding": 18,
+                        "radius": 14,
+                        "shadow": true
+                    },
+                    "animation": {
+                        "in": {
+                            "preset": "popIn",
+                            "duration": 550,
+                            "ease": "springBouncy"
+                        },
+                        "text": {
+                            "preset": "typewriter",
+                            "mode": "letter",
+                            "stagger": 38
+                        }
+                    }
+                }
+            },
+            "frametrail:events": {}
+        },
+        {
+            "@context": [
+                "http://www.w3.org/ns/anno.jsonld",
+                "https://frametrail.org/ns/context.jsonld"
+            ],
+            "creator": {
+                "nickname": "demo",
+                "type": "Person",
+                "id": "1"
+            },
+            "created": "2026-11-19T09:30:01.003Z",
+            "type": "Annotation",
+            "frametrail:type": "Overlay",
+            "frametrail:tags": [],
+            "target": {
+                "type": "Video",
+                "selector": {
+                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                    "type": "FragmentSelector",
+                    "value": "t=4.8,19.2&xywh=percent:11,50.22,37.5,3.78"
+                }
+            },
+            "body": {
+                "type": "TextualBody",
+                "frametrail:type": "text",
+                "format": "text/html",
+                "value": "",
+                "frametrail:name": "A claim, at",
+                "frametrail:attributes": {
+                    "text": "&lt;p&gt;&lt;span style=\"font-family: 'Courier New'; font-size: 13px; color: #494C51;\"&gt;A claim, at 0:01.&lt;/span&gt;&lt;/p&gt;",
+                    "autoSize": "height",
+                    "animation": {
+                        "in": {
+                            "preset": "fadeIn",
+                            "duration": 400,
+                            "ease": "easeOut"
+                        },
+                        "out": {
+                            "preset": "slideToTop",
+                            "duration": 400,
+                            "ease": "power2In",
+                            "params": {
+                                "distance": 4
+                            }
+                        }
+                    }
+                }
+            },
+            "frametrail:events": {}
+        },
+        {
+            "@context": [
+                "http://www.w3.org/ns/anno.jsonld",
+                "https://frametrail.org/ns/context.jsonld"
+            ],
+            "creator": {
+                "nickname": "demo",
+                "type": "Person",
+                "id": "1"
+            },
+            "created": "2026-11-19T09:30:01.004Z",
+            "type": "Annotation",
+            "frametrail:type": "Overlay",
+            "frametrail:tags": [],
+            "target": {
+                "type": "Video",
+                "selector": {
+                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                    "type": "FragmentSelector",
+                    "value": "t=8.1,19.2&xywh=percent:8.75,20.44,62.5,24.89"
+                }
+            },
+            "body": {
+                "type": "TextualBody",
+                "frametrail:type": "text",
+                "format": "text/html",
+                "value": "",
+                "frametrail:name": "Claim, checked",
+                "frametrail:attributes": {
+                    "text": "&lt;p&gt;&lt;span data-ft-no-split=\"\" style=\"font-size: 26px;\"&gt;“The Great Wall of China can be seen &lt;/span&gt;&lt;span style=\"font-size: 26px;\"&gt;from the Moon.&lt;/span&gt;&lt;span data-ft-no-split=\"\" style=\"font-size: 26px;\"&gt;”&lt;/span&gt;&lt;/p&gt;",
+                    "box": {
+                        "shape": "speechBubble",
+                        "direction": "downLeft",
+                        "background": "#FFFFFF",
+                        "textColor": "#2F323A",
+                        "padding": 18,
+                        "radius": 14,
+                        "shadow": true
+                    },
+                    "animation": {
+                        "out": {
+                            "preset": "popOut",
+                            "duration": 300
+                        },
+                        "text": {
+                            "preset": "marker",
+                            "mode": "word",
+                            "duration": 500,
+                            "stagger": 160,
+                            "params": {
+                                "color": "rgba(245, 190, 21, 0.55)"
+                            }
+                        }
+                    }
+                }
+            },
+            "frametrail:events": {}
+        },
+        {
+            "@context": [
+                "http://www.w3.org/ns/anno.jsonld",
+                "https://frametrail.org/ns/context.jsonld"
+            ],
+            "creator": {
+                "nickname": "demo",
+                "type": "Person",
+                "id": "1"
+            },
+            "created": "2026-11-19T09:30:01.005Z",
+            "type": "Annotation",
+            "frametrail:type": "Overlay",
+            "frametrail:tags": [],
+            "target": {
+                "type": "Video",
+                "selector": {
+                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                    "type": "FragmentSelector",
+                    "value": "t=8.7,19.2&xywh=percent:54,12.89,31.25,10.22",
+                    "frametrail:rotation": -7
+                }
+            },
+            "body": {
+                "type": "TextualBody",
+                "frametrail:type": "text",
+                "format": "text/html",
+                "value": "",
+                "frametrail:name": "Fact check: false",
+                "frametrail:attributes": {
+                    "text": "&lt;p style=\"text-align: center;\"&gt;&lt;span style=\"font-size: 22px;\"&gt;&lt;strong&gt;FACT CHECK: FALSE&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;",
+                    "box": {
+                        "shape": "rounded",
+                        "background": "#ECE9E6",
+                        "textColor": "#2F323A",
+                        "padding": 8,
+                        "radius": 6,
+                        "borderWidth": 3,
+                        "borderColor": "#2F323A"
+                    },
+                    "animation": {
+                        "in": {
+                            "preset": "rotateIn",
+                            "duration": 500,
+                            "ease": "backOut"
+                        },
+                        "emphasis": {
+                            "preset": "shake",
+                            "duration": 400,
+                            "iterations": 1
+                        },
+                        "out": {
+                            "preset": "popOut",
+                            "duration": 300
+                        }
+                    }
+                }
+            },
+            "frametrail:events": {}
+        },
+        {
+            "@context": [
+                "http://www.w3.org/ns/anno.jsonld",
+                "https://frametrail.org/ns/context.jsonld"
+            ],
+            "creator": {
+                "nickname": "demo",
+                "type": "Person",
+                "id": "1"
+            },
+            "created": "2026-11-19T09:30:01.006Z",
+            "type": "Annotation",
+            "frametrail:type": "Overlay",
+            "frametrail:tags": [],
+            "target": {
+                "type": "Video",
+                "selector": {
+                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                    "type": "FragmentSelector",
+                    "value": "t=9.9,19.2&xywh=percent:8.75,56.89,65,18.44"
+                }
+            },
+            "body": {
+                "type": "TextualBody",
+                "frametrail:type": "text",
+                "format": "text/html",
+                "value": "",
+                "frametrail:name": "Verdict",
+                "frametrail:attributes": {
+                    "text": "&lt;p&gt;&lt;span style=\"font-size: 22px;\"&gt;It cannot be seen from the Moon with the naked eye. From there it would look as wide as a human hair seen from 3 km away.&lt;/span&gt;&lt;/p&gt;",
+                    "autoSize": "height",
+                    "animation": {
+                        "in": {
+                            "preset": "slideFromBottom",
+                            "duration": 700,
+                            "ease": "easeOut",
+                            "params": {
+                                "distance": 4
+                            }
+                        },
+                        "out": {
+                            "preset": "slideToTop",
+                            "duration": 400,
+                            "ease": "power2In",
+                            "params": {
+                                "distance": 4
+                            }
+                        }
+                    }
+                }
+            },
+            "frametrail:events": {}
+        },
+        {
+            "@context": [
+                "http://www.w3.org/ns/anno.jsonld",
+                "https://frametrail.org/ns/context.jsonld"
+            ],
+            "creator": {
+                "nickname": "demo",
+                "type": "Person",
+                "id": "1"
+            },
+            "created": "2026-11-19T09:30:01.007Z",
+            "type": "Annotation",
+            "frametrail:type": "Overlay",
+            "frametrail:tags": [],
+            "target": {
+                "type": "Video",
+                "selector": {
+                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                    "type": "FragmentSelector",
+                    "value": "t=11.7,19.2&xywh=percent:83,66.67,7,24.89"
+                }
+            },
+            "body": {
+                "type": "TextualBody",
+                "frametrail:type": "hotspot",
+                "format": "text/html",
+                "frametrail:name": "Arrow to the source",
+                "frametrail:attributes": {
+                    "shape": "arrow",
+                    "color": "#2F323A",
+                    "borderWidth": 4,
+                    "pulse": false,
+                    "text": "",
+                    "direction": "down",
+                    "curve": "curved",
+                    "animation": {
+                        "in": {
+                            "preset": "draw",
+                            "duration": 700,
+                            "ease": "power2InOut"
+                        },
+                        "out": {
+                            "preset": "fadeOut",
+                            "duration": 300,
+                            "ease": "easeIn"
+                        }
+                    }
+                }
+            },
+            "frametrail:events": {}
+        },
+        {
+            "@context": [
+                "http://www.w3.org/ns/anno.jsonld",
+                "https://frametrail.org/ns/context.jsonld"
+            ],
+            "creator": {
+                "nickname": "demo",
+                "type": "Person",
+                "id": "1"
+            },
+            "created": "2026-11-19T09:30:01.008Z",
+            "type": "Annotation",
+            "frametrail:type": "Overlay",
+            "frametrail:tags": [],
+            "target": {
+                "type": "Video",
+                "selector": {
+                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                    "type": "FragmentSelector",
+                    "value": "t=12,19.2&xywh=percent:46.5,77.78,35,10"
+                }
+            },
+            "body": {
+                "type": "TextualBody",
+                "frametrail:type": "text",
+                "format": "text/html",
+                "value": "",
+                "frametrail:name": "The source is right below",
+                "frametrail:attributes": {
+                    "text": "&lt;p style=\"text-align: right;\"&gt;&lt;span style=\"font-size: 18px;\"&gt;The source sits on the timeline, right below. Open it.&lt;/span&gt;&lt;/p&gt;",
+                    "autoSize": "height",
+                    "animation": {
+                        "in": {
+                            "preset": "slideFromBottom",
+                            "duration": 700,
+                            "ease": "easeOut",
+                            "params": {
+                                "distance": 4
+                            }
+                        },
+                        "out": {
+                            "preset": "slideToTop",
+                            "duration": 400,
+                            "ease": "power2In",
+                            "params": {
+                                "distance": 4
+                            }
+                        }
+                    }
+                }
+            },
+            "frametrail:events": {}
+        },
+        {
+            "@context": [
+                "http://www.w3.org/ns/anno.jsonld",
+                "https://frametrail.org/ns/context.jsonld"
+            ],
+            "creator": {
+                "nickname": "demo",
+                "type": "Person",
+                "id": "1"
+            },
+            "created": "2026-11-19T09:30:01.009Z",
+            "type": "Annotation",
+            "frametrail:type": "Overlay",
+            "frametrail:tags": [],
+            "target": {
+                "type": "Video",
+                "selector": {
+                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                    "type": "FragmentSelector",
+                    "value": "t=19.5,31.2&xywh=percent:8.75,11.11,50,8.22"
+                }
+            },
+            "body": {
+                "type": "TextualBody",
+                "frametrail:type": "text",
+                "format": "text/html",
+                "value": "",
+                "frametrail:name": "Show where",
+                "frametrail:attributes": {
+                    "text": "&lt;p&gt;&lt;span style=\"font-size: 34px;\"&gt;Show where.&lt;/span&gt;&lt;/p&gt;",
+                    "autoSize": "height",
+                    "animation": {
+                        "in": {
+                            "preset": "slideFromBottom",
+                            "duration": 700,
+                            "ease": "easeOut",
+                            "params": {
+                                "distance": 4
+                            }
+                        },
+                        "out": {
+                            "preset": "slideToTop",
+                            "duration": 400,
+                            "ease": "power2In",
+                            "params": {
+                                "distance": 4
+                            }
+                        }
+                    }
+                }
+            },
+            "frametrail:events": {}
+        },
+        {
+            "@context": [
+                "http://www.w3.org/ns/anno.jsonld",
+                "https://frametrail.org/ns/context.jsonld"
+            ],
+            "creator": {
+                "nickname": "demo",
+                "type": "Person",
+                "id": "1"
+            },
+            "created": "2026-11-19T09:30:01.010Z",
+            "type": "Annotation",
+            "frametrail:type": "Overlay",
+            "frametrail:tags": [],
+            "target": {
+                "type": "Video",
+                "selector": {
+                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                    "type": "FragmentSelector",
+                    "value": "t=21.6,31.2&xywh=percent:66.75,27.56,28.75,6.22"
+                }
+            },
+            "body": {
+                "type": "TextualBody",
+                "frametrail:type": "text",
+                "format": "text/html",
+                "value": "",
+                "frametrail:name": "A real map",
+                "frametrail:attributes": {
+                    "text": "&lt;p&gt;&lt;span style=\"font-size: 22px;\"&gt;A real map. Drag it.&lt;/span&gt;&lt;/p&gt;",
+                    "autoSize": "height",
+                    "animation": {
+                        "in": {
+                            "preset": "slideFromBottom",
+                            "duration": 700,
+                            "ease": "easeOut",
+                            "params": {
+                                "distance": 4
+                            }
+                        },
+                        "out": {
+                            "preset": "slideToTop",
+                            "duration": 400,
+                            "ease": "power2In",
+                            "params": {
+                                "distance": 4
+                            }
+                        }
+                    }
+                }
+            },
+            "frametrail:events": {}
+        },
+        {
+            "@context": [
+                "http://www.w3.org/ns/anno.jsonld",
+                "https://frametrail.org/ns/context.jsonld"
+            ],
+            "creator": {
+                "nickname": "demo",
+                "type": "Person",
+                "id": "1"
+            },
+            "created": "2026-11-19T09:30:01.011Z",
+            "type": "Annotation",
+            "frametrail:type": "Overlay",
+            "frametrail:tags": [],
+            "target": {
+                "type": "Video",
+                "selector": {
+                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                    "type": "FragmentSelector",
+                    "value": "t=22.2,31.2&xywh=percent:66.75,36.44,28.75,10"
+                }
+            },
+            "body": {
+                "type": "TextualBody",
+                "frametrail:type": "text",
+                "format": "text/html",
+                "value": "",
+                "frametrail:name": "The wall at Badaling",
+                "frametrail:attributes": {
+                    "text": "&lt;p&gt;&lt;span style=\"font-size: 18px;\"&gt;The wall at Badaling, north of Beijing.&lt;/span&gt;&lt;/p&gt;",
+                    "autoSize": "height",
+                    "animation": {
+                        "in": {
+                            "preset": "slideFromBottom",
+                            "duration": 700,
+                            "ease": "easeOut",
+                            "params": {
+                                "distance": 4
+                            }
+                        },
+                        "out": {
+                            "preset": "slideToTop",
+                            "duration": 400,
+                            "ease": "power2In",
+                            "params": {
+                                "distance": 4
+                            }
+                        }
+                    }
+                }
+            },
+            "frametrail:events": {}
+        },
+        {
+            "@context": [
+                "http://www.w3.org/ns/anno.jsonld",
+                "https://frametrail.org/ns/context.jsonld"
+            ],
+            "creator": {
+                "nickname": "demo",
+                "type": "Person",
+                "id": "1"
+            },
+            "created": "2026-11-19T09:30:01.012Z",
+            "type": "Annotation",
+            "frametrail:type": "Overlay",
+            "frametrail:tags": [],
+            "target": {
+                "type": "Video",
+                "selector": {
+                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                    "type": "FragmentSelector",
+                    "value": "t=22.8,31.2&xywh=percent:66.75,50.22,31.25,3.78"
+                }
+            },
+            "body": {
+                "type": "TextualBody",
+                "frametrail:type": "text",
+                "format": "text/html",
+                "value": "",
+                "frametrail:name": "Map data",
+                "frametrail:attributes": {
+                    "text": "&lt;p&gt;&lt;span style=\"font-family: 'Courier New'; font-size: 13px; color: #494C51;\"&gt;\"lat\": 40.354, \"lon\": 116.006&lt;/span&gt;&lt;/p&gt;",
+                    "autoSize": "height",
+                    "animation": {
+                        "in": {
+                            "preset": "fadeIn",
+                            "duration": 400,
+                            "ease": "easeOut"
+                        },
+                        "out": {
+                            "preset": "slideToTop",
+                            "duration": 400,
+                            "ease": "power2In",
+                            "params": {
+                                "distance": 4
+                            }
+                        }
+                    }
+                }
+            },
+            "frametrail:events": {}
+        },
+        {
+            "@context": [
+                "http://www.w3.org/ns/anno.jsonld",
+                "https://frametrail.org/ns/context.jsonld"
+            ],
+            "creator": {
+                "nickname": "demo",
+                "type": "Person",
+                "id": "1"
+            },
+            "created": "2026-11-19T09:30:01.013Z",
+            "type": "Annotation",
+            "frametrail:type": "Overlay",
+            "frametrail:tags": [],
+            "target": {
+                "type": "Video",
+                "selector": {
+                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                    "type": "FragmentSelector",
+                    "value": "t=31.5,45.6&xywh=percent:8.75,11.11,50,8.22"
+                }
+            },
+            "body": {
+                "type": "TextualBody",
+                "frametrail:type": "text",
+                "format": "text/html",
+                "value": "",
+                "frametrail:name": "Show how much",
+                "frametrail:attributes": {
+                    "text": "&lt;p&gt;&lt;span style=\"font-size: 34px;\"&gt;Show how much.&lt;/span&gt;&lt;/p&gt;",
+                    "autoSize": "height",
+                    "animation": {
+                        "in": {
+                            "preset": "slideFromBottom",
+                            "duration": 700,
+                            "ease": "easeOut",
+                            "params": {
+                                "distance": 4
+                            }
+                        }
+                    }
+                }
+            },
+            "frametrail:events": {}
+        },
+        {
+            "@context": [
+                "http://www.w3.org/ns/anno.jsonld",
+                "https://frametrail.org/ns/context.jsonld"
+            ],
+            "creator": {
+                "nickname": "demo",
+                "type": "Person",
+                "id": "1"
+            },
+            "created": "2026-11-19T09:30:01.014Z",
+            "type": "Annotation",
+            "frametrail:type": "Overlay",
+            "frametrail:tags": [],
+            "target": {
+                "type": "Video",
+                "selector": {
+                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                    "type": "FragmentSelector",
+                    "value": "t=32.7,45.6&xywh=percent:8.75,23.11,48.5,64.67"
+                }
+            },
+            "body": {
+                "type": "Dataset",
+                "frametrail:type": "chart",
+                "format": "application/x-frametrail-chart",
+                "frametrail:name": "Chart: Ming walls and all walls",
+                "frametrail:attributes": {
+                    "chartType": "bars",
+                    "data": "Ming walls: 8850\nAll dynasties: 21196",
+                    "unit": " km",
+                    "color": "#2F323A",
+                    "textColor": "#2F323A",
+                    "highlight": 1,
+                    "showValues": true,
+                    "duration": 1400,
+                    "animation": {
+                        "in": {
+                            "preset": "fadeIn",
+                            "duration": 400,
+                            "ease": "easeOut"
+                        }
+                    }
+                }
+            },
+            "frametrail:events": {}
+        },
+        {
+            "@context": [
+                "http://www.w3.org/ns/anno.jsonld",
+                "https://frametrail.org/ns/context.jsonld"
+            ],
+            "creator": {
+                "nickname": "demo",
+                "type": "Person",
+                "id": "1"
+            },
+            "created": "2026-11-19T09:30:01.015Z",
+            "type": "Annotation",
+            "frametrail:type": "Overlay",
+            "frametrail:tags": [],
+            "target": {
+                "type": "Video",
+                "selector": {
+                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                    "type": "FragmentSelector",
+                    "value": "t=34.2,45.6&xywh=percent:62.5,24.89,32.75,16"
+                }
+            },
+            "body": {
+                "type": "Dataset",
+                "frametrail:type": "counter",
+                "format": "application/x-frametrail-counter",
+                "frametrail:name": "Count: length of the wall",
+                "frametrail:attributes": {
+                    "from": 0,
+                    "to": 21196,
+                    "decimals": 0,
+                    "prefix": "",
+                    "suffix": " km",
+                    "style": "roll",
+                    "duration": 1600,
+                    "ease": "power2Out",
+                    "color": "#2F323A",
+                    "weight": 300,
+                    "align": "left",
+                    "animation": {
+                        "in": {
+                            "preset": "slideFromBottom",
+                            "duration": 700,
+                            "ease": "easeOut",
+                            "params": {
+                                "distance": 4
+                            }
+                        }
+                    }
+                }
+            },
+            "frametrail:events": {}
+        },
+        {
+            "@context": [
+                "http://www.w3.org/ns/anno.jsonld",
+                "https://frametrail.org/ns/context.jsonld"
+            ],
+            "creator": {
+                "nickname": "demo",
+                "type": "Person",
+                "id": "1"
+            },
+            "created": "2026-11-19T09:30:01.016Z",
+            "type": "Annotation",
+            "frametrail:type": "Overlay",
+            "frametrail:tags": [],
+            "target": {
+                "type": "Video",
+                "selector": {
+                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                    "type": "FragmentSelector",
+                    "value": "t=34.8,45.6&xywh=percent:62.75,41.78,32.75,5.11"
+                }
+            },
+            "body": {
+                "type": "TextualBody",
+                "frametrail:type": "text",
+                "format": "text/html",
+                "value": "",
+                "frametrail:name": "Count label: length",
+                "frametrail:attributes": {
+                    "text": "&lt;p&gt;&lt;span style=\"font-size: 18px;\"&gt;all its walls and trenches together&lt;/span&gt;&lt;/p&gt;",
+                    "autoSize": "height",
+                    "animation": {
+                        "in": {
+                            "preset": "fadeIn",
+                            "duration": 400,
+                            "ease": "easeOut"
+                        }
+                    }
+                }
+            },
+            "frametrail:events": {}
+        },
+        {
+            "@context": [
+                "http://www.w3.org/ns/anno.jsonld",
+                "https://frametrail.org/ns/context.jsonld"
+            ],
+            "creator": {
+                "nickname": "demo",
+                "type": "Person",
+                "id": "1"
+            },
+            "created": "2026-11-19T09:30:01.017Z",
+            "type": "Annotation",
+            "frametrail:type": "Overlay",
+            "frametrail:tags": [],
+            "target": {
+                "type": "Video",
+                "selector": {
+                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                    "type": "FragmentSelector",
+                    "value": "t=38.4,45.6&xywh=percent:62.5,56,25,6.67"
+                }
+            },
+            "body": {
+                "type": "TextualBody",
+                "frametrail:type": "text",
+                "format": "text/html",
+                "value": "",
+                "frametrail:name": "Use: Fact checks",
+                "frametrail:attributes": {
+                    "text": "&lt;p style=\"text-align: center;\"&gt;&lt;span style=\"font-size: 14px;\"&gt;Fact checks&lt;/span&gt;&lt;/p&gt;",
+                    "box": {
+                        "shape": "rounded",
+                        "background": "#D7CFC3",
+                        "textColor": "#2F323A",
+                        "padding": 6,
+                        "radius": 6
+                    },
+                    "animation": {
+                        "in": {
+                            "preset": "popIn",
+                            "duration": 550,
+                            "ease": "springBouncy"
+                        }
+                    }
+                }
+            },
+            "frametrail:events": {}
+        },
+        {
+            "@context": [
+                "http://www.w3.org/ns/anno.jsonld",
+                "https://frametrail.org/ns/context.jsonld"
+            ],
+            "creator": {
+                "nickname": "demo",
+                "type": "Person",
+                "id": "1"
+            },
+            "created": "2026-11-19T09:30:01.018Z",
+            "type": "Annotation",
+            "frametrail:type": "Overlay",
+            "frametrail:tags": [],
+            "target": {
+                "type": "Video",
+                "selector": {
+                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                    "type": "FragmentSelector",
+                    "value": "t=38.7,45.6&xywh=percent:62.5,64.44,25,6.67"
+                }
+            },
+            "body": {
+                "type": "TextualBody",
+                "frametrail:type": "text",
+                "format": "text/html",
+                "value": "",
+                "frametrail:name": "Use: Investigations",
+                "frametrail:attributes": {
+                    "text": "&lt;p style=\"text-align: center;\"&gt;&lt;span style=\"font-size: 14px;\"&gt;Investigations&lt;/span&gt;&lt;/p&gt;",
+                    "box": {
+                        "shape": "rounded",
+                        "background": "#D7CFC3",
+                        "textColor": "#2F323A",
+                        "padding": 6,
+                        "radius": 6
+                    },
+                    "animation": {
+                        "in": {
+                            "preset": "popIn",
+                            "duration": 550,
+                            "ease": "springBouncy"
+                        }
+                    }
+                }
+            },
+            "frametrail:events": {}
+        },
+        {
+            "@context": [
+                "http://www.w3.org/ns/anno.jsonld",
+                "https://frametrail.org/ns/context.jsonld"
+            ],
+            "creator": {
+                "nickname": "demo",
+                "type": "Person",
+                "id": "1"
+            },
+            "created": "2026-11-19T09:30:01.019Z",
+            "type": "Annotation",
+            "frametrail:type": "Overlay",
+            "frametrail:tags": [],
+            "target": {
+                "type": "Video",
+                "selector": {
+                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                    "type": "FragmentSelector",
+                    "value": "t=39,45.6&xywh=percent:62.5,72.89,25,6.67"
+                }
+            },
+            "body": {
+                "type": "TextualBody",
+                "frametrail:type": "text",
+                "format": "text/html",
+                "value": "",
+                "frametrail:name": "Use: Parliamentary debates",
+                "frametrail:attributes": {
+                    "text": "&lt;p style=\"text-align: center;\"&gt;&lt;span style=\"font-size: 14px;\"&gt;Parliamentary debates&lt;/span&gt;&lt;/p&gt;",
+                    "box": {
+                        "shape": "rounded",
+                        "background": "#D7CFC3",
+                        "textColor": "#2F323A",
+                        "padding": 6,
+                        "radius": 6
+                    },
+                    "animation": {
+                        "in": {
+                            "preset": "popIn",
+                            "duration": 550,
+                            "ease": "springBouncy"
+                        }
+                    }
+                }
+            },
+            "frametrail:events": {}
+        },
+        {
+            "@context": [
+                "http://www.w3.org/ns/anno.jsonld",
+                "https://frametrail.org/ns/context.jsonld"
+            ],
+            "creator": {
+                "nickname": "demo",
+                "type": "Person",
+                "id": "1"
+            },
+            "created": "2026-11-19T09:30:01.020Z",
+            "type": "Annotation",
+            "frametrail:type": "Overlay",
+            "frametrail:tags": [],
+            "target": {
+                "type": "Video",
+                "selector": {
+                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                    "type": "FragmentSelector",
+                    "value": "t=40.8,45.6&xywh=percent:62.5,82.67,33.75,12.22"
+                }
+            },
+            "body": {
+                "type": "TextualBody",
+                "frametrail:type": "text",
+                "format": "text/html",
+                "value": "",
+                "frametrail:name": "The evidence travels with the film",
+                "frametrail:attributes": {
+                    "text": "&lt;p&gt;&lt;span style=\"font-size: 22px;\"&gt;&lt;strong&gt;The evidence travels with the film.&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;",
+                    "autoSize": "height",
+                    "animation": {
+                        "in": {
+                            "preset": "slideFromBottom",
+                            "duration": 700,
+                            "ease": "easeOut",
+                            "params": {
+                                "distance": 4
+                            }
+                        },
+                        "text": {
+                            "preset": "fadeUp",
+                            "mode": "word",
+                            "stagger": 90
+                        }
+                    }
+                }
+            },
+            "frametrail:events": {}
+        },
+        {
+            "@context": [
+                "http://www.w3.org/ns/anno.jsonld",
+                "https://frametrail.org/ns/context.jsonld"
+            ],
+            "creator": {
+                "nickname": "demo",
+                "type": "Person",
+                "id": "1"
+            },
+            "created": "2026-11-19T09:30:01.021Z",
+            "type": "Annotation",
+            "frametrail:type": "Overlay",
+            "frametrail:tags": [],
+            "target": {
+                "type": "Video",
+                "selector": {
+                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                    "type": "FragmentSelector",
+                    "value": "t=20.4,31.2&xywh=percent:8.75,24.44,55,63.11"
+                }
+            },
+            "body": {
+                "type": "Dataset",
+                "frametrail:type": "location",
+                "format": "application/x-frametrail-location",
+                "frametrail:name": "Map: the wall at Badaling",
+                "frametrail:attributes": {
+                    "zoom": 11,
+                    "tileStyle": "light",
+                    "marker": {
+                        "show": true,
+                        "color": "#2F323A"
+                    },
+                    "controls": {
+                        "dragging": true,
+                        "scrollWheelZoom": false,
+                        "zoomControl": true
+                    },
+                    "lat": 40.354,
+                    "lon": 116.006,
+                    "animation": {
+                        "in": {
+                            "preset": "irisIn",
+                            "duration": 700,
+                            "ease": "power2Out"
+                        },
+                        "out": {
+                            "preset": "fadeOut",
+                            "duration": 300,
+                            "ease": "easeIn"
+                        }
+                    },
+                    "boundingBox": []
+                }
+            },
+            "frametrail:events": {}
+        }
+    ],
+    "chapters": [
+        {
+            "start": 0,
+            "title": "A claim"
+        },
+        {
+            "start": 8.1,
+            "title": "The fact check"
+        },
+        {
+            "start": 19.5,
+            "title": "Show where"
+        },
+        {
+            "start": 31.5,
+            "title": "Show how much"
+        }
+    ],
+    "subtitles": []
+}

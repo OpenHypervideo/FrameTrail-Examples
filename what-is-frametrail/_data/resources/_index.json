@@ -1,0 +1,109 @@
+{
+    "resources-increment": 8,
+    "resources": {
+        "1": {
+            "name": "FrameTrail symbol",
+            "type": "image",
+            "src": "1_1795100001_open-hypervideo-symbol.png",
+            "thumb": null,
+            "description": null,
+            "creator": "demo",
+            "creatorId": "1",
+            "created": 1795100001,
+            "licenseType": "",
+            "licenseAttribution": "",
+            "attributes": {}
+        },
+        "2": {
+            "name": "Layout: the video alone",
+            "type": "image",
+            "src": "1_1795100002_frametrail-layout-5.png",
+            "thumb": null,
+            "description": null,
+            "creator": "demo",
+            "creatorId": "1",
+            "created": 1795100002,
+            "licenseType": "",
+            "licenseAttribution": "",
+            "attributes": {}
+        },
+        "3": {
+            "name": "Layout: the video with an overlay",
+            "type": "image",
+            "src": "1_1795100003_frametrail-layout-6.png",
+            "thumb": null,
+            "description": null,
+            "creator": "demo",
+            "creatorId": "1",
+            "created": 1795100003,
+            "licenseType": "",
+            "licenseAttribution": "",
+            "attributes": {}
+        },
+        "4": {
+            "name": "Layout: the video above, annotations below",
+            "type": "image",
+            "src": "1_1795100004_frametrail-layout-1.png",
+            "thumb": null,
+            "description": null,
+            "creator": "demo",
+            "creatorId": "1",
+            "created": 1795100004,
+            "licenseType": "",
+            "licenseAttribution": "",
+            "attributes": {}
+        },
+        "5": {
+            "name": "Layout: video links above, the video below",
+            "type": "image",
+            "src": "1_1795100005_frametrail-layout-2.png",
+            "thumb": null,
+            "description": null,
+            "creator": "demo",
+            "creatorId": "1",
+            "created": 1795100005,
+            "licenseType": "",
+            "licenseAttribution": "",
+            "attributes": {}
+        },
+        "6": {
+            "name": "Layout: annotations in the middle, areas around",
+            "type": "image",
+            "src": "1_1795100006_frametrail-layout-3.png",
+            "thumb": null,
+            "description": null,
+            "creator": "demo",
+            "creatorId": "1",
+            "created": 1795100006,
+            "licenseType": "",
+            "licenseAttribution": "",
+            "attributes": {}
+        },
+        "7": {
+            "name": "Layout: the video with areas to the right and below",
+            "type": "image",
+            "src": "1_1795100007_frametrail-layout-4.png",
+            "thumb": null,
+            "description": null,
+            "creator": "demo",
+            "creatorId": "1",
+            "created": 1795100007,
+            "licenseType": "",
+            "licenseAttribution": "",
+            "attributes": {}
+        },
+        "8": {
+            "name": "Music (placeholder)",
+            "type": "audio",
+            "src": "1_1795100008_bed.mp3",
+            "thumb": null,
+            "description": null,
+            "creator": "demo",
+            "creatorId": "1",
+            "created": 1795100008,
+            "licenseType": "CC0",
+            "licenseAttribution": "Placeholder tone generated with FFmpeg",
+            "attributes": {}
+        }
+    }
+}

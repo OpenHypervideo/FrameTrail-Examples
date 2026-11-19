@@ -1,0 +1,123 @@
+[
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-19T09:30:50.000Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=8.1,19.2"
+            }
+        },
+        "body": {
+            "type": "TextualBody",
+            "frametrail:type": "text",
+            "format": "text/html",
+            "value": "",
+            "frametrail:name": "Fact check: seen from the Moon?",
+            "frametrail:thumb": null,
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "text": "&lt;p&gt;&lt;strong&gt;Fact check.&lt;/strong&gt; The claim: the Great Wall can be seen from the Moon. It cannot, with the naked eye: from there it is as wide as a human hair seen from 3 km away.&lt;/p&gt;"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-19T09:30:50.001Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=8.1,45.6"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/Great_Wall_of_China",
+            "frametrail:name": "Great Wall of China",
+            "frametrail:thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/The_Great_Wall_of_China_at_Jinshanling-edit.jpg/330px-The_Great_Wall_of_China_at_Jinshanling-edit.jpg",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "extract": "The Great Wall of China is a series of fortifications in China. They were built across the historical northern borders of ancient Chinese states and Imperial China as protection against various nomadic groups from the Eurasian Steppe. The first walls date to the 7th century BC; these were joined together in the Qin dynasty. Successive dynasties expanded the wall system; the best-known sections were built by the Ming dynasty (1368–1644).",
+                "extract_html": "<p>The <b>Great Wall of China</b> is a series of fortifications in China. They were built across the historical northern borders of ancient Chinese states and Imperial China as protection against various nomadic groups from the Eurasian Steppe. The first walls date to the 7th century BC; these were joined together in the Qin dynasty. Successive dynasties expanded the wall system; the best-known sections were built by the Ming dynasty (1368–1644).</p>",
+                "description": "Series of fortifications in northern China",
+                "articleUrl": "https://en.wikipedia.org/wiki/Great_Wall_of_China",
+                "wikiLang": "en",
+                "dir": "ltr"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-19T09:30:50.002Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=32.7,45.6"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/Ming_Great_Wall",
+            "frametrail:name": "Ming Great Wall",
+            "frametrail:thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Mutianyu_from_Watchtower_20_%2820190915140308%29.jpg/330px-Mutianyu_from_Watchtower_20_%2820190915140308%29.jpg",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "extract": "The Ming Great Wall, built by the Ming dynasty (1368–1644), forms the most visible parts of the Great Wall of China today. A comprehensive archaeological survey, using advanced technology has concluded that the Ming walls measure 8,850 km (5,500 mi) from Jiayu Pass in the west to the sea in Shanhai Pass, then looping over to terminate in Manchuria at the Hushan Great Wall. This is made up of 6,259 km (3,889 mi) sections of actual wall, 359 km (223 mi) of trenches and 2,232 km (1,387 mi) of natural defensive barriers such as hills and rivers.",
+                "extract_html": "<p>The <b>Ming Great Wall</b>, built by the Ming dynasty (1368–1644), forms the most visible parts of the Great Wall of China today. A comprehensive archaeological survey, using advanced technology has concluded that the Ming walls measure 8,850 km (5,500 mi) from Jiayu Pass in the west to the sea in Shanhai Pass, then looping over to terminate in Manchuria at the Hushan Great Wall. This is made up of 6,259 km (3,889 mi) sections of actual wall, 359 km (223 mi) of trenches and 2,232 km (1,387 mi) of natural defensive barriers such as hills and rivers.</p>",
+                "description": "Sections of the Great Wall of China built during the Ming dynasty (1368-1644)",
+                "articleUrl": "https://en.wikipedia.org/wiki/Ming_Great_Wall",
+                "wikiLang": "en",
+                "dir": "ltr"
+            }
+        }
+    }
+]
