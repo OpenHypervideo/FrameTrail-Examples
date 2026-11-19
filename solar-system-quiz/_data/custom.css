@@ -66,12 +66,25 @@
     border-color: #b3261e;
 }
 
+/* The mark after a decided answer: an icon of FrameTrail's icon font, the circle part of the glyph.
+   FrameTrail after v1.4.6 draws these marks itself; then these three rules can go. */
+.overlayElement .resourceDetail[data-type="quiz"] .resourceQuizAnswersContainer button.correct::after,
+.overlayElement .resourceDetail[data-type="quiz"] .resourceQuizAnswersContainer button.wrong::after {
+    display: inline-block;
+    margin-left: .4em;
+    font-family: "FrameTrail";
+    font-style: normal;
+    font-weight: normal;
+    line-height: 1;
+    vertical-align: -0.08em;
+}
+
 .overlayElement .resourceDetail[data-type="quiz"] .resourceQuizAnswersContainer button.correct::after {
-    content: " \2713";
+    content: "\e80f";
 }
 
 .overlayElement .resourceDetail[data-type="quiz"] .resourceQuizAnswersContainer button.wrong::after {
-    content: " \2717";
+    content: "\e811";
 }
 
 /* A wrong choice does not give the right one away: the passage plays again and the question comes back. */
