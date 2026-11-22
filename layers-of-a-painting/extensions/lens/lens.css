@@ -1,0 +1,13 @@
+/* Lens: layers are clipped to a circle by lens.js; this is the ring around it and the bar of switches */
+.lensLayer { pointer-events: none !important; clip-path: circle(0px at 50% 50%); }
+.lensRing { position: absolute; z-index: 3; transform: translate(-50%, -50%); border-radius: 50%; pointer-events: none; box-sizing: border-box;
+    border: 2px solid rgba(255, 255, 255, 0.95); box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.5), 0 6px 24px rgba(0, 0, 0, 0.55); }
+.lensRing::after { content: attr(data-label); position: absolute; left: 50%; top: 100%; transform: translate(-50%, 6px); padding: 2px 9px; border-radius: 20px;
+    background: rgba(12, 14, 18, 0.8); color: #fff; font-size: 12px; letter-spacing: .06em; text-transform: uppercase; white-space: nowrap; }
+.lensBar { position: absolute; left: 50%; bottom: 14px; transform: translateX(-50%); z-index: 40; display: flex; align-items: center; gap: 6px; padding: 6px 8px 6px 14px;
+    border-radius: 40px; background: rgba(12, 14, 18, 0.82); color: #fff; font-size: 14px; box-shadow: 0 6px 24px rgba(0, 0, 0, 0.45); }
+.lensBarLabel { opacity: .7; margin-right: 4px; }
+.lensBar button { padding: 5px 14px; border-radius: 30px; border: 1px solid rgba(255, 255, 255, 0.25); background: transparent; color: #fff; font: inherit; cursor: pointer; }
+.lensBar button:hover { border-color: #fff; }
+.lensBar button.active { background: #fff; border-color: #fff; color: #10131c; }
+.editActive .lensBar, .editActive .lensRing { display: none; }

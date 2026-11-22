@@ -1,0 +1,44 @@
+{
+    "resources-increment": 3,
+    "resources": {
+        "1": {
+            "name": "The painting",
+            "type": "video",
+            "src": "1_1795440001_adoration-colour.mp4",
+            "thumb": "1_1795440001_thumb_adoration-colour.jpg",
+            "description": null,
+            "creator": "demo",
+            "creatorId": "1",
+            "created": 1795440001,
+            "licenseType": "CC0",
+            "licenseAttribution": "Hieronymus Bosch, The Adoration of the Magi (ca. 1475). The Metropolitan Museum of Art, New York, 13.26. Images: The Met, CC0, via Wikimedia Commons",
+            "attributes": {}
+        },
+        "2": {
+            "name": "Infrared reflectogram",
+            "type": "video",
+            "src": "1_1795440002_adoration-infrared.mp4",
+            "thumb": null,
+            "description": null,
+            "creator": "demo",
+            "creatorId": "1",
+            "created": 1795440002,
+            "licenseType": "CC0",
+            "licenseAttribution": "Hieronymus Bosch, The Adoration of the Magi (ca. 1475). The Metropolitan Museum of Art, New York, 13.26. Images: The Met, CC0, via Wikimedia Commons",
+            "attributes": {}
+        },
+        "3": {
+            "name": "X-ray",
+            "type": "video",
+            "src": "1_1795440003_adoration-xray.mp4",
+            "thumb": null,
+            "description": null,
+            "creator": "demo",
+            "creatorId": "1",
+            "created": 1795440003,
+            "licenseType": "CC0",
+            "licenseAttribution": "Hieronymus Bosch, The Adoration of the Magi (ca. 1475). The Metropolitan Museum of Art, New York, 13.26. Images: The Met, CC0, via Wikimedia Commons",
+            "attributes": {}
+        }
+    }
+}

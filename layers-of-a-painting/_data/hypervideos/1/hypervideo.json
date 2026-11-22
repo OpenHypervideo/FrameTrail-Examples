@@ -1,0 +1,540 @@
+{
+    "meta": {
+        "name": "Layers of a Painting",
+        "description": "Hieronymus Bosch's “Adoration of the Magi” as a photograph, an infrared reflectogram and an X-ray, in three films that move together. A lens under the pointer shows one layer inside the other, and a tour stops where the layers differ.",
+        "thumb": "1_1795440001_thumb_adoration-colour.jpg",
+        "creator": "demo",
+        "creatorId": "1",
+        "created": 1795440100000,
+        "lastchanged": 1795440100000
+    },
+    "config": {
+        "slidingMode": "adjust",
+        "slidingTrigger": "key",
+        "autohideControls": false,
+        "captionsVisible": false,
+        "clipTimeVisible": false,
+        "layoutArea": {
+            "areaTop": [],
+            "areaBottom": [],
+            "areaLeft": [],
+            "areaRight": []
+        }
+    },
+    "clips": [
+        {
+            "resourceId": "1",
+            "src": "1_1795440001_adoration-colour.mp4",
+            "duration": 0,
+            "in": 0,
+            "out": 0
+        }
+    ],
+    "chapters": [
+        {
+            "start": 0,
+            "title": "Three pictures of one painting"
+        },
+        {
+            "start": 12,
+            "title": "The Virgin and Child"
+        },
+        {
+            "start": 34,
+            "title": "The kneeling king"
+        },
+        {
+            "start": 54,
+            "title": "Two kings"
+        },
+        {
+            "start": 74,
+            "title": "The man in green"
+        },
+        {
+            "start": 94,
+            "title": "The dog"
+        },
+        {
+            "start": 112,
+            "title": "The whole panel"
+        }
+    ],
+    "subtitles": [],
+    "globalEvents": {
+        "onReady": "",
+        "onPlay": "",
+        "onPause": "",
+        "onEnded": ""
+    },
+    "customCSS": "",
+    "contents": [
+        {
+            "@context": [
+                "http://www.w3.org/ns/anno.jsonld",
+                "https://frametrail.org/ns/context.jsonld"
+            ],
+            "creator": {
+                "nickname": "demo",
+                "type": "Person",
+                "id": "1"
+            },
+            "created": "2026-11-22T16:00:00.001Z",
+            "type": "Annotation",
+            "frametrail:type": "Overlay",
+            "frametrail:tags": [],
+            "target": {
+                "type": "Video",
+                "source": "1_1795440001_adoration-colour.mp4",
+                "selector": {
+                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                    "type": "FragmentSelector",
+                    "value": "t=0,126&xywh=percent:0,0,100,100"
+                }
+            },
+            "body": {
+                "frametrail:type": "video",
+                "source": "1_1795440002_adoration-infrared.mp4",
+                "frametrail:name": "Infrared reflectogram",
+                "frametrail:thumb": null,
+                "frametrail:licenseType": "CC0",
+                "frametrail:licenseAttribution": "Hieronymus Bosch, The Adoration of the Magi (ca. 1475). The Metropolitan Museum of Art, New York, 13.26. Images: The Met, CC0, via Wikimedia Commons",
+                "frametrail:resourceId": "2",
+                "frametrail:attributes": {
+                    "autoPlay": true,
+                    "zIndex": 2
+                }
+            },
+            "frametrail:events": {}
+        },
+        {
+            "@context": [
+                "http://www.w3.org/ns/anno.jsonld",
+                "https://frametrail.org/ns/context.jsonld"
+            ],
+            "creator": {
+                "nickname": "demo",
+                "type": "Person",
+                "id": "1"
+            },
+            "created": "2026-11-22T16:00:00.002Z",
+            "type": "Annotation",
+            "frametrail:type": "Overlay",
+            "frametrail:tags": [],
+            "target": {
+                "type": "Video",
+                "source": "1_1795440001_adoration-colour.mp4",
+                "selector": {
+                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                    "type": "FragmentSelector",
+                    "value": "t=0,126&xywh=percent:0,0,100,100"
+                }
+            },
+            "body": {
+                "frametrail:type": "video",
+                "source": "1_1795440003_adoration-xray.mp4",
+                "frametrail:name": "X-ray",
+                "frametrail:thumb": null,
+                "frametrail:licenseType": "CC0",
+                "frametrail:licenseAttribution": "Hieronymus Bosch, The Adoration of the Magi (ca. 1475). The Metropolitan Museum of Art, New York, 13.26. Images: The Met, CC0, via Wikimedia Commons",
+                "frametrail:resourceId": "3",
+                "frametrail:attributes": {
+                    "autoPlay": true,
+                    "zIndex": 2
+                }
+            },
+            "frametrail:events": {}
+        },
+        {
+            "@context": [
+                "http://www.w3.org/ns/anno.jsonld",
+                "https://frametrail.org/ns/context.jsonld"
+            ],
+            "creator": {
+                "nickname": "demo",
+                "type": "Person",
+                "id": "1"
+            },
+            "created": "2026-11-22T16:00:00.003Z",
+            "type": "Annotation",
+            "frametrail:type": "Overlay",
+            "frametrail:tags": [],
+            "target": {
+                "type": "Video",
+                "source": "1_1795440001_adoration-colour.mp4",
+                "selector": {
+                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                    "type": "FragmentSelector",
+                    "value": "t=0.4,6&xywh=percent:1.5,10,25.5,30"
+                }
+            },
+            "body": {
+                "type": "TextualBody",
+                "frametrail:type": "text",
+                "format": "text/html",
+                "value": "",
+                "frametrail:name": "What this is",
+                "frametrail:attributes": {
+                    "text": "&lt;p&gt;&lt;span style=&quot;font-size: 21px;&quot;&gt;&lt;strong&gt;One painting, three pictures&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;A photograph, an infrared reflectogram and an X-ray of the same panel. Move the pointer or a finger over the picture to look beneath the paint, and choose the layer below.&lt;/span&gt;&lt;/p&gt;",
+                    "autoSize": "height",
+                    "box": {
+                        "background": "rgba(12, 14, 18, 0.86)",
+                        "textColor": "#ffffff",
+                        "padding": 20,
+                        "radius": 6
+                    },
+                    "zIndex": 6,
+                    "animation": {
+                        "in": {
+                            "preset": "fadeIn",
+                            "duration": 400
+                        },
+                        "out": {
+                            "preset": "fadeOut",
+                            "duration": 300
+                        }
+                    }
+                }
+            },
+            "frametrail:events": {
+                "onStart": "if (window.frametrailLens) { frametrailLens.show('infrared', 50, 50); }"
+            }
+        },
+        {
+            "@context": [
+                "http://www.w3.org/ns/anno.jsonld",
+                "https://frametrail.org/ns/context.jsonld"
+            ],
+            "creator": {
+                "nickname": "demo",
+                "type": "Person",
+                "id": "1"
+            },
+            "created": "2026-11-22T16:00:00.004Z",
+            "type": "Annotation",
+            "frametrail:type": "Overlay",
+            "frametrail:tags": [],
+            "target": {
+                "type": "Video",
+                "source": "1_1795440001_adoration-colour.mp4",
+                "selector": {
+                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                    "type": "FragmentSelector",
+                    "value": "t=13,22.5&xywh=percent:63,12,33,30"
+                }
+            },
+            "body": {
+                "type": "TextualBody",
+                "frametrail:type": "text",
+                "format": "text/html",
+                "value": "",
+                "frametrail:name": "Under the blue robe",
+                "frametrail:attributes": {
+                    "text": "&lt;p&gt;&lt;span style=&quot;font-size: 13px; color: #f2c66d;&quot;&gt;&lt;strong&gt;INFRARED&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size: 26px;&quot;&gt;&lt;strong&gt;Under the blue robe&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;Infrared light passes through many paints and is stopped by carbon black, so it shows what was drawn before the painting began. Under the Virgin&amp;#x27;s robe the folds appear as lines and hatching.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size: 13px; color: #b9c0c9;&quot;&gt;Move the lens, then press play to go on.&lt;/span&gt;&lt;/p&gt;",
+                    "autoSize": "height",
+                    "box": {
+                        "background": "rgba(12, 14, 18, 0.86)",
+                        "textColor": "#ffffff",
+                        "padding": 20,
+                        "radius": 6
+                    },
+                    "zIndex": 6,
+                    "animation": {
+                        "in": {
+                            "preset": "fadeIn",
+                            "duration": 400
+                        },
+                        "out": {
+                            "preset": "fadeOut",
+                            "duration": 300
+                        }
+                    }
+                }
+            },
+            "frametrail:events": {
+                "onStart": "if (window.frametrailLens) { frametrailLens.show('infrared', 47.6, 69.7); }"
+            },
+            "frametrail:pause": true
+        },
+        {
+            "@context": [
+                "http://www.w3.org/ns/anno.jsonld",
+                "https://frametrail.org/ns/context.jsonld"
+            ],
+            "creator": {
+                "nickname": "demo",
+                "type": "Person",
+                "id": "1"
+            },
+            "created": "2026-11-22T16:00:00.005Z",
+            "type": "Annotation",
+            "frametrail:type": "Overlay",
+            "frametrail:tags": [],
+            "target": {
+                "type": "Video",
+                "source": "1_1795440001_adoration-colour.mp4",
+                "selector": {
+                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                    "type": "FragmentSelector",
+                    "value": "t=35,44.5&xywh=percent:4,12,33,30"
+                }
+            },
+            "body": {
+                "type": "TextualBody",
+                "frametrail:type": "text",
+                "format": "text/html",
+                "value": "",
+                "frametrail:name": "A robe turns transparent",
+                "frametrail:attributes": {
+                    "text": "&lt;p&gt;&lt;span style=&quot;font-size: 13px; color: #f2c66d;&quot;&gt;&lt;strong&gt;INFRARED&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size: 26px;&quot;&gt;&lt;strong&gt;A robe turns transparent&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;The red robe of the kneeling king almost disappears in infrared, and the drawing beneath it shows. The fur collar, painted with black, stays dark.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size: 13px; color: #b9c0c9;&quot;&gt;Move the lens, then press play to go on.&lt;/span&gt;&lt;/p&gt;",
+                    "autoSize": "height",
+                    "box": {
+                        "background": "rgba(12, 14, 18, 0.86)",
+                        "textColor": "#ffffff",
+                        "padding": 20,
+                        "radius": 6
+                    },
+                    "zIndex": 6,
+                    "animation": {
+                        "in": {
+                            "preset": "fadeIn",
+                            "duration": 400
+                        },
+                        "out": {
+                            "preset": "fadeOut",
+                            "duration": 300
+                        }
+                    }
+                }
+            },
+            "frametrail:events": {
+                "onStart": "if (window.frametrailLens) { frametrailLens.show('infrared', 53.2, 57.2); }"
+            },
+            "frametrail:pause": true
+        },
+        {
+            "@context": [
+                "http://www.w3.org/ns/anno.jsonld",
+                "https://frametrail.org/ns/context.jsonld"
+            ],
+            "creator": {
+                "nickname": "demo",
+                "type": "Person",
+                "id": "1"
+            },
+            "created": "2026-11-22T16:00:00.006Z",
+            "type": "Annotation",
+            "frametrail:type": "Overlay",
+            "frametrail:tags": [],
+            "target": {
+                "type": "Video",
+                "source": "1_1795440001_adoration-colour.mp4",
+                "selector": {
+                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                    "type": "FragmentSelector",
+                    "value": "t=55,64.5&xywh=percent:4,12,33,30"
+                }
+            },
+            "body": {
+                "type": "TextualBody",
+                "frametrail:type": "text",
+                "format": "text/html",
+                "value": "",
+                "frametrail:name": "What stops an X-ray",
+                "frametrail:attributes": {
+                    "text": "&lt;p&gt;&lt;span style=&quot;font-size: 13px; color: #f2c66d;&quot;&gt;&lt;strong&gt;X-RAY&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size: 26px;&quot;&gt;&lt;strong&gt;What stops an X-ray&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;X-rays are stopped by dense pigments, above all lead white. The turban and the rows of pearls shine; thin dark paint leaves no trace.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size: 13px; color: #b9c0c9;&quot;&gt;Move the lens, then press play to go on.&lt;/span&gt;&lt;/p&gt;",
+                    "autoSize": "height",
+                    "box": {
+                        "background": "rgba(12, 14, 18, 0.86)",
+                        "textColor": "#ffffff",
+                        "padding": 20,
+                        "radius": 6
+                    },
+                    "zIndex": 6,
+                    "animation": {
+                        "in": {
+                            "preset": "fadeIn",
+                            "duration": 400
+                        },
+                        "out": {
+                            "preset": "fadeOut",
+                            "duration": 300
+                        }
+                    }
+                }
+            },
+            "frametrail:events": {
+                "onStart": "if (window.frametrailLens) { frametrailLens.show('xray', 67.7, 32.1); }"
+            },
+            "frametrail:pause": true
+        },
+        {
+            "@context": [
+                "http://www.w3.org/ns/anno.jsonld",
+                "https://frametrail.org/ns/context.jsonld"
+            ],
+            "creator": {
+                "nickname": "demo",
+                "type": "Person",
+                "id": "1"
+            },
+            "created": "2026-11-22T16:00:00.007Z",
+            "type": "Annotation",
+            "frametrail:type": "Overlay",
+            "frametrail:tags": [],
+            "target": {
+                "type": "Video",
+                "source": "1_1795440001_adoration-colour.mp4",
+                "selector": {
+                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                    "type": "FragmentSelector",
+                    "value": "t=75,84.5&xywh=percent:63,12,33,30"
+                }
+            },
+            "body": {
+                "type": "TextualBody",
+                "frametrail:type": "text",
+                "format": "text/html",
+                "value": "",
+                "frametrail:name": "Bright patches with sharp edges",
+                "frametrail:attributes": {
+                    "text": "&lt;p&gt;&lt;span style=&quot;font-size: 13px; color: #f2c66d;&quot;&gt;&lt;strong&gt;X-RAY&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size: 26px;&quot;&gt;&lt;strong&gt;Bright patches with sharp edges&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;In the man&amp;#x27;s green robe the X-ray shows bright patches with sharp, irregular edges that the painting does not show. They are probably old repairs: the materials used to fill losses often stop X-rays.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size: 13px; color: #b9c0c9;&quot;&gt;Move the lens, then press play to go on.&lt;/span&gt;&lt;/p&gt;",
+                    "autoSize": "height",
+                    "box": {
+                        "background": "rgba(12, 14, 18, 0.86)",
+                        "textColor": "#ffffff",
+                        "padding": 20,
+                        "radius": 6
+                    },
+                    "zIndex": 6,
+                    "animation": {
+                        "in": {
+                            "preset": "fadeIn",
+                            "duration": 400
+                        },
+                        "out": {
+                            "preset": "fadeOut",
+                            "duration": 300
+                        }
+                    }
+                }
+            },
+            "frametrail:events": {
+                "onStart": "if (window.frametrailLens) { frametrailLens.show('xray', 33.9, 57.2); }"
+            },
+            "frametrail:pause": true
+        },
+        {
+            "@context": [
+                "http://www.w3.org/ns/anno.jsonld",
+                "https://frametrail.org/ns/context.jsonld"
+            ],
+            "creator": {
+                "nickname": "demo",
+                "type": "Person",
+                "id": "1"
+            },
+            "created": "2026-11-22T16:00:00.008Z",
+            "type": "Annotation",
+            "frametrail:type": "Overlay",
+            "frametrail:tags": [],
+            "target": {
+                "type": "Video",
+                "source": "1_1795440001_adoration-colour.mp4",
+                "selector": {
+                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                    "type": "FragmentSelector",
+                    "value": "t=95,104.5&xywh=percent:63,12,33,30"
+                }
+            },
+            "body": {
+                "type": "TextualBody",
+                "frametrail:type": "text",
+                "format": "text/html",
+                "value": "",
+                "frametrail:name": "A dog made of lead white",
+                "frametrail:attributes": {
+                    "text": "&lt;p&gt;&lt;span style=&quot;font-size: 13px; color: #f2c66d;&quot;&gt;&lt;strong&gt;X-RAY&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size: 26px;&quot;&gt;&lt;strong&gt;A dog made of lead white&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;The little dog is painted almost entirely in lead white. In the X-ray it glows, while the ground it sits on is hardly there.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size: 13px; color: #b9c0c9;&quot;&gt;Move the lens, then press play to go on.&lt;/span&gt;&lt;/p&gt;",
+                    "autoSize": "height",
+                    "box": {
+                        "background": "rgba(12, 14, 18, 0.86)",
+                        "textColor": "#ffffff",
+                        "padding": 20,
+                        "radius": 6
+                    },
+                    "zIndex": 6,
+                    "animation": {
+                        "in": {
+                            "preset": "fadeIn",
+                            "duration": 400
+                        },
+                        "out": {
+                            "preset": "fadeOut",
+                            "duration": 300
+                        }
+                    }
+                }
+            },
+            "frametrail:events": {
+                "onStart": "if (window.frametrailLens) { frametrailLens.show('xray', 50.0, 64.3); }"
+            },
+            "frametrail:pause": true
+        },
+        {
+            "@context": [
+                "http://www.w3.org/ns/anno.jsonld",
+                "https://frametrail.org/ns/context.jsonld"
+            ],
+            "creator": {
+                "nickname": "demo",
+                "type": "Person",
+                "id": "1"
+            },
+            "created": "2026-11-22T16:00:00.009Z",
+            "type": "Annotation",
+            "frametrail:type": "Overlay",
+            "frametrail:tags": [],
+            "target": {
+                "type": "Video",
+                "source": "1_1795440001_adoration-colour.mp4",
+                "selector": {
+                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                    "type": "FragmentSelector",
+                    "value": "t=113.5,123&xywh=percent:63,12,33,30"
+                }
+            },
+            "body": {
+                "type": "TextualBody",
+                "frametrail:type": "text",
+                "format": "text/html",
+                "value": "",
+                "frametrail:name": "The grid is not in the painting",
+                "frametrail:attributes": {
+                    "text": "&lt;p&gt;&lt;span style=&quot;font-size: 13px; color: #f2c66d;&quot;&gt;&lt;strong&gt;X-RAY&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size: 26px;&quot;&gt;&lt;strong&gt;The grid is not in the painting&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;An X-ray sees through everything at once, also the back. The grid is a cradle: wooden bars fixed to the back of the oak panel to keep it flat.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size: 13px; color: #b9c0c9;&quot;&gt;Move the lens, then press play to go on.&lt;/span&gt;&lt;/p&gt;",
+                    "autoSize": "height",
+                    "box": {
+                        "background": "rgba(12, 14, 18, 0.86)",
+                        "textColor": "#ffffff",
+                        "padding": 20,
+                        "radius": 6
+                    },
+                    "zIndex": 6,
+                    "animation": {
+                        "in": {
+                            "preset": "fadeIn",
+                            "duration": 400
+                        },
+                        "out": {
+                            "preset": "fadeOut",
+                            "duration": 300
+                        }
+                    }
+                }
+            },
+            "frametrail:events": {
+                "onStart": "if (window.frametrailLens) { frametrailLens.show('xray', 50.0, 45.2); }"
+            },
+            "frametrail:pause": true
+        }
+    ]
+}

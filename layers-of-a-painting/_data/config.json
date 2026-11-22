@@ -1,0 +1,36 @@
+{
+    "updateServiceURL": "https://update.frametrail.org",
+    "autoUpdate": false,
+    "allowCaching": false,
+    "captureUserTraces": false,
+    "userTracesStartAction": "",
+    "userTracesEndAction": "",
+    "userNeedsConfirmation": true,
+    "alwaysForceLogin": false,
+    "allowUploads": true,
+    "theme": "obsidian",
+    "videoFit": "contain",
+    "defaultLanguage": "en",
+    "overviewTitle": "Layers of a Painting",
+    "extensions": [
+        {
+            "name": "lens",
+            "script": "extensions/lens/lens.js",
+            "style": "extensions/lens/lens.css",
+            "settings": {
+                "radius": 13,
+                "start": "infrared",
+                "layers": {
+                    "infrared": {
+                        "label": "Infrared",
+                        "match": "adoration-infrared"
+                    },
+                    "xray": {
+                        "label": "X-ray",
+                        "match": "adoration-xray"
+                    }
+                }
+            }
+        }
+    ]
+}

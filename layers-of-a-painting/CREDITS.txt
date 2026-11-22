@@ -1,0 +1,22 @@
+Layers of a Painting
+====================
+
+Painting
+    Hieronymus Bosch, "The Adoration of the Magi" (ca. 1475), oil and gold on oak.
+    The Metropolitan Museum of Art, New York, John Stewart Kennedy Fund, 1913 (13.26).
+
+Images (all three: The Metropolitan Museum of Art, CC0, donated to Wikimedia Commons)
+    Photograph:            https://commons.wikimedia.org/wiki/File:The_Adoration_of_the_Magi_MET_DP372687.jpg
+    Infrared reflectogram: https://commons.wikimedia.org/wiki/File:The_Adoration_of_the_Magi_MET_Bosch_13_26_IRR.jpg
+    X-ray:                 https://commons.wikimedia.org/wiki/File:The_Adoration_of_the_Magi_MET_Bosch_13_26_Xray.jpg
+
+Films
+    Made from those images for this example (the infrared image and the X-ray laid over the photograph,
+    the X-ray with more contrast). Public domain (CC0).
+
+Texts
+    Written for this example. They describe what the three images show and how such images are
+    generally read; they are not the museum's technical report. Public domain (CC0).
+
+Extension "lens", data and build scripts
+    Written for this example. Public domain (CC0).
