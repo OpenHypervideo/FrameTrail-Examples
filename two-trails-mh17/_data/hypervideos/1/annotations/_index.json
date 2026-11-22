@@ -1,0 +1,32 @@
+{
+    "mainAnnotation": "2",
+    "annotationfiles": {
+        "2": {
+            "name": "The investigators",
+            "description": "The investigators",
+            "created": 1795460000,
+            "lastchanged": 1795460100000,
+            "hidden": false,
+            "owner": "The investigators",
+            "ownerId": 2
+        },
+        "3": {
+            "name": "Open sources",
+            "description": "Open sources",
+            "created": 1795460000,
+            "lastchanged": 1795460100000,
+            "hidden": false,
+            "owner": "Open sources",
+            "ownerId": 3
+        },
+        "4": {
+            "name": "17 July 2014",
+            "description": "17 July 2014",
+            "created": 1795460000,
+            "lastchanged": 1795460100000,
+            "hidden": false,
+            "owner": "17 July 2014",
+            "ownerId": 4
+        }
+    }
+}

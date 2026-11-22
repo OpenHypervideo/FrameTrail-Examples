@@ -1,0 +1,38 @@
+{
+    "user-increment": 4,
+    "user": {
+        "1": {
+            "name": "demo",
+            "mail": "demo@frametrail.org",
+            "passwd": "$2y$10$CTWodl.uA9PqSQnOv/OPC.dkY7OU9jOnlJrPbYs1euqz/lowux6m6",
+            "role": "admin",
+            "registrationDate": 1795460000,
+            "color": "597081",
+            "active": 1
+        },
+        "2": {
+            "name": "The investigators",
+            "mail": "",
+            "role": "user",
+            "registrationDate": 1795460000,
+            "color": "2f8fdd",
+            "active": 1
+        },
+        "3": {
+            "name": "Open sources",
+            "mail": "",
+            "role": "user",
+            "registrationDate": 1795460000,
+            "color": "d9a441",
+            "active": 1
+        },
+        "4": {
+            "name": "17 July 2014",
+            "mail": "",
+            "role": "user",
+            "registrationDate": 1795460000,
+            "color": "e0604f",
+            "active": 1
+        }
+    }
+}

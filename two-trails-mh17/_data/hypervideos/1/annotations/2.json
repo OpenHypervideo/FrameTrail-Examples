@@ -1,0 +1,527 @@
+[
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "The investigators",
+            "type": "Person",
+            "id": "2"
+        },
+        "created": "2026-11-22T18:00:00.001Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/Sf6gJ8NDhYA",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=17,36"
+            }
+        },
+        "body": {
+            "type": "TextualBody",
+            "frametrail:type": "text",
+            "format": "text/html",
+            "value": "",
+            "frametrail:name": "Phone towers and intercepted calls",
+            "frametrail:attributes": {
+                "text": "&lt;div class=&quot;dossierNote&quot; data-layer=&quot;2&quot;&gt;&lt;p class=&quot;dossierLayer&quot;&gt;The investigators&lt;/p&gt;&lt;p class=&quot;dossierTitle&quot;&gt;Phone towers and intercepted calls&lt;/p&gt;&lt;p&gt;Which telephone towers picked up the phones of the officers escorting the convoy, and recorded calls in which they talk about where they are and the route to follow.&lt;/p&gt;&lt;/div&gt;"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "The investigators",
+            "type": "Person",
+            "id": "2"
+        },
+        "created": "2026-11-22T18:00:00.002Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/Sf6gJ8NDhYA",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=37,47"
+            }
+        },
+        "body": {
+            "type": "TextualBody",
+            "frametrail:type": "text",
+            "format": "text/html",
+            "value": "",
+            "frametrail:name": "Witnesses",
+            "frametrail:attributes": {
+                "text": "&lt;div class=&quot;dossierNote&quot; data-layer=&quot;2&quot;&gt;&lt;p class=&quot;dossierLayer&quot;&gt;The investigators&lt;/p&gt;&lt;p class=&quot;dossierTitle&quot;&gt;Witnesses&lt;/p&gt;&lt;p&gt;Many people saw the launcher pass. After the public call of 2015, many said they were willing to testify.&lt;/p&gt;&lt;/div&gt;"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "The investigators",
+            "type": "Person",
+            "id": "2"
+        },
+        "created": "2026-11-22T18:00:00.003Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/Sf6gJ8NDhYA",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=47,60"
+            }
+        },
+        "body": {
+            "type": "TextualBody",
+            "frametrail:type": "text",
+            "format": "text/html",
+            "value": "",
+            "frametrail:name": "Photographs and videos",
+            "frametrail:attributes": {
+                "text": "&lt;div class=&quot;dossierNote&quot; data-layer=&quot;2&quot;&gt;&lt;p class=&quot;dossierLayer&quot;&gt;The investigators&lt;/p&gt;&lt;p class=&quot;dossierTitle&quot;&gt;Photographs and videos&lt;/p&gt;&lt;p&gt;Found on social media, and checked for authenticity.&lt;/p&gt;&lt;/div&gt;"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "The investigators",
+            "type": "Person",
+            "id": "2"
+        },
+        "created": "2026-11-22T18:00:00.004Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/Sf6gJ8NDhYA",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=138,175"
+            }
+        },
+        "body": {
+            "type": "TextualBody",
+            "frametrail:type": "text",
+            "format": "text/html",
+            "value": "",
+            "frametrail:name": "The convoy",
+            "frametrail:attributes": {
+                "text": "&lt;div class=&quot;dossierNote&quot; data-layer=&quot;2&quot;&gt;&lt;p class=&quot;dossierLayer&quot;&gt;The investigators&lt;/p&gt;&lt;p class=&quot;dossierTitle&quot;&gt;The convoy&lt;/p&gt;&lt;p&gt;A white Volvo truck with a red low-loader, carrying the launcher with four missiles under a camouflage net; escorted by a Volkswagen Transporter and a UAZ jeep with armed men in uniform.&lt;/p&gt;&lt;/div&gt;"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "The investigators",
+            "type": "Person",
+            "id": "2"
+        },
+        "created": "2026-11-22T18:00:00.005Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/Sf6gJ8NDhYA",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=194,212"
+            }
+        },
+        "body": {
+            "type": "TextualBody",
+            "frametrail:type": "text",
+            "format": "text/html",
+            "value": "",
+            "frametrail:name": "The original footage",
+            "frametrail:attributes": {
+                "text": "&lt;div class=&quot;dossierNote&quot; data-layer=&quot;2&quot;&gt;&lt;p class=&quot;dossierLayer&quot;&gt;The investigators&lt;/p&gt;&lt;p class=&quot;dossierTitle&quot;&gt;The original footage&lt;/p&gt;&lt;p&gt;The photograph that Paris Match published was a still from a video. The team has since obtained the original footage.&lt;/p&gt;&lt;/div&gt;"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "The investigators",
+            "type": "Person",
+            "id": "2"
+        },
+        "created": "2026-11-22T18:00:00.006Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/Sf6gJ8NDhYA",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=246,265"
+            }
+        },
+        "body": {
+            "type": "TextualBody",
+            "frametrail:type": "text",
+            "format": "text/html",
+            "value": "",
+            "frametrail:name": "New images from Torez",
+            "frametrail:attributes": {
+                "text": "&lt;div class=&quot;dossierNote&quot; data-layer=&quot;2&quot;&gt;&lt;p class=&quot;dossierLayer&quot;&gt;The investigators&lt;/p&gt;&lt;p class=&quot;dossierTitle&quot;&gt;New images from Torez&lt;/p&gt;&lt;p&gt;Shown with the background cut out, to protect the person who filmed them.&lt;/p&gt;&lt;/div&gt;"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "The investigators",
+            "type": "Person",
+            "id": "2"
+        },
+        "created": "2026-11-22T18:00:00.007Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/Sf6gJ8NDhYA",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=311,342"
+            }
+        },
+        "body": {
+            "type": "TextualBody",
+            "frametrail:type": "text",
+            "format": "text/html",
+            "value": "",
+            "frametrail:name": "The launch site",
+            "frametrail:attributes": {
+                "text": "&lt;div class=&quot;dossierNote&quot; data-layer=&quot;2&quot;&gt;&lt;p class=&quot;dossierLayer&quot;&gt;The investigators&lt;/p&gt;&lt;p class=&quot;dossierTitle&quot;&gt;The launch site&lt;/p&gt;&lt;p&gt;Farmland near Pervomaiskyi. The team says the evidence shows this “without any doubt”.&lt;/p&gt;&lt;p class=&quot;dossierLink&quot;&gt;&lt;a href=&quot;https://www.prosecutionservice.nl/topics/mh17-plane-crash/criminal-investigation-jit-mh17/jit-presentation-first-results-mh17-criminal-investigation-28-9-2016&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;The team&amp;#x27;s presentation of 28 September 2016 ↗&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "The investigators",
+            "type": "Person",
+            "id": "2"
+        },
+        "created": "2026-11-22T18:00:00.008Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/Sf6gJ8NDhYA",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=346,387"
+            }
+        },
+        "body": {
+            "type": "TextualBody",
+            "frametrail:type": "text",
+            "format": "text/html",
+            "value": "",
+            "frametrail:name": "Witnesses near the launch",
+            "frametrail:attributes": {
+                "text": "&lt;div class=&quot;dossierNote&quot; data-layer=&quot;2&quot;&gt;&lt;p class=&quot;dossierLayer&quot;&gt;The investigators&lt;/p&gt;&lt;p class=&quot;dossierTitle&quot;&gt;Witnesses near the launch&lt;/p&gt;&lt;p&gt;Some were very close: a very loud noise, a violent explosion, a high whistling sound. Others saw a plume of smoke, or a trail they describe as white, very thick and very long.&lt;/p&gt;&lt;/div&gt;"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "The investigators",
+            "type": "Person",
+            "id": "2"
+        },
+        "created": "2026-11-22T18:00:00.009Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/Sf6gJ8NDhYA",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=388,412"
+            }
+        },
+        "body": {
+            "type": "TextualBody",
+            "frametrail:type": "text",
+            "format": "text/html",
+            "value": "",
+            "frametrail:name": "The photograph, examined",
+            "frametrail:attributes": {
+                "text": "&lt;div class=&quot;dossierNote&quot; data-layer=&quot;2&quot;&gt;&lt;p class=&quot;dossierLayer&quot;&gt;The investigators&lt;/p&gt;&lt;p class=&quot;dossierTitle&quot;&gt;The photograph, examined&lt;/p&gt;&lt;p&gt;The Netherlands Forensic Institute found no indication that the photograph of the trail was manipulated. The Dutch meteorological institute notes it was neither a cloud nor an aircraft&amp;#x27;s contrail.&lt;/p&gt;&lt;/div&gt;"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "The investigators",
+            "type": "Person",
+            "id": "2"
+        },
+        "created": "2026-11-22T18:00:00.010Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/Sf6gJ8NDhYA",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=429,448"
+            }
+        },
+        "body": {
+            "type": "TextualBody",
+            "frametrail:type": "text",
+            "format": "text/html",
+            "value": "",
+            "frametrail:name": "Lines of sight",
+            "frametrail:attributes": {
+                "text": "&lt;div class=&quot;dossierNote&quot; data-layer=&quot;2&quot;&gt;&lt;p class=&quot;dossierLayer&quot;&gt;The investigators&lt;/p&gt;&lt;p class=&quot;dossierTitle&quot;&gt;Lines of sight&lt;/p&gt;&lt;p&gt;The directions in which the photographer and the witnesses were looking are drawn on the map. They meet very close to the farmland.&lt;/p&gt;&lt;/div&gt;"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "The investigators",
+            "type": "Person",
+            "id": "2"
+        },
+        "created": "2026-11-22T18:00:00.011Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/Sf6gJ8NDhYA",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=481,499"
+            }
+        },
+        "body": {
+            "type": "TextualBody",
+            "frametrail:type": "text",
+            "format": "text/html",
+            "value": "",
+            "frametrail:name": "A phone and a tower",
+            "frametrail:attributes": {
+                "text": "&lt;div class=&quot;dossierNote&quot; data-layer=&quot;2&quot;&gt;&lt;p class=&quot;dossierLayer&quot;&gt;The investigators&lt;/p&gt;&lt;p class=&quot;dossierTitle&quot;&gt;A phone and a tower&lt;/p&gt;&lt;p&gt;The phone of one speaker in the intercepted call connects to the tower nearest the launch site, and the field and forest he describes match the surroundings.&lt;/p&gt;&lt;/div&gt;"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "The investigators",
+            "type": "Person",
+            "id": "2"
+        },
+        "created": "2026-11-22T18:00:00.012Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/Sf6gJ8NDhYA",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=539,571"
+            }
+        },
+        "body": {
+            "type": "TextualBody",
+            "frametrail:type": "text",
+            "format": "text/html",
+            "value": "",
+            "frametrail:name": "Satellite images of 16 and 21 July",
+            "frametrail:attributes": {
+                "text": "&lt;div class=&quot;dossierNote&quot; data-layer=&quot;2&quot;&gt;&lt;p class=&quot;dossierLayer&quot;&gt;The investigators&lt;/p&gt;&lt;p class=&quot;dossierTitle&quot;&gt;Satellite images of 16 and 21 July&lt;/p&gt;&lt;p&gt;The later image shows a charred and ploughed patch that is not there on the earlier one, and the tracks of caterpillar vehicles.&lt;/p&gt;&lt;/div&gt;"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "The investigators",
+            "type": "Person",
+            "id": "2"
+        },
+        "created": "2026-11-22T18:00:00.013Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/Sf6gJ8NDhYA",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=584,596"
+            }
+        },
+        "body": {
+            "type": "TextualBody",
+            "frametrail:type": "text",
+            "format": "text/html",
+            "value": "",
+            "frametrail:name": "The way back",
+            "frametrail:attributes": {
+                "text": "&lt;div class=&quot;dossierNote&quot; data-layer=&quot;2&quot;&gt;&lt;p class=&quot;dossierLayer&quot;&gt;The investigators&lt;/p&gt;&lt;p class=&quot;dossierTitle&quot;&gt;The way back&lt;/p&gt;&lt;p&gt;Partly established from telecommunication data and the statement of a separatist who took part in the removal.&lt;/p&gt;&lt;/div&gt;"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "The investigators",
+            "type": "Person",
+            "id": "2"
+        },
+        "created": "2026-11-22T18:00:00.014Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/Sf6gJ8NDhYA",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=615,627"
+            }
+        },
+        "body": {
+            "type": "TextualBody",
+            "frametrail:type": "text",
+            "format": "text/html",
+            "value": "",
+            "frametrail:name": "Three missiles",
+            "frametrail:attributes": {
+                "text": "&lt;div class=&quot;dossierNote&quot; data-layer=&quot;2&quot;&gt;&lt;p class=&quot;dossierLayer&quot;&gt;The investigators&lt;/p&gt;&lt;p class=&quot;dossierTitle&quot;&gt;Three missiles&lt;/p&gt;&lt;p&gt;In the video made in Luhansk in the early morning, only three missiles are on the launcher.&lt;/p&gt;&lt;/div&gt;"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "The investigators",
+            "type": "Person",
+            "id": "2"
+        },
+        "created": "2026-11-22T18:00:00.015Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/Sf6gJ8NDhYA",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=634,650"
+            }
+        },
+        "body": {
+            "type": "TextualBody",
+            "frametrail:type": "text",
+            "format": "text/html",
+            "value": "",
+            "frametrail:name": "Back across the border",
+            "frametrail:attributes": {
+                "text": "&lt;div class=&quot;dossierNote&quot; data-layer=&quot;2&quot;&gt;&lt;p class=&quot;dossierLayer&quot;&gt;The investigators&lt;/p&gt;&lt;p class=&quot;dossierTitle&quot;&gt;Back across the border&lt;/p&gt;&lt;p&gt;Calls intercepted on the morning of 18 July show that the launcher was by then back in the Russian Federation.&lt;/p&gt;&lt;/div&gt;"
+            }
+        }
+    }
+]

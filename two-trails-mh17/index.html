@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+    <meta http-equiv="cache-control" content="no-cache">
+    <title>Two Trails: The Route of the Buk (2026) - FrameTrail Demo</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@frametrail/frametrail@v1.4.7/frametrail.min.css">
+    <link rel="stylesheet" href="_data/custom.css">
+    <script src="https://cdn.jsdelivr.net/npm/@frametrail/frametrail@v1.4.7/frametrail.min.js"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            window.myInstance = FrameTrail.init({
+                target:         'body',
+                dataPath:       './_data/',
+                startID:        '1',
+                users:          { '2': { name: 'The investigators', color: '2f8fdd' },
+                                  '3': { name: 'Open sources', color: 'd9a441' },
+                                  '4': { name: '17 July 2014', color: 'e0604f' } },
+                resources:      [{ label: "Choose Resources",
+                                   data: "_data/resources/_index.json",
+                                   type: "frametrail" }]
+            });
+        });
+    </script>
+</head>
+<body></body>
+</html>

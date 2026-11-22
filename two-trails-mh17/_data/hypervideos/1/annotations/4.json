@@ -1,0 +1,247 @@
+[
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "17 July 2014",
+            "type": "Person",
+            "id": "4"
+        },
+        "created": "2026-11-22T18:00:00.028Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/Sf6gJ8NDhYA",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=83,137"
+            }
+        },
+        "body": {
+            "type": "TextualBody",
+            "frametrail:type": "text",
+            "format": "text/html",
+            "value": "",
+            "frametrail:name": "About 08:00 · Yenakiieve",
+            "frametrail:attributes": {
+                "text": "&lt;div class=&quot;dossierNote&quot; data-layer=&quot;4&quot;&gt;&lt;p class=&quot;dossierLayer&quot;&gt;17 July 2014&lt;/p&gt;&lt;p class=&quot;dossierTitle&quot;&gt;About 08:00 · Yenakiieve&lt;/p&gt;&lt;p&gt;A witness sees the convoy. It has come from the Russian border during the previous hours.&lt;/p&gt;&lt;/div&gt;"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "17 July 2014",
+            "type": "Person",
+            "id": "4"
+        },
+        "created": "2026-11-22T18:00:00.029Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/Sf6gJ8NDhYA",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=175,213"
+            }
+        },
+        "body": {
+            "type": "TextualBody",
+            "frametrail:type": "text",
+            "format": "text/html",
+            "value": "",
+            "frametrail:name": "Morning · Donetsk",
+            "frametrail:attributes": {
+                "text": "&lt;div class=&quot;dossierNote&quot; data-layer=&quot;4&quot;&gt;&lt;p class=&quot;dossierLayer&quot;&gt;17 July 2014&lt;/p&gt;&lt;p class=&quot;dossierTitle&quot;&gt;Morning · Donetsk&lt;/p&gt;&lt;p&gt;The convoy stops twice: at a crossing, and at the side of the Makiivka highway.&lt;/p&gt;&lt;/div&gt;"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "17 July 2014",
+            "type": "Person",
+            "id": "4"
+        },
+        "created": "2026-11-22T18:00:00.030Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/Sf6gJ8NDhYA",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=214,245"
+            }
+        },
+        "body": {
+            "type": "TextualBody",
+            "frametrail:type": "text",
+            "format": "text/html",
+            "value": "",
+            "frametrail:name": "11:00 · Road 21",
+            "frametrail:attributes": {
+                "text": "&lt;div class=&quot;dossierNote&quot; data-layer=&quot;4&quot;&gt;&lt;p class=&quot;dossierLayer&quot;&gt;17 July 2014&lt;/p&gt;&lt;p class=&quot;dossierTitle&quot;&gt;11:00 · Road 21&lt;/p&gt;&lt;p&gt;The convoy leaves Donetsk eastwards: Makiivka, Zuhres, Torez.&lt;/p&gt;&lt;/div&gt;"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "17 July 2014",
+            "type": "Person",
+            "id": "4"
+        },
+        "created": "2026-11-22T18:00:00.031Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/Sf6gJ8NDhYA",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=265,310"
+            }
+        },
+        "body": {
+            "type": "TextualBody",
+            "frametrail:type": "text",
+            "format": "text/html",
+            "value": "",
+            "frametrail:name": "Around midday · Snizhne",
+            "frametrail:attributes": {
+                "text": "&lt;div class=&quot;dossierNote&quot; data-layer=&quot;4&quot;&gt;&lt;p class=&quot;dossierLayer&quot;&gt;17 July 2014&lt;/p&gt;&lt;p class=&quot;dossierTitle&quot;&gt;Around midday · Snizhne&lt;/p&gt;&lt;p&gt;The launcher is unloaded near the Furshet supermarket and drives on by itself.&lt;/p&gt;&lt;/div&gt;"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "17 July 2014",
+            "type": "Person",
+            "id": "4"
+        },
+        "created": "2026-11-22T18:00:00.032Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/Sf6gJ8NDhYA",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=311,345"
+            }
+        },
+        "body": {
+            "type": "TextualBody",
+            "frametrail:type": "text",
+            "format": "text/html",
+            "value": "",
+            "frametrail:name": "16:20 · Pervomaiskyi",
+            "frametrail:attributes": {
+                "text": "&lt;div class=&quot;dossierNote&quot; data-layer=&quot;4&quot;&gt;&lt;p class=&quot;dossierLayer&quot;&gt;17 July 2014&lt;/p&gt;&lt;p class=&quot;dossierTitle&quot;&gt;16:20 · Pervomaiskyi&lt;/p&gt;&lt;p&gt;Flight MH17 is shot down. 298 people are killed.&lt;/p&gt;&lt;/div&gt;"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "17 July 2014",
+            "type": "Person",
+            "id": "4"
+        },
+        "created": "2026-11-22T18:00:00.033Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/Sf6gJ8NDhYA",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=601,614"
+            }
+        },
+        "body": {
+            "type": "TextualBody",
+            "frametrail:type": "text",
+            "format": "text/html",
+            "value": "",
+            "frametrail:name": "Late evening · Snizhne",
+            "frametrail:attributes": {
+                "text": "&lt;div class=&quot;dossierNote&quot; data-layer=&quot;4&quot;&gt;&lt;p class=&quot;dossierLayer&quot;&gt;17 July 2014&lt;/p&gt;&lt;p class=&quot;dossierTitle&quot;&gt;Late evening · Snizhne&lt;/p&gt;&lt;p&gt;The launcher is loaded onto the low-loader again.&lt;/p&gt;&lt;/div&gt;"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "17 July 2014",
+            "type": "Person",
+            "id": "4"
+        },
+        "created": "2026-11-22T18:00:00.034Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/Sf6gJ8NDhYA",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=615,633"
+            }
+        },
+        "body": {
+            "type": "TextualBody",
+            "frametrail:type": "text",
+            "format": "text/html",
+            "value": "",
+            "frametrail:name": "18 July, early morning · Luhansk",
+            "frametrail:attributes": {
+                "text": "&lt;div class=&quot;dossierNote&quot; data-layer=&quot;4&quot;&gt;&lt;p class=&quot;dossierLayer&quot;&gt;17 July 2014&lt;/p&gt;&lt;p class=&quot;dossierTitle&quot;&gt;18 July, early morning · Luhansk&lt;/p&gt;&lt;p&gt;Via Krasnyi Luch and Debaltseve to Luhansk, and on to the border.&lt;/p&gt;&lt;/div&gt;"
+            }
+        }
+    }
+]

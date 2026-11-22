@@ -1,0 +1,18 @@
+{
+    "resources-increment": 1,
+    "resources": {
+        "1": {
+            "name": "MH17: the transport route and the launch site (JIT)",
+            "type": "youtube",
+            "src": "https://www.youtube.com/embed/Sf6gJ8NDhYA",
+            "thumb": "https://img.youtube.com/vi/Sf6gJ8NDhYA/hqdefault.jpg",
+            "description": null,
+            "creator": "demo",
+            "creatorId": "1",
+            "created": 1795460000,
+            "licenseType": "Copyright",
+            "licenseAttribution": "Joint Investigation Team MH17 / Netherlands Public Prosecution Service, “MH17 Animation regarding the transport route and the launch site” (2016); embedded from the Prosecution Service's YouTube channel",
+            "attributes": {}
+        }
+    }
+}

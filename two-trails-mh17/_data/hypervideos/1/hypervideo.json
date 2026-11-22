@@ -1,0 +1,245 @@
+{
+    "meta": {
+        "name": "Two Trails: The Route of the Buk",
+        "description": "The Joint Investigation Team’s animation of how the missile launcher that shot down flight MH17 was brought to its launch site and taken away, with the evidence the investigators name and the earlier open-source findings as layers beside it, a timeline of the day, and corrected captions.",
+        "thumb": "https://img.youtube.com/vi/Sf6gJ8NDhYA/hqdefault.jpg",
+        "creator": "demo",
+        "creatorId": "1",
+        "created": 1795460100000,
+        "lastchanged": 1795460100000
+    },
+    "config": {
+        "slidingMode": "adjust",
+        "slidingTrigger": "key",
+        "autohideControls": false,
+        "captionsVisible": true,
+        "clipTimeVisible": false,
+        "layoutArea": {
+            "areaTop": [],
+            "areaLeft": [],
+            "areaBottom": [
+                {
+                    "type": "Timelines",
+                    "name": "Layers",
+                    "description": "",
+                    "icon": "",
+                    "cssClass": "",
+                    "contentSize": "medium",
+                    "initClosed": false,
+                    "collectionFilter": {
+                        "tags": [],
+                        "types": [],
+                        "users": [],
+                        "text": ""
+                    },
+                    "filterAspect": "creatorId",
+                    "zoomControls": false
+                }
+            ],
+            "areaRight": [
+                {
+                    "type": "TimedContent",
+                    "name": "17 July 2014",
+                    "description": "",
+                    "icon": "",
+                    "cssClass": "dossierView",
+                    "contentSize": "large",
+                    "initClosed": false,
+                    "collectionFilter": {
+                        "tags": [],
+                        "types": [],
+                        "users": [
+                            "4"
+                        ],
+                        "text": ""
+                    },
+                    "onClickContentItem": ""
+                },
+                {
+                    "type": "TimedContent",
+                    "name": "Open sources",
+                    "description": "",
+                    "icon": "",
+                    "cssClass": "dossierView",
+                    "contentSize": "large",
+                    "initClosed": false,
+                    "collectionFilter": {
+                        "tags": [],
+                        "types": [],
+                        "users": [
+                            "3"
+                        ],
+                        "text": ""
+                    },
+                    "onClickContentItem": ""
+                },
+                {
+                    "type": "TimedContent",
+                    "name": "The investigators",
+                    "description": "",
+                    "icon": "",
+                    "cssClass": "dossierView",
+                    "contentSize": "large",
+                    "initClosed": false,
+                    "collectionFilter": {
+                        "tags": [],
+                        "types": [],
+                        "users": [
+                            "2"
+                        ],
+                        "text": ""
+                    },
+                    "onClickContentItem": ""
+                },
+                {
+                    "type": "TimedContent",
+                    "name": "Everything",
+                    "description": "",
+                    "icon": "",
+                    "cssClass": "dossierView",
+                    "contentSize": "large",
+                    "initClosed": false,
+                    "collectionFilter": {
+                        "tags": [],
+                        "types": [],
+                        "users": [],
+                        "text": ""
+                    },
+                    "onClickContentItem": ""
+                }
+            ]
+        }
+    },
+    "clips": [
+        {
+            "resourceId": "1",
+            "src": "https://www.youtube.com/embed/Sf6gJ8NDhYA",
+            "duration": 732,
+            "start": 0,
+            "end": 0,
+            "in": 0,
+            "out": 0
+        }
+    ],
+    "chapters": [
+        {
+            "start": 0,
+            "title": "The questions"
+        },
+        {
+            "start": 17,
+            "title": "The kinds of evidence"
+        },
+        {
+            "start": 81,
+            "title": "From the border"
+        },
+        {
+            "start": 175,
+            "title": "Donetsk"
+        },
+        {
+            "start": 214,
+            "title": "Road 21"
+        },
+        {
+            "start": 265,
+            "title": "Snizhne"
+        },
+        {
+            "start": 311,
+            "title": "The launch site"
+        },
+        {
+            "start": 346,
+            "title": "Witnesses and the smoke trail"
+        },
+        {
+            "start": 449,
+            "title": "A telephone call"
+        },
+        {
+            "start": 499,
+            "title": "The burnt field"
+        },
+        {
+            "start": 539,
+            "title": "Satellite images"
+        },
+        {
+            "start": 572,
+            "title": "The way back"
+        },
+        {
+            "start": 634,
+            "title": "Back in Russia"
+        }
+    ],
+    "subtitles": [
+        {
+            "src": "en.vtt",
+            "srclang": "en"
+        }
+    ],
+    "globalEvents": {
+        "onReady": "",
+        "onPlay": "",
+        "onPause": "",
+        "onEnded": ""
+    },
+    "customCSS": "",
+    "contents": [
+        {
+            "@context": [
+                "http://www.w3.org/ns/anno.jsonld",
+                "https://frametrail.org/ns/context.jsonld"
+            ],
+            "creator": {
+                "nickname": "demo",
+                "type": "Person",
+                "id": "1"
+            },
+            "created": "2026-11-22T18:00:01.001Z",
+            "type": "Annotation",
+            "frametrail:type": "Overlay",
+            "frametrail:tags": [],
+            "target": {
+                "type": "Video",
+                "source": "https://www.youtube.com/embed/Sf6gJ8NDhYA",
+                "selector": {
+                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                    "type": "FragmentSelector",
+                    "value": "t=1,12&xywh=percent:3,6,36,20"
+                }
+            },
+            "body": {
+                "type": "TextualBody",
+                "frametrail:type": "text",
+                "format": "text/html",
+                "value": "",
+                "frametrail:name": "What this is",
+                "frametrail:attributes": {
+                    "text": "&lt;p&gt;&lt;span style=&quot;font-size: 22px;&quot;&gt;&lt;strong&gt;Two trails&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;The investigation team’s own film of the launcher’s route, with two layers beside it: the &lt;strong&gt;evidence the investigators name&lt;/strong&gt; at each step, and what &lt;strong&gt;open-source researchers&lt;/strong&gt; had found in public material before.&lt;/span&gt;&lt;/p&gt;",
+                    "autoSize": "height",
+                    "box": {
+                        "background": "rgba(12, 14, 18, 0.86)",
+                        "textColor": "#ffffff",
+                        "padding": 16,
+                        "radius": 6
+                    },
+                    "animation": {
+                        "in": {
+                            "preset": "fadeIn",
+                            "duration": 500
+                        },
+                        "out": {
+                            "preset": "fadeOut",
+                            "duration": 500
+                        }
+                    }
+                }
+            },
+            "frametrail:events": {}
+        }
+    ]
+}

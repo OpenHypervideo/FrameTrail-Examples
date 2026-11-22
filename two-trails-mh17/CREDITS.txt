@@ -1,0 +1,24 @@
+Two Trails: The Route of the Buk
+================================
+
+Film
+    Joint Investigation Team MH17 / Netherlands Public Prosecution Service (Openbaar Ministerie),
+    "3. MH17 Animation regarding the transport route and the launch site", shown at the team's
+    presentation of 28 September 2016. The film is not copied: it plays from the Prosecution Service's
+    YouTube channel through YouTube's embedded player (https://www.youtube.com/watch?v=Sf6gJ8NDhYA).
+    Presentation: https://www.prosecutionservice.nl/topics/mh17-plane-crash/criminal-investigation-jit-mh17/jit-presentation-first-results-mh17-criminal-investigation-28-9-2016
+
+Captions
+    YouTube's automatic English captions of the film, set as sentences, with the names of places,
+    institutions and vehicles corrected for this example. The intercepted telephone calls in the film
+    are not captioned.
+
+Annotations
+    "The investigators" and "17 July 2014" restate the film's narration. "Open sources" restates
+    Bellingcat, "MH17 – The Open Source Evidence" (8 October 2015):
+    https://www.bellingcat.com/news/uk-and-europe/2015/10/08/mh17-the-open-source-evidence/
+    Written for this example from the transcript and that article, without seeing the film's picture.
+    Public domain (CC0).
+
+Data and build scripts
+    Written for this example. Public domain (CC0).
