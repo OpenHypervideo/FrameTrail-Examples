@@ -1,0 +1,18 @@
+A Warming World, Year by Year
+=============================
+
+Map film
+    "Global Temperature Anomalies from 1880 to 2025", NASA's Scientific Visualization Studio, entry 5603:
+    https://svs.gsfc.nasa.gov/5603
+    Visualizer: Mark SubbaRao. Scientists: Gavin A. Schmidt, Robert B. Schmunk, Reto A. Ruedy.
+    Public domain. Used here: the HD "smoothed" version, slowed from 2.5 years per second to one year per second
+    (frames blended). Nothing else was changed.
+
+Figures
+    NASA GISS Surface Temperature Analysis (GISTEMP v4), global annual means (January to December),
+    compared with the 1951-1980 average, as downloaded in November 2026:
+    https://data.giss.nasa.gov/gistemp/
+    GISTEMP Team, 2026: GISS Surface Temperature Analysis (GISTEMP), version 4. NASA Goddard Institute for Space Studies.
+
+Chart film, counters and texts
+    Made for this example from that table. Public domain (CC0). This example is not made or endorsed by NASA.
