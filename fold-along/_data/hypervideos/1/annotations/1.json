@@ -1,0 +1,409 @@
+[
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-21T19:00:00.003Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "tip"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "1_1795310000_paper-boat.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=0,9"
+            }
+        },
+        "body": {
+            "type": "TextualBody",
+            "frametrail:type": "text",
+            "format": "text/html",
+            "value": "",
+            "frametrail:name": "A paper boat",
+            "frametrail:attributes": {
+                "text": "&lt;div class=&quot;foldTip&quot;&gt;&lt;h3&gt;A paper boat&lt;/h3&gt;&lt;p&gt;Any rectangular sheet works: letter paper, a magazine page, a flyer.&lt;/p&gt;&lt;/div&gt;"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-21T19:00:00.007Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "tip"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "1_1795310000_paper-boat.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=9,17"
+            }
+        },
+        "body": {
+            "type": "TextualBody",
+            "frametrail:type": "text",
+            "format": "text/html",
+            "value": "",
+            "frametrail:name": "1. Fold in half",
+            "frametrail:attributes": {
+                "text": "&lt;div class=&quot;foldTip&quot;&gt;&lt;h3&gt;1. Fold in half&lt;/h3&gt;&lt;p&gt;Line up the corners before you press the fold flat.&lt;/p&gt;&lt;/div&gt;"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-21T19:00:00.011Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "tip"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "1_1795310000_paper-boat.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=17,26"
+            }
+        },
+        "body": {
+            "type": "TextualBody",
+            "frametrail:type": "text",
+            "format": "text/html",
+            "value": "",
+            "frametrail:name": "2. Mark the middle",
+            "frametrail:attributes": {
+                "text": "&lt;div class=&quot;foldTip&quot;&gt;&lt;h3&gt;2. Mark the middle&lt;/h3&gt;&lt;p&gt;This fold is only a guide. Open it right away.&lt;/p&gt;&lt;/div&gt;"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-21T19:00:00.015Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "tip"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "1_1795310000_paper-boat.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=26,35"
+            }
+        },
+        "body": {
+            "type": "TextualBody",
+            "frametrail:type": "text",
+            "format": "text/html",
+            "value": "",
+            "frametrail:name": "3. Corners to the middle",
+            "frametrail:attributes": {
+                "text": "&lt;div class=&quot;foldTip&quot;&gt;&lt;h3&gt;3. Corners to the middle&lt;/h3&gt;&lt;p&gt;Leave a hair&amp;#x27;s width between the two corners, so they do not overlap.&lt;/p&gt;&lt;/div&gt;"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-21T19:00:00.019Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "tip"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "1_1795310000_paper-boat.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=35,43"
+            }
+        },
+        "body": {
+            "type": "TextualBody",
+            "frametrail:type": "text",
+            "format": "text/html",
+            "value": "",
+            "frametrail:name": "4. First strip up",
+            "frametrail:attributes": {
+                "text": "&lt;div class=&quot;foldTip&quot;&gt;&lt;h3&gt;4. First strip up&lt;/h3&gt;&lt;p&gt;Only the front layer. The back strip stays where it is.&lt;/p&gt;&lt;/div&gt;"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-21T19:00:00.023Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "tip"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "1_1795310000_paper-boat.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=43,54"
+            }
+        },
+        "body": {
+            "type": "TextualBody",
+            "frametrail:type": "text",
+            "format": "text/html",
+            "value": "",
+            "frametrail:name": "5. Turn over, second strip up",
+            "frametrail:attributes": {
+                "text": "&lt;div class=&quot;foldTip&quot;&gt;&lt;h3&gt;5. Turn over, second strip up&lt;/h3&gt;&lt;p&gt;If the small corners of the strips stick out, tuck them around the edge.&lt;/p&gt;&lt;/div&gt;"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-21T19:00:00.027Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "tip"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "1_1795310000_paper-boat.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=54,65"
+            }
+        },
+        "body": {
+            "type": "TextualBody",
+            "frametrail:type": "text",
+            "format": "text/html",
+            "value": "",
+            "frametrail:name": "6. Open the hat into a square",
+            "frametrail:attributes": {
+                "text": "&lt;div class=&quot;foldTip&quot;&gt;&lt;h3&gt;6. Open the hat into a square&lt;/h3&gt;&lt;p&gt;Put your thumbs inside the hat and pull the middle of the two brims apart. The ends swing together by themselves.&lt;/p&gt;&lt;/div&gt;"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-21T19:00:00.031Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "tip"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "1_1795310000_paper-boat.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=65,77"
+            }
+        },
+        "body": {
+            "type": "TextualBody",
+            "frametrail:type": "text",
+            "format": "text/html",
+            "value": "",
+            "frametrail:name": "7. Bottom corners up",
+            "frametrail:attributes": {
+                "text": "&lt;div class=&quot;foldTip&quot;&gt;&lt;h3&gt;7. Bottom corners up&lt;/h3&gt;&lt;p&gt;Again one layer on each side. You end up with a triangle.&lt;/p&gt;&lt;/div&gt;"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-21T19:00:00.035Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "tip"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "1_1795310000_paper-boat.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=77,86"
+            }
+        },
+        "body": {
+            "type": "TextualBody",
+            "frametrail:type": "text",
+            "format": "text/html",
+            "value": "",
+            "frametrail:name": "8. Open into a smaller square",
+            "frametrail:attributes": {
+                "text": "&lt;div class=&quot;foldTip&quot;&gt;&lt;h3&gt;8. Open into a smaller square&lt;/h3&gt;&lt;p&gt;The same move as before: thumbs inside, pull the middle apart.&lt;/p&gt;&lt;/div&gt;"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-21T19:00:00.039Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "tip"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "1_1795310000_paper-boat.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=86,95"
+            }
+        },
+        "body": {
+            "type": "TextualBody",
+            "frametrail:type": "text",
+            "format": "text/html",
+            "value": "",
+            "frametrail:name": "9. Pull the points apart",
+            "frametrail:attributes": {
+                "text": "&lt;div class=&quot;foldTip&quot;&gt;&lt;h3&gt;9. Pull the points apart&lt;/h3&gt;&lt;p&gt;Pull slowly. The boat opens, and the sail stands up in the middle.&lt;/p&gt;&lt;/div&gt;"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-21T19:00:00.042Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "tip"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "1_1795310000_paper-boat.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=95,104"
+            }
+        },
+        "body": {
+            "type": "TextualBody",
+            "frametrail:type": "text",
+            "format": "text/html",
+            "value": "",
+            "frametrail:name": "Your boat",
+            "frametrail:attributes": {
+                "text": "&lt;div class=&quot;foldTip&quot;&gt;&lt;h3&gt;Your boat&lt;/h3&gt;&lt;p&gt;Press the bottom flat from inside, so it stands.&lt;/p&gt;&lt;/div&gt;"
+            }
+        }
+    }
+]

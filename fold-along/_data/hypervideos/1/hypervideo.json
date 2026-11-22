@@ -1,0 +1,1854 @@
+{
+    "meta": {
+        "name": "Fold-Along",
+        "description": "A paper boat in nine steps. The film stops after every step and waits until you have folded it: watch the step again, or go on. A paired phone beside your paper shows the steps and a tip for each.",
+        "thumb": "1_1795310000_thumb_paper-boat.jpg",
+        "creator": "demo",
+        "creatorId": "1",
+        "created": 1795310100000,
+        "lastchanged": 1795310100000
+    },
+    "config": {
+        "slidingMode": "adjust",
+        "slidingTrigger": "key",
+        "autohideControls": false,
+        "captionsVisible": true,
+        "clipTimeVisible": false,
+        "layoutArea": {
+            "areaTop": [],
+            "areaBottom": [],
+            "areaLeft": [],
+            "areaRight": [
+                {
+                    "type": "Chapters",
+                    "name": "Steps",
+                    "description": "",
+                    "icon": "icon-list-bullet",
+                    "cssClass": "stepsView",
+                    "contentSize": "medium",
+                    "initClosed": false,
+                    "collectionFilter": {
+                        "tags": [],
+                        "types": [],
+                        "users": [],
+                        "text": ""
+                    }
+                }
+            ],
+            "areaCompanion": [
+                {
+                    "type": "Chapters",
+                    "name": "Steps",
+                    "description": "",
+                    "icon": "icon-list-bullet",
+                    "cssClass": "stepsView",
+                    "contentSize": "medium",
+                    "initClosed": false,
+                    "collectionFilter": {
+                        "tags": [],
+                        "types": [],
+                        "users": [],
+                        "text": ""
+                    }
+                },
+                {
+                    "type": "TimedContent",
+                    "name": "Tips",
+                    "description": "",
+                    "icon": "",
+                    "cssClass": "",
+                    "contentSize": "large",
+                    "initClosed": false,
+                    "collectionFilter": {
+                        "tags": [
+                            "tip"
+                        ],
+                        "types": [],
+                        "users": [],
+                        "text": ""
+                    },
+                    "onClickContentItem": ""
+                }
+            ]
+        }
+    },
+    "clips": [
+        {
+            "resourceId": "1",
+            "src": "1_1795310000_paper-boat.mp4",
+            "duration": 0,
+            "in": 0,
+            "out": 0
+        }
+    ],
+    "chapters": [
+        {
+            "start": 0.0,
+            "title": "A paper boat"
+        },
+        {
+            "start": 9.0,
+            "title": "1. Fold in half"
+        },
+        {
+            "start": 17.0,
+            "title": "2. Mark the middle"
+        },
+        {
+            "start": 26.0,
+            "title": "3. Corners to the middle"
+        },
+        {
+            "start": 35.0,
+            "title": "4. First strip up"
+        },
+        {
+            "start": 43.0,
+            "title": "5. Turn over, second strip up"
+        },
+        {
+            "start": 54.0,
+            "title": "6. Open the hat into a square"
+        },
+        {
+            "start": 65.0,
+            "title": "7. Bottom corners up"
+        },
+        {
+            "start": 77.0,
+            "title": "8. Open into a smaller square"
+        },
+        {
+            "start": 86.0,
+            "title": "9. Pull the points apart"
+        },
+        {
+            "start": 95.0,
+            "title": "Your boat"
+        }
+    ],
+    "subtitles": [
+        {
+            "src": "en.vtt",
+            "srclang": "en"
+        }
+    ],
+    "globalEvents": {
+        "onReady": "",
+        "onPlay": "",
+        "onPause": "",
+        "onEnded": ""
+    },
+    "customCSS": "",
+    "contents": [
+        {
+            "@context": [
+                "http://www.w3.org/ns/anno.jsonld",
+                "https://frametrail.org/ns/context.jsonld"
+            ],
+            "creator": {
+                "nickname": "demo",
+                "type": "Person",
+                "id": "1"
+            },
+            "created": "2026-11-21T19:00:00.001Z",
+            "type": "Annotation",
+            "frametrail:type": "Overlay",
+            "frametrail:tags": [],
+            "target": {
+                "type": "Video",
+                "source": "1_1795310000_paper-boat.mp4",
+                "selector": {
+                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                    "type": "FragmentSelector",
+                    "value": "t=0.15,8.9&xywh=percent:4,5,46,14"
+                }
+            },
+            "body": {
+                "type": "TextualBody",
+                "frametrail:type": "text",
+                "format": "text/html",
+                "value": "",
+                "frametrail:name": "Step: A paper boat",
+                "frametrail:attributes": {
+                    "text": "&lt;p&gt;&lt;span style=&quot;font-size: 17px; letter-spacing: 2px; color: #e2583e;&quot;&gt;&lt;strong&gt;WHAT YOU NEED&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size: 32px;&quot;&gt;&lt;strong&gt;A paper boat&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;",
+                    "autoSize": "height",
+                    "box": {
+                        "textColor": "#1f2a3d"
+                    },
+                    "animation": {
+                        "in": {
+                            "preset": "fadeIn",
+                            "duration": 300
+                        },
+                        "out": {
+                            "preset": "fadeOut",
+                            "duration": 200
+                        }
+                    }
+                }
+            },
+            "frametrail:events": {}
+        },
+        {
+            "@context": [
+                "http://www.w3.org/ns/anno.jsonld",
+                "https://frametrail.org/ns/context.jsonld"
+            ],
+            "creator": {
+                "nickname": "demo",
+                "type": "Person",
+                "id": "1"
+            },
+            "created": "2026-11-21T19:00:00.002Z",
+            "type": "Annotation",
+            "frametrail:type": "Overlay",
+            "frametrail:tags": [],
+            "target": {
+                "type": "Video",
+                "source": "1_1795310000_paper-boat.mp4",
+                "selector": {
+                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                    "type": "FragmentSelector",
+                    "value": "t=8.5,8.92&xywh=percent:41,84,18,9"
+                }
+            },
+            "body": {
+                "type": "TextualBody",
+                "frametrail:type": "hotspot",
+                "format": "text/html",
+                "frametrail:name": "Start folding",
+                "frametrail:thumb": null,
+                "frametrail:licenseType": null,
+                "frametrail:licenseAttribution": null,
+                "frametrail:attributes": {
+                    "text": "Start folding",
+                    "shape": "rounded",
+                    "borderRadius": 40,
+                    "color": "#e2583e",
+                    "borderWidth": 3,
+                    "textColor": "#ffffff",
+                    "backgroundColor": "#e2583e",
+                    "pulse": false,
+                    "action": "",
+                    "actionTarget": "",
+                    "animation": {
+                        "in": {
+                            "preset": "popIn",
+                            "duration": 350
+                        },
+                        "out": {
+                            "preset": "fadeOut",
+                            "duration": 150
+                        }
+                    }
+                }
+            },
+            "frametrail:events": {
+                "onClick": "hypervideo.play();"
+            },
+            "frametrail:pause": true
+        },
+        {
+            "@context": [
+                "http://www.w3.org/ns/anno.jsonld",
+                "https://frametrail.org/ns/context.jsonld"
+            ],
+            "creator": {
+                "nickname": "demo",
+                "type": "Person",
+                "id": "1"
+            },
+            "created": "2026-11-21T19:00:00.004Z",
+            "type": "Annotation",
+            "frametrail:type": "Overlay",
+            "frametrail:tags": [],
+            "target": {
+                "type": "Video",
+                "source": "1_1795310000_paper-boat.mp4",
+                "selector": {
+                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                    "type": "FragmentSelector",
+                    "value": "t=9.15,16.9&xywh=percent:4,5,46,14"
+                }
+            },
+            "body": {
+                "type": "TextualBody",
+                "frametrail:type": "text",
+                "format": "text/html",
+                "value": "",
+                "frametrail:name": "Step: Fold in half",
+                "frametrail:attributes": {
+                    "text": "&lt;p&gt;&lt;span style=&quot;font-size: 17px; letter-spacing: 2px; color: #e2583e;&quot;&gt;&lt;strong&gt;STEP 1 OF 9&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size: 32px;&quot;&gt;&lt;strong&gt;Fold in half&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;",
+                    "autoSize": "height",
+                    "box": {
+                        "textColor": "#1f2a3d"
+                    },
+                    "animation": {
+                        "in": {
+                            "preset": "fadeIn",
+                            "duration": 300
+                        },
+                        "out": {
+                            "preset": "fadeOut",
+                            "duration": 200
+                        }
+                    }
+                }
+            },
+            "frametrail:events": {}
+        },
+        {
+            "@context": [
+                "http://www.w3.org/ns/anno.jsonld",
+                "https://frametrail.org/ns/context.jsonld"
+            ],
+            "creator": {
+                "nickname": "demo",
+                "type": "Person",
+                "id": "1"
+            },
+            "created": "2026-11-21T19:00:00.005Z",
+            "type": "Annotation",
+            "frametrail:type": "Overlay",
+            "frametrail:tags": [],
+            "target": {
+                "type": "Video",
+                "source": "1_1795310000_paper-boat.mp4",
+                "selector": {
+                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                    "type": "FragmentSelector",
+                    "value": "t=16.5,16.92&xywh=percent:31.5,84,16,9"
+                }
+            },
+            "body": {
+                "type": "TextualBody",
+                "frametrail:type": "hotspot",
+                "format": "text/html",
+                "frametrail:name": "Again",
+                "frametrail:thumb": null,
+                "frametrail:licenseType": null,
+                "frametrail:licenseAttribution": null,
+                "frametrail:attributes": {
+                    "text": "Again",
+                    "shape": "rounded",
+                    "borderRadius": 40,
+                    "color": "#1f2a3d",
+                    "borderWidth": 3,
+                    "textColor": "#1f2a3d",
+                    "backgroundColor": "rgba(255, 255, 255, 0.85)",
+                    "pulse": false,
+                    "action": "",
+                    "actionTarget": "",
+                    "animation": {
+                        "in": {
+                            "preset": "popIn",
+                            "duration": 350
+                        },
+                        "out": {
+                            "preset": "fadeOut",
+                            "duration": 150
+                        }
+                    }
+                }
+            },
+            "frametrail:events": {
+                "onClick": "hypervideo.currentTime = 9.05;\nhypervideo.play();"
+            }
+        },
+        {
+            "@context": [
+                "http://www.w3.org/ns/anno.jsonld",
+                "https://frametrail.org/ns/context.jsonld"
+            ],
+            "creator": {
+                "nickname": "demo",
+                "type": "Person",
+                "id": "1"
+            },
+            "created": "2026-11-21T19:00:00.006Z",
+            "type": "Annotation",
+            "frametrail:type": "Overlay",
+            "frametrail:tags": [],
+            "target": {
+                "type": "Video",
+                "source": "1_1795310000_paper-boat.mp4",
+                "selector": {
+                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                    "type": "FragmentSelector",
+                    "value": "t=16.5,16.92&xywh=percent:52.5,84,16,9"
+                }
+            },
+            "body": {
+                "type": "TextualBody",
+                "frametrail:type": "hotspot",
+                "format": "text/html",
+                "frametrail:name": "Next",
+                "frametrail:thumb": null,
+                "frametrail:licenseType": null,
+                "frametrail:licenseAttribution": null,
+                "frametrail:attributes": {
+                    "text": "Next",
+                    "shape": "rounded",
+                    "borderRadius": 40,
+                    "color": "#e2583e",
+                    "borderWidth": 3,
+                    "textColor": "#ffffff",
+                    "backgroundColor": "#e2583e",
+                    "pulse": false,
+                    "action": "",
+                    "actionTarget": "",
+                    "animation": {
+                        "in": {
+                            "preset": "popIn",
+                            "duration": 350
+                        },
+                        "out": {
+                            "preset": "fadeOut",
+                            "duration": 150
+                        }
+                    }
+                }
+            },
+            "frametrail:events": {
+                "onClick": "hypervideo.play();"
+            },
+            "frametrail:pause": true
+        },
+        {
+            "@context": [
+                "http://www.w3.org/ns/anno.jsonld",
+                "https://frametrail.org/ns/context.jsonld"
+            ],
+            "creator": {
+                "nickname": "demo",
+                "type": "Person",
+                "id": "1"
+            },
+            "created": "2026-11-21T19:00:00.008Z",
+            "type": "Annotation",
+            "frametrail:type": "Overlay",
+            "frametrail:tags": [],
+            "target": {
+                "type": "Video",
+                "source": "1_1795310000_paper-boat.mp4",
+                "selector": {
+                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                    "type": "FragmentSelector",
+                    "value": "t=17.15,25.9&xywh=percent:4,5,46,14"
+                }
+            },
+            "body": {
+                "type": "TextualBody",
+                "frametrail:type": "text",
+                "format": "text/html",
+                "value": "",
+                "frametrail:name": "Step: Mark the middle",
+                "frametrail:attributes": {
+                    "text": "&lt;p&gt;&lt;span style=&quot;font-size: 17px; letter-spacing: 2px; color: #e2583e;&quot;&gt;&lt;strong&gt;STEP 2 OF 9&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size: 32px;&quot;&gt;&lt;strong&gt;Mark the middle&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;",
+                    "autoSize": "height",
+                    "box": {
+                        "textColor": "#1f2a3d"
+                    },
+                    "animation": {
+                        "in": {
+                            "preset": "fadeIn",
+                            "duration": 300
+                        },
+                        "out": {
+                            "preset": "fadeOut",
+                            "duration": 200
+                        }
+                    }
+                }
+            },
+            "frametrail:events": {}
+        },
+        {
+            "@context": [
+                "http://www.w3.org/ns/anno.jsonld",
+                "https://frametrail.org/ns/context.jsonld"
+            ],
+            "creator": {
+                "nickname": "demo",
+                "type": "Person",
+                "id": "1"
+            },
+            "created": "2026-11-21T19:00:00.009Z",
+            "type": "Annotation",
+            "frametrail:type": "Overlay",
+            "frametrail:tags": [],
+            "target": {
+                "type": "Video",
+                "source": "1_1795310000_paper-boat.mp4",
+                "selector": {
+                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                    "type": "FragmentSelector",
+                    "value": "t=25.5,25.92&xywh=percent:31.5,84,16,9"
+                }
+            },
+            "body": {
+                "type": "TextualBody",
+                "frametrail:type": "hotspot",
+                "format": "text/html",
+                "frametrail:name": "Again",
+                "frametrail:thumb": null,
+                "frametrail:licenseType": null,
+                "frametrail:licenseAttribution": null,
+                "frametrail:attributes": {
+                    "text": "Again",
+                    "shape": "rounded",
+                    "borderRadius": 40,
+                    "color": "#1f2a3d",
+                    "borderWidth": 3,
+                    "textColor": "#1f2a3d",
+                    "backgroundColor": "rgba(255, 255, 255, 0.85)",
+                    "pulse": false,
+                    "action": "",
+                    "actionTarget": "",
+                    "animation": {
+                        "in": {
+                            "preset": "popIn",
+                            "duration": 350
+                        },
+                        "out": {
+                            "preset": "fadeOut",
+                            "duration": 150
+                        }
+                    }
+                }
+            },
+            "frametrail:events": {
+                "onClick": "hypervideo.currentTime = 17.05;\nhypervideo.play();"
+            }
+        },
+        {
+            "@context": [
+                "http://www.w3.org/ns/anno.jsonld",
+                "https://frametrail.org/ns/context.jsonld"
+            ],
+            "creator": {
+                "nickname": "demo",
+                "type": "Person",
+                "id": "1"
+            },
+            "created": "2026-11-21T19:00:00.010Z",
+            "type": "Annotation",
+            "frametrail:type": "Overlay",
+            "frametrail:tags": [],
+            "target": {
+                "type": "Video",
+                "source": "1_1795310000_paper-boat.mp4",
+                "selector": {
+                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                    "type": "FragmentSelector",
+                    "value": "t=25.5,25.92&xywh=percent:52.5,84,16,9"
+                }
+            },
+            "body": {
+                "type": "TextualBody",
+                "frametrail:type": "hotspot",
+                "format": "text/html",
+                "frametrail:name": "Next",
+                "frametrail:thumb": null,
+                "frametrail:licenseType": null,
+                "frametrail:licenseAttribution": null,
+                "frametrail:attributes": {
+                    "text": "Next",
+                    "shape": "rounded",
+                    "borderRadius": 40,
+                    "color": "#e2583e",
+                    "borderWidth": 3,
+                    "textColor": "#ffffff",
+                    "backgroundColor": "#e2583e",
+                    "pulse": false,
+                    "action": "",
+                    "actionTarget": "",
+                    "animation": {
+                        "in": {
+                            "preset": "popIn",
+                            "duration": 350
+                        },
+                        "out": {
+                            "preset": "fadeOut",
+                            "duration": 150
+                        }
+                    }
+                }
+            },
+            "frametrail:events": {
+                "onClick": "hypervideo.play();"
+            },
+            "frametrail:pause": true
+        },
+        {
+            "@context": [
+                "http://www.w3.org/ns/anno.jsonld",
+                "https://frametrail.org/ns/context.jsonld"
+            ],
+            "creator": {
+                "nickname": "demo",
+                "type": "Person",
+                "id": "1"
+            },
+            "created": "2026-11-21T19:00:00.012Z",
+            "type": "Annotation",
+            "frametrail:type": "Overlay",
+            "frametrail:tags": [],
+            "target": {
+                "type": "Video",
+                "source": "1_1795310000_paper-boat.mp4",
+                "selector": {
+                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                    "type": "FragmentSelector",
+                    "value": "t=26.15,34.9&xywh=percent:4,5,46,14"
+                }
+            },
+            "body": {
+                "type": "TextualBody",
+                "frametrail:type": "text",
+                "format": "text/html",
+                "value": "",
+                "frametrail:name": "Step: Corners to the middle",
+                "frametrail:attributes": {
+                    "text": "&lt;p&gt;&lt;span style=&quot;font-size: 17px; letter-spacing: 2px; color: #e2583e;&quot;&gt;&lt;strong&gt;STEP 3 OF 9&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size: 32px;&quot;&gt;&lt;strong&gt;Corners to the middle&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;",
+                    "autoSize": "height",
+                    "box": {
+                        "textColor": "#1f2a3d"
+                    },
+                    "animation": {
+                        "in": {
+                            "preset": "fadeIn",
+                            "duration": 300
+                        },
+                        "out": {
+                            "preset": "fadeOut",
+                            "duration": 200
+                        }
+                    }
+                }
+            },
+            "frametrail:events": {}
+        },
+        {
+            "@context": [
+                "http://www.w3.org/ns/anno.jsonld",
+                "https://frametrail.org/ns/context.jsonld"
+            ],
+            "creator": {
+                "nickname": "demo",
+                "type": "Person",
+                "id": "1"
+            },
+            "created": "2026-11-21T19:00:00.013Z",
+            "type": "Annotation",
+            "frametrail:type": "Overlay",
+            "frametrail:tags": [],
+            "target": {
+                "type": "Video",
+                "source": "1_1795310000_paper-boat.mp4",
+                "selector": {
+                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                    "type": "FragmentSelector",
+                    "value": "t=34.5,34.92&xywh=percent:31.5,84,16,9"
+                }
+            },
+            "body": {
+                "type": "TextualBody",
+                "frametrail:type": "hotspot",
+                "format": "text/html",
+                "frametrail:name": "Again",
+                "frametrail:thumb": null,
+                "frametrail:licenseType": null,
+                "frametrail:licenseAttribution": null,
+                "frametrail:attributes": {
+                    "text": "Again",
+                    "shape": "rounded",
+                    "borderRadius": 40,
+                    "color": "#1f2a3d",
+                    "borderWidth": 3,
+                    "textColor": "#1f2a3d",
+                    "backgroundColor": "rgba(255, 255, 255, 0.85)",
+                    "pulse": false,
+                    "action": "",
+                    "actionTarget": "",
+                    "animation": {
+                        "in": {
+                            "preset": "popIn",
+                            "duration": 350
+                        },
+                        "out": {
+                            "preset": "fadeOut",
+                            "duration": 150
+                        }
+                    }
+                }
+            },
+            "frametrail:events": {
+                "onClick": "hypervideo.currentTime = 26.05;\nhypervideo.play();"
+            }
+        },
+        {
+            "@context": [
+                "http://www.w3.org/ns/anno.jsonld",
+                "https://frametrail.org/ns/context.jsonld"
+            ],
+            "creator": {
+                "nickname": "demo",
+                "type": "Person",
+                "id": "1"
+            },
+            "created": "2026-11-21T19:00:00.014Z",
+            "type": "Annotation",
+            "frametrail:type": "Overlay",
+            "frametrail:tags": [],
+            "target": {
+                "type": "Video",
+                "source": "1_1795310000_paper-boat.mp4",
+                "selector": {
+                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                    "type": "FragmentSelector",
+                    "value": "t=34.5,34.92&xywh=percent:52.5,84,16,9"
+                }
+            },
+            "body": {
+                "type": "TextualBody",
+                "frametrail:type": "hotspot",
+                "format": "text/html",
+                "frametrail:name": "Next",
+                "frametrail:thumb": null,
+                "frametrail:licenseType": null,
+                "frametrail:licenseAttribution": null,
+                "frametrail:attributes": {
+                    "text": "Next",
+                    "shape": "rounded",
+                    "borderRadius": 40,
+                    "color": "#e2583e",
+                    "borderWidth": 3,
+                    "textColor": "#ffffff",
+                    "backgroundColor": "#e2583e",
+                    "pulse": false,
+                    "action": "",
+                    "actionTarget": "",
+                    "animation": {
+                        "in": {
+                            "preset": "popIn",
+                            "duration": 350
+                        },
+                        "out": {
+                            "preset": "fadeOut",
+                            "duration": 150
+                        }
+                    }
+                }
+            },
+            "frametrail:events": {
+                "onClick": "hypervideo.play();"
+            },
+            "frametrail:pause": true
+        },
+        {
+            "@context": [
+                "http://www.w3.org/ns/anno.jsonld",
+                "https://frametrail.org/ns/context.jsonld"
+            ],
+            "creator": {
+                "nickname": "demo",
+                "type": "Person",
+                "id": "1"
+            },
+            "created": "2026-11-21T19:00:00.016Z",
+            "type": "Annotation",
+            "frametrail:type": "Overlay",
+            "frametrail:tags": [],
+            "target": {
+                "type": "Video",
+                "source": "1_1795310000_paper-boat.mp4",
+                "selector": {
+                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                    "type": "FragmentSelector",
+                    "value": "t=35.15,42.9&xywh=percent:4,5,46,14"
+                }
+            },
+            "body": {
+                "type": "TextualBody",
+                "frametrail:type": "text",
+                "format": "text/html",
+                "value": "",
+                "frametrail:name": "Step: First strip up",
+                "frametrail:attributes": {
+                    "text": "&lt;p&gt;&lt;span style=&quot;font-size: 17px; letter-spacing: 2px; color: #e2583e;&quot;&gt;&lt;strong&gt;STEP 4 OF 9&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size: 32px;&quot;&gt;&lt;strong&gt;First strip up&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;",
+                    "autoSize": "height",
+                    "box": {
+                        "textColor": "#1f2a3d"
+                    },
+                    "animation": {
+                        "in": {
+                            "preset": "fadeIn",
+                            "duration": 300
+                        },
+                        "out": {
+                            "preset": "fadeOut",
+                            "duration": 200
+                        }
+                    }
+                }
+            },
+            "frametrail:events": {}
+        },
+        {
+            "@context": [
+                "http://www.w3.org/ns/anno.jsonld",
+                "https://frametrail.org/ns/context.jsonld"
+            ],
+            "creator": {
+                "nickname": "demo",
+                "type": "Person",
+                "id": "1"
+            },
+            "created": "2026-11-21T19:00:00.017Z",
+            "type": "Annotation",
+            "frametrail:type": "Overlay",
+            "frametrail:tags": [],
+            "target": {
+                "type": "Video",
+                "source": "1_1795310000_paper-boat.mp4",
+                "selector": {
+                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                    "type": "FragmentSelector",
+                    "value": "t=42.5,42.92&xywh=percent:31.5,84,16,9"
+                }
+            },
+            "body": {
+                "type": "TextualBody",
+                "frametrail:type": "hotspot",
+                "format": "text/html",
+                "frametrail:name": "Again",
+                "frametrail:thumb": null,
+                "frametrail:licenseType": null,
+                "frametrail:licenseAttribution": null,
+                "frametrail:attributes": {
+                    "text": "Again",
+                    "shape": "rounded",
+                    "borderRadius": 40,
+                    "color": "#1f2a3d",
+                    "borderWidth": 3,
+                    "textColor": "#1f2a3d",
+                    "backgroundColor": "rgba(255, 255, 255, 0.85)",
+                    "pulse": false,
+                    "action": "",
+                    "actionTarget": "",
+                    "animation": {
+                        "in": {
+                            "preset": "popIn",
+                            "duration": 350
+                        },
+                        "out": {
+                            "preset": "fadeOut",
+                            "duration": 150
+                        }
+                    }
+                }
+            },
+            "frametrail:events": {
+                "onClick": "hypervideo.currentTime = 35.05;\nhypervideo.play();"
+            }
+        },
+        {
+            "@context": [
+                "http://www.w3.org/ns/anno.jsonld",
+                "https://frametrail.org/ns/context.jsonld"
+            ],
+            "creator": {
+                "nickname": "demo",
+                "type": "Person",
+                "id": "1"
+            },
+            "created": "2026-11-21T19:00:00.018Z",
+            "type": "Annotation",
+            "frametrail:type": "Overlay",
+            "frametrail:tags": [],
+            "target": {
+                "type": "Video",
+                "source": "1_1795310000_paper-boat.mp4",
+                "selector": {
+                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                    "type": "FragmentSelector",
+                    "value": "t=42.5,42.92&xywh=percent:52.5,84,16,9"
+                }
+            },
+            "body": {
+                "type": "TextualBody",
+                "frametrail:type": "hotspot",
+                "format": "text/html",
+                "frametrail:name": "Next",
+                "frametrail:thumb": null,
+                "frametrail:licenseType": null,
+                "frametrail:licenseAttribution": null,
+                "frametrail:attributes": {
+                    "text": "Next",
+                    "shape": "rounded",
+                    "borderRadius": 40,
+                    "color": "#e2583e",
+                    "borderWidth": 3,
+                    "textColor": "#ffffff",
+                    "backgroundColor": "#e2583e",
+                    "pulse": false,
+                    "action": "",
+                    "actionTarget": "",
+                    "animation": {
+                        "in": {
+                            "preset": "popIn",
+                            "duration": 350
+                        },
+                        "out": {
+                            "preset": "fadeOut",
+                            "duration": 150
+                        }
+                    }
+                }
+            },
+            "frametrail:events": {
+                "onClick": "hypervideo.play();"
+            },
+            "frametrail:pause": true
+        },
+        {
+            "@context": [
+                "http://www.w3.org/ns/anno.jsonld",
+                "https://frametrail.org/ns/context.jsonld"
+            ],
+            "creator": {
+                "nickname": "demo",
+                "type": "Person",
+                "id": "1"
+            },
+            "created": "2026-11-21T19:00:00.020Z",
+            "type": "Annotation",
+            "frametrail:type": "Overlay",
+            "frametrail:tags": [],
+            "target": {
+                "type": "Video",
+                "source": "1_1795310000_paper-boat.mp4",
+                "selector": {
+                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                    "type": "FragmentSelector",
+                    "value": "t=43.15,53.9&xywh=percent:4,5,46,14"
+                }
+            },
+            "body": {
+                "type": "TextualBody",
+                "frametrail:type": "text",
+                "format": "text/html",
+                "value": "",
+                "frametrail:name": "Step: Turn over, second strip up",
+                "frametrail:attributes": {
+                    "text": "&lt;p&gt;&lt;span style=&quot;font-size: 17px; letter-spacing: 2px; color: #e2583e;&quot;&gt;&lt;strong&gt;STEP 5 OF 9&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size: 32px;&quot;&gt;&lt;strong&gt;Turn over, second strip up&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;",
+                    "autoSize": "height",
+                    "box": {
+                        "textColor": "#1f2a3d"
+                    },
+                    "animation": {
+                        "in": {
+                            "preset": "fadeIn",
+                            "duration": 300
+                        },
+                        "out": {
+                            "preset": "fadeOut",
+                            "duration": 200
+                        }
+                    }
+                }
+            },
+            "frametrail:events": {}
+        },
+        {
+            "@context": [
+                "http://www.w3.org/ns/anno.jsonld",
+                "https://frametrail.org/ns/context.jsonld"
+            ],
+            "creator": {
+                "nickname": "demo",
+                "type": "Person",
+                "id": "1"
+            },
+            "created": "2026-11-21T19:00:00.021Z",
+            "type": "Annotation",
+            "frametrail:type": "Overlay",
+            "frametrail:tags": [],
+            "target": {
+                "type": "Video",
+                "source": "1_1795310000_paper-boat.mp4",
+                "selector": {
+                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                    "type": "FragmentSelector",
+                    "value": "t=53.5,53.92&xywh=percent:31.5,84,16,9"
+                }
+            },
+            "body": {
+                "type": "TextualBody",
+                "frametrail:type": "hotspot",
+                "format": "text/html",
+                "frametrail:name": "Again",
+                "frametrail:thumb": null,
+                "frametrail:licenseType": null,
+                "frametrail:licenseAttribution": null,
+                "frametrail:attributes": {
+                    "text": "Again",
+                    "shape": "rounded",
+                    "borderRadius": 40,
+                    "color": "#1f2a3d",
+                    "borderWidth": 3,
+                    "textColor": "#1f2a3d",
+                    "backgroundColor": "rgba(255, 255, 255, 0.85)",
+                    "pulse": false,
+                    "action": "",
+                    "actionTarget": "",
+                    "animation": {
+                        "in": {
+                            "preset": "popIn",
+                            "duration": 350
+                        },
+                        "out": {
+                            "preset": "fadeOut",
+                            "duration": 150
+                        }
+                    }
+                }
+            },
+            "frametrail:events": {
+                "onClick": "hypervideo.currentTime = 43.05;\nhypervideo.play();"
+            }
+        },
+        {
+            "@context": [
+                "http://www.w3.org/ns/anno.jsonld",
+                "https://frametrail.org/ns/context.jsonld"
+            ],
+            "creator": {
+                "nickname": "demo",
+                "type": "Person",
+                "id": "1"
+            },
+            "created": "2026-11-21T19:00:00.022Z",
+            "type": "Annotation",
+            "frametrail:type": "Overlay",
+            "frametrail:tags": [],
+            "target": {
+                "type": "Video",
+                "source": "1_1795310000_paper-boat.mp4",
+                "selector": {
+                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                    "type": "FragmentSelector",
+                    "value": "t=53.5,53.92&xywh=percent:52.5,84,16,9"
+                }
+            },
+            "body": {
+                "type": "TextualBody",
+                "frametrail:type": "hotspot",
+                "format": "text/html",
+                "frametrail:name": "Next",
+                "frametrail:thumb": null,
+                "frametrail:licenseType": null,
+                "frametrail:licenseAttribution": null,
+                "frametrail:attributes": {
+                    "text": "Next",
+                    "shape": "rounded",
+                    "borderRadius": 40,
+                    "color": "#e2583e",
+                    "borderWidth": 3,
+                    "textColor": "#ffffff",
+                    "backgroundColor": "#e2583e",
+                    "pulse": false,
+                    "action": "",
+                    "actionTarget": "",
+                    "animation": {
+                        "in": {
+                            "preset": "popIn",
+                            "duration": 350
+                        },
+                        "out": {
+                            "preset": "fadeOut",
+                            "duration": 150
+                        }
+                    }
+                }
+            },
+            "frametrail:events": {
+                "onClick": "hypervideo.play();"
+            },
+            "frametrail:pause": true
+        },
+        {
+            "@context": [
+                "http://www.w3.org/ns/anno.jsonld",
+                "https://frametrail.org/ns/context.jsonld"
+            ],
+            "creator": {
+                "nickname": "demo",
+                "type": "Person",
+                "id": "1"
+            },
+            "created": "2026-11-21T19:00:00.024Z",
+            "type": "Annotation",
+            "frametrail:type": "Overlay",
+            "frametrail:tags": [],
+            "target": {
+                "type": "Video",
+                "source": "1_1795310000_paper-boat.mp4",
+                "selector": {
+                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                    "type": "FragmentSelector",
+                    "value": "t=54.15,64.9&xywh=percent:4,5,46,14"
+                }
+            },
+            "body": {
+                "type": "TextualBody",
+                "frametrail:type": "text",
+                "format": "text/html",
+                "value": "",
+                "frametrail:name": "Step: Open the hat into a square",
+                "frametrail:attributes": {
+                    "text": "&lt;p&gt;&lt;span style=&quot;font-size: 17px; letter-spacing: 2px; color: #e2583e;&quot;&gt;&lt;strong&gt;STEP 6 OF 9&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size: 32px;&quot;&gt;&lt;strong&gt;Open the hat into a square&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;",
+                    "autoSize": "height",
+                    "box": {
+                        "textColor": "#1f2a3d"
+                    },
+                    "animation": {
+                        "in": {
+                            "preset": "fadeIn",
+                            "duration": 300
+                        },
+                        "out": {
+                            "preset": "fadeOut",
+                            "duration": 200
+                        }
+                    }
+                }
+            },
+            "frametrail:events": {}
+        },
+        {
+            "@context": [
+                "http://www.w3.org/ns/anno.jsonld",
+                "https://frametrail.org/ns/context.jsonld"
+            ],
+            "creator": {
+                "nickname": "demo",
+                "type": "Person",
+                "id": "1"
+            },
+            "created": "2026-11-21T19:00:00.025Z",
+            "type": "Annotation",
+            "frametrail:type": "Overlay",
+            "frametrail:tags": [],
+            "target": {
+                "type": "Video",
+                "source": "1_1795310000_paper-boat.mp4",
+                "selector": {
+                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                    "type": "FragmentSelector",
+                    "value": "t=64.5,64.92&xywh=percent:31.5,84,16,9"
+                }
+            },
+            "body": {
+                "type": "TextualBody",
+                "frametrail:type": "hotspot",
+                "format": "text/html",
+                "frametrail:name": "Again",
+                "frametrail:thumb": null,
+                "frametrail:licenseType": null,
+                "frametrail:licenseAttribution": null,
+                "frametrail:attributes": {
+                    "text": "Again",
+                    "shape": "rounded",
+                    "borderRadius": 40,
+                    "color": "#1f2a3d",
+                    "borderWidth": 3,
+                    "textColor": "#1f2a3d",
+                    "backgroundColor": "rgba(255, 255, 255, 0.85)",
+                    "pulse": false,
+                    "action": "",
+                    "actionTarget": "",
+                    "animation": {
+                        "in": {
+                            "preset": "popIn",
+                            "duration": 350
+                        },
+                        "out": {
+                            "preset": "fadeOut",
+                            "duration": 150
+                        }
+                    }
+                }
+            },
+            "frametrail:events": {
+                "onClick": "hypervideo.currentTime = 54.05;\nhypervideo.play();"
+            }
+        },
+        {
+            "@context": [
+                "http://www.w3.org/ns/anno.jsonld",
+                "https://frametrail.org/ns/context.jsonld"
+            ],
+            "creator": {
+                "nickname": "demo",
+                "type": "Person",
+                "id": "1"
+            },
+            "created": "2026-11-21T19:00:00.026Z",
+            "type": "Annotation",
+            "frametrail:type": "Overlay",
+            "frametrail:tags": [],
+            "target": {
+                "type": "Video",
+                "source": "1_1795310000_paper-boat.mp4",
+                "selector": {
+                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                    "type": "FragmentSelector",
+                    "value": "t=64.5,64.92&xywh=percent:52.5,84,16,9"
+                }
+            },
+            "body": {
+                "type": "TextualBody",
+                "frametrail:type": "hotspot",
+                "format": "text/html",
+                "frametrail:name": "Next",
+                "frametrail:thumb": null,
+                "frametrail:licenseType": null,
+                "frametrail:licenseAttribution": null,
+                "frametrail:attributes": {
+                    "text": "Next",
+                    "shape": "rounded",
+                    "borderRadius": 40,
+                    "color": "#e2583e",
+                    "borderWidth": 3,
+                    "textColor": "#ffffff",
+                    "backgroundColor": "#e2583e",
+                    "pulse": false,
+                    "action": "",
+                    "actionTarget": "",
+                    "animation": {
+                        "in": {
+                            "preset": "popIn",
+                            "duration": 350
+                        },
+                        "out": {
+                            "preset": "fadeOut",
+                            "duration": 150
+                        }
+                    }
+                }
+            },
+            "frametrail:events": {
+                "onClick": "hypervideo.play();"
+            },
+            "frametrail:pause": true
+        },
+        {
+            "@context": [
+                "http://www.w3.org/ns/anno.jsonld",
+                "https://frametrail.org/ns/context.jsonld"
+            ],
+            "creator": {
+                "nickname": "demo",
+                "type": "Person",
+                "id": "1"
+            },
+            "created": "2026-11-21T19:00:00.028Z",
+            "type": "Annotation",
+            "frametrail:type": "Overlay",
+            "frametrail:tags": [],
+            "target": {
+                "type": "Video",
+                "source": "1_1795310000_paper-boat.mp4",
+                "selector": {
+                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                    "type": "FragmentSelector",
+                    "value": "t=65.15,76.9&xywh=percent:4,5,46,14"
+                }
+            },
+            "body": {
+                "type": "TextualBody",
+                "frametrail:type": "text",
+                "format": "text/html",
+                "value": "",
+                "frametrail:name": "Step: Bottom corners up",
+                "frametrail:attributes": {
+                    "text": "&lt;p&gt;&lt;span style=&quot;font-size: 17px; letter-spacing: 2px; color: #e2583e;&quot;&gt;&lt;strong&gt;STEP 7 OF 9&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size: 32px;&quot;&gt;&lt;strong&gt;Bottom corners up&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;",
+                    "autoSize": "height",
+                    "box": {
+                        "textColor": "#1f2a3d"
+                    },
+                    "animation": {
+                        "in": {
+                            "preset": "fadeIn",
+                            "duration": 300
+                        },
+                        "out": {
+                            "preset": "fadeOut",
+                            "duration": 200
+                        }
+                    }
+                }
+            },
+            "frametrail:events": {}
+        },
+        {
+            "@context": [
+                "http://www.w3.org/ns/anno.jsonld",
+                "https://frametrail.org/ns/context.jsonld"
+            ],
+            "creator": {
+                "nickname": "demo",
+                "type": "Person",
+                "id": "1"
+            },
+            "created": "2026-11-21T19:00:00.029Z",
+            "type": "Annotation",
+            "frametrail:type": "Overlay",
+            "frametrail:tags": [],
+            "target": {
+                "type": "Video",
+                "source": "1_1795310000_paper-boat.mp4",
+                "selector": {
+                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                    "type": "FragmentSelector",
+                    "value": "t=76.5,76.92&xywh=percent:31.5,84,16,9"
+                }
+            },
+            "body": {
+                "type": "TextualBody",
+                "frametrail:type": "hotspot",
+                "format": "text/html",
+                "frametrail:name": "Again",
+                "frametrail:thumb": null,
+                "frametrail:licenseType": null,
+                "frametrail:licenseAttribution": null,
+                "frametrail:attributes": {
+                    "text": "Again",
+                    "shape": "rounded",
+                    "borderRadius": 40,
+                    "color": "#1f2a3d",
+                    "borderWidth": 3,
+                    "textColor": "#1f2a3d",
+                    "backgroundColor": "rgba(255, 255, 255, 0.85)",
+                    "pulse": false,
+                    "action": "",
+                    "actionTarget": "",
+                    "animation": {
+                        "in": {
+                            "preset": "popIn",
+                            "duration": 350
+                        },
+                        "out": {
+                            "preset": "fadeOut",
+                            "duration": 150
+                        }
+                    }
+                }
+            },
+            "frametrail:events": {
+                "onClick": "hypervideo.currentTime = 65.05;\nhypervideo.play();"
+            }
+        },
+        {
+            "@context": [
+                "http://www.w3.org/ns/anno.jsonld",
+                "https://frametrail.org/ns/context.jsonld"
+            ],
+            "creator": {
+                "nickname": "demo",
+                "type": "Person",
+                "id": "1"
+            },
+            "created": "2026-11-21T19:00:00.030Z",
+            "type": "Annotation",
+            "frametrail:type": "Overlay",
+            "frametrail:tags": [],
+            "target": {
+                "type": "Video",
+                "source": "1_1795310000_paper-boat.mp4",
+                "selector": {
+                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                    "type": "FragmentSelector",
+                    "value": "t=76.5,76.92&xywh=percent:52.5,84,16,9"
+                }
+            },
+            "body": {
+                "type": "TextualBody",
+                "frametrail:type": "hotspot",
+                "format": "text/html",
+                "frametrail:name": "Next",
+                "frametrail:thumb": null,
+                "frametrail:licenseType": null,
+                "frametrail:licenseAttribution": null,
+                "frametrail:attributes": {
+                    "text": "Next",
+                    "shape": "rounded",
+                    "borderRadius": 40,
+                    "color": "#e2583e",
+                    "borderWidth": 3,
+                    "textColor": "#ffffff",
+                    "backgroundColor": "#e2583e",
+                    "pulse": false,
+                    "action": "",
+                    "actionTarget": "",
+                    "animation": {
+                        "in": {
+                            "preset": "popIn",
+                            "duration": 350
+                        },
+                        "out": {
+                            "preset": "fadeOut",
+                            "duration": 150
+                        }
+                    }
+                }
+            },
+            "frametrail:events": {
+                "onClick": "hypervideo.play();"
+            },
+            "frametrail:pause": true
+        },
+        {
+            "@context": [
+                "http://www.w3.org/ns/anno.jsonld",
+                "https://frametrail.org/ns/context.jsonld"
+            ],
+            "creator": {
+                "nickname": "demo",
+                "type": "Person",
+                "id": "1"
+            },
+            "created": "2026-11-21T19:00:00.032Z",
+            "type": "Annotation",
+            "frametrail:type": "Overlay",
+            "frametrail:tags": [],
+            "target": {
+                "type": "Video",
+                "source": "1_1795310000_paper-boat.mp4",
+                "selector": {
+                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                    "type": "FragmentSelector",
+                    "value": "t=77.15,85.9&xywh=percent:4,5,46,14"
+                }
+            },
+            "body": {
+                "type": "TextualBody",
+                "frametrail:type": "text",
+                "format": "text/html",
+                "value": "",
+                "frametrail:name": "Step: Open into a smaller square",
+                "frametrail:attributes": {
+                    "text": "&lt;p&gt;&lt;span style=&quot;font-size: 17px; letter-spacing: 2px; color: #e2583e;&quot;&gt;&lt;strong&gt;STEP 8 OF 9&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size: 32px;&quot;&gt;&lt;strong&gt;Open into a smaller square&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;",
+                    "autoSize": "height",
+                    "box": {
+                        "textColor": "#1f2a3d"
+                    },
+                    "animation": {
+                        "in": {
+                            "preset": "fadeIn",
+                            "duration": 300
+                        },
+                        "out": {
+                            "preset": "fadeOut",
+                            "duration": 200
+                        }
+                    }
+                }
+            },
+            "frametrail:events": {}
+        },
+        {
+            "@context": [
+                "http://www.w3.org/ns/anno.jsonld",
+                "https://frametrail.org/ns/context.jsonld"
+            ],
+            "creator": {
+                "nickname": "demo",
+                "type": "Person",
+                "id": "1"
+            },
+            "created": "2026-11-21T19:00:00.033Z",
+            "type": "Annotation",
+            "frametrail:type": "Overlay",
+            "frametrail:tags": [],
+            "target": {
+                "type": "Video",
+                "source": "1_1795310000_paper-boat.mp4",
+                "selector": {
+                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                    "type": "FragmentSelector",
+                    "value": "t=85.5,85.92&xywh=percent:31.5,84,16,9"
+                }
+            },
+            "body": {
+                "type": "TextualBody",
+                "frametrail:type": "hotspot",
+                "format": "text/html",
+                "frametrail:name": "Again",
+                "frametrail:thumb": null,
+                "frametrail:licenseType": null,
+                "frametrail:licenseAttribution": null,
+                "frametrail:attributes": {
+                    "text": "Again",
+                    "shape": "rounded",
+                    "borderRadius": 40,
+                    "color": "#1f2a3d",
+                    "borderWidth": 3,
+                    "textColor": "#1f2a3d",
+                    "backgroundColor": "rgba(255, 255, 255, 0.85)",
+                    "pulse": false,
+                    "action": "",
+                    "actionTarget": "",
+                    "animation": {
+                        "in": {
+                            "preset": "popIn",
+                            "duration": 350
+                        },
+                        "out": {
+                            "preset": "fadeOut",
+                            "duration": 150
+                        }
+                    }
+                }
+            },
+            "frametrail:events": {
+                "onClick": "hypervideo.currentTime = 77.05;\nhypervideo.play();"
+            }
+        },
+        {
+            "@context": [
+                "http://www.w3.org/ns/anno.jsonld",
+                "https://frametrail.org/ns/context.jsonld"
+            ],
+            "creator": {
+                "nickname": "demo",
+                "type": "Person",
+                "id": "1"
+            },
+            "created": "2026-11-21T19:00:00.034Z",
+            "type": "Annotation",
+            "frametrail:type": "Overlay",
+            "frametrail:tags": [],
+            "target": {
+                "type": "Video",
+                "source": "1_1795310000_paper-boat.mp4",
+                "selector": {
+                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                    "type": "FragmentSelector",
+                    "value": "t=85.5,85.92&xywh=percent:52.5,84,16,9"
+                }
+            },
+            "body": {
+                "type": "TextualBody",
+                "frametrail:type": "hotspot",
+                "format": "text/html",
+                "frametrail:name": "Next",
+                "frametrail:thumb": null,
+                "frametrail:licenseType": null,
+                "frametrail:licenseAttribution": null,
+                "frametrail:attributes": {
+                    "text": "Next",
+                    "shape": "rounded",
+                    "borderRadius": 40,
+                    "color": "#e2583e",
+                    "borderWidth": 3,
+                    "textColor": "#ffffff",
+                    "backgroundColor": "#e2583e",
+                    "pulse": false,
+                    "action": "",
+                    "actionTarget": "",
+                    "animation": {
+                        "in": {
+                            "preset": "popIn",
+                            "duration": 350
+                        },
+                        "out": {
+                            "preset": "fadeOut",
+                            "duration": 150
+                        }
+                    }
+                }
+            },
+            "frametrail:events": {
+                "onClick": "hypervideo.play();"
+            },
+            "frametrail:pause": true
+        },
+        {
+            "@context": [
+                "http://www.w3.org/ns/anno.jsonld",
+                "https://frametrail.org/ns/context.jsonld"
+            ],
+            "creator": {
+                "nickname": "demo",
+                "type": "Person",
+                "id": "1"
+            },
+            "created": "2026-11-21T19:00:00.036Z",
+            "type": "Annotation",
+            "frametrail:type": "Overlay",
+            "frametrail:tags": [],
+            "target": {
+                "type": "Video",
+                "source": "1_1795310000_paper-boat.mp4",
+                "selector": {
+                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                    "type": "FragmentSelector",
+                    "value": "t=86.15,94.9&xywh=percent:4,5,46,14"
+                }
+            },
+            "body": {
+                "type": "TextualBody",
+                "frametrail:type": "text",
+                "format": "text/html",
+                "value": "",
+                "frametrail:name": "Step: Pull the points apart",
+                "frametrail:attributes": {
+                    "text": "&lt;p&gt;&lt;span style=&quot;font-size: 17px; letter-spacing: 2px; color: #e2583e;&quot;&gt;&lt;strong&gt;STEP 9 OF 9&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size: 32px;&quot;&gt;&lt;strong&gt;Pull the points apart&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;",
+                    "autoSize": "height",
+                    "box": {
+                        "textColor": "#1f2a3d"
+                    },
+                    "animation": {
+                        "in": {
+                            "preset": "fadeIn",
+                            "duration": 300
+                        },
+                        "out": {
+                            "preset": "fadeOut",
+                            "duration": 200
+                        }
+                    }
+                }
+            },
+            "frametrail:events": {}
+        },
+        {
+            "@context": [
+                "http://www.w3.org/ns/anno.jsonld",
+                "https://frametrail.org/ns/context.jsonld"
+            ],
+            "creator": {
+                "nickname": "demo",
+                "type": "Person",
+                "id": "1"
+            },
+            "created": "2026-11-21T19:00:00.037Z",
+            "type": "Annotation",
+            "frametrail:type": "Overlay",
+            "frametrail:tags": [],
+            "target": {
+                "type": "Video",
+                "source": "1_1795310000_paper-boat.mp4",
+                "selector": {
+                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                    "type": "FragmentSelector",
+                    "value": "t=94.5,94.92&xywh=percent:31.5,84,16,9"
+                }
+            },
+            "body": {
+                "type": "TextualBody",
+                "frametrail:type": "hotspot",
+                "format": "text/html",
+                "frametrail:name": "Again",
+                "frametrail:thumb": null,
+                "frametrail:licenseType": null,
+                "frametrail:licenseAttribution": null,
+                "frametrail:attributes": {
+                    "text": "Again",
+                    "shape": "rounded",
+                    "borderRadius": 40,
+                    "color": "#1f2a3d",
+                    "borderWidth": 3,
+                    "textColor": "#1f2a3d",
+                    "backgroundColor": "rgba(255, 255, 255, 0.85)",
+                    "pulse": false,
+                    "action": "",
+                    "actionTarget": "",
+                    "animation": {
+                        "in": {
+                            "preset": "popIn",
+                            "duration": 350
+                        },
+                        "out": {
+                            "preset": "fadeOut",
+                            "duration": 150
+                        }
+                    }
+                }
+            },
+            "frametrail:events": {
+                "onClick": "hypervideo.currentTime = 86.05;\nhypervideo.play();"
+            }
+        },
+        {
+            "@context": [
+                "http://www.w3.org/ns/anno.jsonld",
+                "https://frametrail.org/ns/context.jsonld"
+            ],
+            "creator": {
+                "nickname": "demo",
+                "type": "Person",
+                "id": "1"
+            },
+            "created": "2026-11-21T19:00:00.038Z",
+            "type": "Annotation",
+            "frametrail:type": "Overlay",
+            "frametrail:tags": [],
+            "target": {
+                "type": "Video",
+                "source": "1_1795310000_paper-boat.mp4",
+                "selector": {
+                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                    "type": "FragmentSelector",
+                    "value": "t=94.5,94.92&xywh=percent:52.5,84,16,9"
+                }
+            },
+            "body": {
+                "type": "TextualBody",
+                "frametrail:type": "hotspot",
+                "format": "text/html",
+                "frametrail:name": "Finish",
+                "frametrail:thumb": null,
+                "frametrail:licenseType": null,
+                "frametrail:licenseAttribution": null,
+                "frametrail:attributes": {
+                    "text": "Finish",
+                    "shape": "rounded",
+                    "borderRadius": 40,
+                    "color": "#e2583e",
+                    "borderWidth": 3,
+                    "textColor": "#ffffff",
+                    "backgroundColor": "#e2583e",
+                    "pulse": false,
+                    "action": "",
+                    "actionTarget": "",
+                    "animation": {
+                        "in": {
+                            "preset": "popIn",
+                            "duration": 350
+                        },
+                        "out": {
+                            "preset": "fadeOut",
+                            "duration": 150
+                        }
+                    }
+                }
+            },
+            "frametrail:events": {
+                "onClick": "hypervideo.play();"
+            },
+            "frametrail:pause": true
+        },
+        {
+            "@context": [
+                "http://www.w3.org/ns/anno.jsonld",
+                "https://frametrail.org/ns/context.jsonld"
+            ],
+            "creator": {
+                "nickname": "demo",
+                "type": "Person",
+                "id": "1"
+            },
+            "created": "2026-11-21T19:00:00.040Z",
+            "type": "Annotation",
+            "frametrail:type": "Overlay",
+            "frametrail:tags": [],
+            "target": {
+                "type": "Video",
+                "source": "1_1795310000_paper-boat.mp4",
+                "selector": {
+                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                    "type": "FragmentSelector",
+                    "value": "t=95.15,103.9&xywh=percent:4,5,46,14"
+                }
+            },
+            "body": {
+                "type": "TextualBody",
+                "frametrail:type": "text",
+                "format": "text/html",
+                "value": "",
+                "frametrail:name": "Step: Your boat",
+                "frametrail:attributes": {
+                    "text": "&lt;p&gt;&lt;span style=&quot;font-size: 17px; letter-spacing: 2px; color: #e2583e;&quot;&gt;&lt;strong&gt;DONE&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size: 32px;&quot;&gt;&lt;strong&gt;Your boat&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;",
+                    "autoSize": "height",
+                    "box": {
+                        "textColor": "#1f2a3d"
+                    },
+                    "animation": {
+                        "in": {
+                            "preset": "fadeIn",
+                            "duration": 300
+                        },
+                        "out": {
+                            "preset": "fadeOut",
+                            "duration": 200
+                        }
+                    }
+                }
+            },
+            "frametrail:events": {}
+        },
+        {
+            "@context": [
+                "http://www.w3.org/ns/anno.jsonld",
+                "https://frametrail.org/ns/context.jsonld"
+            ],
+            "creator": {
+                "nickname": "demo",
+                "type": "Person",
+                "id": "1"
+            },
+            "created": "2026-11-21T19:00:00.041Z",
+            "type": "Annotation",
+            "frametrail:type": "Overlay",
+            "frametrail:tags": [],
+            "target": {
+                "type": "Video",
+                "source": "1_1795310000_paper-boat.mp4",
+                "selector": {
+                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                    "type": "FragmentSelector",
+                    "value": "t=100.5,104&xywh=percent:41,84,18,9"
+                }
+            },
+            "body": {
+                "type": "TextualBody",
+                "frametrail:type": "hotspot",
+                "format": "text/html",
+                "frametrail:name": "Fold another",
+                "frametrail:thumb": null,
+                "frametrail:licenseType": null,
+                "frametrail:licenseAttribution": null,
+                "frametrail:attributes": {
+                    "text": "Fold another",
+                    "shape": "rounded",
+                    "borderRadius": 40,
+                    "color": "#e2583e",
+                    "borderWidth": 3,
+                    "textColor": "#ffffff",
+                    "backgroundColor": "#e2583e",
+                    "pulse": false,
+                    "action": "",
+                    "actionTarget": "",
+                    "animation": {
+                        "in": {
+                            "preset": "popIn",
+                            "duration": 350
+                        },
+                        "out": {
+                            "preset": "fadeOut",
+                            "duration": 150
+                        }
+                    }
+                }
+            },
+            "frametrail:events": {
+                "onClick": "hypervideo.currentTime = 0;\nhypervideo.play();"
+            }
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+/* Fold-Along */
+
+/* The buttons on the picture: easy to hit with paper in your hands */
+.overlayContainer .resourceDetail[data-type="hotspot"] .hotspot-label {
+    font-size: clamp(13px, 1.5vw, 22px);
+    font-weight: 600;
+}
+
+/* The tips on the phone */
+.foldTip h3 {
+    margin: 0 0 10px;
+    font-size: 24px;
+    font-weight: 600;
+}
+.foldTip p {
+    margin: 0;
+    font-size: 19px;
+    line-height: 1.5;
+}
