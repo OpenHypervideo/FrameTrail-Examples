@@ -1,0 +1,74 @@
+/* Explore the Picture */
+
+/* The ring: the scene itself is the thumbnail, without the text preview and the type icon */
+.areaCircularContainer .resourceThumb .resourceTextPreview,
+.areaCircularContainer .resourceThumb .resourceOverlay {
+    display: none;
+}
+.areaCircularContainer .resourceThumb {
+    background-size: cover;
+    background-position: center;
+}
+
+/* The card a click opens: the scene on the left, the proverb on the right */
+.resourcePreviewDialog .resourceDetail[data-type="text"] {
+    background: #14110d;
+}
+.resourcePreviewDialog .resourceDetail[data-type="text"] .resourceContent,
+.resourcePreviewDialog .resourceDetail[data-type="text"] .textOverlayBody {
+    height: 100%;
+    padding: 0;
+    overflow: hidden;
+}
+.proverbCard {
+    display: flex;
+    align-items: center;
+    gap: 36px;
+    box-sizing: border-box;
+    height: 100%;
+    padding: 24px 40px 56px 24px;
+    color: #fff3d6;
+}
+.proverbCard img {
+    flex: 0 1 auto;
+    min-width: 0;
+    max-width: 52%;
+    max-height: 100%;
+    object-fit: contain;
+    border-radius: 3px;
+    box-shadow: 0 6px 24px rgba(0, 0, 0, .6);
+}
+.proverbCard .proverbText {
+    flex: 1 1 0;
+}
+.proverbCard h3 {
+    margin: 0 0 16px;
+    font: italic 400 30px/1.25 Georgia, "Times New Roman", serif;
+    color: #fff3d6;
+}
+.proverbCard p {
+    margin: 0;
+    font-size: 18px;
+    line-height: 1.55;
+    color: #e6d9bb;
+}
+@media (max-width: 640px) {
+    .proverbCard {
+        flex-direction: column;
+        gap: 14px;
+        padding: 14px 16px 48px;
+    }
+    .proverbCard img {
+        max-width: 100%;
+        max-height: 50%;
+    }
+    .proverbCard h3 { font-size: 21px; margin-bottom: 8px; }
+    .proverbCard p { font-size: 15px; }
+}
+
+/* The film's own margins are this dark brown; the player's margins take the same colour */
+.videoContainer .circularVideoBackdrop,
+.videoContainer .hypervideo,
+.videoContainer .hypervideo video {
+    background-color: #14110d !important;
+}

@@ -1,0 +1,686 @@
+[
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-21T12:00:00.004Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "1_1795280000_netherlandish-proverbs.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=11,18"
+            }
+        },
+        "body": {
+            "type": "TextualBody",
+            "frametrail:type": "text",
+            "format": "text/html",
+            "value": "",
+            "frametrail:name": "To be a pillar-biter",
+            "frametrail:thumb": "1_1795280001_thumb_pillar.jpg",
+            "frametrail:licenseType": "PD",
+            "frametrail:licenseAttribution": "Pieter Bruegel the Elder, Netherlandish Proverbs (1559). Gemäldegalerie, Berlin. Scan: Google Art Project, via Wikimedia Commons",
+            "frametrail:attributes": {
+                "text": "&lt;div class=&quot;proverbCard&quot;&gt;&lt;img src=&quot;_data/resources/1_1795280001_pillar.jpg&quot; alt=&quot;&quot;&gt;&lt;div class=&quot;proverbText&quot;&gt;&lt;h3&gt;To be a pillar-biter&lt;/h3&gt;&lt;p&gt;To be a religious hypocrite: so showily devout that he chews on the church pillars.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-21T12:00:00.007Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "1_1795280000_netherlandish-proverbs.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=14,21"
+            }
+        },
+        "body": {
+            "type": "TextualBody",
+            "frametrail:type": "text",
+            "format": "text/html",
+            "value": "",
+            "frametrail:name": "To tie even the devil to a pillow",
+            "frametrail:thumb": "1_1795280002_thumb_devil.jpg",
+            "frametrail:licenseType": "PD",
+            "frametrail:licenseAttribution": "Pieter Bruegel the Elder, Netherlandish Proverbs (1559). Gemäldegalerie, Berlin. Scan: Google Art Project, via Wikimedia Commons",
+            "frametrail:attributes": {
+                "text": "&lt;div class=&quot;proverbCard&quot;&gt;&lt;img src=&quot;_data/resources/1_1795280002_devil.jpg&quot; alt=&quot;&quot;&gt;&lt;div class=&quot;proverbText&quot;&gt;&lt;h3&gt;To tie even the devil to a pillow&lt;/h3&gt;&lt;p&gt;Obstinacy overcomes everything. Nothing can stop a truly stubborn person.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-21T12:00:00.010Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "1_1795280000_netherlandish-proverbs.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=18,25"
+            }
+        },
+        "body": {
+            "type": "TextualBody",
+            "frametrail:type": "text",
+            "format": "text/html",
+            "value": "",
+            "frametrail:name": "To carry fire in one hand and water in the other",
+            "frametrail:thumb": "1_1795280003_thumb_firewater.jpg",
+            "frametrail:licenseType": "PD",
+            "frametrail:licenseAttribution": "Pieter Bruegel the Elder, Netherlandish Proverbs (1559). Gemäldegalerie, Berlin. Scan: Google Art Project, via Wikimedia Commons",
+            "frametrail:attributes": {
+                "text": "&lt;div class=&quot;proverbCard&quot;&gt;&lt;img src=&quot;_data/resources/1_1795280003_firewater.jpg&quot; alt=&quot;&quot;&gt;&lt;div class=&quot;proverbText&quot;&gt;&lt;h3&gt;To carry fire in one hand and water in the other&lt;/h3&gt;&lt;p&gt;To be two-faced: saying one thing here and the opposite there.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-21T12:00:00.013Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "1_1795280000_netherlandish-proverbs.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=22,29"
+            }
+        },
+        "body": {
+            "type": "TextualBody",
+            "frametrail:type": "text",
+            "format": "text/html",
+            "value": "",
+            "frametrail:name": "To bang one's head against a brick wall",
+            "frametrail:thumb": "1_1795280004_thumb_wall.jpg",
+            "frametrail:licenseType": "PD",
+            "frametrail:licenseAttribution": "Pieter Bruegel the Elder, Netherlandish Proverbs (1559). Gemäldegalerie, Berlin. Scan: Google Art Project, via Wikimedia Commons",
+            "frametrail:attributes": {
+                "text": "&lt;div class=&quot;proverbCard&quot;&gt;&lt;img src=&quot;_data/resources/1_1795280004_wall.jpg&quot; alt=&quot;&quot;&gt;&lt;div class=&quot;proverbText&quot;&gt;&lt;h3&gt;To bang one&amp;#x27;s head against a brick wall&lt;/h3&gt;&lt;p&gt;To keep trying to do the impossible. Still said today, almost word for word.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-21T12:00:00.016Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "1_1795280000_netherlandish-proverbs.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=27,34"
+            }
+        },
+        "body": {
+            "type": "TextualBody",
+            "frametrail:type": "text",
+            "format": "text/html",
+            "value": "",
+            "frametrail:name": "To bell the cat",
+            "frametrail:thumb": "1_1795280005_thumb_cat.jpg",
+            "frametrail:licenseType": "PD",
+            "frametrail:licenseAttribution": "Pieter Bruegel the Elder, Netherlandish Proverbs (1559). Gemäldegalerie, Berlin. Scan: Google Art Project, via Wikimedia Commons",
+            "frametrail:attributes": {
+                "text": "&lt;div class=&quot;proverbCard&quot;&gt;&lt;img src=&quot;_data/resources/1_1795280005_cat.jpg&quot; alt=&quot;&quot;&gt;&lt;div class=&quot;proverbText&quot;&gt;&lt;h3&gt;To bell the cat&lt;/h3&gt;&lt;p&gt;To carry out a dangerous or impractical plan. He has put on armour for it: he is also “armed to the teeth”.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-21T12:00:00.019Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "1_1795280000_netherlandish-proverbs.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=30,37"
+            }
+        },
+        "body": {
+            "type": "TextualBody",
+            "frametrail:type": "text",
+            "format": "text/html",
+            "value": "",
+            "frametrail:name": "One shears sheep, the other shears pigs",
+            "frametrail:thumb": "1_1795280006_thumb_shear.jpg",
+            "frametrail:licenseType": "PD",
+            "frametrail:licenseAttribution": "Pieter Bruegel the Elder, Netherlandish Proverbs (1559). Gemäldegalerie, Berlin. Scan: Google Art Project, via Wikimedia Commons",
+            "frametrail:attributes": {
+                "text": "&lt;div class=&quot;proverbCard&quot;&gt;&lt;img src=&quot;_data/resources/1_1795280006_shear.jpg&quot; alt=&quot;&quot;&gt;&lt;div class=&quot;proverbText&quot;&gt;&lt;h3&gt;One shears sheep, the other shears pigs&lt;/h3&gt;&lt;p&gt;One has all the advantages, the other has none. Sheep give wool; pigs give only noise.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-21T12:00:00.022Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "1_1795280000_netherlandish-proverbs.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=45,52"
+            }
+        },
+        "body": {
+            "type": "TextualBody",
+            "frametrail:type": "text",
+            "format": "text/html",
+            "value": "",
+            "frametrail:name": "The world is turned upside down",
+            "frametrail:thumb": "1_1795280007_thumb_globe.jpg",
+            "frametrail:licenseType": "PD",
+            "frametrail:licenseAttribution": "Pieter Bruegel the Elder, Netherlandish Proverbs (1559). Gemäldegalerie, Berlin. Scan: Google Art Project, via Wikimedia Commons",
+            "frametrail:attributes": {
+                "text": "&lt;div class=&quot;proverbCard&quot;&gt;&lt;img src=&quot;_data/resources/1_1795280007_globe.jpg&quot; alt=&quot;&quot;&gt;&lt;div class=&quot;proverbText&quot;&gt;&lt;h3&gt;The world is turned upside down&lt;/h3&gt;&lt;p&gt;Everything is the opposite of what it should be. The globe hangs with its cross pointing down, and sets the theme for the whole painting.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-21T12:00:00.025Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "1_1795280000_netherlandish-proverbs.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=59,66"
+            }
+        },
+        "body": {
+            "type": "TextualBody",
+            "frametrail:type": "text",
+            "format": "text/html",
+            "value": "",
+            "frametrail:name": "The roof is tiled with tarts",
+            "frametrail:thumb": "1_1795280008_thumb_tarts.jpg",
+            "frametrail:licenseType": "PD",
+            "frametrail:licenseAttribution": "Pieter Bruegel the Elder, Netherlandish Proverbs (1559). Gemäldegalerie, Berlin. Scan: Google Art Project, via Wikimedia Commons",
+            "frametrail:attributes": {
+                "text": "&lt;div class=&quot;proverbCard&quot;&gt;&lt;img src=&quot;_data/resources/1_1795280008_tarts.jpg&quot; alt=&quot;&quot;&gt;&lt;div class=&quot;proverbText&quot;&gt;&lt;h3&gt;The roof is tiled with tarts&lt;/h3&gt;&lt;p&gt;To be very wealthy. In a land of plenty, even the roofs are good to eat.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-21T12:00:00.028Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "1_1795280000_netherlandish-proverbs.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=75,82"
+            }
+        },
+        "body": {
+            "type": "TextualBody",
+            "frametrail:type": "text",
+            "format": "text/html",
+            "value": "",
+            "frametrail:name": "To hang one's cloak according to the wind",
+            "frametrail:thumb": "1_1795280009_thumb_cloak.jpg",
+            "frametrail:licenseType": "PD",
+            "frametrail:licenseAttribution": "Pieter Bruegel the Elder, Netherlandish Proverbs (1559). Gemäldegalerie, Berlin. Scan: Google Art Project, via Wikimedia Commons",
+            "frametrail:attributes": {
+                "text": "&lt;div class=&quot;proverbCard&quot;&gt;&lt;img src=&quot;_data/resources/1_1795280009_cloak.jpg&quot; alt=&quot;&quot;&gt;&lt;div class=&quot;proverbText&quot;&gt;&lt;h3&gt;To hang one&amp;#x27;s cloak according to the wind&lt;/h3&gt;&lt;p&gt;To adapt one&amp;#x27;s opinions to whatever is current.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-21T12:00:00.031Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "1_1795280000_netherlandish-proverbs.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=77.5,84.5"
+            }
+        },
+        "body": {
+            "type": "TextualBody",
+            "frametrail:type": "text",
+            "format": "text/html",
+            "value": "",
+            "frametrail:name": "To toss feathers in the wind",
+            "frametrail:thumb": "1_1795280010_thumb_feathers.jpg",
+            "frametrail:licenseType": "PD",
+            "frametrail:licenseAttribution": "Pieter Bruegel the Elder, Netherlandish Proverbs (1559). Gemäldegalerie, Berlin. Scan: Google Art Project, via Wikimedia Commons",
+            "frametrail:attributes": {
+                "text": "&lt;div class=&quot;proverbCard&quot;&gt;&lt;img src=&quot;_data/resources/1_1795280010_feathers.jpg&quot; alt=&quot;&quot;&gt;&lt;div class=&quot;proverbText&quot;&gt;&lt;h3&gt;To toss feathers in the wind&lt;/h3&gt;&lt;p&gt;To work without any result.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-21T12:00:00.034Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "1_1795280000_netherlandish-proverbs.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=92,99"
+            }
+        },
+        "body": {
+            "type": "TextualBody",
+            "frametrail:type": "text",
+            "format": "text/html",
+            "value": "",
+            "frametrail:name": "Big fish eat little fish",
+            "frametrail:thumb": "1_1795280011_thumb_bigfish.jpg",
+            "frametrail:licenseType": "PD",
+            "frametrail:licenseAttribution": "Pieter Bruegel the Elder, Netherlandish Proverbs (1559). Gemäldegalerie, Berlin. Scan: Google Art Project, via Wikimedia Commons",
+            "frametrail:attributes": {
+                "text": "&lt;div class=&quot;proverbCard&quot;&gt;&lt;img src=&quot;_data/resources/1_1795280011_bigfish.jpg&quot; alt=&quot;&quot;&gt;&lt;div class=&quot;proverbText&quot;&gt;&lt;h3&gt;Big fish eat little fish&lt;/h3&gt;&lt;p&gt;The powerful live off the weak.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-21T12:00:00.037Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "1_1795280000_netherlandish-proverbs.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=107,114"
+            }
+        },
+        "body": {
+            "type": "TextualBody",
+            "frametrail:type": "text",
+            "format": "text/html",
+            "value": "",
+            "frametrail:name": "To fall through the basket",
+            "frametrail:thumb": "1_1795280012_thumb_basket.jpg",
+            "frametrail:licenseType": "PD",
+            "frametrail:licenseAttribution": "Pieter Bruegel the Elder, Netherlandish Proverbs (1559). Gemäldegalerie, Berlin. Scan: Google Art Project, via Wikimedia Commons",
+            "frametrail:attributes": {
+                "text": "&lt;div class=&quot;proverbCard&quot;&gt;&lt;img src=&quot;_data/resources/1_1795280012_basket.jpg&quot; alt=&quot;&quot;&gt;&lt;div class=&quot;proverbText&quot;&gt;&lt;h3&gt;To fall through the basket&lt;/h3&gt;&lt;p&gt;To have one&amp;#x27;s deception uncovered.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-21T12:00:00.040Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "1_1795280000_netherlandish-proverbs.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=120,127"
+            }
+        },
+        "body": {
+            "type": "TextualBody",
+            "frametrail:type": "text",
+            "format": "text/html",
+            "value": "",
+            "frametrail:name": "To be unable to reach from one loaf to the other",
+            "frametrail:thumb": "1_1795280013_thumb_loaf.jpg",
+            "frametrail:licenseType": "PD",
+            "frametrail:licenseAttribution": "Pieter Bruegel the Elder, Netherlandish Proverbs (1559). Gemäldegalerie, Berlin. Scan: Google Art Project, via Wikimedia Commons",
+            "frametrail:attributes": {
+                "text": "&lt;div class=&quot;proverbCard&quot;&gt;&lt;img src=&quot;_data/resources/1_1795280013_loaf.jpg&quot; alt=&quot;&quot;&gt;&lt;div class=&quot;proverbText&quot;&gt;&lt;h3&gt;To be unable to reach from one loaf to the other&lt;/h3&gt;&lt;p&gt;To have trouble living within one&amp;#x27;s means: the money never lasts until the next payday.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-21T12:00:00.043Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "1_1795280000_netherlandish-proverbs.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=124,131"
+            }
+        },
+        "body": {
+            "type": "TextualBody",
+            "frametrail:type": "text",
+            "format": "text/html",
+            "value": "",
+            "frametrail:name": "To have the world spinning on one's thumb",
+            "frametrail:thumb": "1_1795280014_thumb_thumb.jpg",
+            "frametrail:licenseType": "PD",
+            "frametrail:licenseAttribution": "Pieter Bruegel the Elder, Netherlandish Proverbs (1559). Gemäldegalerie, Berlin. Scan: Google Art Project, via Wikimedia Commons",
+            "frametrail:attributes": {
+                "text": "&lt;div class=&quot;proverbCard&quot;&gt;&lt;img src=&quot;_data/resources/1_1795280014_thumb.jpg&quot; alt=&quot;&quot;&gt;&lt;div class=&quot;proverbText&quot;&gt;&lt;h3&gt;To have the world spinning on one&amp;#x27;s thumb&lt;/h3&gt;&lt;p&gt;To have every advantage, and to make the world dance to one&amp;#x27;s tune.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-21T12:00:00.046Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "1_1795280000_netherlandish-proverbs.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=128,135"
+            }
+        },
+        "body": {
+            "type": "TextualBody",
+            "frametrail:type": "text",
+            "format": "text/html",
+            "value": "",
+            "frametrail:name": "To put a flaxen beard on Christ",
+            "frametrail:thumb": "1_1795280015_thumb_beard.jpg",
+            "frametrail:licenseType": "PD",
+            "frametrail:licenseAttribution": "Pieter Bruegel the Elder, Netherlandish Proverbs (1559). Gemäldegalerie, Berlin. Scan: Google Art Project, via Wikimedia Commons",
+            "frametrail:attributes": {
+                "text": "&lt;div class=&quot;proverbCard&quot;&gt;&lt;img src=&quot;_data/resources/1_1795280015_beard.jpg&quot; alt=&quot;&quot;&gt;&lt;div class=&quot;proverbText&quot;&gt;&lt;h3&gt;To put a flaxen beard on Christ&lt;/h3&gt;&lt;p&gt;To hide deceit under a show of piety.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-21T12:00:00.049Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "1_1795280000_netherlandish-proverbs.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=145,152"
+            }
+        },
+        "body": {
+            "type": "TextualBody",
+            "frametrail:type": "text",
+            "format": "text/html",
+            "value": "",
+            "frametrail:name": "To cast roses before swine",
+            "frametrail:thumb": "1_1795280016_thumb_roses.jpg",
+            "frametrail:licenseType": "PD",
+            "frametrail:licenseAttribution": "Pieter Bruegel the Elder, Netherlandish Proverbs (1559). Gemäldegalerie, Berlin. Scan: Google Art Project, via Wikimedia Commons",
+            "frametrail:attributes": {
+                "text": "&lt;div class=&quot;proverbCard&quot;&gt;&lt;img src=&quot;_data/resources/1_1795280016_roses.jpg&quot; alt=&quot;&quot;&gt;&lt;div class=&quot;proverbText&quot;&gt;&lt;h3&gt;To cast roses before swine&lt;/h3&gt;&lt;p&gt;To waste effort on those who cannot appreciate it. English says pearls.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-21T12:00:00.052Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "1_1795280000_netherlandish-proverbs.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=149,156"
+            }
+        },
+        "body": {
+            "type": "TextualBody",
+            "frametrail:type": "text",
+            "format": "text/html",
+            "value": "",
+            "frametrail:name": "To fill the well after the calf has drowned",
+            "frametrail:thumb": "1_1795280017_thumb_well.jpg",
+            "frametrail:licenseType": "PD",
+            "frametrail:licenseAttribution": "Pieter Bruegel the Elder, Netherlandish Proverbs (1559). Gemäldegalerie, Berlin. Scan: Google Art Project, via Wikimedia Commons",
+            "frametrail:attributes": {
+                "text": "&lt;div class=&quot;proverbCard&quot;&gt;&lt;img src=&quot;_data/resources/1_1795280017_well.jpg&quot; alt=&quot;&quot;&gt;&lt;div class=&quot;proverbText&quot;&gt;&lt;h3&gt;To fill the well after the calf has drowned&lt;/h3&gt;&lt;p&gt;To act only after disaster has struck.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-21T12:00:00.055Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "1_1795280000_netherlandish-proverbs.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=153,160"
+            }
+        },
+        "body": {
+            "type": "TextualBody",
+            "frametrail:type": "text",
+            "format": "text/html",
+            "value": "",
+            "frametrail:name": "She puts the blue cloak on her husband",
+            "frametrail:thumb": "1_1795280018_thumb_bluecloak.jpg",
+            "frametrail:licenseType": "PD",
+            "frametrail:licenseAttribution": "Pieter Bruegel the Elder, Netherlandish Proverbs (1559). Gemäldegalerie, Berlin. Scan: Google Art Project, via Wikimedia Commons",
+            "frametrail:attributes": {
+                "text": "&lt;div class=&quot;proverbCard&quot;&gt;&lt;img src=&quot;_data/resources/1_1795280018_bluecloak.jpg&quot; alt=&quot;&quot;&gt;&lt;div class=&quot;proverbText&quot;&gt;&lt;h3&gt;She puts the blue cloak on her husband&lt;/h3&gt;&lt;p&gt;She is deceiving him. Blue was the colour of folly and of cheating; the painting was once known as “The Blue Cloak”.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;"
+            }
+        }
+    }
+]

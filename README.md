@@ -8,6 +8,7 @@ Demos and Examples of FrameTrail Projects
 
 ### Projects
 
+- [Explore the Picture (2026)](https://openhypervideo.github.io/FrameTrail-Examples/explore-the-picture/) - A slow walk through Pieter Bruegel the Elder's "Netherlandish Proverbs" (1559). Outlines follow the scenes as the camera drifts past them; click one to find out which proverb it shows. A ring of pictures around the video holds all 18 scenes there are to find.
 - [What is FrameTrail? (2026)](https://openhypervideo.github.io/FrameTrail-Examples/what-is-frametrail/) - The front page of frametrail.org as a film without video: what FrameTrail is, its features, use cases and principles in the page's own words, each with a small demonstration, and the materials it points to beside the stage.
 - [FrameTrail Explainer (2026)](https://openhypervideo.github.io/FrameTrail-Examples/frametrail-explainer/) - FrameTrail explained by a film that has no video file: six hypervideos made only of overlays animated on an empty timeline. The opening asks what you want to make, each answer leads to its own film (teaching, reporting, research, storytelling), and all four end where the film hands you the editor.
 - [Zoom in on DNA (2026)](https://openhypervideo.github.io/FrameTrail-Examples/zoom-in-on-dna/)
