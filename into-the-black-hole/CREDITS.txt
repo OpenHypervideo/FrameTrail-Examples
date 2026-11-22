@@ -1,0 +1,16 @@
+Into the Black Hole
+===================
+
+Films
+    "NASA Black Hole Visualization Takes Viewers Beyond the Brink" (2024), NASA's Scientific Visualization Studio,
+    entry 14576: https://svs.gsfc.nasa.gov/14576
+    Credit: NASA's Goddard Space Flight Center / J. Schnittman and B. Powell.
+    Visualizer: Jeremy Schnittman. Producer: Scott Wiessinger. Science writer: Francis Reddy.
+    Support: Brian Powell, Ernie Wright.
+    Public domain. Used here: the plunge in Mollweide projection (scaled to 1920 x 960, 30 frames per second,
+    the grey surround of the oval darkened), the "Times" film (cropped to its box) and the "Inset" film,
+    both starting 7 seconds in. No music and no NASA explainer footage is used.
+
+Explanations
+    Written for this example, in English and German. Public domain (CC0). What they say follows the labels of
+    NASA's own explainer film and its published captions; this example is not made or endorsed by NASA.
