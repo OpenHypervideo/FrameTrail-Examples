@@ -1,0 +1,493 @@
+{
+    "meta": {
+        "name": "Escondida Mine",
+        "description": "Chile. Land, 1985–2026. The Atacama Desert in northern Chile. In 1985 there is almost nothing here. Mining began in the late 1980s. Open pits are carved into the desert. Today Escondida produces more copper than any other mine in the world.",
+        "thumb": "1_1795430010_thumb_escondida.jpg",
+        "creator": "demo",
+        "creatorId": "1",
+        "created": 1795430100000,
+        "lastchanged": 1795430100000
+    },
+    "config": {
+        "slidingMode": "adjust",
+        "slidingTrigger": "key",
+        "autohideControls": true,
+        "captionsVisible": false,
+        "clipTimeVisible": false,
+        "autoplay": true,
+        "layoutArea": {
+            "areaTop": [],
+            "areaBottom": [],
+            "areaLeft": [],
+            "areaRight": []
+        }
+    },
+    "clips": [
+        {
+            "resourceId": "19",
+            "src": "1_1795430010_escondida.mp4",
+            "duration": 0,
+            "in": 0,
+            "out": 0
+        }
+    ],
+    "chapters": [],
+    "subtitles": [],
+    "globalEvents": {
+        "onReady": "",
+        "onPlay": "",
+        "onPause": "",
+        "onEnded": ""
+    },
+    "customCSS": "",
+    "contents": [
+        {
+            "@context": [
+                "http://www.w3.org/ns/anno.jsonld",
+                "https://frametrail.org/ns/context.jsonld"
+            ],
+            "creator": {
+                "nickname": "demo",
+                "type": "Person",
+                "id": "1"
+            },
+            "created": "2026-11-22T15:09:00.001Z",
+            "type": "Annotation",
+            "frametrail:type": "Overlay",
+            "frametrail:tags": [
+                "land"
+            ],
+            "target": {
+                "type": "Video",
+                "source": "1_1795430010_escondida.mp4",
+                "selector": {
+                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                    "type": "FragmentSelector",
+                    "value": "t=0.3,6.2&xywh=percent:3.5,6,44,20"
+                }
+            },
+            "body": {
+                "type": "TextualBody",
+                "frametrail:type": "text",
+                "format": "text/html",
+                "value": "",
+                "frametrail:name": "Escondida Mine",
+                "frametrail:attributes": {
+                    "text": "&lt;p&gt;&lt;span style=&quot;font-size: 15px; color: #e0805a;&quot;&gt;&lt;strong&gt;LAND · 1985–2026&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size: 44px;&quot;&gt;&lt;strong&gt;Escondida Mine&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size: 22px;&quot;&gt;Chile&lt;/span&gt;&lt;/p&gt;",
+                    "autoSize": "height",
+                    "box": {
+                        "background": "rgba(10, 14, 28, 0.74)",
+                        "textColor": "#ffffff",
+                        "padding": 18,
+                        "radius": 6
+                    },
+                    "zIndex": 5,
+                    "animation": {
+                        "in": {
+                            "preset": "slideFromLeft",
+                            "duration": 500
+                        },
+                        "out": {
+                            "preset": "fadeOut",
+                            "duration": 400
+                        }
+                    }
+                }
+            },
+            "frametrail:events": {}
+        },
+        {
+            "@context": [
+                "http://www.w3.org/ns/anno.jsonld",
+                "https://frametrail.org/ns/context.jsonld"
+            ],
+            "creator": {
+                "nickname": "demo",
+                "type": "Person",
+                "id": "1"
+            },
+            "created": "2026-11-22T15:09:00.002Z",
+            "type": "Annotation",
+            "frametrail:type": "Overlay",
+            "frametrail:tags": [
+                "land"
+            ],
+            "target": {
+                "type": "Video",
+                "source": "1_1795430010_escondida.mp4",
+                "selector": {
+                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                    "type": "FragmentSelector",
+                    "value": "t=7.2,12.6&xywh=percent:3.5,6,40,14"
+                }
+            },
+            "body": {
+                "type": "TextualBody",
+                "frametrail:type": "text",
+                "format": "text/html",
+                "value": "",
+                "frametrail:name": "The Atacama Desert in northern Chile. In 1985 ther",
+                "frametrail:attributes": {
+                    "text": "&lt;p&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;The Atacama Desert in northern Chile. In 1985 there is almost nothing here.&lt;/span&gt;&lt;/p&gt;",
+                    "autoSize": "height",
+                    "box": {
+                        "background": "rgba(10, 14, 28, 0.74)",
+                        "textColor": "#ffffff",
+                        "padding": 18,
+                        "radius": 6
+                    },
+                    "zIndex": 5,
+                    "animation": {
+                        "in": {
+                            "preset": "fadeIn",
+                            "duration": 500
+                        },
+                        "out": {
+                            "preset": "fadeOut",
+                            "duration": 400
+                        }
+                    }
+                }
+            },
+            "frametrail:events": {}
+        },
+        {
+            "@context": [
+                "http://www.w3.org/ns/anno.jsonld",
+                "https://frametrail.org/ns/context.jsonld"
+            ],
+            "creator": {
+                "nickname": "demo",
+                "type": "Person",
+                "id": "1"
+            },
+            "created": "2026-11-22T15:09:00.003Z",
+            "type": "Annotation",
+            "frametrail:type": "Overlay",
+            "frametrail:tags": [
+                "land"
+            ],
+            "target": {
+                "type": "Video",
+                "source": "1_1795430010_escondida.mp4",
+                "selector": {
+                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                    "type": "FragmentSelector",
+                    "value": "t=13.4,18.8&xywh=percent:3.5,6,40,14"
+                }
+            },
+            "body": {
+                "type": "TextualBody",
+                "frametrail:type": "text",
+                "format": "text/html",
+                "value": "",
+                "frametrail:name": "Mining began in the late 1980s. Open pits are carv",
+                "frametrail:attributes": {
+                    "text": "&lt;p&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;Mining began in the late 1980s. Open pits are carved into the desert.&lt;/span&gt;&lt;/p&gt;",
+                    "autoSize": "height",
+                    "box": {
+                        "background": "rgba(10, 14, 28, 0.74)",
+                        "textColor": "#ffffff",
+                        "padding": 18,
+                        "radius": 6
+                    },
+                    "zIndex": 5,
+                    "animation": {
+                        "in": {
+                            "preset": "fadeIn",
+                            "duration": 500
+                        },
+                        "out": {
+                            "preset": "fadeOut",
+                            "duration": 400
+                        }
+                    }
+                }
+            },
+            "frametrail:events": {}
+        },
+        {
+            "@context": [
+                "http://www.w3.org/ns/anno.jsonld",
+                "https://frametrail.org/ns/context.jsonld"
+            ],
+            "creator": {
+                "nickname": "demo",
+                "type": "Person",
+                "id": "1"
+            },
+            "created": "2026-11-22T15:09:00.004Z",
+            "type": "Annotation",
+            "frametrail:type": "Overlay",
+            "frametrail:tags": [
+                "land"
+            ],
+            "target": {
+                "type": "Video",
+                "source": "1_1795430010_escondida.mp4",
+                "selector": {
+                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                    "type": "FragmentSelector",
+                    "value": "t=19.6,24.77&xywh=percent:3.5,6,40,14"
+                }
+            },
+            "body": {
+                "type": "TextualBody",
+                "frametrail:type": "text",
+                "format": "text/html",
+                "value": "",
+                "frametrail:name": "Today Escondida produces more copper than any othe",
+                "frametrail:attributes": {
+                    "text": "&lt;p&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;Today Escondida produces more copper than any other mine in the world.&lt;/span&gt;&lt;/p&gt;",
+                    "autoSize": "height",
+                    "box": {
+                        "background": "rgba(10, 14, 28, 0.74)",
+                        "textColor": "#ffffff",
+                        "padding": 18,
+                        "radius": 6
+                    },
+                    "zIndex": 5,
+                    "animation": {
+                        "in": {
+                            "preset": "fadeIn",
+                            "duration": 500
+                        },
+                        "out": {
+                            "preset": "fadeOut",
+                            "duration": 400
+                        }
+                    }
+                }
+            },
+            "frametrail:events": {}
+        },
+        {
+            "@context": [
+                "http://www.w3.org/ns/anno.jsonld",
+                "https://frametrail.org/ns/context.jsonld"
+            ],
+            "creator": {
+                "nickname": "demo",
+                "type": "Person",
+                "id": "1"
+            },
+            "created": "2026-11-22T15:09:00.005Z",
+            "type": "Annotation",
+            "frametrail:type": "Overlay",
+            "frametrail:tags": [
+                "land"
+            ],
+            "target": {
+                "type": "Video",
+                "source": "1_1795430010_escondida.mp4",
+                "selector": {
+                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                    "type": "FragmentSelector",
+                    "value": "t=0.3,30.37&xywh=percent:83.5,5,13,23.1"
+                }
+            },
+            "body": {
+                "type": "Image",
+                "frametrail:type": "image",
+                "format": "image/png",
+                "source": "1_1795430010_locator_escondida.png",
+                "frametrail:name": "Escondida Mine on the globe",
+                "frametrail:thumb": null,
+                "frametrail:licenseType": "PD",
+                "frametrail:licenseAttribution": "NASA Blue Marble",
+                "frametrail:resourceId": "20",
+                "frametrail:attributes": {
+                    "zIndex": 4,
+                    "animation": {
+                        "in": {
+                            "preset": "fadeIn",
+                            "duration": 600
+                        }
+                    }
+                }
+            },
+            "frametrail:events": {}
+        },
+        {
+            "@context": [
+                "http://www.w3.org/ns/anno.jsonld",
+                "https://frametrail.org/ns/context.jsonld"
+            ],
+            "creator": {
+                "nickname": "demo",
+                "type": "Person",
+                "id": "1"
+            },
+            "created": "2026-11-22T15:09:00.006Z",
+            "type": "Annotation",
+            "frametrail:type": "Overlay",
+            "frametrail:tags": [
+                "land"
+            ],
+            "target": {
+                "type": "Video",
+                "source": "1_1795430010_escondida.mp4",
+                "selector": {
+                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                    "type": "FragmentSelector",
+                    "value": "t=0.3,25.77&xywh=percent:3.5,79,9,7"
+                }
+            },
+            "body": {
+                "type": "TextualBody",
+                "frametrail:type": "hotspot",
+                "format": "text/html",
+                "frametrail:name": "← Map",
+                "frametrail:thumb": null,
+                "frametrail:licenseType": null,
+                "frametrail:licenseAttribution": null,
+                "frametrail:attributes": {
+                    "text": "← Map",
+                    "shape": "rounded",
+                    "borderRadius": 40,
+                    "color": "#ffffff",
+                    "borderWidth": 2,
+                    "textColor": "#ffffff",
+                    "backgroundColor": "rgba(10, 14, 28, 0.72)",
+                    "pulse": false,
+                    "zIndex": 8,
+                    "action": "",
+                    "actionTarget": "",
+                    "animation": {
+                        "in": {
+                            "preset": "fadeIn",
+                            "duration": 400
+                        },
+                        "out": {
+                            "preset": "fadeOut",
+                            "duration": 200
+                        }
+                    }
+                }
+            },
+            "frametrail:events": {
+                "onClick": "FrameTrail.module('RouteNavigation').navigateToView('overview');"
+            }
+        },
+        {
+            "@context": [
+                "http://www.w3.org/ns/anno.jsonld",
+                "https://frametrail.org/ns/context.jsonld"
+            ],
+            "creator": {
+                "nickname": "demo",
+                "type": "Person",
+                "id": "1"
+            },
+            "created": "2026-11-22T15:09:00.007Z",
+            "type": "Annotation",
+            "frametrail:type": "Overlay",
+            "frametrail:tags": [
+                "land"
+            ],
+            "target": {
+                "type": "Video",
+                "source": "1_1795430010_escondida.mp4",
+                "selector": {
+                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                    "type": "FragmentSelector",
+                    "value": "t=25.87,30.37&xywh=percent:27,42,21,9"
+                }
+            },
+            "body": {
+                "type": "TextualBody",
+                "frametrail:type": "hotspot",
+                "format": "text/html",
+                "frametrail:name": "← Back to the map",
+                "frametrail:thumb": null,
+                "frametrail:licenseType": null,
+                "frametrail:licenseAttribution": null,
+                "frametrail:attributes": {
+                    "text": "← Back to the map",
+                    "shape": "rounded",
+                    "borderRadius": 40,
+                    "color": "#ffffff",
+                    "borderWidth": 2,
+                    "textColor": "#ffffff",
+                    "backgroundColor": "rgba(10, 14, 28, 0.72)",
+                    "pulse": false,
+                    "zIndex": 8,
+                    "action": "",
+                    "actionTarget": "",
+                    "animation": {
+                        "in": {
+                            "preset": "fadeIn",
+                            "duration": 400
+                        },
+                        "out": {
+                            "preset": "fadeOut",
+                            "duration": 200
+                        }
+                    }
+                }
+            },
+            "frametrail:events": {
+                "onClick": "FrameTrail.module('RouteNavigation').navigateToView('overview');"
+            }
+        },
+        {
+            "@context": [
+                "http://www.w3.org/ns/anno.jsonld",
+                "https://frametrail.org/ns/context.jsonld"
+            ],
+            "creator": {
+                "nickname": "demo",
+                "type": "Person",
+                "id": "1"
+            },
+            "created": "2026-11-22T15:09:00.008Z",
+            "type": "Annotation",
+            "frametrail:type": "Overlay",
+            "frametrail:tags": [
+                "land"
+            ],
+            "target": {
+                "type": "Video",
+                "source": "1_1795430010_escondida.mp4",
+                "selector": {
+                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                    "type": "FragmentSelector",
+                    "value": "t=25.87,30.37&xywh=percent:50,42,25,9"
+                }
+            },
+            "body": {
+                "type": "TextualBody",
+                "frametrail:type": "hotspot",
+                "format": "text/html",
+                "frametrail:name": "Next: Las Vegas →",
+                "frametrail:thumb": null,
+                "frametrail:licenseType": null,
+                "frametrail:licenseAttribution": null,
+                "frametrail:attributes": {
+                    "text": "Next: Las Vegas →",
+                    "shape": "rounded",
+                    "borderRadius": 40,
+                    "color": "#ffffff",
+                    "borderWidth": 2,
+                    "textColor": "#10131c",
+                    "backgroundColor": "rgba(255, 255, 255, 0.94)",
+                    "pulse": false,
+                    "zIndex": 8,
+                    "action": "jumpToHypervideo",
+                    "actionTarget": "1",
+                    "animation": {
+                        "in": {
+                            "preset": "fadeIn",
+                            "duration": 400
+                        },
+                        "out": {
+                            "preset": "fadeOut",
+                            "duration": 200
+                        }
+                    }
+                }
+            },
+            "frametrail:events": {}
+        }
+    ]
+}

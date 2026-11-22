@@ -1,0 +1,493 @@
+{
+    "meta": {
+        "name": "Breiðamerkurjökull",
+        "description": "Iceland. Ice, 1985–2024. The colours are infrared: vegetation shows red, ice pale blue. Breiðamerkurjökull is an outlet glacier of the Vatnajökull ice cap. It has been retreating for decades. As it shrinks, the Jökulsárlón lagoon grows. Warm salt water from the Atlantic flows in and speeds the melting.",
+        "thumb": "1_1795430004_thumb_breidamerkurjokull.jpg",
+        "creator": "demo",
+        "creatorId": "1",
+        "created": 1795430100000,
+        "lastchanged": 1795430100000
+    },
+    "config": {
+        "slidingMode": "adjust",
+        "slidingTrigger": "key",
+        "autohideControls": true,
+        "captionsVisible": false,
+        "clipTimeVisible": false,
+        "autoplay": true,
+        "layoutArea": {
+            "areaTop": [],
+            "areaBottom": [],
+            "areaLeft": [],
+            "areaRight": []
+        }
+    },
+    "clips": [
+        {
+            "resourceId": "7",
+            "src": "1_1795430004_breidamerkurjokull.mp4",
+            "duration": 0,
+            "in": 0,
+            "out": 0
+        }
+    ],
+    "chapters": [],
+    "subtitles": [],
+    "globalEvents": {
+        "onReady": "",
+        "onPlay": "",
+        "onPause": "",
+        "onEnded": ""
+    },
+    "customCSS": "",
+    "contents": [
+        {
+            "@context": [
+                "http://www.w3.org/ns/anno.jsonld",
+                "https://frametrail.org/ns/context.jsonld"
+            ],
+            "creator": {
+                "nickname": "demo",
+                "type": "Person",
+                "id": "1"
+            },
+            "created": "2026-11-22T15:03:00.001Z",
+            "type": "Annotation",
+            "frametrail:type": "Overlay",
+            "frametrail:tags": [
+                "ice"
+            ],
+            "target": {
+                "type": "Video",
+                "source": "1_1795430004_breidamerkurjokull.mp4",
+                "selector": {
+                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                    "type": "FragmentSelector",
+                    "value": "t=0.3,6.2&xywh=percent:3.5,6,44,20"
+                }
+            },
+            "body": {
+                "type": "TextualBody",
+                "frametrail:type": "text",
+                "format": "text/html",
+                "value": "",
+                "frametrail:name": "Breiðamerkurjökull",
+                "frametrail:attributes": {
+                    "text": "&lt;p&gt;&lt;span style=&quot;font-size: 15px; color: #8fd3f4;&quot;&gt;&lt;strong&gt;ICE · 1985–2024&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size: 36px;&quot;&gt;&lt;strong&gt;Breiðamerkurjökull&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size: 22px;&quot;&gt;Iceland&lt;/span&gt;&lt;/p&gt;",
+                    "autoSize": "height",
+                    "box": {
+                        "background": "rgba(10, 14, 28, 0.74)",
+                        "textColor": "#ffffff",
+                        "padding": 18,
+                        "radius": 6
+                    },
+                    "zIndex": 5,
+                    "animation": {
+                        "in": {
+                            "preset": "slideFromLeft",
+                            "duration": 500
+                        },
+                        "out": {
+                            "preset": "fadeOut",
+                            "duration": 400
+                        }
+                    }
+                }
+            },
+            "frametrail:events": {}
+        },
+        {
+            "@context": [
+                "http://www.w3.org/ns/anno.jsonld",
+                "https://frametrail.org/ns/context.jsonld"
+            ],
+            "creator": {
+                "nickname": "demo",
+                "type": "Person",
+                "id": "1"
+            },
+            "created": "2026-11-22T15:03:00.002Z",
+            "type": "Annotation",
+            "frametrail:type": "Overlay",
+            "frametrail:tags": [
+                "ice"
+            ],
+            "target": {
+                "type": "Video",
+                "source": "1_1795430004_breidamerkurjokull.mp4",
+                "selector": {
+                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                    "type": "FragmentSelector",
+                    "value": "t=7.2,12.6&xywh=percent:3.5,6,40,14"
+                }
+            },
+            "body": {
+                "type": "TextualBody",
+                "frametrail:type": "text",
+                "format": "text/html",
+                "value": "",
+                "frametrail:name": "The colours are infrared: vegetation shows red, ic",
+                "frametrail:attributes": {
+                    "text": "&lt;p&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;The colours are infrared: vegetation shows red, ice pale blue.&lt;/span&gt;&lt;/p&gt;",
+                    "autoSize": "height",
+                    "box": {
+                        "background": "rgba(10, 14, 28, 0.74)",
+                        "textColor": "#ffffff",
+                        "padding": 18,
+                        "radius": 6
+                    },
+                    "zIndex": 5,
+                    "animation": {
+                        "in": {
+                            "preset": "fadeIn",
+                            "duration": 500
+                        },
+                        "out": {
+                            "preset": "fadeOut",
+                            "duration": 400
+                        }
+                    }
+                }
+            },
+            "frametrail:events": {}
+        },
+        {
+            "@context": [
+                "http://www.w3.org/ns/anno.jsonld",
+                "https://frametrail.org/ns/context.jsonld"
+            ],
+            "creator": {
+                "nickname": "demo",
+                "type": "Person",
+                "id": "1"
+            },
+            "created": "2026-11-22T15:03:00.003Z",
+            "type": "Annotation",
+            "frametrail:type": "Overlay",
+            "frametrail:tags": [
+                "ice"
+            ],
+            "target": {
+                "type": "Video",
+                "source": "1_1795430004_breidamerkurjokull.mp4",
+                "selector": {
+                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                    "type": "FragmentSelector",
+                    "value": "t=13.4,18.8&xywh=percent:3.5,6,40,14"
+                }
+            },
+            "body": {
+                "type": "TextualBody",
+                "frametrail:type": "text",
+                "format": "text/html",
+                "value": "",
+                "frametrail:name": "Breiðamerkurjökull is an outlet glacier of the Vat",
+                "frametrail:attributes": {
+                    "text": "&lt;p&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;Breiðamerkurjökull is an outlet glacier of the Vatnajökull ice cap. It has been retreating for decades.&lt;/span&gt;&lt;/p&gt;",
+                    "autoSize": "height",
+                    "box": {
+                        "background": "rgba(10, 14, 28, 0.74)",
+                        "textColor": "#ffffff",
+                        "padding": 18,
+                        "radius": 6
+                    },
+                    "zIndex": 5,
+                    "animation": {
+                        "in": {
+                            "preset": "fadeIn",
+                            "duration": 500
+                        },
+                        "out": {
+                            "preset": "fadeOut",
+                            "duration": 400
+                        }
+                    }
+                }
+            },
+            "frametrail:events": {}
+        },
+        {
+            "@context": [
+                "http://www.w3.org/ns/anno.jsonld",
+                "https://frametrail.org/ns/context.jsonld"
+            ],
+            "creator": {
+                "nickname": "demo",
+                "type": "Person",
+                "id": "1"
+            },
+            "created": "2026-11-22T15:03:00.004Z",
+            "type": "Annotation",
+            "frametrail:type": "Overlay",
+            "frametrail:tags": [
+                "ice"
+            ],
+            "target": {
+                "type": "Video",
+                "source": "1_1795430004_breidamerkurjokull.mp4",
+                "selector": {
+                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                    "type": "FragmentSelector",
+                    "value": "t=19.6,24.7&xywh=percent:3.5,6,40,14"
+                }
+            },
+            "body": {
+                "type": "TextualBody",
+                "frametrail:type": "text",
+                "format": "text/html",
+                "value": "",
+                "frametrail:name": "As it shrinks, the Jökulsárlón lagoon grows. Warm ",
+                "frametrail:attributes": {
+                    "text": "&lt;p&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;As it shrinks, the Jökulsárlón lagoon grows. Warm salt water from the Atlantic flows in and speeds the melting.&lt;/span&gt;&lt;/p&gt;",
+                    "autoSize": "height",
+                    "box": {
+                        "background": "rgba(10, 14, 28, 0.74)",
+                        "textColor": "#ffffff",
+                        "padding": 18,
+                        "radius": 6
+                    },
+                    "zIndex": 5,
+                    "animation": {
+                        "in": {
+                            "preset": "fadeIn",
+                            "duration": 500
+                        },
+                        "out": {
+                            "preset": "fadeOut",
+                            "duration": 400
+                        }
+                    }
+                }
+            },
+            "frametrail:events": {}
+        },
+        {
+            "@context": [
+                "http://www.w3.org/ns/anno.jsonld",
+                "https://frametrail.org/ns/context.jsonld"
+            ],
+            "creator": {
+                "nickname": "demo",
+                "type": "Person",
+                "id": "1"
+            },
+            "created": "2026-11-22T15:03:00.005Z",
+            "type": "Annotation",
+            "frametrail:type": "Overlay",
+            "frametrail:tags": [
+                "ice"
+            ],
+            "target": {
+                "type": "Video",
+                "source": "1_1795430004_breidamerkurjokull.mp4",
+                "selector": {
+                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                    "type": "FragmentSelector",
+                    "value": "t=0.3,30.3&xywh=percent:83.5,5,13,23.1"
+                }
+            },
+            "body": {
+                "type": "Image",
+                "frametrail:type": "image",
+                "format": "image/png",
+                "source": "1_1795430004_locator_breidamerkurjokull.png",
+                "frametrail:name": "Breiðamerkurjökull on the globe",
+                "frametrail:thumb": null,
+                "frametrail:licenseType": "PD",
+                "frametrail:licenseAttribution": "NASA Blue Marble",
+                "frametrail:resourceId": "8",
+                "frametrail:attributes": {
+                    "zIndex": 4,
+                    "animation": {
+                        "in": {
+                            "preset": "fadeIn",
+                            "duration": 600
+                        }
+                    }
+                }
+            },
+            "frametrail:events": {}
+        },
+        {
+            "@context": [
+                "http://www.w3.org/ns/anno.jsonld",
+                "https://frametrail.org/ns/context.jsonld"
+            ],
+            "creator": {
+                "nickname": "demo",
+                "type": "Person",
+                "id": "1"
+            },
+            "created": "2026-11-22T15:03:00.006Z",
+            "type": "Annotation",
+            "frametrail:type": "Overlay",
+            "frametrail:tags": [
+                "ice"
+            ],
+            "target": {
+                "type": "Video",
+                "source": "1_1795430004_breidamerkurjokull.mp4",
+                "selector": {
+                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                    "type": "FragmentSelector",
+                    "value": "t=0.3,25.7&xywh=percent:3.5,79,9,7"
+                }
+            },
+            "body": {
+                "type": "TextualBody",
+                "frametrail:type": "hotspot",
+                "format": "text/html",
+                "frametrail:name": "← Map",
+                "frametrail:thumb": null,
+                "frametrail:licenseType": null,
+                "frametrail:licenseAttribution": null,
+                "frametrail:attributes": {
+                    "text": "← Map",
+                    "shape": "rounded",
+                    "borderRadius": 40,
+                    "color": "#ffffff",
+                    "borderWidth": 2,
+                    "textColor": "#ffffff",
+                    "backgroundColor": "rgba(10, 14, 28, 0.72)",
+                    "pulse": false,
+                    "zIndex": 8,
+                    "action": "",
+                    "actionTarget": "",
+                    "animation": {
+                        "in": {
+                            "preset": "fadeIn",
+                            "duration": 400
+                        },
+                        "out": {
+                            "preset": "fadeOut",
+                            "duration": 200
+                        }
+                    }
+                }
+            },
+            "frametrail:events": {
+                "onClick": "FrameTrail.module('RouteNavigation').navigateToView('overview');"
+            }
+        },
+        {
+            "@context": [
+                "http://www.w3.org/ns/anno.jsonld",
+                "https://frametrail.org/ns/context.jsonld"
+            ],
+            "creator": {
+                "nickname": "demo",
+                "type": "Person",
+                "id": "1"
+            },
+            "created": "2026-11-22T15:03:00.007Z",
+            "type": "Annotation",
+            "frametrail:type": "Overlay",
+            "frametrail:tags": [
+                "ice"
+            ],
+            "target": {
+                "type": "Video",
+                "source": "1_1795430004_breidamerkurjokull.mp4",
+                "selector": {
+                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                    "type": "FragmentSelector",
+                    "value": "t=25.8,30.3&xywh=percent:27,42,21,9"
+                }
+            },
+            "body": {
+                "type": "TextualBody",
+                "frametrail:type": "hotspot",
+                "format": "text/html",
+                "frametrail:name": "← Back to the map",
+                "frametrail:thumb": null,
+                "frametrail:licenseType": null,
+                "frametrail:licenseAttribution": null,
+                "frametrail:attributes": {
+                    "text": "← Back to the map",
+                    "shape": "rounded",
+                    "borderRadius": 40,
+                    "color": "#ffffff",
+                    "borderWidth": 2,
+                    "textColor": "#ffffff",
+                    "backgroundColor": "rgba(10, 14, 28, 0.72)",
+                    "pulse": false,
+                    "zIndex": 8,
+                    "action": "",
+                    "actionTarget": "",
+                    "animation": {
+                        "in": {
+                            "preset": "fadeIn",
+                            "duration": 400
+                        },
+                        "out": {
+                            "preset": "fadeOut",
+                            "duration": 200
+                        }
+                    }
+                }
+            },
+            "frametrail:events": {
+                "onClick": "FrameTrail.module('RouteNavigation').navigateToView('overview');"
+            }
+        },
+        {
+            "@context": [
+                "http://www.w3.org/ns/anno.jsonld",
+                "https://frametrail.org/ns/context.jsonld"
+            ],
+            "creator": {
+                "nickname": "demo",
+                "type": "Person",
+                "id": "1"
+            },
+            "created": "2026-11-22T15:03:00.008Z",
+            "type": "Annotation",
+            "frametrail:type": "Overlay",
+            "frametrail:tags": [
+                "ice"
+            ],
+            "target": {
+                "type": "Video",
+                "source": "1_1795430004_breidamerkurjokull.mp4",
+                "selector": {
+                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                    "type": "FragmentSelector",
+                    "value": "t=25.8,30.3&xywh=percent:50,42,25,9"
+                }
+            },
+            "body": {
+                "type": "TextualBody",
+                "frametrail:type": "hotspot",
+                "format": "text/html",
+                "frametrail:name": "Next: Nouakchott →",
+                "frametrail:thumb": null,
+                "frametrail:licenseType": null,
+                "frametrail:licenseAttribution": null,
+                "frametrail:attributes": {
+                    "text": "Next: Nouakchott →",
+                    "shape": "rounded",
+                    "borderRadius": 40,
+                    "color": "#ffffff",
+                    "borderWidth": 2,
+                    "textColor": "#10131c",
+                    "backgroundColor": "rgba(255, 255, 255, 0.94)",
+                    "pulse": false,
+                    "zIndex": 8,
+                    "action": "jumpToHypervideo",
+                    "actionTarget": "5",
+                    "animation": {
+                        "in": {
+                            "preset": "fadeIn",
+                            "duration": 400
+                        },
+                        "out": {
+                            "preset": "fadeOut",
+                            "duration": 200
+                        }
+                    }
+                }
+            },
+            "frametrail:events": {}
+        }
+    ]
+}

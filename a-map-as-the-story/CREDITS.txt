@@ -1,0 +1,28 @@
+A Map as the Story
+==================
+
+Films
+    Landsat and Harmonized Landsat and Sentinel-2 time series by NASA's Scientific Visualization Studio
+    (visualizer: Ross K. Walter; Shanghai: Joshua Stevens, Amy Moran, NASA Earth Observatory).
+    Public domain. Slowed down and encoded again for this example; two stray frames at the end of the
+    Alsek series were left out.
+    Las Vegas: https://svs.gsfc.nasa.gov/15017/
+    Nisqually Delta: https://svs.gsfc.nasa.gov/15056/
+    Alsek Glacier: https://svs.gsfc.nasa.gov/15054/
+    Breiðamerkurjökull: https://svs.gsfc.nasa.gov/15037/
+    Nouakchott: https://svs.gsfc.nasa.gov/15007/
+    Hartbeespoort Dam: https://svs.gsfc.nasa.gov/15032/
+    Shanghai: https://svs.gsfc.nasa.gov/30874/
+    Lençóis Maranhenses: https://svs.gsfc.nasa.gov/15107/
+    Gran Chaco: https://svs.gsfc.nasa.gov/15026/
+    Escondida Mine: https://svs.gsfc.nasa.gov/15086/
+
+World map and locators
+    NASA Earth Observatory, Blue Marble ("Land, ocean, ice"), public domain, via Wikimedia Commons:
+    https://commons.wikimedia.org/wiki/File:Land_ocean_ice_2048.jpg
+
+Notes
+    Written for this example from NASA's descriptions of the films. Public domain (CC0).
+
+Extension "atlas", data and build scripts
+    Written for this example. Public domain (CC0).

@@ -1,0 +1,64 @@
+{
+    "updateServiceURL": "https://update.frametrail.org",
+    "autoUpdate": false,
+    "allowCaching": false,
+    "captureUserTraces": false,
+    "userTracesStartAction": "",
+    "userTracesEndAction": "",
+    "userNeedsConfirmation": true,
+    "alwaysForceLogin": false,
+    "allowUploads": true,
+    "theme": "obsidian",
+    "videoFit": "contain",
+    "defaultLanguage": "en",
+    "overviewTitle": "A Map as the Story",
+    "overviewMode": "map",
+    "hypervideoTransition": "iris",
+    "extensions": [
+        {
+            "name": "atlas",
+            "script": "extensions/atlas/atlas.js",
+            "style": "extensions/atlas/atlas.css",
+            "settings": {
+                "themes": {
+                    "cities": {
+                        "label": "Cities",
+                        "colour": "#f2b84b"
+                    },
+                    "ice": {
+                        "label": "Ice",
+                        "colour": "#8fd3f4"
+                    },
+                    "water": {
+                        "label": "Water",
+                        "colour": "#4fb7a5"
+                    },
+                    "land": {
+                        "label": "Land",
+                        "colour": "#e0805a"
+                    }
+                },
+                "places": {
+                    "1": "cities",
+                    "2": "water",
+                    "3": "ice",
+                    "4": "ice",
+                    "5": "cities",
+                    "6": "water",
+                    "7": "cities",
+                    "8": "land",
+                    "9": "land",
+                    "10": "land"
+                },
+                "labels": {
+                    "1": "right",
+                    "2": "left",
+                    "3": "left",
+                    "8": "right",
+                    "9": "right",
+                    "10": "left"
+                }
+            }
+        }
+    ]
+}

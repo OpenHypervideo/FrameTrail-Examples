@@ -1,0 +1,18 @@
+{
+    "cities": {
+        "label": "Cities",
+        "description": ""
+    },
+    "ice": {
+        "label": "Ice",
+        "description": ""
+    },
+    "water": {
+        "label": "Water",
+        "description": ""
+    },
+    "land": {
+        "label": "Land",
+        "description": ""
+    }
+}

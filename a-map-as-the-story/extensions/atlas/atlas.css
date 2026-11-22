@@ -1,0 +1,21 @@
+/* Atlas: the bar on the overview map, and the marks on its pins */
+.atlasBar { position: absolute; left: 50%; bottom: 18px; transform: translateX(-50%); z-index: 20; display: flex; align-items: center; gap: 18px;
+    padding: 10px 18px; border-radius: 40px; background: rgba(8, 11, 26, 0.82); color: #fff; font-size: 14px; white-space: nowrap;
+    box-shadow: 0 6px 24px rgba(0, 0, 0, 0.45); backdrop-filter: blur(6px); }
+.atlasTitle { font-weight: 700; letter-spacing: .04em; }
+.atlasThemes { display: flex; gap: 8px; }
+.atlasTheme { display: flex; align-items: center; gap: 7px; padding: 5px 12px; border-radius: 30px; border: 1px solid rgba(255, 255, 255, 0.25);
+    background: transparent; color: #fff; font: inherit; cursor: pointer; }
+.atlasTheme:hover { border-color: #fff; }
+.atlasTheme.active { background: var(--atlas-colour); border-color: var(--atlas-colour); color: #10131c; }
+.atlasDot { width: 10px; height: 10px; border-radius: 50%; background: var(--atlas-colour); }
+.atlasTheme.active .atlasDot { background: #10131c; }
+.atlasCount { opacity: .75; }
+.atlasPin { transition: opacity .3s, filter .3s; }
+.atlasPin.atlasDimmed { opacity: .22; filter: grayscale(1); }
+.atlasPin .overviewMapMarkerBody { box-shadow: 0 0 0 2px var(--atlas-colour), 0 2px 8px rgba(0, 0, 0, 0.6); }
+.atlasCheck { position: absolute; right: -7px; top: -7px; width: 18px; height: 18px; border-radius: 50%; z-index: 3; background: #fff; color: #10131c;
+    font-size: 12px; font-weight: 700; line-height: 18px; text-align: center; box-shadow: 0 1px 4px rgba(0, 0, 0, 0.5); pointer-events: none; }
+.atlasPin.atlasLabel-left .overviewMapMarkerLabel { top: 50%; left: auto; right: calc(100% + 6px); bottom: auto; transform: translateY(-50%); margin: 0; }
+.atlasPin.atlasLabel-right .overviewMapMarkerLabel { top: 50%; left: calc(100% + 6px); right: auto; bottom: auto; transform: translateY(-50%); margin: 0; }
+@media (max-width: 768px) { .atlasTitle, .atlasCount { display: none; } .atlasBar { gap: 8px; padding: 8px 10px; } }
