@@ -1,0 +1,128 @@
+{
+    "updateServiceURL": "https://update.frametrail.org",
+    "autoUpdate": false,
+    "allowCaching": false,
+    "captureUserTraces": false,
+    "userTracesStartAction": "",
+    "userTracesEndAction": "",
+    "userNeedsConfirmation": true,
+    "alwaysForceLogin": false,
+    "allowUploads": true,
+    "theme": "midnight",
+    "videoFit": "contain",
+    "defaultLanguage": "en",
+    "overviewTitle": "As Long as You Like",
+    "extensions": [
+        {
+            "name": "versions",
+            "script": "extensions/versions/versions.js",
+            "style": "extensions/versions/versions.css",
+            "settings": {
+                "question": "How much time do you have?",
+                "parts": [
+                    {
+                        "start": 0,
+                        "title": "Dark skies",
+                        "level": "core"
+                    },
+                    {
+                        "start": 30.51,
+                        "title": "ESOcast opening",
+                        "level": "detail"
+                    },
+                    {
+                        "start": 52.0,
+                        "title": "Other lights in the night sky",
+                        "level": "detail"
+                    },
+                    {
+                        "start": 80.59,
+                        "title": "A column of light",
+                        "level": "main"
+                    },
+                    {
+                        "start": 122.24,
+                        "title": "Through the night",
+                        "level": "detail"
+                    },
+                    {
+                        "start": 152.59,
+                        "title": "Dust around the Sun",
+                        "level": "core"
+                    },
+                    {
+                        "start": 178.53,
+                        "title": "The ecliptic",
+                        "level": "main"
+                    },
+                    {
+                        "start": 195.17,
+                        "title": "Scattered sunlight",
+                        "level": "core"
+                    },
+                    {
+                        "start": 203.91,
+                        "title": "Why “zodiacal”",
+                        "level": "main"
+                    },
+                    {
+                        "start": 227.88,
+                        "title": "The gegenschein",
+                        "level": "detail"
+                    },
+                    {
+                        "start": 272.6,
+                        "title": "The first observers",
+                        "level": "detail"
+                    },
+                    {
+                        "start": 300.93,
+                        "title": "Other planetary systems",
+                        "level": "main"
+                    },
+                    {
+                        "start": 327.9,
+                        "title": "A favourite of photographers",
+                        "level": "main"
+                    },
+                    {
+                        "start": 336.46,
+                        "title": "What it shows",
+                        "level": "core"
+                    },
+                    {
+                        "start": 346.08,
+                        "title": "Sign-off and credits",
+                        "level": "detail"
+                    }
+                ],
+                "versions": [
+                    {
+                        "id": "short",
+                        "label": "The essentials",
+                        "levels": [
+                            "core"
+                        ]
+                    },
+                    {
+                        "id": "medium",
+                        "label": "With the explanations",
+                        "levels": [
+                            "core",
+                            "main"
+                        ]
+                    },
+                    {
+                        "id": "full",
+                        "label": "The whole film",
+                        "levels": [
+                            "core",
+                            "main",
+                            "detail"
+                        ]
+                    }
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,125 @@
+{
+    "meta": {
+        "name": "As Long as You Like",
+        "description": "One film, three lengths. ESO's film about the zodiacal light asks how much time you have and plays the essentials, the essentials with their explanations, or everything. The parts a version leaves out are marked in the list, and each can be kept as it comes up.",
+        "thumb": "1_1795330000_thumb_esocast-82-zodiacal-light.jpg",
+        "creator": "demo",
+        "creatorId": "1",
+        "created": 1795330100000,
+        "lastchanged": 1795330100000
+    },
+    "config": {
+        "slidingMode": "adjust",
+        "slidingTrigger": "key",
+        "autohideControls": false,
+        "captionsVisible": false,
+        "clipTimeVisible": false,
+        "layoutArea": {
+            "areaTop": [],
+            "areaBottom": [],
+            "areaLeft": [],
+            "areaRight": [
+                {
+                    "type": "Chapters",
+                    "name": "Parts",
+                    "description": "",
+                    "icon": "icon-list-bullet",
+                    "cssClass": "",
+                    "contentSize": "medium",
+                    "initClosed": false,
+                    "collectionFilter": {
+                        "tags": [],
+                        "types": [],
+                        "users": [],
+                        "text": ""
+                    }
+                }
+            ]
+        }
+    },
+    "clips": [
+        {
+            "resourceId": "1",
+            "src": "1_1795330000_esocast-82-zodiacal-light.mp4",
+            "duration": 0,
+            "in": 0,
+            "out": 0
+        }
+    ],
+    "chapters": [
+        {
+            "start": 0,
+            "title": "Dark skies"
+        },
+        {
+            "start": 30.51,
+            "title": "ESOcast opening"
+        },
+        {
+            "start": 52.0,
+            "title": "Other lights in the night sky"
+        },
+        {
+            "start": 80.59,
+            "title": "A column of light"
+        },
+        {
+            "start": 122.24,
+            "title": "Through the night"
+        },
+        {
+            "start": 152.59,
+            "title": "Dust around the Sun"
+        },
+        {
+            "start": 178.53,
+            "title": "The ecliptic"
+        },
+        {
+            "start": 195.17,
+            "title": "Scattered sunlight"
+        },
+        {
+            "start": 203.91,
+            "title": "Why “zodiacal”"
+        },
+        {
+            "start": 227.88,
+            "title": "The gegenschein"
+        },
+        {
+            "start": 272.6,
+            "title": "The first observers"
+        },
+        {
+            "start": 300.93,
+            "title": "Other planetary systems"
+        },
+        {
+            "start": 327.9,
+            "title": "A favourite of photographers"
+        },
+        {
+            "start": 336.46,
+            "title": "What it shows"
+        },
+        {
+            "start": 346.08,
+            "title": "Sign-off and credits"
+        }
+    ],
+    "subtitles": [
+        {
+            "src": "en.vtt",
+            "srclang": "en"
+        }
+    ],
+    "globalEvents": {
+        "onReady": "",
+        "onPlay": "",
+        "onPause": "",
+        "onEnded": ""
+    },
+    "customCSS": "",
+    "contents": []
+}

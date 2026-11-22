@@ -1,0 +1,19 @@
+As Long as You Like
+===================
+
+Film
+    "ESOcast 82: Zodiacal Light" (2016). Credit: ESO (eso.org). Creative Commons Attribution 4.0 International.
+    Directed by Petr Horálek and Herbert Zodet. Presented by Joe Liske (Dr J). Narration: Sara Mendes da Costa.
+    Written by Petr Horálek, Rebecca Davies, David Nesvorný and Herbert Zodet.
+    Visual design and editing: Martin Kornmesser and Luis Calçada. Editing: Herbert Zodet.
+    Music: STAN DART (stan-dart.com) and Johan B. Monell (johanmonell.com).
+    Footage and photos: ESO, L. Calçada, M. Kornmesser, Y. Beletsky (LCO), S. Guisard, Nick Risinger (skysurvey.org),
+    C. Malin, Petr Horálek, Miloslav Druckmüller, Shadia Habbal, R. Wesson, Z. Bardon, B. Tafreshi (twanight.org), S. Brunier.
+    Executive producer: Lars Lindberg Christensen.
+    Copy used: https://commons.wikimedia.org/wiki/File:ESOcast_82.webm
+    Changes: scaled to 720p and converted to MP4. The film itself is not cut; the shorter versions are made by
+    the player, which jumps over parts.
+
+Captions, the division into parts and the "versions" extension
+    Made for this example. Public domain (CC0). The captions are the film's narration as recognised by a speech
+    model (Whisper), with its mistakes corrected by reading; they have not been checked by ear.

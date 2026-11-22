@@ -1,0 +1,31 @@
+/* Versions: the question over the film, the button to change the version, the offer to keep a part */
+.versionsChooser {
+    position: absolute; inset: 0; z-index: 40;
+    display: none; align-items: center; justify-content: center;
+    background: rgba(6, 10, 22, .78);
+}
+.versionsChooser.active { display: flex; }
+.versionsBox { width: min(92%, 760px); text-align: center; color: #fff; }
+.versionsBox h2 { margin: 0 0 24px; font-size: clamp(20px, 3.2vw, 36px); font-weight: 600; }
+.versionsRow { display: flex; gap: 14px; justify-content: center; flex-wrap: wrap; }
+.versionsRow button {
+    flex: 1 1 180px; max-width: 240px; padding: 18px 14px;
+    display: flex; flex-direction: column; gap: 6px; align-items: center;
+    color: #fff; background: rgba(255, 255, 255, .08); border: 2px solid rgba(255, 255, 255, .55); border-radius: 12px;
+    font: inherit; cursor: pointer;
+}
+.versionsRow button:hover, .versionsRow button.chosen { background: #f2b544; border-color: #f2b544; color: #10131f; }
+.versionsRow strong { font-size: clamp(24px, 3.4vw, 40px); font-weight: 700; line-height: 1; }
+.versionsRow span { font-size: clamp(13px, 1.4vw, 17px); }
+.versionsPill, .versionsKeep {
+    position: absolute; z-index: 35; display: none;
+    padding: 8px 14px; border-radius: 30px; border: 1px solid rgba(255, 255, 255, .6);
+    background: rgba(6, 10, 22, .72); color: #fff; font: inherit; font-size: 14px; cursor: pointer;
+}
+.versionsPill { top: 12px; right: 12px; }
+.versionsKeep { bottom: 16px; right: 12px; border-color: #f2b544; }
+.versionsPill.active, .versionsKeep.active { display: block; }
+.versionsPill:hover, .versionsKeep:hover { background: #f2b544; color: #10131f; }
+/* a part this version leaves out, in a Chapters view */
+.chapterElement.versionsSkipped { opacity: .38; }
+.chapterElement.versionsSkipped .chapterCardTitle::after { content: " · skipped"; font-style: italic; }
