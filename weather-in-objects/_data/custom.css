@@ -1,0 +1,46 @@
+/* The Weather, in Objects */
+
+/* Text on the map stays readable over land and sea */
+.overlayContainer .resourceDetail[data-type="text"] .textOverlayBody,
+.overlayContainer .resourceDetail[data-type="counter"] {
+    text-shadow: 0 2px 10px rgba(6, 28, 48, .55);
+}
+
+/* The question on the map */
+.overlayContainer .resourceDetail[data-type="quiz"] .resourceContent {
+    border-radius: 14px;
+    background: rgba(8, 32, 54, .9);
+    padding: 16px;
+}
+.overlayContainer .resourceDetail[data-type="quiz"] .resourceQuizQuestion {
+    font-size: 22px;
+    font-weight: 700;
+    margin-bottom: 10px;
+}
+
+/* "High contrast": the same objects, drawn for viewers who need stronger contrast.
+   The button on the map toggles the class on the player. */
+.highContrast .overlayContainer img[src*="map.svg"] {
+    filter: grayscale(1) brightness(.32) contrast(1.5);
+}
+.highContrast .overlayContainer .textOverlayBody,
+.highContrast .overlayContainer .textOverlayBody span,
+.highContrast .overlayContainer .resourceDetail[data-type="counter"],
+.highContrast .overlayContainer .resourceDetail[data-type="counter"] *,
+.highContrast .overlayContainer .resourceDetail[data-type="chart"] text {
+    color: #ffe600 !important;
+    fill: #ffe600 !important;
+    text-shadow: none;
+}
+.highContrast .overlayContainer .textOverlayCard[style*="background"]:not([style*="0.55"]) {
+    background: #000 !important;
+    outline: 3px solid #ffe600;
+}
+.highContrast .overlayContainer .resourceDetail[data-type="quiz"] .resourceContent {
+    background: #000;
+    outline: 3px solid #ffe600;
+}
+.highContrast .captionContainer,
+.highContrast .videoContainer [class*="caption"] {
+    font-size: 130%;
+}

@@ -1,0 +1,122 @@
+{
+    "resources-increment": 9,
+    "resources": {
+        "1": {
+            "name": "The island",
+            "type": "image",
+            "src": "1_1795300001_map.svg",
+            "thumb": null,
+            "description": null,
+            "creator": "demo",
+            "creatorId": "1",
+            "created": 1795300001,
+            "licenseType": "CC0",
+            "licenseAttribution": "Made for this example",
+            "attributes": {}
+        },
+        "2": {
+            "name": "North Coast",
+            "type": "image",
+            "src": "1_1795300002_region-north.svg",
+            "thumb": null,
+            "description": null,
+            "creator": "demo",
+            "creatorId": "1",
+            "created": 1795300002,
+            "licenseType": "CC0",
+            "licenseAttribution": "Made for this example",
+            "attributes": {}
+        },
+        "3": {
+            "name": "Highlands",
+            "type": "image",
+            "src": "1_1795300003_region-highlands.svg",
+            "thumb": null,
+            "description": null,
+            "creator": "demo",
+            "creatorId": "1",
+            "created": 1795300003,
+            "licenseType": "CC0",
+            "licenseAttribution": "Made for this example",
+            "attributes": {}
+        },
+        "4": {
+            "name": "Harbour",
+            "type": "image",
+            "src": "1_1795300004_region-harbour.svg",
+            "thumb": null,
+            "description": null,
+            "creator": "demo",
+            "creatorId": "1",
+            "created": 1795300004,
+            "licenseType": "CC0",
+            "licenseAttribution": "Made for this example",
+            "attributes": {}
+        },
+        "5": {
+            "name": "Sun",
+            "type": "image",
+            "src": "1_1795300005_sun.svg",
+            "thumb": null,
+            "description": null,
+            "creator": "demo",
+            "creatorId": "1",
+            "created": 1795300005,
+            "licenseType": "CC0",
+            "licenseAttribution": "Made for this example",
+            "attributes": {}
+        },
+        "6": {
+            "name": "Cloud",
+            "type": "image",
+            "src": "1_1795300006_cloud.svg",
+            "thumb": null,
+            "description": null,
+            "creator": "demo",
+            "creatorId": "1",
+            "created": 1795300006,
+            "licenseType": "CC0",
+            "licenseAttribution": "Made for this example",
+            "attributes": {}
+        },
+        "7": {
+            "name": "Rain",
+            "type": "image",
+            "src": "1_1795300007_rain.svg",
+            "thumb": null,
+            "description": null,
+            "creator": "demo",
+            "creatorId": "1",
+            "created": 1795300007,
+            "licenseType": "CC0",
+            "licenseAttribution": "Made for this example",
+            "attributes": {}
+        },
+        "8": {
+            "name": "Sun and cloud",
+            "type": "image",
+            "src": "1_1795300008_partsun.svg",
+            "thumb": null,
+            "description": null,
+            "creator": "demo",
+            "creatorId": "1",
+            "created": 1795300008,
+            "licenseType": "CC0",
+            "licenseAttribution": "Made for this example",
+            "attributes": {}
+        },
+        "9": {
+            "name": "Narration",
+            "type": "audio",
+            "src": "1_1795300009_narration.mp3",
+            "thumb": null,
+            "description": null,
+            "creator": "demo",
+            "creatorId": "1",
+            "created": 1795300009,
+            "licenseType": "CC0",
+            "licenseAttribution": "Made for this example",
+            "attributes": {}
+        }
+    }
+}

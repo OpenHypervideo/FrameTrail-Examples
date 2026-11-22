@@ -1,0 +1,2564 @@
+{
+    "meta": {
+        "name": "The Weather, in Objects",
+        "description": "A weather forecast without a video file. The map is a picture; clouds, temperatures, charts and warnings are overlays that the player animates in time, with a narrator and captions in two languages.",
+        "thumb": "1_1795300001_map.svg",
+        "creator": "demo",
+        "creatorId": "1",
+        "created": 1795300100000,
+        "lastchanged": 1795300100000
+    },
+    "config": {
+        "slidingMode": "adjust",
+        "slidingTrigger": "key",
+        "autohideControls": false,
+        "captionsVisible": true,
+        "clipTimeVisible": false,
+        "layoutArea": {
+            "areaTop": [],
+            "areaBottom": [],
+            "areaLeft": [],
+            "areaRight": []
+        }
+    },
+    "clips": [
+        {
+            "src": "",
+            "duration": 69.0,
+            "in": 0,
+            "out": 0
+        }
+    ],
+    "chapters": [
+        {
+            "start": 0,
+            "title": "Tomorrow on the island"
+        },
+        {
+            "start": 6.0,
+            "title": "The whole island"
+        },
+        {
+            "start": 21.0,
+            "title": "North Coast"
+        },
+        {
+            "start": 33.0,
+            "title": "Highlands"
+        },
+        {
+            "start": 45.0,
+            "title": "Harbour"
+        },
+        {
+            "start": 58.0,
+            "title": "The days ahead"
+        }
+    ],
+    "subtitles": [
+        {
+            "src": "en.vtt",
+            "srclang": "en"
+        },
+        {
+            "src": "de.vtt",
+            "srclang": "de"
+        }
+    ],
+    "globalEvents": {
+        "onReady": "",
+        "onPlay": "",
+        "onPause": "",
+        "onEnded": ""
+    },
+    "customCSS": "",
+    "contents": [
+        {
+            "@context": [
+                "http://www.w3.org/ns/anno.jsonld",
+                "https://frametrail.org/ns/context.jsonld"
+            ],
+            "creator": {
+                "nickname": "demo",
+                "type": "Person",
+                "id": "1"
+            },
+            "created": "2026-11-21T17:00:00.001Z",
+            "type": "Annotation",
+            "frametrail:type": "Overlay",
+            "frametrail:tags": [],
+            "target": {
+                "type": "Video",
+                "source": "",
+                "selector": {
+                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                    "type": "FragmentSelector",
+                    "value": "t=0,69&xywh=percent:0,0,100,100"
+                }
+            },
+            "body": {
+                "type": "Image",
+                "frametrail:type": "image",
+                "format": "image/svg+xml",
+                "source": "1_1795300001_map.svg",
+                "frametrail:name": "The island",
+                "frametrail:thumb": null,
+                "frametrail:licenseType": "CC0",
+                "frametrail:licenseAttribution": "Made for this example",
+                "frametrail:resourceId": "1",
+                "frametrail:attributes": {
+                    "animation": {
+                        "in": {
+                            "preset": "fadeIn",
+                            "duration": 800
+                        },
+                        "out": {
+                            "preset": "fadeOut",
+                            "duration": 400
+                        }
+                    },
+                    "zIndex": 0
+                }
+            },
+            "frametrail:events": {}
+        },
+        {
+            "@context": [
+                "http://www.w3.org/ns/anno.jsonld",
+                "https://frametrail.org/ns/context.jsonld"
+            ],
+            "creator": {
+                "nickname": "demo",
+                "type": "Person",
+                "id": "1"
+            },
+            "created": "2026-11-21T17:00:00.002Z",
+            "type": "Annotation",
+            "frametrail:type": "Overlay",
+            "frametrail:tags": [],
+            "target": {
+                "type": "Video",
+                "source": "",
+                "selector": {
+                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                    "type": "FragmentSelector",
+                    "value": "t=0,69&xywh=percent:0,99,1,1"
+                }
+            },
+            "body": {
+                "frametrail:type": "audio",
+                "source": "1_1795300009_narration.mp3",
+                "frametrail:name": "Narration",
+                "frametrail:thumb": null,
+                "frametrail:licenseType": "CC0",
+                "frametrail:licenseAttribution": "Synthetic voice, see CREDITS.txt",
+                "frametrail:resourceId": "9",
+                "frametrail:attributes": {
+                    "autoPlay": true,
+                    "opacity": 0
+                }
+            },
+            "frametrail:events": {}
+        },
+        {
+            "@context": [
+                "http://www.w3.org/ns/anno.jsonld",
+                "https://frametrail.org/ns/context.jsonld"
+            ],
+            "creator": {
+                "nickname": "demo",
+                "type": "Person",
+                "id": "1"
+            },
+            "created": "2026-11-21T17:00:00.003Z",
+            "type": "Annotation",
+            "frametrail:type": "Overlay",
+            "frametrail:tags": [],
+            "target": {
+                "type": "Video",
+                "source": "",
+                "selector": {
+                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                    "type": "FragmentSelector",
+                    "value": "t=0.2,5.7&xywh=percent:3.5,4,50,16"
+                }
+            },
+            "body": {
+                "type": "TextualBody",
+                "frametrail:type": "text",
+                "format": "text/html",
+                "value": "",
+                "frametrail:name": "Title: Tomorrow on the island",
+                "frametrail:attributes": {
+                    "text": "&lt;p&gt;&lt;span style=&quot;font-size: 36px; font-weight: 700;&quot;&gt;Tomorrow on the island&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;The forecast for Wednesday&lt;/span&gt;&lt;/p&gt;",
+                    "animation": {
+                        "in": {
+                            "preset": "slideFromLeft",
+                            "duration": 500
+                        },
+                        "out": {
+                            "preset": "fadeOut",
+                            "duration": 300
+                        }
+                    },
+                    "zIndex": 6,
+                    "box": {
+                        "textColor": "#ffffff"
+                    },
+                    "autoSize": "height"
+                }
+            },
+            "frametrail:events": {}
+        },
+        {
+            "@context": [
+                "http://www.w3.org/ns/anno.jsonld",
+                "https://frametrail.org/ns/context.jsonld"
+            ],
+            "creator": {
+                "nickname": "demo",
+                "type": "Person",
+                "id": "1"
+            },
+            "created": "2026-11-21T17:00:00.004Z",
+            "type": "Annotation",
+            "frametrail:type": "Overlay",
+            "frametrail:tags": [],
+            "target": {
+                "type": "Video",
+                "source": "",
+                "selector": {
+                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                    "type": "FragmentSelector",
+                    "value": "t=1,4.6&xywh=percent:66,30,30,32"
+                }
+            },
+            "body": {
+                "type": "TextualBody",
+                "frametrail:type": "text",
+                "format": "text/html",
+                "value": "",
+                "frametrail:name": "What this is",
+                "frametrail:attributes": {
+                    "text": "&lt;p&gt;&lt;span style=&quot;font-size: 19px; font-weight: 700;&quot;&gt;Nothing here is a video.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;The map is a picture. The clouds, numbers and charts are objects that the player moves and draws as the time runs. Open the editor and move the sun.&lt;/span&gt;&lt;/p&gt;",
+                    "animation": {
+                        "in": {
+                            "preset": "slideFromRight",
+                            "duration": 600
+                        },
+                        "out": {
+                            "preset": "fadeOut",
+                            "duration": 300
+                        }
+                    },
+                    "zIndex": 6,
+                    "box": {
+                        "background": "rgba(8, 32, 54, 0.62)",
+                        "radius": 14,
+                        "padding": 18,
+                        "textColor": "#ffffff"
+                    },
+                    "autoSize": "height"
+                }
+            },
+            "frametrail:events": {}
+        },
+        {
+            "@context": [
+                "http://www.w3.org/ns/anno.jsonld",
+                "https://frametrail.org/ns/context.jsonld"
+            ],
+            "creator": {
+                "nickname": "demo",
+                "type": "Person",
+                "id": "1"
+            },
+            "created": "2026-11-21T17:00:00.005Z",
+            "type": "Annotation",
+            "frametrail:type": "Overlay",
+            "frametrail:tags": [],
+            "target": {
+                "type": "Video",
+                "source": "",
+                "selector": {
+                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                    "type": "FragmentSelector",
+                    "value": "t=5,5.8&xywh=percent:58,22,38,62"
+                }
+            },
+            "body": {
+                "type": "TextualBody",
+                "frametrail:type": "quiz",
+                "format": "text/html",
+                "value": "",
+                "frametrail:name": "Where are you?",
+                "frametrail:attributes": {
+                    "questionType": "multipleChoice",
+                    "question": "Where are you tomorrow?",
+                    "answers": [
+                        {
+                            "text": "North Coast",
+                            "correct": false,
+                            "action": "jumpToTime",
+                            "actionTarget": 21.05
+                        },
+                        {
+                            "text": "Highlands",
+                            "correct": false,
+                            "action": "jumpToTime",
+                            "actionTarget": 33.05
+                        },
+                        {
+                            "text": "Harbour",
+                            "correct": false,
+                            "action": "jumpToTime",
+                            "actionTarget": 45.05
+                        },
+                        {
+                            "text": "Show me the whole island",
+                            "correct": false,
+                            "action": "",
+                            "default": true
+                        }
+                    ],
+                    "animation": {
+                        "in": {
+                            "preset": "popIn",
+                            "duration": 400
+                        },
+                        "out": {
+                            "preset": "fadeOut",
+                            "duration": 400
+                        }
+                    }
+                }
+            },
+            "frametrail:events": {},
+            "frametrail:pause": true
+        },
+        {
+            "@context": [
+                "http://www.w3.org/ns/anno.jsonld",
+                "https://frametrail.org/ns/context.jsonld"
+            ],
+            "creator": {
+                "nickname": "demo",
+                "type": "Person",
+                "id": "1"
+            },
+            "created": "2026-11-21T17:00:00.006Z",
+            "type": "Annotation",
+            "frametrail:type": "Overlay",
+            "frametrail:tags": [],
+            "target": {
+                "type": "Video",
+                "source": "",
+                "selector": {
+                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                    "type": "FragmentSelector",
+                    "value": "t=6.2,20.7&xywh=percent:3.5,4,50,16"
+                }
+            },
+            "body": {
+                "type": "TextualBody",
+                "frametrail:type": "text",
+                "format": "text/html",
+                "value": "",
+                "frametrail:name": "Title: The whole island",
+                "frametrail:attributes": {
+                    "text": "&lt;p&gt;&lt;span style=&quot;font-size: 36px; font-weight: 700;&quot;&gt;The whole island&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;Cloud in the morning, clearing later&lt;/span&gt;&lt;/p&gt;",
+                    "animation": {
+                        "in": {
+                            "preset": "slideFromLeft",
+                            "duration": 500
+                        },
+                        "out": {
+                            "preset": "fadeOut",
+                            "duration": 300
+                        }
+                    },
+                    "zIndex": 6,
+                    "box": {
+                        "textColor": "#ffffff"
+                    },
+                    "autoSize": "height"
+                }
+            },
+            "frametrail:events": {}
+        },
+        {
+            "@context": [
+                "http://www.w3.org/ns/anno.jsonld",
+                "https://frametrail.org/ns/context.jsonld"
+            ],
+            "creator": {
+                "nickname": "demo",
+                "type": "Person",
+                "id": "1"
+            },
+            "created": "2026-11-21T17:00:00.007Z",
+            "type": "Annotation",
+            "frametrail:type": "Overlay",
+            "frametrail:tags": [],
+            "target": {
+                "type": "Video",
+                "source": "",
+                "selector": {
+                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                    "type": "FragmentSelector",
+                    "value": "t=6.6,12.457&xywh=percent:-18.875,7,16.875,30",
+                    "frametrail:keyframes": [
+                        {
+                            "t": 6.6,
+                            "xywh": [
+                                -18.875,
+                                7.0,
+                                16.875,
+                                30
+                            ],
+                            "ease": "easeInOut"
+                        },
+                        {
+                            "t": 12.457,
+                            "xywh": [
+                                62,
+                                4.0,
+                                16.875,
+                                30
+                            ]
+                        }
+                    ]
+                }
+            },
+            "body": {
+                "type": "Image",
+                "frametrail:type": "image",
+                "format": "image/svg+xml",
+                "source": "1_1795300006_cloud.svg",
+                "frametrail:name": "Cloud",
+                "frametrail:thumb": null,
+                "frametrail:licenseType": "CC0",
+                "frametrail:licenseAttribution": "Made for this example",
+                "frametrail:resourceId": "6",
+                "frametrail:attributes": {
+                    "animation": {
+                        "in": {
+                            "preset": "fadeIn",
+                            "duration": 400
+                        },
+                        "out": {
+                            "preset": "fadeOut",
+                            "duration": 900
+                        }
+                    },
+                    "zIndex": 4
+                }
+            },
+            "frametrail:events": {}
+        },
+        {
+            "@context": [
+                "http://www.w3.org/ns/anno.jsonld",
+                "https://frametrail.org/ns/context.jsonld"
+            ],
+            "creator": {
+                "nickname": "demo",
+                "type": "Person",
+                "id": "1"
+            },
+            "created": "2026-11-21T17:00:00.008Z",
+            "type": "Annotation",
+            "frametrail:type": "Overlay",
+            "frametrail:tags": [],
+            "target": {
+                "type": "Video",
+                "source": "",
+                "selector": {
+                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                    "type": "FragmentSelector",
+                    "value": "t=7.1,12.957&xywh=percent:-22.25,30,20.25,36",
+                    "frametrail:keyframes": [
+                        {
+                            "t": 7.1,
+                            "xywh": [
+                                -22.25,
+                                30.0,
+                                20.25,
+                                36
+                            ],
+                            "ease": "easeInOut"
+                        },
+                        {
+                            "t": 12.957,
+                            "xywh": [
+                                65,
+                                34.0,
+                                20.25,
+                                36
+                            ]
+                        }
+                    ]
+                }
+            },
+            "body": {
+                "type": "Image",
+                "frametrail:type": "image",
+                "format": "image/svg+xml",
+                "source": "1_1795300006_cloud.svg",
+                "frametrail:name": "Cloud",
+                "frametrail:thumb": null,
+                "frametrail:licenseType": "CC0",
+                "frametrail:licenseAttribution": "Made for this example",
+                "frametrail:resourceId": "6",
+                "frametrail:attributes": {
+                    "animation": {
+                        "in": {
+                            "preset": "fadeIn",
+                            "duration": 400
+                        },
+                        "out": {
+                            "preset": "fadeOut",
+                            "duration": 900
+                        }
+                    },
+                    "zIndex": 4
+                }
+            },
+            "frametrail:events": {}
+        },
+        {
+            "@context": [
+                "http://www.w3.org/ns/anno.jsonld",
+                "https://frametrail.org/ns/context.jsonld"
+            ],
+            "creator": {
+                "nickname": "demo",
+                "type": "Person",
+                "id": "1"
+            },
+            "created": "2026-11-21T17:00:00.009Z",
+            "type": "Annotation",
+            "frametrail:type": "Overlay",
+            "frametrail:tags": [],
+            "target": {
+                "type": "Video",
+                "source": "",
+                "selector": {
+                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                    "type": "FragmentSelector",
+                    "value": "t=6.8,12.657&xywh=percent:-17.75,56,15.75,28",
+                    "frametrail:keyframes": [
+                        {
+                            "t": 6.8,
+                            "xywh": [
+                                -17.75,
+                                56.0,
+                                15.75,
+                                28
+                            ],
+                            "ease": "easeInOut"
+                        },
+                        {
+                            "t": 12.657,
+                            "xywh": [
+                                68,
+                                53.0,
+                                15.75,
+                                28
+                            ]
+                        }
+                    ]
+                }
+            },
+            "body": {
+                "type": "Image",
+                "frametrail:type": "image",
+                "format": "image/svg+xml",
+                "source": "1_1795300006_cloud.svg",
+                "frametrail:name": "Cloud",
+                "frametrail:thumb": null,
+                "frametrail:licenseType": "CC0",
+                "frametrail:licenseAttribution": "Made for this example",
+                "frametrail:resourceId": "6",
+                "frametrail:attributes": {
+                    "animation": {
+                        "in": {
+                            "preset": "fadeIn",
+                            "duration": 400
+                        },
+                        "out": {
+                            "preset": "fadeOut",
+                            "duration": 900
+                        }
+                    },
+                    "zIndex": 4
+                }
+            },
+            "frametrail:events": {}
+        },
+        {
+            "@context": [
+                "http://www.w3.org/ns/anno.jsonld",
+                "https://frametrail.org/ns/context.jsonld"
+            ],
+            "creator": {
+                "nickname": "demo",
+                "type": "Person",
+                "id": "1"
+            },
+            "created": "2026-11-21T17:00:00.010Z",
+            "type": "Annotation",
+            "frametrail:type": "Overlay",
+            "frametrail:tags": [],
+            "target": {
+                "type": "Video",
+                "source": "",
+                "selector": {
+                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                    "type": "FragmentSelector",
+                    "value": "t=10.505,20.7&xywh=percent:28.0812,14.5,8.4375,15"
+                }
+            },
+            "body": {
+                "type": "Image",
+                "frametrail:type": "image",
+                "format": "image/svg+xml",
+                "source": "1_1795300005_sun.svg",
+                "frametrail:name": "Sun",
+                "frametrail:thumb": null,
+                "frametrail:licenseType": "CC0",
+                "frametrail:licenseAttribution": "Made for this example",
+                "frametrail:resourceId": "5",
+                "frametrail:attributes": {
+                    "animation": {
+                        "in": {
+                            "preset": "popIn",
+                            "duration": 550
+                        },
+                        "out": {
+                            "preset": "fadeOut",
+                            "duration": 300
+                        },
+                        "emphasis": {
+                            "preset": "float",
+                            "duration": 2600,
+                            "iterations": 0
+                        }
+                    },
+                    "zIndex": 4
+                }
+            },
+            "frametrail:events": {}
+        },
+        {
+            "@context": [
+                "http://www.w3.org/ns/anno.jsonld",
+                "https://frametrail.org/ns/context.jsonld"
+            ],
+            "creator": {
+                "nickname": "demo",
+                "type": "Person",
+                "id": "1"
+            },
+            "created": "2026-11-21T17:00:00.011Z",
+            "type": "Annotation",
+            "frametrail:type": "Overlay",
+            "frametrail:tags": [],
+            "target": {
+                "type": "Video",
+                "source": "",
+                "selector": {
+                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                    "type": "FragmentSelector",
+                    "value": "t=10.755,20.7&xywh=percent:17.5813,47.5,8.4375,15"
+                }
+            },
+            "body": {
+                "type": "Image",
+                "frametrail:type": "image",
+                "format": "image/svg+xml",
+                "source": "1_1795300005_sun.svg",
+                "frametrail:name": "Sun",
+                "frametrail:thumb": null,
+                "frametrail:licenseType": "CC0",
+                "frametrail:licenseAttribution": "Made for this example",
+                "frametrail:resourceId": "5",
+                "frametrail:attributes": {
+                    "animation": {
+                        "in": {
+                            "preset": "popIn",
+                            "duration": 550
+                        },
+                        "out": {
+                            "preset": "fadeOut",
+                            "duration": 300
+                        },
+                        "emphasis": {
+                            "preset": "float",
+                            "duration": 2600,
+                            "iterations": 0
+                        }
+                    },
+                    "zIndex": 4
+                }
+            },
+            "frametrail:events": {}
+        },
+        {
+            "@context": [
+                "http://www.w3.org/ns/anno.jsonld",
+                "https://frametrail.org/ns/context.jsonld"
+            ],
+            "creator": {
+                "nickname": "demo",
+                "type": "Person",
+                "id": "1"
+            },
+            "created": "2026-11-21T17:00:00.012Z",
+            "type": "Annotation",
+            "frametrail:type": "Overlay",
+            "frametrail:tags": [],
+            "target": {
+                "type": "Video",
+                "source": "",
+                "selector": {
+                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                    "type": "FragmentSelector",
+                    "value": "t=11.005,20.7&xywh=percent:37.5812,62.5,8.4375,15"
+                }
+            },
+            "body": {
+                "type": "Image",
+                "frametrail:type": "image",
+                "format": "image/svg+xml",
+                "source": "1_1795300005_sun.svg",
+                "frametrail:name": "Sun",
+                "frametrail:thumb": null,
+                "frametrail:licenseType": "CC0",
+                "frametrail:licenseAttribution": "Made for this example",
+                "frametrail:resourceId": "5",
+                "frametrail:attributes": {
+                    "animation": {
+                        "in": {
+                            "preset": "popIn",
+                            "duration": 550
+                        },
+                        "out": {
+                            "preset": "fadeOut",
+                            "duration": 300
+                        },
+                        "emphasis": {
+                            "preset": "float",
+                            "duration": 2600,
+                            "iterations": 0
+                        }
+                    },
+                    "zIndex": 4
+                }
+            },
+            "frametrail:events": {}
+        },
+        {
+            "@context": [
+                "http://www.w3.org/ns/anno.jsonld",
+                "https://frametrail.org/ns/context.jsonld"
+            ],
+            "creator": {
+                "nickname": "demo",
+                "type": "Person",
+                "id": "1"
+            },
+            "created": "2026-11-21T17:00:00.013Z",
+            "type": "Annotation",
+            "frametrail:type": "Overlay",
+            "frametrail:tags": [],
+            "target": {
+                "type": "Video",
+                "source": "",
+                "selector": {
+                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                    "type": "FragmentSelector",
+                    "value": "t=13.43,20.7&xywh=percent:38.7,15.5,11,13"
+                }
+            },
+            "body": {
+                "type": "Dataset",
+                "frametrail:type": "counter",
+                "format": "application/x-frametrail-counter",
+                "frametrail:name": "Temperature: north",
+                "frametrail:attributes": {
+                    "from": 0,
+                    "to": 14,
+                    "decimals": 0,
+                    "prefix": "",
+                    "suffix": "°",
+                    "duration": 900,
+                    "ease": "power2Out",
+                    "style": "count",
+                    "color": "#ffffff",
+                    "weight": 700,
+                    "align": "left",
+                    "animation": {
+                        "in": {
+                            "preset": "popIn",
+                            "duration": 450
+                        },
+                        "out": {
+                            "preset": "fadeOut",
+                            "duration": 400
+                        }
+                    }
+                }
+            },
+            "frametrail:events": {}
+        },
+        {
+            "@context": [
+                "http://www.w3.org/ns/anno.jsonld",
+                "https://frametrail.org/ns/context.jsonld"
+            ],
+            "creator": {
+                "nickname": "demo",
+                "type": "Person",
+                "id": "1"
+            },
+            "created": "2026-11-21T17:00:00.014Z",
+            "type": "Annotation",
+            "frametrail:type": "Overlay",
+            "frametrail:tags": [],
+            "target": {
+                "type": "Video",
+                "source": "",
+                "selector": {
+                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                    "type": "FragmentSelector",
+                    "value": "t=15.879,20.7&xywh=percent:28.2,48.5,11,13"
+                }
+            },
+            "body": {
+                "type": "Dataset",
+                "frametrail:type": "counter",
+                "format": "application/x-frametrail-counter",
+                "frametrail:name": "Temperature: highlands",
+                "frametrail:attributes": {
+                    "from": 0,
+                    "to": 11,
+                    "decimals": 0,
+                    "prefix": "",
+                    "suffix": "°",
+                    "duration": 900,
+                    "ease": "power2Out",
+                    "style": "count",
+                    "color": "#ffffff",
+                    "weight": 700,
+                    "align": "left",
+                    "animation": {
+                        "in": {
+                            "preset": "popIn",
+                            "duration": 450
+                        },
+                        "out": {
+                            "preset": "fadeOut",
+                            "duration": 400
+                        }
+                    }
+                }
+            },
+            "frametrail:events": {}
+        },
+        {
+            "@context": [
+                "http://www.w3.org/ns/anno.jsonld",
+                "https://frametrail.org/ns/context.jsonld"
+            ],
+            "creator": {
+                "nickname": "demo",
+                "type": "Person",
+                "id": "1"
+            },
+            "created": "2026-11-21T17:00:00.015Z",
+            "type": "Annotation",
+            "frametrail:type": "Overlay",
+            "frametrail:tags": [],
+            "target": {
+                "type": "Video",
+                "source": "",
+                "selector": {
+                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                    "type": "FragmentSelector",
+                    "value": "t=17.683,20.7&xywh=percent:48.2,63.5,11,13"
+                }
+            },
+            "body": {
+                "type": "Dataset",
+                "frametrail:type": "counter",
+                "format": "application/x-frametrail-counter",
+                "frametrail:name": "Temperature: harbour",
+                "frametrail:attributes": {
+                    "from": 0,
+                    "to": 17,
+                    "decimals": 0,
+                    "prefix": "",
+                    "suffix": "°",
+                    "duration": 900,
+                    "ease": "power2Out",
+                    "style": "count",
+                    "color": "#ffffff",
+                    "weight": 700,
+                    "align": "left",
+                    "animation": {
+                        "in": {
+                            "preset": "popIn",
+                            "duration": 450
+                        },
+                        "out": {
+                            "preset": "fadeOut",
+                            "duration": 400
+                        }
+                    }
+                }
+            },
+            "frametrail:events": {}
+        },
+        {
+            "@context": [
+                "http://www.w3.org/ns/anno.jsonld",
+                "https://frametrail.org/ns/context.jsonld"
+            ],
+            "creator": {
+                "nickname": "demo",
+                "type": "Person",
+                "id": "1"
+            },
+            "created": "2026-11-21T17:00:00.016Z",
+            "type": "Annotation",
+            "frametrail:type": "Overlay",
+            "frametrail:tags": [],
+            "target": {
+                "type": "Video",
+                "source": "",
+                "selector": {
+                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                    "type": "FragmentSelector",
+                    "value": "t=21.3,32.7&xywh=percent:0,0,100,100"
+                }
+            },
+            "body": {
+                "type": "Image",
+                "frametrail:type": "image",
+                "format": "image/svg+xml",
+                "source": "1_1795300002_region-north.svg",
+                "frametrail:name": "North Coast",
+                "frametrail:thumb": null,
+                "frametrail:licenseType": "CC0",
+                "frametrail:licenseAttribution": "Made for this example",
+                "frametrail:resourceId": "2",
+                "frametrail:attributes": {
+                    "animation": {
+                        "in": {
+                            "preset": "fadeIn",
+                            "duration": 600
+                        },
+                        "out": {
+                            "preset": "fadeOut",
+                            "duration": 400
+                        },
+                        "emphasis": {
+                            "preset": "breathe",
+                            "duration": 3000,
+                            "iterations": 0
+                        }
+                    },
+                    "zIndex": 1
+                }
+            },
+            "frametrail:events": {}
+        },
+        {
+            "@context": [
+                "http://www.w3.org/ns/anno.jsonld",
+                "https://frametrail.org/ns/context.jsonld"
+            ],
+            "creator": {
+                "nickname": "demo",
+                "type": "Person",
+                "id": "1"
+            },
+            "created": "2026-11-21T17:00:00.017Z",
+            "type": "Annotation",
+            "frametrail:type": "Overlay",
+            "frametrail:tags": [],
+            "target": {
+                "type": "Video",
+                "source": "",
+                "selector": {
+                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                    "type": "FragmentSelector",
+                    "value": "t=21.2,32.7&xywh=percent:3.5,4,50,16"
+                }
+            },
+            "body": {
+                "type": "TextualBody",
+                "frametrail:type": "text",
+                "format": "text/html",
+                "value": "",
+                "frametrail:name": "Title: North Coast",
+                "frametrail:attributes": {
+                    "text": "&lt;p&gt;&lt;span style=&quot;font-size: 36px; font-weight: 700;&quot;&gt;North Coast&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;Fresh westerly wind, 14°&lt;/span&gt;&lt;/p&gt;",
+                    "animation": {
+                        "in": {
+                            "preset": "slideFromLeft",
+                            "duration": 500
+                        },
+                        "out": {
+                            "preset": "fadeOut",
+                            "duration": 300
+                        }
+                    },
+                    "zIndex": 6,
+                    "box": {
+                        "textColor": "#ffffff"
+                    },
+                    "autoSize": "height"
+                }
+            },
+            "frametrail:events": {}
+        },
+        {
+            "@context": [
+                "http://www.w3.org/ns/anno.jsonld",
+                "https://frametrail.org/ns/context.jsonld"
+            ],
+            "creator": {
+                "nickname": "demo",
+                "type": "Person",
+                "id": "1"
+            },
+            "created": "2026-11-21T17:00:00.018Z",
+            "type": "Annotation",
+            "frametrail:type": "Overlay",
+            "frametrail:tags": [],
+            "target": {
+                "type": "Video",
+                "source": "",
+                "selector": {
+                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                    "type": "FragmentSelector",
+                    "value": "t=22,32.6&xywh=percent:17,12,15,7"
+                }
+            },
+            "body": {
+                "type": "TextualBody",
+                "frametrail:type": "hotspot",
+                "format": "text/html",
+                "frametrail:name": "Wind",
+                "frametrail:thumb": null,
+                "frametrail:licenseType": null,
+                "frametrail:licenseAttribution": null,
+                "frametrail:attributes": {
+                    "shape": "arrow",
+                    "direction": "right",
+                    "curve": "curved",
+                    "color": "#ffffff",
+                    "borderWidth": 6,
+                    "pulse": false,
+                    "action": "",
+                    "actionTarget": "",
+                    "text": "",
+                    "animation": {
+                        "in": {
+                            "preset": "draw",
+                            "duration": 900
+                        },
+                        "out": {
+                            "preset": "fadeOut",
+                            "duration": 300
+                        },
+                        "emphasis": {
+                            "preset": "float",
+                            "duration": 2200,
+                            "iterations": 0
+                        }
+                    }
+                }
+            },
+            "frametrail:events": {}
+        },
+        {
+            "@context": [
+                "http://www.w3.org/ns/anno.jsonld",
+                "https://frametrail.org/ns/context.jsonld"
+            ],
+            "creator": {
+                "nickname": "demo",
+                "type": "Person",
+                "id": "1"
+            },
+            "created": "2026-11-21T17:00:00.019Z",
+            "type": "Annotation",
+            "frametrail:type": "Overlay",
+            "frametrail:tags": [],
+            "target": {
+                "type": "Video",
+                "source": "",
+                "selector": {
+                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                    "type": "FragmentSelector",
+                    "value": "t=22.35,32.6&xywh=percent:25,21,17,7"
+                }
+            },
+            "body": {
+                "type": "TextualBody",
+                "frametrail:type": "hotspot",
+                "format": "text/html",
+                "frametrail:name": "Wind",
+                "frametrail:thumb": null,
+                "frametrail:licenseType": null,
+                "frametrail:licenseAttribution": null,
+                "frametrail:attributes": {
+                    "shape": "arrow",
+                    "direction": "right",
+                    "curve": "curved",
+                    "color": "#ffffff",
+                    "borderWidth": 6,
+                    "pulse": false,
+                    "action": "",
+                    "actionTarget": "",
+                    "text": "",
+                    "animation": {
+                        "in": {
+                            "preset": "draw",
+                            "duration": 900
+                        },
+                        "out": {
+                            "preset": "fadeOut",
+                            "duration": 300
+                        },
+                        "emphasis": {
+                            "preset": "float",
+                            "duration": 2200,
+                            "iterations": 0
+                        }
+                    }
+                }
+            },
+            "frametrail:events": {}
+        },
+        {
+            "@context": [
+                "http://www.w3.org/ns/anno.jsonld",
+                "https://frametrail.org/ns/context.jsonld"
+            ],
+            "creator": {
+                "nickname": "demo",
+                "type": "Person",
+                "id": "1"
+            },
+            "created": "2026-11-21T17:00:00.020Z",
+            "type": "Annotation",
+            "frametrail:type": "Overlay",
+            "frametrail:tags": [],
+            "target": {
+                "type": "Video",
+                "source": "",
+                "selector": {
+                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                    "type": "FragmentSelector",
+                    "value": "t=22.7,32.6&xywh=percent:15,30,14,7"
+                }
+            },
+            "body": {
+                "type": "TextualBody",
+                "frametrail:type": "hotspot",
+                "format": "text/html",
+                "frametrail:name": "Wind",
+                "frametrail:thumb": null,
+                "frametrail:licenseType": null,
+                "frametrail:licenseAttribution": null,
+                "frametrail:attributes": {
+                    "shape": "arrow",
+                    "direction": "right",
+                    "curve": "curved",
+                    "color": "#ffffff",
+                    "borderWidth": 6,
+                    "pulse": false,
+                    "action": "",
+                    "actionTarget": "",
+                    "text": "",
+                    "animation": {
+                        "in": {
+                            "preset": "draw",
+                            "duration": 900
+                        },
+                        "out": {
+                            "preset": "fadeOut",
+                            "duration": 300
+                        },
+                        "emphasis": {
+                            "preset": "float",
+                            "duration": 2200,
+                            "iterations": 0
+                        }
+                    }
+                }
+            },
+            "frametrail:events": {}
+        },
+        {
+            "@context": [
+                "http://www.w3.org/ns/anno.jsonld",
+                "https://frametrail.org/ns/context.jsonld"
+            ],
+            "creator": {
+                "nickname": "demo",
+                "type": "Person",
+                "id": "1"
+            },
+            "created": "2026-11-21T17:00:00.021Z",
+            "type": "Annotation",
+            "frametrail:type": "Overlay",
+            "frametrail:tags": [],
+            "target": {
+                "type": "Video",
+                "source": "",
+                "selector": {
+                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                    "type": "FragmentSelector",
+                    "value": "t=25.495,32.6&xywh=percent:66,14,30,7"
+                }
+            },
+            "body": {
+                "type": "TextualBody",
+                "frametrail:type": "text",
+                "format": "text/html",
+                "value": "",
+                "frametrail:name": "Gusts",
+                "frametrail:attributes": {
+                    "text": "&lt;p&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;GUSTS AT MIDDAY, KM/H&lt;/span&gt;&lt;/p&gt;",
+                    "animation": {
+                        "in": {
+                            "preset": "fadeIn",
+                            "duration": 500
+                        },
+                        "out": {
+                            "preset": "fadeOut",
+                            "duration": 400
+                        }
+                    },
+                    "zIndex": 6,
+                    "box": {
+                        "textColor": "#ffffff"
+                    },
+                    "autoSize": "height"
+                }
+            },
+            "frametrail:events": {}
+        },
+        {
+            "@context": [
+                "http://www.w3.org/ns/anno.jsonld",
+                "https://frametrail.org/ns/context.jsonld"
+            ],
+            "creator": {
+                "nickname": "demo",
+                "type": "Person",
+                "id": "1"
+            },
+            "created": "2026-11-21T17:00:00.022Z",
+            "type": "Annotation",
+            "frametrail:type": "Overlay",
+            "frametrail:tags": [],
+            "target": {
+                "type": "Video",
+                "source": "",
+                "selector": {
+                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                    "type": "FragmentSelector",
+                    "value": "t=26.395,32.6&xywh=percent:66,19,30,15"
+                }
+            },
+            "body": {
+                "type": "Dataset",
+                "frametrail:type": "counter",
+                "format": "application/x-frametrail-counter",
+                "frametrail:name": "Gusts",
+                "frametrail:attributes": {
+                    "from": 0,
+                    "to": 60,
+                    "decimals": 0,
+                    "prefix": "",
+                    "suffix": "",
+                    "duration": 1500,
+                    "ease": "power2Out",
+                    "style": "count",
+                    "color": "#ffffff",
+                    "weight": 700,
+                    "align": "left",
+                    "animation": {
+                        "in": {
+                            "preset": "popIn",
+                            "duration": 450
+                        },
+                        "out": {
+                            "preset": "fadeOut",
+                            "duration": 400
+                        }
+                    }
+                }
+            },
+            "frametrail:events": {}
+        },
+        {
+            "@context": [
+                "http://www.w3.org/ns/anno.jsonld",
+                "https://frametrail.org/ns/context.jsonld"
+            ],
+            "creator": {
+                "nickname": "demo",
+                "type": "Person",
+                "id": "1"
+            },
+            "created": "2026-11-21T17:00:00.023Z",
+            "type": "Annotation",
+            "frametrail:type": "Overlay",
+            "frametrail:tags": [],
+            "target": {
+                "type": "Video",
+                "source": "",
+                "selector": {
+                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                    "type": "FragmentSelector",
+                    "value": "t=22.4,32.6&xywh=percent:66,40,30,46"
+                }
+            },
+            "body": {
+                "type": "Dataset",
+                "frametrail:type": "chart",
+                "format": "application/x-frametrail-chart",
+                "frametrail:name": "Wind through the day",
+                "frametrail:attributes": {
+                    "chartType": "line",
+                    "data": "6h: 25\n9h: 40\n12h: 60\n15h: 45\n18h: 30\n21h: 18",
+                    "unit": "",
+                    "color": "#7fd0ff",
+                    "textColor": "#ffffff",
+                    "highlight": 2,
+                    "showValues": true,
+                    "duration": 1800,
+                    "animation": {
+                        "in": {
+                            "preset": "fadeIn",
+                            "duration": 500
+                        },
+                        "out": {
+                            "preset": "fadeOut",
+                            "duration": 400
+                        }
+                    }
+                }
+            },
+            "frametrail:events": {}
+        },
+        {
+            "@context": [
+                "http://www.w3.org/ns/anno.jsonld",
+                "https://frametrail.org/ns/context.jsonld"
+            ],
+            "creator": {
+                "nickname": "demo",
+                "type": "Person",
+                "id": "1"
+            },
+            "created": "2026-11-21T17:00:00.024Z",
+            "type": "Annotation",
+            "frametrail:type": "Overlay",
+            "frametrail:tags": [],
+            "target": {
+                "type": "Video",
+                "source": "",
+                "selector": {
+                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                    "type": "FragmentSelector",
+                    "value": "t=33.3,44.7&xywh=percent:0,0,100,100"
+                }
+            },
+            "body": {
+                "type": "Image",
+                "frametrail:type": "image",
+                "format": "image/svg+xml",
+                "source": "1_1795300003_region-highlands.svg",
+                "frametrail:name": "Highlands",
+                "frametrail:thumb": null,
+                "frametrail:licenseType": "CC0",
+                "frametrail:licenseAttribution": "Made for this example",
+                "frametrail:resourceId": "3",
+                "frametrail:attributes": {
+                    "animation": {
+                        "in": {
+                            "preset": "fadeIn",
+                            "duration": 600
+                        },
+                        "out": {
+                            "preset": "fadeOut",
+                            "duration": 400
+                        },
+                        "emphasis": {
+                            "preset": "breathe",
+                            "duration": 3000,
+                            "iterations": 0
+                        }
+                    },
+                    "zIndex": 1
+                }
+            },
+            "frametrail:events": {}
+        },
+        {
+            "@context": [
+                "http://www.w3.org/ns/anno.jsonld",
+                "https://frametrail.org/ns/context.jsonld"
+            ],
+            "creator": {
+                "nickname": "demo",
+                "type": "Person",
+                "id": "1"
+            },
+            "created": "2026-11-21T17:00:00.025Z",
+            "type": "Annotation",
+            "frametrail:type": "Overlay",
+            "frametrail:tags": [],
+            "target": {
+                "type": "Video",
+                "source": "",
+                "selector": {
+                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                    "type": "FragmentSelector",
+                    "value": "t=33.2,44.7&xywh=percent:3.5,4,50,16"
+                }
+            },
+            "body": {
+                "type": "TextualBody",
+                "frametrail:type": "text",
+                "format": "text/html",
+                "value": "",
+                "frametrail:name": "Title: Highlands",
+                "frametrail:attributes": {
+                    "text": "&lt;p&gt;&lt;span style=&quot;font-size: 36px; font-weight: 700;&quot;&gt;Highlands&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;Rain until the afternoon, 11°&lt;/span&gt;&lt;/p&gt;",
+                    "animation": {
+                        "in": {
+                            "preset": "slideFromLeft",
+                            "duration": 500
+                        },
+                        "out": {
+                            "preset": "fadeOut",
+                            "duration": 300
+                        }
+                    },
+                    "zIndex": 6,
+                    "box": {
+                        "textColor": "#ffffff"
+                    },
+                    "autoSize": "height"
+                }
+            },
+            "frametrail:events": {}
+        },
+        {
+            "@context": [
+                "http://www.w3.org/ns/anno.jsonld",
+                "https://frametrail.org/ns/context.jsonld"
+            ],
+            "creator": {
+                "nickname": "demo",
+                "type": "Person",
+                "id": "1"
+            },
+            "created": "2026-11-21T17:00:00.026Z",
+            "type": "Annotation",
+            "frametrail:type": "Overlay",
+            "frametrail:tags": [],
+            "target": {
+                "type": "Video",
+                "source": "",
+                "selector": {
+                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                    "type": "FragmentSelector",
+                    "value": "t=33.9,44.6&xywh=percent:19.2188,35.5,9.5625,17"
+                }
+            },
+            "body": {
+                "type": "Image",
+                "frametrail:type": "image",
+                "format": "image/svg+xml",
+                "source": "1_1795300007_rain.svg",
+                "frametrail:name": "Rain",
+                "frametrail:thumb": null,
+                "frametrail:licenseType": "CC0",
+                "frametrail:licenseAttribution": "Made for this example",
+                "frametrail:resourceId": "7",
+                "frametrail:attributes": {
+                    "animation": {
+                        "in": {
+                            "preset": "dropIn",
+                            "duration": 600
+                        },
+                        "out": {
+                            "preset": "fadeOut",
+                            "duration": 300
+                        },
+                        "emphasis": {
+                            "preset": "float",
+                            "duration": 2400,
+                            "iterations": 0
+                        }
+                    },
+                    "zIndex": 4
+                }
+            },
+            "frametrail:events": {}
+        },
+        {
+            "@context": [
+                "http://www.w3.org/ns/anno.jsonld",
+                "https://frametrail.org/ns/context.jsonld"
+            ],
+            "creator": {
+                "nickname": "demo",
+                "type": "Person",
+                "id": "1"
+            },
+            "created": "2026-11-21T17:00:00.027Z",
+            "type": "Annotation",
+            "frametrail:type": "Overlay",
+            "frametrail:tags": [],
+            "target": {
+                "type": "Video",
+                "source": "",
+                "selector": {
+                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                    "type": "FragmentSelector",
+                    "value": "t=34.2,44.6&xywh=percent:29.2188,41.5,9.5625,17"
+                }
+            },
+            "body": {
+                "type": "Image",
+                "frametrail:type": "image",
+                "format": "image/svg+xml",
+                "source": "1_1795300007_rain.svg",
+                "frametrail:name": "Rain",
+                "frametrail:thumb": null,
+                "frametrail:licenseType": "CC0",
+                "frametrail:licenseAttribution": "Made for this example",
+                "frametrail:resourceId": "7",
+                "frametrail:attributes": {
+                    "animation": {
+                        "in": {
+                            "preset": "dropIn",
+                            "duration": 600
+                        },
+                        "out": {
+                            "preset": "fadeOut",
+                            "duration": 300
+                        },
+                        "emphasis": {
+                            "preset": "float",
+                            "duration": 2400,
+                            "iterations": 0
+                        }
+                    },
+                    "zIndex": 4
+                }
+            },
+            "frametrail:events": {}
+        },
+        {
+            "@context": [
+                "http://www.w3.org/ns/anno.jsonld",
+                "https://frametrail.org/ns/context.jsonld"
+            ],
+            "creator": {
+                "nickname": "demo",
+                "type": "Person",
+                "id": "1"
+            },
+            "created": "2026-11-21T17:00:00.028Z",
+            "type": "Annotation",
+            "frametrail:type": "Overlay",
+            "frametrail:tags": [],
+            "target": {
+                "type": "Video",
+                "source": "",
+                "selector": {
+                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                    "type": "FragmentSelector",
+                    "value": "t=34.5,44.6&xywh=percent:23.2188,53.5,9.5625,17"
+                }
+            },
+            "body": {
+                "type": "Image",
+                "frametrail:type": "image",
+                "format": "image/svg+xml",
+                "source": "1_1795300007_rain.svg",
+                "frametrail:name": "Rain",
+                "frametrail:thumb": null,
+                "frametrail:licenseType": "CC0",
+                "frametrail:licenseAttribution": "Made for this example",
+                "frametrail:resourceId": "7",
+                "frametrail:attributes": {
+                    "animation": {
+                        "in": {
+                            "preset": "dropIn",
+                            "duration": 600
+                        },
+                        "out": {
+                            "preset": "fadeOut",
+                            "duration": 300
+                        },
+                        "emphasis": {
+                            "preset": "float",
+                            "duration": 2400,
+                            "iterations": 0
+                        }
+                    },
+                    "zIndex": 4
+                }
+            },
+            "frametrail:events": {}
+        },
+        {
+            "@context": [
+                "http://www.w3.org/ns/anno.jsonld",
+                "https://frametrail.org/ns/context.jsonld"
+            ],
+            "creator": {
+                "nickname": "demo",
+                "type": "Person",
+                "id": "1"
+            },
+            "created": "2026-11-21T17:00:00.029Z",
+            "type": "Annotation",
+            "frametrail:type": "Overlay",
+            "frametrail:tags": [],
+            "target": {
+                "type": "Video",
+                "source": "",
+                "selector": {
+                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                    "type": "FragmentSelector",
+                    "value": "t=34.4,44.6&xywh=percent:66,14,30,46"
+                }
+            },
+            "body": {
+                "type": "Dataset",
+                "frametrail:type": "chart",
+                "format": "application/x-frametrail-chart",
+                "frametrail:name": "Rain per three hours",
+                "frametrail:attributes": {
+                    "chartType": "bars",
+                    "data": "6h: 2\n9h: 5\n12h: 9\n15h: 4\n18h: 1",
+                    "unit": " mm",
+                    "color": "#7fd0ff",
+                    "textColor": "#ffffff",
+                    "highlight": 2,
+                    "showValues": true,
+                    "duration": 1800,
+                    "animation": {
+                        "in": {
+                            "preset": "fadeIn",
+                            "duration": 500
+                        },
+                        "out": {
+                            "preset": "fadeOut",
+                            "duration": 400
+                        }
+                    }
+                }
+            },
+            "frametrail:events": {}
+        },
+        {
+            "@context": [
+                "http://www.w3.org/ns/anno.jsonld",
+                "https://frametrail.org/ns/context.jsonld"
+            ],
+            "creator": {
+                "nickname": "demo",
+                "type": "Person",
+                "id": "1"
+            },
+            "created": "2026-11-21T17:00:00.030Z",
+            "type": "Annotation",
+            "frametrail:type": "Overlay",
+            "frametrail:tags": [],
+            "target": {
+                "type": "Video",
+                "source": "",
+                "selector": {
+                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                    "type": "FragmentSelector",
+                    "value": "t=38.411,44.6&xywh=percent:66,66,30,20"
+                }
+            },
+            "body": {
+                "type": "TextualBody",
+                "frametrail:type": "text",
+                "format": "text/html",
+                "value": "",
+                "frametrail:name": "Warning",
+                "frametrail:attributes": {
+                    "text": "&lt;p&gt;&lt;span style=&quot;font-size: 19px; font-weight: 700; color: #0c2f4a;&quot;&gt;Heavy rain around noon&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size: 15px; color: #0c2f4a;&quot;&gt;Take care on the mountain paths.&lt;/span&gt;&lt;/p&gt;",
+                    "animation": {
+                        "in": {
+                            "preset": "slideFromRight",
+                            "duration": 500
+                        },
+                        "out": {
+                            "preset": "fadeOut",
+                            "duration": 300
+                        },
+                        "emphasis": {
+                            "preset": "pulse",
+                            "duration": 1400,
+                            "iterations": 2
+                        }
+                    },
+                    "zIndex": 6,
+                    "box": {
+                        "background": "#ffcf4a",
+                        "radius": 12,
+                        "padding": 16,
+                        "textColor": "#0c2f4a"
+                    },
+                    "autoSize": "height"
+                }
+            },
+            "frametrail:events": {}
+        },
+        {
+            "@context": [
+                "http://www.w3.org/ns/anno.jsonld",
+                "https://frametrail.org/ns/context.jsonld"
+            ],
+            "creator": {
+                "nickname": "demo",
+                "type": "Person",
+                "id": "1"
+            },
+            "created": "2026-11-21T17:00:00.031Z",
+            "type": "Annotation",
+            "frametrail:type": "Overlay",
+            "frametrail:tags": [],
+            "target": {
+                "type": "Video",
+                "source": "",
+                "selector": {
+                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                    "type": "FragmentSelector",
+                    "value": "t=45.3,57.7&xywh=percent:0,0,100,100"
+                }
+            },
+            "body": {
+                "type": "Image",
+                "frametrail:type": "image",
+                "format": "image/svg+xml",
+                "source": "1_1795300004_region-harbour.svg",
+                "frametrail:name": "Harbour",
+                "frametrail:thumb": null,
+                "frametrail:licenseType": "CC0",
+                "frametrail:licenseAttribution": "Made for this example",
+                "frametrail:resourceId": "4",
+                "frametrail:attributes": {
+                    "animation": {
+                        "in": {
+                            "preset": "fadeIn",
+                            "duration": 600
+                        },
+                        "out": {
+                            "preset": "fadeOut",
+                            "duration": 400
+                        },
+                        "emphasis": {
+                            "preset": "breathe",
+                            "duration": 3000,
+                            "iterations": 0
+                        }
+                    },
+                    "zIndex": 1
+                }
+            },
+            "frametrail:events": {}
+        },
+        {
+            "@context": [
+                "http://www.w3.org/ns/anno.jsonld",
+                "https://frametrail.org/ns/context.jsonld"
+            ],
+            "creator": {
+                "nickname": "demo",
+                "type": "Person",
+                "id": "1"
+            },
+            "created": "2026-11-21T17:00:00.032Z",
+            "type": "Annotation",
+            "frametrail:type": "Overlay",
+            "frametrail:tags": [],
+            "target": {
+                "type": "Video",
+                "source": "",
+                "selector": {
+                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                    "type": "FragmentSelector",
+                    "value": "t=45.2,57.7&xywh=percent:3.5,4,50,16"
+                }
+            },
+            "body": {
+                "type": "TextualBody",
+                "frametrail:type": "text",
+                "format": "text/html",
+                "value": "",
+                "frametrail:name": "Title: Harbour",
+                "frametrail:attributes": {
+                    "text": "&lt;p&gt;&lt;span style=&quot;font-size: 36px; font-weight: 700;&quot;&gt;Harbour&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;Dry and sunny, 17°&lt;/span&gt;&lt;/p&gt;",
+                    "animation": {
+                        "in": {
+                            "preset": "slideFromLeft",
+                            "duration": 500
+                        },
+                        "out": {
+                            "preset": "fadeOut",
+                            "duration": 300
+                        }
+                    },
+                    "zIndex": 6,
+                    "box": {
+                        "textColor": "#ffffff"
+                    },
+                    "autoSize": "height"
+                }
+            },
+            "frametrail:events": {}
+        },
+        {
+            "@context": [
+                "http://www.w3.org/ns/anno.jsonld",
+                "https://frametrail.org/ns/context.jsonld"
+            ],
+            "creator": {
+                "nickname": "demo",
+                "type": "Person",
+                "id": "1"
+            },
+            "created": "2026-11-21T17:00:00.033Z",
+            "type": "Annotation",
+            "frametrail:type": "Overlay",
+            "frametrail:tags": [],
+            "target": {
+                "type": "Video",
+                "source": "",
+                "selector": {
+                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                    "type": "FragmentSelector",
+                    "value": "t=45.6,48.948&xywh=percent:37.8125,53,12.375,22"
+                }
+            },
+            "body": {
+                "type": "Image",
+                "frametrail:type": "image",
+                "format": "image/svg+xml",
+                "source": "1_1795300006_cloud.svg",
+                "frametrail:name": "Cloud",
+                "frametrail:thumb": null,
+                "frametrail:licenseType": "CC0",
+                "frametrail:licenseAttribution": "Made for this example",
+                "frametrail:resourceId": "6",
+                "frametrail:attributes": {
+                    "animation": {
+                        "in": {
+                            "preset": "fadeIn",
+                            "duration": 500
+                        },
+                        "out": {
+                            "preset": "slideToRight",
+                            "duration": 1200
+                        }
+                    },
+                    "zIndex": 4
+                }
+            },
+            "frametrail:events": {}
+        },
+        {
+            "@context": [
+                "http://www.w3.org/ns/anno.jsonld",
+                "https://frametrail.org/ns/context.jsonld"
+            ],
+            "creator": {
+                "nickname": "demo",
+                "type": "Person",
+                "id": "1"
+            },
+            "created": "2026-11-21T17:00:00.034Z",
+            "type": "Annotation",
+            "frametrail:type": "Overlay",
+            "frametrail:tags": [],
+            "target": {
+                "type": "Video",
+                "source": "",
+                "selector": {
+                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                    "type": "FragmentSelector",
+                    "value": "t=48.048,57.6&xywh=percent:37.25,52,13.5,24"
+                }
+            },
+            "body": {
+                "type": "Image",
+                "frametrail:type": "image",
+                "format": "image/svg+xml",
+                "source": "1_1795300005_sun.svg",
+                "frametrail:name": "Sun",
+                "frametrail:thumb": null,
+                "frametrail:licenseType": "CC0",
+                "frametrail:licenseAttribution": "Made for this example",
+                "frametrail:resourceId": "5",
+                "frametrail:attributes": {
+                    "animation": {
+                        "in": {
+                            "preset": "popIn",
+                            "duration": 600
+                        },
+                        "out": {
+                            "preset": "fadeOut",
+                            "duration": 300
+                        },
+                        "emphasis": {
+                            "preset": "float",
+                            "duration": 2600,
+                            "iterations": 0
+                        }
+                    },
+                    "zIndex": 4
+                }
+            },
+            "frametrail:events": {}
+        },
+        {
+            "@context": [
+                "http://www.w3.org/ns/anno.jsonld",
+                "https://frametrail.org/ns/context.jsonld"
+            ],
+            "creator": {
+                "nickname": "demo",
+                "type": "Person",
+                "id": "1"
+            },
+            "created": "2026-11-21T17:00:00.035Z",
+            "type": "Annotation",
+            "frametrail:type": "Overlay",
+            "frametrail:tags": [],
+            "target": {
+                "type": "Video",
+                "source": "",
+                "selector": {
+                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                    "type": "FragmentSelector",
+                    "value": "t=47.748,57.6&xywh=percent:70,13,22,40"
+                }
+            },
+            "body": {
+                "type": "Dataset",
+                "frametrail:type": "chart",
+                "format": "application/x-frametrail-chart",
+                "frametrail:name": "Hours of sunshine",
+                "frametrail:attributes": {
+                    "chartType": "ring",
+                    "data": "Sunshine: 60",
+                    "unit": "%",
+                    "color": "#ffcf4a",
+                    "textColor": "#ffffff",
+                    "highlight": -1,
+                    "showValues": true,
+                    "duration": 1800,
+                    "animation": {
+                        "in": {
+                            "preset": "fadeIn",
+                            "duration": 500
+                        },
+                        "out": {
+                            "preset": "fadeOut",
+                            "duration": 400
+                        }
+                    }
+                }
+            },
+            "frametrail:events": {}
+        },
+        {
+            "@context": [
+                "http://www.w3.org/ns/anno.jsonld",
+                "https://frametrail.org/ns/context.jsonld"
+            ],
+            "creator": {
+                "nickname": "demo",
+                "type": "Person",
+                "id": "1"
+            },
+            "created": "2026-11-21T17:00:00.036Z",
+            "type": "Annotation",
+            "frametrail:type": "Overlay",
+            "frametrail:tags": [],
+            "target": {
+                "type": "Video",
+                "source": "",
+                "selector": {
+                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                    "type": "FragmentSelector",
+                    "value": "t=48.348,57.6&xywh=percent:66,53,30,9"
+                }
+            },
+            "body": {
+                "type": "TextualBody",
+                "frametrail:type": "text",
+                "format": "text/html",
+                "value": "",
+                "frametrail:name": "Sunshine",
+                "frametrail:attributes": {
+                    "text": "&lt;p style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;9 of 15 daylight hours&lt;/span&gt;&lt;/p&gt;",
+                    "animation": {
+                        "in": {
+                            "preset": "fadeIn",
+                            "duration": 500
+                        },
+                        "out": {
+                            "preset": "fadeOut",
+                            "duration": 400
+                        }
+                    },
+                    "zIndex": 6,
+                    "box": {
+                        "textColor": "#ffffff"
+                    },
+                    "autoSize": "height"
+                }
+            },
+            "frametrail:events": {}
+        },
+        {
+            "@context": [
+                "http://www.w3.org/ns/anno.jsonld",
+                "https://frametrail.org/ns/context.jsonld"
+            ],
+            "creator": {
+                "nickname": "demo",
+                "type": "Person",
+                "id": "1"
+            },
+            "created": "2026-11-21T17:00:00.037Z",
+            "type": "Annotation",
+            "frametrail:type": "Overlay",
+            "frametrail:tags": [],
+            "target": {
+                "type": "Video",
+                "source": "",
+                "selector": {
+                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                    "type": "FragmentSelector",
+                    "value": "t=51.527,57.6&xywh=percent:66,66,30,20"
+                }
+            },
+            "body": {
+                "type": "TextualBody",
+                "frametrail:type": "text",
+                "format": "text/html",
+                "value": "",
+                "frametrail:name": "Sunrise and sunset",
+                "frametrail:attributes": {
+                    "text": "&lt;p&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;SUNRISE&lt;/span&gt; &lt;span style=&quot;font-size: 24px; font-weight: 700;&quot;&gt;6:21&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;SUNSET&lt;/span&gt; &lt;span style=&quot;font-size: 24px; font-weight: 700;&quot;&gt;20:47&lt;/span&gt;&lt;/p&gt;",
+                    "animation": {
+                        "in": {
+                            "preset": "slideFromRight",
+                            "duration": 500
+                        },
+                        "out": {
+                            "preset": "fadeOut",
+                            "duration": 300
+                        }
+                    },
+                    "zIndex": 6,
+                    "box": {
+                        "background": "rgba(8, 32, 54, 0.62)",
+                        "radius": 14,
+                        "padding": 18,
+                        "textColor": "#ffffff"
+                    },
+                    "autoSize": "height"
+                }
+            },
+            "frametrail:events": {}
+        },
+        {
+            "@context": [
+                "http://www.w3.org/ns/anno.jsonld",
+                "https://frametrail.org/ns/context.jsonld"
+            ],
+            "creator": {
+                "nickname": "demo",
+                "type": "Person",
+                "id": "1"
+            },
+            "created": "2026-11-21T17:00:00.038Z",
+            "type": "Annotation",
+            "frametrail:type": "Overlay",
+            "frametrail:tags": [],
+            "target": {
+                "type": "Video",
+                "source": "",
+                "selector": {
+                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                    "type": "FragmentSelector",
+                    "value": "t=58.2,68.7&xywh=percent:3.5,4,50,16"
+                }
+            },
+            "body": {
+                "type": "TextualBody",
+                "frametrail:type": "text",
+                "format": "text/html",
+                "value": "",
+                "frametrail:name": "Title: The days ahead",
+                "frametrail:attributes": {
+                    "text": "&lt;p&gt;&lt;span style=&quot;font-size: 36px; font-weight: 700;&quot;&gt;The days ahead&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;Thursday to Saturday&lt;/span&gt;&lt;/p&gt;",
+                    "animation": {
+                        "in": {
+                            "preset": "slideFromLeft",
+                            "duration": 500
+                        },
+                        "out": {
+                            "preset": "fadeOut",
+                            "duration": 300
+                        }
+                    },
+                    "zIndex": 6,
+                    "box": {
+                        "textColor": "#ffffff"
+                    },
+                    "autoSize": "height"
+                }
+            },
+            "frametrail:events": {}
+        },
+        {
+            "@context": [
+                "http://www.w3.org/ns/anno.jsonld",
+                "https://frametrail.org/ns/context.jsonld"
+            ],
+            "creator": {
+                "nickname": "demo",
+                "type": "Person",
+                "id": "1"
+            },
+            "created": "2026-11-21T17:00:00.039Z",
+            "type": "Annotation",
+            "frametrail:type": "Overlay",
+            "frametrail:tags": [],
+            "target": {
+                "type": "Video",
+                "source": "",
+                "selector": {
+                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                    "type": "FragmentSelector",
+                    "value": "t=58.2,68.8&xywh=percent:0,0,100,100"
+                }
+            },
+            "body": {
+                "type": "TextualBody",
+                "frametrail:type": "text",
+                "format": "text/html",
+                "value": "",
+                "frametrail:name": "Scrim",
+                "frametrail:attributes": {
+                    "text": "",
+                    "animation": {
+                        "in": {
+                            "preset": "fadeIn",
+                            "duration": 600
+                        },
+                        "out": {
+                            "preset": "fadeOut",
+                            "duration": 500
+                        }
+                    },
+                    "zIndex": 6,
+                    "box": {
+                        "shape": "rectangle",
+                        "background": "rgba(8, 28, 48, 0.55)"
+                    }
+                }
+            },
+            "frametrail:events": {}
+        },
+        {
+            "@context": [
+                "http://www.w3.org/ns/anno.jsonld",
+                "https://frametrail.org/ns/context.jsonld"
+            ],
+            "creator": {
+                "nickname": "demo",
+                "type": "Person",
+                "id": "1"
+            },
+            "created": "2026-11-21T17:00:00.040Z",
+            "type": "Annotation",
+            "frametrail:type": "Overlay",
+            "frametrail:tags": [],
+            "target": {
+                "type": "Video",
+                "source": "",
+                "selector": {
+                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                    "type": "FragmentSelector",
+                    "value": "t=60.535,68.7&xywh=percent:12,30,23,50"
+                }
+            },
+            "body": {
+                "type": "TextualBody",
+                "frametrail:type": "text",
+                "format": "text/html",
+                "value": "",
+                "frametrail:name": "Outlook: Thursday",
+                "frametrail:attributes": {
+                    "text": "&lt;p style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-size: 22px; font-weight: 700;&quot;&gt;Thursday&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;Showers&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-size: 34px; font-weight: 700;&quot;&gt;13°&lt;/span&gt;&lt;/p&gt;",
+                    "animation": {
+                        "in": {
+                            "preset": "slideFromBottom",
+                            "duration": 550
+                        },
+                        "out": {
+                            "preset": "fadeOut",
+                            "duration": 300
+                        }
+                    },
+                    "zIndex": 6,
+                    "box": {
+                        "background": "rgba(8, 32, 54, 0.86)",
+                        "radius": 14,
+                        "padding": 18,
+                        "textColor": "#ffffff"
+                    },
+                    "autoSize": "height"
+                }
+            },
+            "frametrail:events": {}
+        },
+        {
+            "@context": [
+                "http://www.w3.org/ns/anno.jsonld",
+                "https://frametrail.org/ns/context.jsonld"
+            ],
+            "creator": {
+                "nickname": "demo",
+                "type": "Person",
+                "id": "1"
+            },
+            "created": "2026-11-21T17:00:00.041Z",
+            "type": "Annotation",
+            "frametrail:type": "Overlay",
+            "frametrail:tags": [],
+            "target": {
+                "type": "Video",
+                "source": "",
+                "selector": {
+                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                    "type": "FragmentSelector",
+                    "value": "t=60.785,68.7&xywh=percent:17.875,41,11.25,20"
+                }
+            },
+            "body": {
+                "type": "Image",
+                "frametrail:type": "image",
+                "format": "image/svg+xml",
+                "source": "1_1795300007_rain.svg",
+                "frametrail:name": "Rain",
+                "frametrail:thumb": null,
+                "frametrail:licenseType": "CC0",
+                "frametrail:licenseAttribution": "Made for this example",
+                "frametrail:resourceId": "7",
+                "frametrail:attributes": {
+                    "animation": {
+                        "in": {
+                            "preset": "popIn",
+                            "duration": 500
+                        },
+                        "out": {
+                            "preset": "fadeOut",
+                            "duration": 300
+                        }
+                    },
+                    "zIndex": 8
+                }
+            },
+            "frametrail:events": {}
+        },
+        {
+            "@context": [
+                "http://www.w3.org/ns/anno.jsonld",
+                "https://frametrail.org/ns/context.jsonld"
+            ],
+            "creator": {
+                "nickname": "demo",
+                "type": "Person",
+                "id": "1"
+            },
+            "created": "2026-11-21T17:00:00.042Z",
+            "type": "Annotation",
+            "frametrail:type": "Overlay",
+            "frametrail:tags": [],
+            "target": {
+                "type": "Video",
+                "source": "",
+                "selector": {
+                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                    "type": "FragmentSelector",
+                    "value": "t=62.056,68.7&xywh=percent:39,30,23,50"
+                }
+            },
+            "body": {
+                "type": "TextualBody",
+                "frametrail:type": "text",
+                "format": "text/html",
+                "value": "",
+                "frametrail:name": "Outlook: Friday",
+                "frametrail:attributes": {
+                    "text": "&lt;p style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-size: 22px; font-weight: 700;&quot;&gt;Friday&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;Sunshine&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-size: 34px; font-weight: 700;&quot;&gt;16°&lt;/span&gt;&lt;/p&gt;",
+                    "animation": {
+                        "in": {
+                            "preset": "slideFromBottom",
+                            "duration": 550
+                        },
+                        "out": {
+                            "preset": "fadeOut",
+                            "duration": 300
+                        }
+                    },
+                    "zIndex": 6,
+                    "box": {
+                        "background": "rgba(8, 32, 54, 0.86)",
+                        "radius": 14,
+                        "padding": 18,
+                        "textColor": "#ffffff"
+                    },
+                    "autoSize": "height"
+                }
+            },
+            "frametrail:events": {}
+        },
+        {
+            "@context": [
+                "http://www.w3.org/ns/anno.jsonld",
+                "https://frametrail.org/ns/context.jsonld"
+            ],
+            "creator": {
+                "nickname": "demo",
+                "type": "Person",
+                "id": "1"
+            },
+            "created": "2026-11-21T17:00:00.043Z",
+            "type": "Annotation",
+            "frametrail:type": "Overlay",
+            "frametrail:tags": [],
+            "target": {
+                "type": "Video",
+                "source": "",
+                "selector": {
+                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                    "type": "FragmentSelector",
+                    "value": "t=62.306,68.7&xywh=percent:44.875,41,11.25,20"
+                }
+            },
+            "body": {
+                "type": "Image",
+                "frametrail:type": "image",
+                "format": "image/svg+xml",
+                "source": "1_1795300005_sun.svg",
+                "frametrail:name": "Sun",
+                "frametrail:thumb": null,
+                "frametrail:licenseType": "CC0",
+                "frametrail:licenseAttribution": "Made for this example",
+                "frametrail:resourceId": "5",
+                "frametrail:attributes": {
+                    "animation": {
+                        "in": {
+                            "preset": "popIn",
+                            "duration": 500
+                        },
+                        "out": {
+                            "preset": "fadeOut",
+                            "duration": 300
+                        }
+                    },
+                    "zIndex": 8
+                }
+            },
+            "frametrail:events": {}
+        },
+        {
+            "@context": [
+                "http://www.w3.org/ns/anno.jsonld",
+                "https://frametrail.org/ns/context.jsonld"
+            ],
+            "creator": {
+                "nickname": "demo",
+                "type": "Person",
+                "id": "1"
+            },
+            "created": "2026-11-21T17:00:00.044Z",
+            "type": "Annotation",
+            "frametrail:type": "Overlay",
+            "frametrail:tags": [],
+            "target": {
+                "type": "Video",
+                "source": "",
+                "selector": {
+                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                    "type": "FragmentSelector",
+                    "value": "t=63.154,68.7&xywh=percent:66,30,23,50"
+                }
+            },
+            "body": {
+                "type": "TextualBody",
+                "frametrail:type": "text",
+                "format": "text/html",
+                "value": "",
+                "frametrail:name": "Outlook: Saturday",
+                "frametrail:attributes": {
+                    "text": "&lt;p style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-size: 22px; font-weight: 700;&quot;&gt;Saturday&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;Warm and still&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-size: 34px; font-weight: 700;&quot;&gt;19°&lt;/span&gt;&lt;/p&gt;",
+                    "animation": {
+                        "in": {
+                            "preset": "slideFromBottom",
+                            "duration": 550
+                        },
+                        "out": {
+                            "preset": "fadeOut",
+                            "duration": 300
+                        }
+                    },
+                    "zIndex": 6,
+                    "box": {
+                        "background": "rgba(8, 32, 54, 0.86)",
+                        "radius": 14,
+                        "padding": 18,
+                        "textColor": "#ffffff"
+                    },
+                    "autoSize": "height"
+                }
+            },
+            "frametrail:events": {}
+        },
+        {
+            "@context": [
+                "http://www.w3.org/ns/anno.jsonld",
+                "https://frametrail.org/ns/context.jsonld"
+            ],
+            "creator": {
+                "nickname": "demo",
+                "type": "Person",
+                "id": "1"
+            },
+            "created": "2026-11-21T17:00:00.045Z",
+            "type": "Annotation",
+            "frametrail:type": "Overlay",
+            "frametrail:tags": [],
+            "target": {
+                "type": "Video",
+                "source": "",
+                "selector": {
+                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                    "type": "FragmentSelector",
+                    "value": "t=63.404,68.7&xywh=percent:71.875,41,11.25,20"
+                }
+            },
+            "body": {
+                "type": "Image",
+                "frametrail:type": "image",
+                "format": "image/svg+xml",
+                "source": "1_1795300008_partsun.svg",
+                "frametrail:name": "Sun and cloud",
+                "frametrail:thumb": null,
+                "frametrail:licenseType": "CC0",
+                "frametrail:licenseAttribution": "Made for this example",
+                "frametrail:resourceId": "8",
+                "frametrail:attributes": {
+                    "animation": {
+                        "in": {
+                            "preset": "popIn",
+                            "duration": 500
+                        },
+                        "out": {
+                            "preset": "fadeOut",
+                            "duration": 300
+                        }
+                    },
+                    "zIndex": 8
+                }
+            },
+            "frametrail:events": {}
+        },
+        {
+            "@context": [
+                "http://www.w3.org/ns/anno.jsonld",
+                "https://frametrail.org/ns/context.jsonld"
+            ],
+            "creator": {
+                "nickname": "demo",
+                "type": "Person",
+                "id": "1"
+            },
+            "created": "2026-11-21T17:00:00.046Z",
+            "type": "Annotation",
+            "frametrail:type": "Overlay",
+            "frametrail:tags": [],
+            "target": {
+                "type": "Video",
+                "source": "",
+                "selector": {
+                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                    "type": "FragmentSelector",
+                    "value": "t=0.3,69&xywh=percent:3.5,88,17,7.5"
+                }
+            },
+            "body": {
+                "type": "TextualBody",
+                "frametrail:type": "hotspot",
+                "format": "text/html",
+                "frametrail:name": "High contrast",
+                "frametrail:thumb": null,
+                "frametrail:licenseType": null,
+                "frametrail:licenseAttribution": null,
+                "frametrail:attributes": {
+                    "text": "High contrast",
+                    "shape": "rounded",
+                    "borderRadius": 30,
+                    "color": "#ffffff",
+                    "borderWidth": 2,
+                    "textColor": "#ffffff",
+                    "backgroundColor": "rgba(8, 32, 54, 0.7)",
+                    "pulse": false,
+                    "action": "",
+                    "actionTarget": "",
+                    "zIndex": 20,
+                    "animation": {
+                        "in": {
+                            "preset": "fadeIn",
+                            "duration": 500
+                        },
+                        "out": {
+                            "preset": "fadeOut",
+                            "duration": 400
+                        }
+                    }
+                }
+            },
+            "frametrail:events": {
+                "onClick": "var player = this.overlayElement.closest('.mainContainer') || document.body;\nplayer.classList.toggle('highContrast');"
+            }
+        }
+    ]
+}

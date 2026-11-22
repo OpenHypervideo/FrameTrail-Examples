@@ -1,0 +1,10 @@
+The Weather, in Objects
+=======================
+
+Map and weather symbols
+    Drawn in code for this example. Public domain (CC0).
+    The island and its forecast are invented.
+
+Narration
+    Text written for this example (CC0), German captions included. Spoken by a synthetic voice:
+    Kokoro-82M (Apache License 2.0), voice "af_heart", through kokoro-onnx (MIT).
