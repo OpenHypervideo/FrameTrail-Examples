@@ -1,0 +1,124 @@
+/* DNA Quiz: the look of a question where it is answered (the column beside the video, the sheet on a paired phone) and of the progress below the video. Everything else is FrameTrail's "steel" theme. Text takes the colour of the place it is shown in (--primary-fg-color: dark in the player's column, light on the phone's sheet); only decided answers, on their tints, have a dark text of their own. */
+
+.frametrail-body {
+    --dq-ink: #16263a;
+    --dq-accent: #1f6f8b;
+    --dq-right: #3f8a25;
+    --dq-wrong: #b3261e;
+    --dq-retry: #c96f00;
+}
+
+/* A question: its text large enough to read from the back of a room, the answers as high as their text */
+.resourceDetail[data-type="quiz"] .resourceContent {
+    display: flex;
+    flex-direction: column;
+    padding: 18px 16px;
+}
+
+.resourceDetail[data-type="quiz"] .resourceQuizQuestion {
+    padding: 0 0 14px;
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 1.3;
+    color: var(--primary-fg-color);
+}
+
+.resourceDetail[data-type="quiz"] .resourceQuizAnswersContainer {
+    display: flex;
+    flex: 0 0 auto;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.resourceDetail[data-type="quiz"] .resourceQuizAnswersContainer button.quizAnswer {
+    flex: 0 0 auto;
+    height: auto;
+    min-height: 0;
+    margin: 0;
+    padding: 14px 16px;
+    font-size: 18px;
+    line-height: 1.3;
+    text-align: left;
+    color: var(--primary-fg-color);
+    border: 2px solid transparent;
+    border-radius: 8px;
+}
+
+.resourceDetail[data-type="quiz"] .resourceQuizAnswersContainer button.quizAnswer:hover:not(:disabled),
+.resourceDetail[data-type="quiz"] .resourceQuizAnswersContainer button.quizAnswer.selected {
+    border-color: var(--dq-accent);
+}
+
+/* Decided: right and wrong in dark text on a tint, so the answer stays readable. The decided answer is one's own (.wrong) or, after a vote, the room's (.decided). */
+.resourceDetail[data-type="quiz"] .resourceQuizAnswersContainer button.quizAnswer.correct,
+.resourceDetail[data-type="quiz"] .resourceQuizAnswersContainer button.quizAnswer.wrong,
+.resourceDetail[data-type="quiz"] .resourceQuizAnswersContainer button.quizAnswer.decided {
+    font-weight: 700;
+    color: var(--dq-ink);
+    box-shadow: none;
+    opacity: 1;
+}
+
+.resourceDetail[data-type="quiz"] .resourceQuizAnswersContainer button.quizAnswer.correct {
+    background-color: #dcefd2;
+    border-color: var(--dq-right);
+}
+
+.resourceDetail[data-type="quiz"] .resourceQuizAnswersContainer button.quizAnswer.wrong,
+.resourceDetail[data-type="quiz"] .resourceQuizAnswersContainer button.quizAnswer.decided:not(.correct) {
+    background-color: #f6dcd9;
+    border-color: var(--dq-wrong);
+}
+
+/* A wrong decision does not give the right answer away, because that part plays again and the question comes back: not in the question itself, and not in the vote on the video. */
+.resourceDetail[data-question-type="multipleChoice"]:has(.quizAnswer.decided:not(.correct)) .resourceQuizAnswersContainer button.quizAnswer.correct {
+    font-weight: 400;
+    color: var(--primary-fg-color);
+    background-color: var(--secondary-bg-color);
+    border-color: transparent;
+    opacity: .75;
+}
+
+.resourceDetail[data-question-type="multipleChoice"]:has(.quizAnswer.decided:not(.correct)) .resourceQuizAnswersContainer button.quizAnswer.correct::after,
+.quizSessionPanel:has(.quizSessionRow.decided:not(.correct)) .quizSessionRow.correct .quizSessionLabel::after {
+    content: none;
+}
+
+/* The time left to answer */
+.resourceDetail[data-type="quiz"] .quizStatus {
+    padding-top: 12px;
+    font-size: 15px;
+    font-variant-numeric: tabular-nums;
+    text-align: center;
+    color: var(--primary-fg-color);
+}
+
+.resourceDetail[data-type="quiz"] .quizResultBlock {
+    margin-top: 6px;
+    gap: 10px;
+}
+
+.resourceDetail[data-type="quiz"] .quizResultBlock .quizFeedback {
+    font-size: 16px;
+    line-height: 1.4;
+    color: var(--primary-fg-color);
+}
+
+.resourceDetail[data-type="quiz"] .quizResultBlock .quizResultButton {
+    padding: 8px 22px;
+    font-size: 16px;
+    color: #fff;
+    background-color: var(--dq-accent);
+    border: 2px solid var(--dq-accent);
+    border-radius: 8px;
+}
+
+/* The progress below the video: FrameTrail's Quiz Results view, in the colours of the answers */
+.layoutArea .contentViewContainer[data-type="QuizResults"] {
+    --quiz-result-right: var(--dq-right);
+    --quiz-result-wrong: var(--dq-wrong);
+}
+
+.layoutArea .contentViewContainer[data-type="QuizResults"] .quizDot[data-state="retried"] {
+    color: var(--dq-retry);
+}
