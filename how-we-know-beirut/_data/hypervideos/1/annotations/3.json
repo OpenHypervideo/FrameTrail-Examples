@@ -1,0 +1,527 @@
+[
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "Sources",
+            "type": "Person",
+            "id": "3"
+        },
+        "created": "2026-11-22T17:00:00.015Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://player.vimeo.com/video/479844049",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=14,33"
+            }
+        },
+        "body": {
+            "type": "TextualBody",
+            "frametrail:type": "text",
+            "format": "text/html",
+            "value": "",
+            "frametrail:name": "Commissioned by Mada Masr",
+            "frametrail:attributes": {
+                "text": "&lt;div class=&quot;dossierNote&quot; data-layer=&quot;3&quot;&gt;&lt;p class=&quot;dossierLayer&quot;&gt;Sources&lt;/p&gt;&lt;p class=&quot;dossierTitle&quot;&gt;Commissioned by Mada Masr&lt;/p&gt;&lt;p&gt;The Egyptian news outlet invited Forensic Architecture to examine the open-source material.&lt;/p&gt;&lt;p class=&quot;dossierLink&quot;&gt;&lt;a href=&quot;https://www.madamasr.com/en/2020/11/16/feature/politics/video-reconstructing-the-august-4-beirut-explosion&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Mada Masr&amp;#x27;s article ↗&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "Sources",
+            "type": "Person",
+            "id": "3"
+        },
+        "created": "2026-11-22T17:00:00.016Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://player.vimeo.com/video/479844049",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=34,46"
+            }
+        },
+        "body": {
+            "type": "TextualBody",
+            "frametrail:type": "text",
+            "format": "text/html",
+            "value": "",
+            "frametrail:name": "A tweet, 5:54 pm",
+            "frametrail:attributes": {
+                "text": "&lt;div class=&quot;dossierNote&quot; data-layer=&quot;3&quot;&gt;&lt;p class=&quot;dossierLayer&quot;&gt;Sources&lt;/p&gt;&lt;p class=&quot;dossierTitle&quot;&gt;A tweet, 5:54 pm&lt;/p&gt;&lt;p&gt;The first photograph of the warehouse on fire, posted on 4 August 2020.&lt;/p&gt;&lt;/div&gt;"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "Sources",
+            "type": "Person",
+            "id": "3"
+        },
+        "created": "2026-11-22T17:00:00.017Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://player.vimeo.com/video/479844049",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=100,112"
+            }
+        },
+        "body": {
+            "type": "TextualBody",
+            "frametrail:type": "text",
+            "format": "text/html",
+            "value": "",
+            "frametrail:name": "St George Hospital",
+            "frametrail:attributes": {
+                "text": "&lt;div class=&quot;dossierNote&quot; data-layer=&quot;3&quot;&gt;&lt;p class=&quot;dossierLayer&quot;&gt;Sources&lt;/p&gt;&lt;p class=&quot;dossierTitle&quot;&gt;St George Hospital&lt;/p&gt;&lt;p&gt;A video from the nearby hospital, starting at 5:58 pm: ten minutes of uninterrupted footage of the warehouse.&lt;/p&gt;&lt;/div&gt;"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "Sources",
+            "type": "Person",
+            "id": "3"
+        },
+        "created": "2026-11-22T17:00:00.018Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://player.vimeo.com/video/479844049",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=118,132"
+            }
+        },
+        "body": {
+            "type": "TextualBody",
+            "frametrail:type": "text",
+            "format": "text/html",
+            "value": "",
+            "frametrail:name": "Gareth Collett",
+            "frametrail:attributes": {
+                "text": "&lt;div class=&quot;dossierNote&quot; data-layer=&quot;3&quot;&gt;&lt;p class=&quot;dossierLayer&quot;&gt;Sources&lt;/p&gt;&lt;p class=&quot;dossierTitle&quot;&gt;Gareth Collett&lt;/p&gt;&lt;p&gt;An explosives analyst for the United Nations, consulted throughout the film.&lt;/p&gt;&lt;/div&gt;"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "Sources",
+            "type": "Person",
+            "id": "3"
+        },
+        "created": "2026-11-22T17:00:00.019Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://player.vimeo.com/video/479844049",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=338,358"
+            }
+        },
+        "body": {
+            "type": "TextualBody",
+            "frametrail:type": "text",
+            "format": "text/html",
+            "value": "",
+            "frametrail:name": "The fire brigade",
+            "frametrail:attributes": {
+                "text": "&lt;div class=&quot;dossierNote&quot; data-layer=&quot;3&quot;&gt;&lt;p class=&quot;dossierLayer&quot;&gt;Sources&lt;/p&gt;&lt;p class=&quot;dossierTitle&quot;&gt;The fire brigade&lt;/p&gt;&lt;p&gt;As reported by media outlets, the brigade arrived about four minutes after the call to the station at 5:54 pm. Its own footage records the sound of fireworks.&lt;/p&gt;&lt;/div&gt;"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "Sources",
+            "type": "Person",
+            "id": "3"
+        },
+        "created": "2026-11-22T17:00:00.020Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://player.vimeo.com/video/479844049",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=365,406"
+            }
+        },
+        "body": {
+            "type": "TextualBody",
+            "frametrail:type": "text",
+            "format": "text/html",
+            "value": "",
+            "frametrail:name": "Six years of warnings",
+            "frametrail:attributes": {
+                "text": "&lt;div class=&quot;dossierNote&quot; data-layer=&quot;3&quot;&gt;&lt;p class=&quot;dossierLayer&quot;&gt;Sources&lt;/p&gt;&lt;p class=&quot;dossierTitle&quot;&gt;Six years of warnings&lt;/p&gt;&lt;p&gt;The ammonium nitrate was unloaded into this hangar in October 2014. Port and customs officials warned of the danger from December of that year. In February 2015 an expert commissioned by the Lebanese courts found 70 per cent of the sacks torn open. The chronology shown is by Legal Action Worldwide.&lt;/p&gt;&lt;/div&gt;"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "Sources",
+            "type": "Person",
+            "id": "3"
+        },
+        "created": "2026-11-22T17:00:00.021Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://player.vimeo.com/video/479844049",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=406,420"
+            }
+        },
+        "body": {
+            "type": "TextualBody",
+            "frametrail:type": "text",
+            "format": "text/html",
+            "value": "",
+            "frametrail:name": "Leaked images, 2020",
+            "frametrail:attributes": {
+                "text": "&lt;div class=&quot;dossierNote&quot; data-layer=&quot;3&quot;&gt;&lt;p class=&quot;dossierLayer&quot;&gt;Sources&lt;/p&gt;&lt;p class=&quot;dossierTitle&quot;&gt;Leaked images, 2020&lt;/p&gt;&lt;p&gt;They show the sacks still torn and spilling. The film shows them in an article of the New York Times.&lt;/p&gt;&lt;/div&gt;"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "Sources",
+            "type": "Person",
+            "id": "3"
+        },
+        "created": "2026-11-22T17:00:00.022Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://player.vimeo.com/video/479844049",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=445,462"
+            }
+        },
+        "body": {
+            "type": "TextualBody",
+            "frametrail:type": "text",
+            "format": "text/html",
+            "value": "",
+            "frametrail:name": "Al Jadeed",
+            "frametrail:attributes": {
+                "text": "&lt;div class=&quot;dossierNote&quot; data-layer=&quot;3&quot;&gt;&lt;p class=&quot;dossierLayer&quot;&gt;Sources&lt;/p&gt;&lt;p class=&quot;dossierTitle&quot;&gt;Al Jadeed&lt;/p&gt;&lt;p&gt;A video of 18 December released by the Lebanese broadcaster: bags stored at bay 6 and around door 9, blocking the entrance.&lt;/p&gt;&lt;/div&gt;"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "Sources",
+            "type": "Person",
+            "id": "3"
+        },
+        "created": "2026-11-22T17:00:00.023Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://player.vimeo.com/video/479844049",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=513,531"
+            }
+        },
+        "body": {
+            "type": "TextualBody",
+            "frametrail:type": "text",
+            "format": "text/html",
+            "value": "",
+            "frametrail:name": "What news reports listed",
+            "frametrail:attributes": {
+                "text": "&lt;div class=&quot;dossierNote&quot; data-layer=&quot;3&quot;&gt;&lt;p class=&quot;dossierLayer&quot;&gt;Sources&lt;/p&gt;&lt;p class=&quot;dossierTitle&quot;&gt;What news reports listed&lt;/p&gt;&lt;p&gt;Besides the ammonium nitrate: 23 tonnes of fireworks, 50 tonnes of ammonium phosphate, 5 tonnes of tea and coffee, 5 rolls of slow-burning detonating cord and 1,000 car tyres. The list on screen is from MTV Lebanon.&lt;/p&gt;&lt;/div&gt;"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "Sources",
+            "type": "Person",
+            "id": "3"
+        },
+        "created": "2026-11-22T17:00:00.024Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://player.vimeo.com/video/479844049",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=577,598"
+            }
+        },
+        "body": {
+            "type": "TextualBody",
+            "frametrail:type": "text",
+            "format": "text/html",
+            "value": "",
+            "frametrail:name": "The expert's words",
+            "frametrail:attributes": {
+                "text": "&lt;div class=&quot;dossierNote&quot; data-layer=&quot;3&quot;&gt;&lt;p class=&quot;dossierLayer&quot;&gt;Sources&lt;/p&gt;&lt;p class=&quot;dossierTitle&quot;&gt;The expert&amp;#x27;s words&lt;/p&gt;&lt;p&gt;“Ammonium nitrate is extremely difficult to detonate by fire alone. However, when confined and contaminated, this … can lead to catastrophic detonation.”&lt;/p&gt;&lt;/div&gt;"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "Sources",
+            "type": "Person",
+            "id": "3"
+        },
+        "created": "2026-11-22T17:00:00.025Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://player.vimeo.com/video/479844049",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=604,622"
+            }
+        },
+        "body": {
+            "type": "TextualBody",
+            "frametrail:type": "text",
+            "format": "text/html",
+            "value": "",
+            "frametrail:name": "UK Health and Safety Executive",
+            "frametrail:attributes": {
+                "text": "&lt;div class=&quot;dossierNote&quot; data-layer=&quot;3&quot;&gt;&lt;p class=&quot;dossierLayer&quot;&gt;Sources&lt;/p&gt;&lt;p class=&quot;dossierTitle&quot;&gt;UK Health and Safety Executive&lt;/p&gt;&lt;p&gt;“Storing and Handling Ammonium Nitrate” (2004).&lt;/p&gt;&lt;/div&gt;"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "Sources",
+            "type": "Person",
+            "id": "3"
+        },
+        "created": "2026-11-22T17:00:00.026Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://player.vimeo.com/video/479844049",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=622,640"
+            }
+        },
+        "body": {
+            "type": "TextualBody",
+            "frametrail:type": "text",
+            "format": "text/html",
+            "value": "",
+            "frametrail:name": "Government of Western Australia",
+            "frametrail:attributes": {
+                "text": "&lt;div class=&quot;dossierNote&quot; data-layer=&quot;3&quot;&gt;&lt;p class=&quot;dossierLayer&quot;&gt;Sources&lt;/p&gt;&lt;p class=&quot;dossierTitle&quot;&gt;Government of Western Australia&lt;/p&gt;&lt;p&gt;“Safe storage of solid ammonium nitrate” (2013).&lt;/p&gt;&lt;/div&gt;"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "Sources",
+            "type": "Person",
+            "id": "3"
+        },
+        "created": "2026-11-22T17:00:00.027Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://player.vimeo.com/video/479844049",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=653,663"
+            }
+        },
+        "body": {
+            "type": "TextualBody",
+            "frametrail:type": "text",
+            "format": "text/html",
+            "value": "",
+            "frametrail:name": "NASA's damage map",
+            "frametrail:attributes": {
+                "text": "&lt;div class=&quot;dossierNote&quot; data-layer=&quot;3&quot;&gt;&lt;p class=&quot;dossierLayer&quot;&gt;Sources&lt;/p&gt;&lt;p class=&quot;dossierTitle&quot;&gt;NASA&amp;#x27;s damage map&lt;/p&gt;&lt;p&gt;Made from satellite radar; it shows how far the blast reached.&lt;/p&gt;&lt;/div&gt;"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "Sources",
+            "type": "Person",
+            "id": "3"
+        },
+        "created": "2026-11-22T17:00:00.028Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://player.vimeo.com/video/479844049",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=683,696"
+            }
+        },
+        "body": {
+            "type": "TextualBody",
+            "frametrail:type": "text",
+            "format": "text/html",
+            "value": "",
+            "frametrail:name": "The survivors",
+            "frametrail:attributes": {
+                "text": "&lt;div class=&quot;dossierNote&quot; data-layer=&quot;3&quot;&gt;&lt;p class=&quot;dossierLayer&quot;&gt;Sources&lt;/p&gt;&lt;p class=&quot;dossierTitle&quot;&gt;The survivors&lt;/p&gt;&lt;p&gt;About a thousand survivors and victims&amp;#x27; families have called for an independent investigation and public access to all relevant documents. The statements shown are from the report by Legal Action Worldwide.&lt;/p&gt;&lt;/div&gt;"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "Sources",
+            "type": "Person",
+            "id": "3"
+        },
+        "created": "2026-11-22T17:00:00.029Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://player.vimeo.com/video/479844049",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=696,720"
+            }
+        },
+        "body": {
+            "type": "TextualBody",
+            "frametrail:type": "text",
+            "format": "text/html",
+            "value": "",
+            "frametrail:name": "The models, published",
+            "frametrail:attributes": {
+                "text": "&lt;div class=&quot;dossierNote&quot; data-layer=&quot;3&quot;&gt;&lt;p class=&quot;dossierLayer&quot;&gt;Sources&lt;/p&gt;&lt;p class=&quot;dossierTitle&quot;&gt;The models, published&lt;/p&gt;&lt;p&gt;Forensic Architecture and Mada Masr made the model, the geolocated videos and the source material publicly available.&lt;/p&gt;&lt;p class=&quot;dossierLink&quot;&gt;&lt;a href=&quot;https://github.com/forensic-architecture/models/tree/master/65&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Open the models on GitHub ↗&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;"
+            }
+        }
+    }
+]

@@ -1,0 +1,32 @@
+{
+    "mainAnnotation": "2",
+    "annotationfiles": {
+        "2": {
+            "name": "Method",
+            "description": "Method",
+            "created": 1795450000,
+            "lastchanged": 1795450100000,
+            "hidden": false,
+            "owner": "Method",
+            "ownerId": 2
+        },
+        "3": {
+            "name": "Sources",
+            "description": "Sources",
+            "created": 1795450000,
+            "lastchanged": 1795450100000,
+            "hidden": false,
+            "owner": "Sources",
+            "ownerId": 3
+        },
+        "4": {
+            "name": "Findings",
+            "description": "Findings",
+            "created": 1795450000,
+            "lastchanged": 1795450100000,
+            "hidden": false,
+            "owner": "Findings",
+            "ownerId": 4
+        }
+    }
+}

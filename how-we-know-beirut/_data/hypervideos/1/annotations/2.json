@@ -1,0 +1,492 @@
+[
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "Method",
+            "type": "Person",
+            "id": "2"
+        },
+        "created": "2026-11-22T17:00:00.001Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://player.vimeo.com/video/479844049",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=14,33"
+            }
+        },
+        "body": {
+            "type": "TextualBody",
+            "frametrail:type": "text",
+            "format": "text/html",
+            "value": "",
+            "frametrail:name": "Open sources",
+            "frametrail:attributes": {
+                "text": "&lt;div class=&quot;dossierNote&quot; data-layer=&quot;2&quot;&gt;&lt;p class=&quot;dossierLayer&quot;&gt;Method&lt;/p&gt;&lt;p class=&quot;dossierTitle&quot;&gt;Open sources&lt;/p&gt;&lt;p&gt;Videos, photographs and documents that were already public are the raw material: enough to build a timeline and a precise 3D model.&lt;/p&gt;&lt;/div&gt;"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "Method",
+            "type": "Person",
+            "id": "2"
+        },
+        "created": "2026-11-22T17:00:00.002Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://player.vimeo.com/video/479844049",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=34,56"
+            }
+        },
+        "body": {
+            "type": "TextualBody",
+            "frametrail:type": "text",
+            "format": "text/html",
+            "value": "",
+            "frametrail:name": "Geolocation",
+            "frametrail:attributes": {
+                "text": "&lt;div class=&quot;dossierNote&quot; data-layer=&quot;2&quot;&gt;&lt;p class=&quot;dossierLayer&quot;&gt;Method&lt;/p&gt;&lt;p class=&quot;dossierTitle&quot;&gt;Geolocation&lt;/p&gt;&lt;p&gt;The first photograph of the fire, posted on Twitter at 5:54 pm, is located by identifying the key buildings in it. That gives the camera&amp;#x27;s position and its cone of vision.&lt;/p&gt;&lt;/div&gt;"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "Method",
+            "type": "Person",
+            "id": "2"
+        },
+        "created": "2026-11-22T17:00:00.003Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://player.vimeo.com/video/479844049",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=57,65"
+            }
+        },
+        "body": {
+            "type": "TextualBody",
+            "frametrail:type": "text",
+            "format": "text/html",
+            "value": "",
+            "frametrail:name": "Tracing the smoke back",
+            "frametrail:attributes": {
+                "text": "&lt;div class=&quot;dossierNote&quot; data-layer=&quot;2&quot;&gt;&lt;p class=&quot;dossierLayer&quot;&gt;Method&lt;/p&gt;&lt;p class=&quot;dossierTitle&quot;&gt;Tracing the smoke back&lt;/p&gt;&lt;p&gt;With the camera placed in the model, the plume can be traced to its source: the north-east corner of Warehouse 12.&lt;/p&gt;&lt;/div&gt;"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "Method",
+            "type": "Person",
+            "id": "2"
+        },
+        "created": "2026-11-22T17:00:00.004Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://player.vimeo.com/video/479844049",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=66,80"
+            }
+        },
+        "body": {
+            "type": "TextualBody",
+            "frametrail:type": "text",
+            "format": "text/html",
+            "value": "",
+            "frametrail:name": "Synchronisation",
+            "frametrail:attributes": {
+                "text": "&lt;div class=&quot;dossierNote&quot; data-layer=&quot;2&quot;&gt;&lt;p class=&quot;dossierLayer&quot;&gt;Method&lt;/p&gt;&lt;p class=&quot;dossierTitle&quot;&gt;Synchronisation&lt;/p&gt;&lt;p&gt;Smoke plumes change all the time and have a unique shape at every moment. The plume is modelled at this stage, so that videos without a time stamp can be put in order by its shape.&lt;/p&gt;&lt;/div&gt;"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "Method",
+            "type": "Person",
+            "id": "2"
+        },
+        "created": "2026-11-22T17:00:00.005Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://player.vimeo.com/video/479844049",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=81,99"
+            }
+        },
+        "body": {
+            "type": "TextualBody",
+            "frametrail:type": "text",
+            "format": "text/html",
+            "value": "",
+            "frametrail:name": "A second camera",
+            "frametrail:attributes": {
+                "text": "&lt;div class=&quot;dossierNote&quot; data-layer=&quot;2&quot;&gt;&lt;p class=&quot;dossierLayer&quot;&gt;Method&lt;/p&gt;&lt;p class=&quot;dossierTitle&quot;&gt;A second camera&lt;/p&gt;&lt;p&gt;A video from a balcony of the residential tower, shot at about the same time, shows the same source of fire on the same side of the warehouse.&lt;/p&gt;&lt;/div&gt;"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "Method",
+            "type": "Person",
+            "id": "2"
+        },
+        "created": "2026-11-22T17:00:00.006Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://player.vimeo.com/video/479844049",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=113,132"
+            }
+        },
+        "body": {
+            "type": "TextualBody",
+            "frametrail:type": "text",
+            "format": "text/html",
+            "value": "",
+            "frametrail:name": "Reading the smoke",
+            "frametrail:attributes": {
+                "text": "&lt;div class=&quot;dossierNote&quot; data-layer=&quot;2&quot;&gt;&lt;p class=&quot;dossierLayer&quot;&gt;Method&lt;/p&gt;&lt;p class=&quot;dossierTitle&quot;&gt;Reading the smoke&lt;/p&gt;&lt;p&gt;Within two minutes the smoke thickens and darkens. According to the explosives analyst the team consulted, that suggests a different material has started to burn.&lt;/p&gt;&lt;/div&gt;"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "Method",
+            "type": "Person",
+            "id": "2"
+        },
+        "created": "2026-11-22T17:00:00.007Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://player.vimeo.com/video/479844049",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=181,200"
+            }
+        },
+        "body": {
+            "type": "TextualBody",
+            "frametrail:type": "text",
+            "format": "text/html",
+            "value": "",
+            "frametrail:name": "Plumes as time stamps",
+            "frametrail:attributes": {
+                "text": "&lt;div class=&quot;dossierNote&quot; data-layer=&quot;2&quot;&gt;&lt;p class=&quot;dossierLayer&quot;&gt;Method&lt;/p&gt;&lt;p class=&quot;dossierTitle&quot;&gt;Plumes as time stamps&lt;/p&gt;&lt;p&gt;The shapes of the two plumes of the explosions serve as metadata: the remaining footage is synchronised by them.&lt;/p&gt;&lt;/div&gt;"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "Method",
+            "type": "Person",
+            "id": "2"
+        },
+        "created": "2026-11-22T17:00:00.008Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://player.vimeo.com/video/479844049",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=273,303"
+            }
+        },
+        "body": {
+            "type": "TextualBody",
+            "frametrail:type": "text",
+            "format": "text/html",
+            "value": "",
+            "frametrail:name": "A close look",
+            "frametrail:attributes": {
+                "text": "&lt;div class=&quot;dossierNote&quot; data-layer=&quot;2&quot;&gt;&lt;p class=&quot;dossierLayer&quot;&gt;Method&lt;/p&gt;&lt;p class=&quot;dossierTitle&quot;&gt;A close look&lt;/p&gt;&lt;p&gt;Early footage shows smoke leaking from every opening, windows and ceiling vents included. From about 5:56 pm the temperature inside rises fast.&lt;/p&gt;&lt;/div&gt;"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "Method",
+            "type": "Person",
+            "id": "2"
+        },
+        "created": "2026-11-22T17:00:00.009Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://player.vimeo.com/video/479844049",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=304,337"
+            }
+        },
+        "body": {
+            "type": "TextualBody",
+            "frametrail:type": "text",
+            "format": "text/html",
+            "value": "",
+            "frametrail:name": "Stabilised footage",
+            "frametrail:attributes": {
+                "text": "&lt;div class=&quot;dossierNote&quot; data-layer=&quot;2&quot;&gt;&lt;p class=&quot;dossierLayer&quot;&gt;Method&lt;/p&gt;&lt;p class=&quot;dossierTitle&quot;&gt;Stabilised footage&lt;/p&gt;&lt;p&gt;Footage from the east side is stabilised to show the whole length of the warehouse. Many windows and doors are shut; the sound of fireworks begins at about 5:59 pm.&lt;/p&gt;&lt;/div&gt;"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "Method",
+            "type": "Person",
+            "id": "2"
+        },
+        "created": "2026-11-22T17:00:00.010Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://player.vimeo.com/video/479844049",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=420,440"
+            }
+        },
+        "body": {
+            "type": "TextualBody",
+            "frametrail:type": "text",
+            "format": "text/html",
+            "value": "",
+            "frametrail:name": "Reading the ceiling",
+            "frametrail:attributes": {
+                "text": "&lt;div class=&quot;dossierNote&quot; data-layer=&quot;2&quot;&gt;&lt;p class=&quot;dossierLayer&quot;&gt;Method&lt;/p&gt;&lt;p class=&quot;dossierTitle&quot;&gt;Reading the ceiling&lt;/p&gt;&lt;p&gt;The bay numbers visible on the ceiling place the photographed bags in bays 9 and 10, beside a container and a stack of wooden pallets.&lt;/p&gt;&lt;/div&gt;"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "Method",
+            "type": "Person",
+            "id": "2"
+        },
+        "created": "2026-11-22T17:00:00.011Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://player.vimeo.com/video/479844049",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=481,513"
+            }
+        },
+        "body": {
+            "type": "TextualBody",
+            "frametrail:type": "text",
+            "format": "text/html",
+            "value": "",
+            "frametrail:name": "Counting the bags",
+            "frametrail:attributes": {
+                "text": "&lt;div class=&quot;dossierNote&quot; data-layer=&quot;2&quot;&gt;&lt;p class=&quot;dossierLayer&quot;&gt;Method&lt;/p&gt;&lt;p class=&quot;dossierTitle&quot;&gt;Counting the bags&lt;/p&gt;&lt;p&gt;The images and videos allowed 243 bags to be mapped. The other 2,507 must have been near bay 8, where the spherical plume began: almost 2,000 square metres, and probably more, given how untidily the visible bags lie.&lt;/p&gt;&lt;/div&gt;"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "Method",
+            "type": "Person",
+            "id": "2"
+        },
+        "created": "2026-11-22T17:00:00.012Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://player.vimeo.com/video/479844049",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=531,565"
+            }
+        },
+        "body": {
+            "type": "TextualBody",
+            "frametrail:type": "text",
+            "format": "text/html",
+            "value": "",
+            "frametrail:name": "Placing what cannot be seen",
+            "frametrail:attributes": {
+                "text": "&lt;div class=&quot;dossierNote&quot; data-layer=&quot;2&quot;&gt;&lt;p class=&quot;dossierLayer&quot;&gt;Method&lt;/p&gt;&lt;p class=&quot;dossierTitle&quot;&gt;Placing what cannot be seen&lt;/p&gt;&lt;p&gt;Burning tyres give a dark, thick plume, so the tyres are placed where the dark plume rose, in the north-east. The white plume in the north-west matches fireworks igniting, so the fireworks are placed there.&lt;/p&gt;&lt;/div&gt;"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "Method",
+            "type": "Person",
+            "id": "2"
+        },
+        "created": "2026-11-22T17:00:00.013Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://player.vimeo.com/video/479844049",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=598,622"
+            }
+        },
+        "body": {
+            "type": "TextualBody",
+            "frametrail:type": "text",
+            "format": "text/html",
+            "value": "",
+            "frametrail:name": "Comparison with British rules",
+            "frametrail:attributes": {
+                "text": "&lt;div class=&quot;dossierNote&quot; data-layer=&quot;2&quot;&gt;&lt;p class=&quot;dossierLayer&quot;&gt;Method&lt;/p&gt;&lt;p class=&quot;dossierTitle&quot;&gt;Comparison with British rules&lt;/p&gt;&lt;p&gt;Stacks of ammonium nitrate limited to 300 tonnes, each at least one metre from walls and from other stacks.&lt;/p&gt;&lt;/div&gt;"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "Method",
+            "type": "Person",
+            "id": "2"
+        },
+        "created": "2026-11-22T17:00:00.014Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://player.vimeo.com/video/479844049",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=622,653"
+            }
+        },
+        "body": {
+            "type": "TextualBody",
+            "frametrail:type": "text",
+            "format": "text/html",
+            "value": "",
+            "frametrail:name": "The Australian equation",
+            "frametrail:attributes": {
+                "text": "&lt;div class=&quot;dossierNote&quot; data-layer=&quot;2&quot;&gt;&lt;p class=&quot;dossierLayer&quot;&gt;Method&lt;/p&gt;&lt;p class=&quot;dossierTitle&quot;&gt;The Australian equation&lt;/p&gt;&lt;p&gt;Stacks of 500 tonnes, 890 metres from the nearest homes. By the same equation a single stack of 2,750 tonnes would need 1,570 metres.&lt;/p&gt;&lt;/div&gt;"
+            }
+        }
+    }
+]

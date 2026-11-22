@@ -1,0 +1,18 @@
+{
+    "resources-increment": 1,
+    "resources": {
+        "1": {
+            "name": "The Beirut Port Explosion (Forensic Architecture)",
+            "type": "vimeo",
+            "src": "https://player.vimeo.com/video/479844049",
+            "thumb": "https://i.vimeocdn.com/video/996209062-226ec4c4b7f17bca79b850279ad15e6e9a6714967d315f95ae54f47fdd9c0434-d_640x360",
+            "description": null,
+            "creator": "demo",
+            "creatorId": "1",
+            "created": 1795450000,
+            "licenseType": "Copyright",
+            "licenseAttribution": "Forensic Architecture with Mada Masr, “The Beirut Port Explosion” (2020). © Forensic Architecture; embedded from their Vimeo channel",
+            "attributes": {}
+        }
+    }
+}

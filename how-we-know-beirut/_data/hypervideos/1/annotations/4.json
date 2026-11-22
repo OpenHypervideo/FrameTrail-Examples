@@ -1,0 +1,282 @@
+[
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "Findings",
+            "type": "Person",
+            "id": "4"
+        },
+        "created": "2026-11-22T17:00:00.030Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://player.vimeo.com/video/479844049",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=57,65"
+            }
+        },
+        "body": {
+            "type": "TextualBody",
+            "frametrail:type": "text",
+            "format": "text/html",
+            "value": "",
+            "frametrail:name": "5:54 pm: the first smoke",
+            "frametrail:attributes": {
+                "text": "&lt;div class=&quot;dossierNote&quot; data-layer=&quot;4&quot;&gt;&lt;p class=&quot;dossierLayer&quot;&gt;Findings&lt;/p&gt;&lt;p class=&quot;dossierTitle&quot;&gt;5:54 pm: the first smoke&lt;/p&gt;&lt;p&gt;From the north-east corner of Warehouse 12, fourteen minutes before the explosion.&lt;/p&gt;&lt;/div&gt;"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "Findings",
+            "type": "Person",
+            "id": "4"
+        },
+        "created": "2026-11-22T17:00:00.031Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://player.vimeo.com/video/479844049",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=134,153"
+            }
+        },
+        "body": {
+            "type": "TextualBody",
+            "frametrail:type": "text",
+            "format": "text/html",
+            "value": "",
+            "frametrail:name": "6:07 pm: a second fire",
+            "frametrail:attributes": {
+                "text": "&lt;div class=&quot;dossierNote&quot; data-layer=&quot;4&quot;&gt;&lt;p class=&quot;dossierLayer&quot;&gt;Findings&lt;/p&gt;&lt;p class=&quot;dossierTitle&quot;&gt;6:07 pm: a second fire&lt;/p&gt;&lt;p&gt;A new, intense source of heat appears on the north-west side, followed by a larger plume. The sparks suggest small explosive charges such as fireworks.&lt;/p&gt;&lt;/div&gt;"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "Findings",
+            "type": "Person",
+            "id": "4"
+        },
+        "created": "2026-11-22T17:00:00.032Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://player.vimeo.com/video/479844049",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=154,180"
+            }
+        },
+        "body": {
+            "type": "TextualBody",
+            "frametrail:type": "text",
+            "format": "text/html",
+            "value": "",
+            "frametrail:name": "6:08 pm: the explosion",
+            "frametrail:attributes": {
+                "text": "&lt;div class=&quot;dossierNote&quot; data-layer=&quot;4&quot;&gt;&lt;p class=&quot;dossierLayer&quot;&gt;Findings&lt;/p&gt;&lt;p class=&quot;dossierTitle&quot;&gt;6:08 pm: the explosion&lt;/p&gt;&lt;p&gt;Thirty-five seconds later a large spherical plume appears above the centre of the warehouse. Its symmetry suggests a single-point explosion; possibly as little as half of the 2,750 sacks detonated.&lt;/p&gt;&lt;/div&gt;"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "Findings",
+            "type": "Person",
+            "id": "4"
+        },
+        "created": "2026-11-22T17:00:00.033Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://player.vimeo.com/video/479844049",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=201,224"
+            }
+        },
+        "body": {
+            "type": "TextualBody",
+            "frametrail:type": "text",
+            "format": "text/html",
+            "value": "",
+            "frametrail:name": "755 metres in nine seconds",
+            "frametrail:attributes": {
+                "text": "&lt;div class=&quot;dossierNote&quot; data-layer=&quot;4&quot;&gt;&lt;p class=&quot;dossierLayer&quot;&gt;Findings&lt;/p&gt;&lt;p class=&quot;dossierTitle&quot;&gt;755 metres in nine seconds&lt;/p&gt;&lt;p&gt;The spherical plume shoots up, and a red plume 755 metres high stands over the warehouse.&lt;/p&gt;&lt;/div&gt;"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "Findings",
+            "type": "Person",
+            "id": "4"
+        },
+        "created": "2026-11-22T17:00:00.034Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://player.vimeo.com/video/479844049",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=224,272"
+            }
+        },
+        "body": {
+            "type": "TextualBody",
+            "frametrail:type": "text",
+            "format": "text/html",
+            "value": "",
+            "frametrail:name": "Four plumes in fourteen minutes",
+            "frametrail:attributes": {
+                "text": "&lt;div class=&quot;dossierNote&quot; data-layer=&quot;4&quot;&gt;&lt;p class=&quot;dossierLayer&quot;&gt;Findings&lt;/p&gt;&lt;p class=&quot;dossierTitle&quot;&gt;Four plumes in fourteen minutes&lt;/p&gt;&lt;p&gt;5:54 pm, north-east corner. 6:00 pm, the same source, darker. 6:07 pm, north-west side. 6:08 pm, the spherical explosion at the centre. Their shapes and colours point to how the goods were arranged.&lt;/p&gt;&lt;/div&gt;"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "Findings",
+            "type": "Person",
+            "id": "4"
+        },
+        "created": "2026-11-22T17:00:00.035Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://player.vimeo.com/video/479844049",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=324,337"
+            }
+        },
+        "body": {
+            "type": "TextualBody",
+            "frametrail:type": "text",
+            "format": "text/html",
+            "value": "",
+            "frametrail:name": "Shut in",
+            "frametrail:attributes": {
+                "text": "&lt;div class=&quot;dossierNote&quot; data-layer=&quot;4&quot;&gt;&lt;p class=&quot;dossierLayer&quot;&gt;Findings&lt;/p&gt;&lt;p class=&quot;dossierTitle&quot;&gt;Shut in&lt;/p&gt;&lt;p&gt;According to the expert, confinement creates hot spots in which ammonium nitrate can get close to its combustion point.&lt;/p&gt;&lt;/div&gt;"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "Findings",
+            "type": "Person",
+            "id": "4"
+        },
+        "created": "2026-11-22T17:00:00.036Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://player.vimeo.com/video/479844049",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=566,577"
+            }
+        },
+        "body": {
+            "type": "TextualBody",
+            "frametrail:type": "text",
+            "format": "text/html",
+            "value": "",
+            "frametrail:name": "Arranged like a bomb",
+            "frametrail:attributes": {
+                "text": "&lt;div class=&quot;dossierNote&quot; data-layer=&quot;4&quot;&gt;&lt;p class=&quot;dossierLayer&quot;&gt;Findings&lt;/p&gt;&lt;p class=&quot;dossierTitle&quot;&gt;Arranged like a bomb&lt;/p&gt;&lt;p&gt;“From an engineering perspective this is the spatial layout of a makeshift bomb on the scale of a warehouse, awaiting detonation.”&lt;/p&gt;&lt;/div&gt;"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "Findings",
+            "type": "Person",
+            "id": "4"
+        },
+        "created": "2026-11-22T17:00:00.037Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://player.vimeo.com/video/479844049",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=664,683"
+            }
+        },
+        "body": {
+            "type": "TextualBody",
+            "frametrail:type": "text",
+            "format": "text/html",
+            "value": "",
+            "frametrail:name": "State negligence",
+            "frametrail:attributes": {
+                "text": "&lt;div class=&quot;dossierNote&quot; data-layer=&quot;4&quot;&gt;&lt;p class=&quot;dossierLayer&quot;&gt;Findings&lt;/p&gt;&lt;p class=&quot;dossierTitle&quot;&gt;State negligence&lt;/p&gt;&lt;p&gt;All these rules forbid storing combustible or explosive goods such as tyres or fireworks near ammonium nitrate. The film calls it “substantial and sustained state negligence”.&lt;/p&gt;&lt;p class=&quot;dossierLink&quot;&gt;&lt;a href=&quot;https://forensic-architecture.org/investigation/beirut-port-explosion&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Read the investigation ↗&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;"
+            }
+        }
+    }
+]

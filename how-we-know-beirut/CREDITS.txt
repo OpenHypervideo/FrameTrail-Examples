@@ -1,0 +1,25 @@
+How We Know: The Beirut Port Explosion
+======================================
+
+Film
+    Forensic Architecture with Mada Masr, "The Beirut Port Explosion" (2020).
+    © Forensic Architecture. The film is not copied: it plays from Forensic Architecture's own Vimeo
+    channel through Vimeo's embedded player (https://vimeo.com/479844049).
+    Investigation: https://forensic-architecture.org/investigation/beirut-port-explosion
+    Models and source material: https://github.com/forensic-architecture/models/tree/master/65
+
+Captions
+    YouTube's automatic English captions of the film (from Forensic Architecture's own upload,
+    https://www.youtube.com/watch?v=-mQ60wNgKrQ), set as sentences, with names and numbers corrected
+    for this example.
+
+Annotations
+    Written for this example. They restate the film's narration, what it shows on screen and what
+    Forensic Architecture says about its method on the page above; the sources they name are the ones
+    the film names or shows (a tweet, St George Hospital, the fire brigade, Legal Action Worldwide,
+    The New York Times, Al Jadeed, MTV Lebanon, Gareth Collett, the UK Health and Safety Executive,
+    the Government of Western Australia, NASA).
+    Public domain (CC0).
+
+Data and build scripts
+    Written for this example. Public domain (CC0).

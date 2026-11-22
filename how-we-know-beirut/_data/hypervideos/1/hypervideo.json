@@ -1,0 +1,362 @@
+{
+    "meta": {
+        "name": "How We Know: The Beirut Port Explosion",
+        "description": "Forensic Architecture’s reconstruction of the explosion of 4 August 2020, with the method, the sources and the findings of each step as three layers of annotations beside the film.",
+        "thumb": "https://i.vimeocdn.com/video/996209062-226ec4c4b7f17bca79b850279ad15e6e9a6714967d315f95ae54f47fdd9c0434-d_640x360",
+        "creator": "demo",
+        "creatorId": "1",
+        "created": 1795450100000,
+        "lastchanged": 1795450100000
+    },
+    "config": {
+        "slidingMode": "adjust",
+        "slidingTrigger": "key",
+        "autohideControls": false,
+        "captionsVisible": true,
+        "clipTimeVisible": false,
+        "layoutArea": {
+            "areaTop": [],
+            "areaLeft": [],
+            "areaBottom": [
+                {
+                    "type": "Timelines",
+                    "name": "Layers",
+                    "description": "",
+                    "icon": "",
+                    "cssClass": "",
+                    "contentSize": "medium",
+                    "initClosed": false,
+                    "collectionFilter": {
+                        "tags": [],
+                        "types": [],
+                        "users": [],
+                        "text": ""
+                    },
+                    "filterAspect": "creatorId",
+                    "zoomControls": false
+                }
+            ],
+            "areaRight": [
+                {
+                    "type": "TimedContent",
+                    "name": "Findings",
+                    "description": "",
+                    "icon": "",
+                    "cssClass": "dossierView",
+                    "contentSize": "large",
+                    "initClosed": false,
+                    "collectionFilter": {
+                        "tags": [],
+                        "types": [],
+                        "users": [
+                            "4"
+                        ],
+                        "text": ""
+                    },
+                    "onClickContentItem": ""
+                },
+                {
+                    "type": "TimedContent",
+                    "name": "Sources",
+                    "description": "",
+                    "icon": "",
+                    "cssClass": "dossierView",
+                    "contentSize": "large",
+                    "initClosed": false,
+                    "collectionFilter": {
+                        "tags": [],
+                        "types": [],
+                        "users": [
+                            "3"
+                        ],
+                        "text": ""
+                    },
+                    "onClickContentItem": ""
+                },
+                {
+                    "type": "TimedContent",
+                    "name": "Method",
+                    "description": "",
+                    "icon": "",
+                    "cssClass": "dossierView",
+                    "contentSize": "large",
+                    "initClosed": false,
+                    "collectionFilter": {
+                        "tags": [],
+                        "types": [],
+                        "users": [
+                            "2"
+                        ],
+                        "text": ""
+                    },
+                    "onClickContentItem": ""
+                },
+                {
+                    "type": "TimedContent",
+                    "name": "Everything",
+                    "description": "",
+                    "icon": "",
+                    "cssClass": "dossierView",
+                    "contentSize": "large",
+                    "initClosed": false,
+                    "collectionFilter": {
+                        "tags": [],
+                        "types": [],
+                        "users": [],
+                        "text": ""
+                    },
+                    "onClickContentItem": ""
+                }
+            ]
+        }
+    },
+    "clips": [
+        {
+            "resourceId": "1",
+            "src": "https://player.vimeo.com/video/479844049",
+            "duration": 720,
+            "start": 0,
+            "end": 0,
+            "in": 0,
+            "out": 0
+        }
+    ],
+    "chapters": [
+        {
+            "start": 0,
+            "title": "4 August 2020"
+        },
+        {
+            "start": 36,
+            "title": "Where was this taken?"
+        },
+        {
+            "start": 60,
+            "title": "17:54: the first plume"
+        },
+        {
+            "start": 114,
+            "title": "The colour of smoke"
+        },
+        {
+            "start": 144,
+            "title": "18:08:18"
+        },
+        {
+            "start": 168,
+            "title": "Measuring the blast"
+        },
+        {
+            "start": 234,
+            "title": "Four plumes"
+        },
+        {
+            "start": 273,
+            "title": "The warehouse from outside"
+        },
+        {
+            "start": 338,
+            "title": "The fire brigade"
+        },
+        {
+            "start": 365,
+            "title": "Six years of warnings"
+        },
+        {
+            "start": 408,
+            "title": "Inside Warehouse 12"
+        },
+        {
+            "start": 486,
+            "title": "What was stored where"
+        },
+        {
+            "start": 582,
+            "title": "The expert"
+        },
+        {
+            "start": 600,
+            "title": "What the rules say"
+        },
+        {
+            "start": 642,
+            "title": "How close people lived"
+        },
+        {
+            "start": 666,
+            "title": "Three layouts"
+        },
+        {
+            "start": 684,
+            "title": "The witnesses"
+        },
+        {
+            "start": 708,
+            "title": "Open to everyone"
+        }
+    ],
+    "subtitles": [
+        {
+            "src": "en.vtt",
+            "srclang": "en"
+        }
+    ],
+    "globalEvents": {
+        "onReady": "",
+        "onPlay": "",
+        "onPause": "",
+        "onEnded": ""
+    },
+    "customCSS": "",
+    "contents": [
+        {
+            "@context": [
+                "http://www.w3.org/ns/anno.jsonld",
+                "https://frametrail.org/ns/context.jsonld"
+            ],
+            "creator": {
+                "nickname": "demo",
+                "type": "Person",
+                "id": "1"
+            },
+            "created": "2026-11-22T17:00:01.001Z",
+            "type": "Annotation",
+            "frametrail:type": "Overlay",
+            "frametrail:tags": [],
+            "target": {
+                "type": "Video",
+                "source": "https://player.vimeo.com/video/479844049",
+                "selector": {
+                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                    "type": "FragmentSelector",
+                    "value": "t=1,13&xywh=percent:3,6,34,20"
+                }
+            },
+            "body": {
+                "type": "TextualBody",
+                "frametrail:type": "text",
+                "format": "text/html",
+                "value": "",
+                "frametrail:name": "What this is",
+                "frametrail:attributes": {
+                    "text": "&lt;p&gt;&lt;span style=&quot;font-size: 22px;&quot;&gt;&lt;strong&gt;How we know&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;Forensic Architecture’s film, with three layers added beside it: the &lt;strong&gt;method&lt;/strong&gt; used at each step, the &lt;strong&gt;sources&lt;/strong&gt; shown on screen, and the &lt;strong&gt;findings&lt;/strong&gt;.&lt;/span&gt;&lt;/p&gt;",
+                    "autoSize": "height",
+                    "box": {
+                        "background": "rgba(12, 14, 18, 0.86)",
+                        "textColor": "#ffffff",
+                        "padding": 16,
+                        "radius": 6
+                    },
+                    "animation": {
+                        "in": {
+                            "preset": "fadeIn",
+                            "duration": 500
+                        },
+                        "out": {
+                            "preset": "fadeOut",
+                            "duration": 500
+                        }
+                    }
+                }
+            },
+            "frametrail:events": {}
+        },
+        {
+            "@context": [
+                "http://www.w3.org/ns/anno.jsonld",
+                "https://frametrail.org/ns/context.jsonld"
+            ],
+            "creator": {
+                "nickname": "demo",
+                "type": "Person",
+                "id": "1"
+            },
+            "created": "2026-11-22T17:00:01.002Z",
+            "type": "Annotation",
+            "frametrail:type": "Overlay",
+            "frametrail:tags": [],
+            "target": {
+                "type": "Video",
+                "source": "https://player.vimeo.com/video/479844049",
+                "selector": {
+                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                    "type": "FragmentSelector",
+                    "value": "t=44,56&xywh=percent:30,70,40,12"
+                }
+            },
+            "body": {
+                "type": "TextualBody",
+                "frametrail:type": "text",
+                "format": "text/html",
+                "value": "",
+                "frametrail:name": "The clock",
+                "frametrail:attributes": {
+                    "text": "&lt;p&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;The bar below is the time of day in Beirut. Everything in the film is placed on it: here 17:54, fourteen minutes before the explosion.&lt;/span&gt;&lt;/p&gt;",
+                    "autoSize": "height",
+                    "box": {
+                        "background": "rgba(12, 14, 18, 0.86)",
+                        "textColor": "#ffffff",
+                        "padding": 16,
+                        "radius": 6
+                    },
+                    "animation": {
+                        "in": {
+                            "preset": "fadeIn",
+                            "duration": 500
+                        },
+                        "out": {
+                            "preset": "fadeOut",
+                            "duration": 500
+                        }
+                    }
+                }
+            },
+            "frametrail:events": {}
+        },
+        {
+            "@context": [
+                "http://www.w3.org/ns/anno.jsonld",
+                "https://frametrail.org/ns/context.jsonld"
+            ],
+            "creator": {
+                "nickname": "demo",
+                "type": "Person",
+                "id": "1"
+            },
+            "created": "2026-11-22T17:00:01.003Z",
+            "type": "Annotation",
+            "frametrail:type": "Overlay",
+            "frametrail:tags": [],
+            "target": {
+                "type": "Video",
+                "source": "https://player.vimeo.com/video/479844049",
+                "selector": {
+                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                    "type": "FragmentSelector",
+                    "value": "t=708,720&xywh=percent:21,44,58,9"
+                }
+            },
+            "body": {
+                "type": "TextualBody",
+                "frametrail:type": "hotspot",
+                "format": "text/html",
+                "frametrail:name": "The models on GitHub",
+                "frametrail:thumb": null,
+                "frametrail:licenseType": null,
+                "frametrail:licenseAttribution": null,
+                "frametrail:attributes": {
+                    "text": "",
+                    "shape": "rounded",
+                    "borderRadius": 8,
+                    "color": "#ffe14d",
+                    "borderWidth": 2,
+                    "backgroundColor": "",
+                    "pulse": true,
+                    "action": "openUrl",
+                    "actionTarget": "https://github.com/forensic-architecture/models/tree/master/65"
+                }
+            },
+            "frametrail:events": {}
+        }
+    ]
+}
