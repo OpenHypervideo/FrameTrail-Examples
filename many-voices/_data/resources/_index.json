@@ -1,0 +1,18 @@
+{
+    "resources-increment": 1,
+    "resources": {
+        "1": {
+            "name": "Netherlandish Proverbs",
+            "type": "video",
+            "src": "1_1795420000_netherlandish-proverbs.mp4",
+            "thumb": "1_1795420000_thumb_netherlandish-proverbs.jpg",
+            "description": null,
+            "creator": "demo",
+            "creatorId": "1",
+            "created": 1795420000,
+            "licenseType": "PD",
+            "licenseAttribution": "Pieter Bruegel the Elder, Netherlandish Proverbs (1559). Gemäldegalerie, Berlin. Scan: Google Art Project, via Wikimedia Commons",
+            "attributes": {}
+        }
+    }
+}

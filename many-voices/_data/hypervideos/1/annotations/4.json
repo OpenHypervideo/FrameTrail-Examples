@@ -1,0 +1,387 @@
+[
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "Nine-year-old",
+            "type": "Person",
+            "id": "4"
+        },
+        "created": "2026-11-22T14:00:00.021Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "1_1795420000_netherlandish-proverbs.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=2,9.5"
+            }
+        },
+        "body": {
+            "type": "TextualBody",
+            "frametrail:type": "text",
+            "format": "text/html",
+            "value": "",
+            "frametrail:name": "It looks like a hidden-object picture. Only this one is more",
+            "frametrail:attributes": {
+                "text": "&lt;div class=&quot;voiceNote&quot; data-voice=&quot;4&quot;&gt;&lt;p class=&quot;voiceName&quot;&gt;Nine-year-old&lt;/p&gt;&lt;p&gt;It looks like a hidden-object picture. Only this one is more than four hundred years old.&lt;/p&gt;&lt;/div&gt;"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "Nine-year-old",
+            "type": "Person",
+            "id": "4"
+        },
+        "created": "2026-11-22T14:00:00.022Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "1_1795420000_netherlandish-proverbs.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=11.5,14.5"
+            }
+        },
+        "body": {
+            "type": "TextualBody",
+            "frametrail:type": "text",
+            "format": "text/html",
+            "value": "",
+            "frametrail:name": "Why is that man hugging a pole?",
+            "frametrail:attributes": {
+                "text": "&lt;div class=&quot;voiceNote&quot; data-voice=&quot;4&quot;&gt;&lt;p class=&quot;voiceName&quot;&gt;Nine-year-old&lt;/p&gt;&lt;p&gt;Why is that man hugging a pole?&lt;/p&gt;&lt;/div&gt;"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "Nine-year-old",
+            "type": "Person",
+            "id": "4"
+        },
+        "created": "2026-11-22T14:00:00.023Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "1_1795420000_netherlandish-proverbs.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=15,21"
+            }
+        },
+        "body": {
+            "type": "TextualBody",
+            "frametrail:type": "text",
+            "format": "text/html",
+            "value": "",
+            "frametrail:name": "The lady is tying up a real devil. He looks more scared than",
+            "frametrail:attributes": {
+                "text": "&lt;div class=&quot;voiceNote&quot; data-voice=&quot;4&quot;&gt;&lt;p class=&quot;voiceName&quot;&gt;Nine-year-old&lt;/p&gt;&lt;p&gt;The lady is tying up a real devil. He looks more scared than she does.&lt;/p&gt;&lt;/div&gt;"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "Nine-year-old",
+            "type": "Person",
+            "id": "4"
+        },
+        "created": "2026-11-22T14:00:00.024Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "1_1795420000_netherlandish-proverbs.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=27,30"
+            }
+        },
+        "body": {
+            "type": "TextualBody",
+            "frametrail:type": "text",
+            "format": "text/html",
+            "value": "",
+            "frametrail:name": "The knight has a cat on his lap! He put on armour just for t",
+            "frametrail:attributes": {
+                "text": "&lt;div class=&quot;voiceNote&quot; data-voice=&quot;4&quot;&gt;&lt;p class=&quot;voiceName&quot;&gt;Nine-year-old&lt;/p&gt;&lt;p&gt;The knight has a cat on his lap! He put on armour just for that.&lt;/p&gt;&lt;/div&gt;"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "Nine-year-old",
+            "type": "Person",
+            "id": "4"
+        },
+        "created": "2026-11-22T14:00:00.025Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "1_1795420000_netherlandish-proverbs.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=30.5,37"
+            }
+        },
+        "body": {
+            "type": "TextualBody",
+            "frametrail:type": "text",
+            "format": "text/html",
+            "value": "",
+            "frametrail:name": "You can’t cut wool off a pig. That’s the joke, I think.",
+            "frametrail:attributes": {
+                "text": "&lt;div class=&quot;voiceNote&quot; data-voice=&quot;4&quot;&gt;&lt;p class=&quot;voiceName&quot;&gt;Nine-year-old&lt;/p&gt;&lt;p&gt;You can’t cut wool off a pig. That’s the joke, I think.&lt;/p&gt;&lt;/div&gt;"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "Nine-year-old",
+            "type": "Person",
+            "id": "4"
+        },
+        "created": "2026-11-22T14:00:00.026Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "1_1795420000_netherlandish-proverbs.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=45,52"
+            }
+        },
+        "body": {
+            "type": "TextualBody",
+            "frametrail:type": "text",
+            "format": "text/html",
+            "value": "",
+            "frametrail:name": "The world is hanging upside down, like a lamp.",
+            "frametrail:attributes": {
+                "text": "&lt;div class=&quot;voiceNote&quot; data-voice=&quot;4&quot;&gt;&lt;p class=&quot;voiceName&quot;&gt;Nine-year-old&lt;/p&gt;&lt;p&gt;The world is hanging upside down, like a lamp.&lt;/p&gt;&lt;/div&gt;"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "Nine-year-old",
+            "type": "Person",
+            "id": "4"
+        },
+        "created": "2026-11-22T14:00:00.027Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "1_1795420000_netherlandish-proverbs.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=59.5,66"
+            }
+        },
+        "body": {
+            "type": "TextualBody",
+            "frametrail:type": "text",
+            "format": "text/html",
+            "value": "",
+            "frametrail:name": "I would like a roof made of cake.",
+            "frametrail:attributes": {
+                "text": "&lt;div class=&quot;voiceNote&quot; data-voice=&quot;4&quot;&gt;&lt;p class=&quot;voiceName&quot;&gt;Nine-year-old&lt;/p&gt;&lt;p&gt;I would like a roof made of cake.&lt;/p&gt;&lt;/div&gt;"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "Nine-year-old",
+            "type": "Person",
+            "id": "4"
+        },
+        "created": "2026-11-22T14:00:00.028Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "1_1795420000_netherlandish-proverbs.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=107,114"
+            }
+        },
+        "body": {
+            "type": "TextualBody",
+            "frametrail:type": "text",
+            "format": "text/html",
+            "value": "",
+            "frametrail:name": "Somebody’s bottom is hanging out of a basket.",
+            "frametrail:attributes": {
+                "text": "&lt;div class=&quot;voiceNote&quot; data-voice=&quot;4&quot;&gt;&lt;p class=&quot;voiceName&quot;&gt;Nine-year-old&lt;/p&gt;&lt;p&gt;Somebody’s bottom is hanging out of a basket.&lt;/p&gt;&lt;/div&gt;"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "Nine-year-old",
+            "type": "Person",
+            "id": "4"
+        },
+        "created": "2026-11-22T14:00:00.029Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "1_1795420000_netherlandish-proverbs.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=124,131"
+            }
+        },
+        "body": {
+            "type": "TextualBody",
+            "frametrail:type": "text",
+            "format": "text/html",
+            "value": "",
+            "frametrail:name": "He is spinning the whole world on his thumb, like a basketba",
+            "frametrail:attributes": {
+                "text": "&lt;div class=&quot;voiceNote&quot; data-voice=&quot;4&quot;&gt;&lt;p class=&quot;voiceName&quot;&gt;Nine-year-old&lt;/p&gt;&lt;p&gt;He is spinning the whole world on his thumb, like a basketball.&lt;/p&gt;&lt;/div&gt;"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "Nine-year-old",
+            "type": "Person",
+            "id": "4"
+        },
+        "created": "2026-11-22T14:00:00.030Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "1_1795420000_netherlandish-proverbs.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=149,156"
+            }
+        },
+        "body": {
+            "type": "TextualBody",
+            "frametrail:type": "text",
+            "format": "text/html",
+            "value": "",
+            "frametrail:name": "The calf already fell in. Now he is shovelling. Too late!",
+            "frametrail:attributes": {
+                "text": "&lt;div class=&quot;voiceNote&quot; data-voice=&quot;4&quot;&gt;&lt;p class=&quot;voiceName&quot;&gt;Nine-year-old&lt;/p&gt;&lt;p&gt;The calf already fell in. Now he is shovelling. Too late!&lt;/p&gt;&lt;/div&gt;"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "Nine-year-old",
+            "type": "Person",
+            "id": "4"
+        },
+        "created": "2026-11-22T14:00:00.031Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "1_1795420000_netherlandish-proverbs.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=168,175"
+            }
+        },
+        "body": {
+            "type": "TextualBody",
+            "frametrail:type": "text",
+            "format": "text/html",
+            "value": "",
+            "frametrail:name": "I counted eighteen. My mum says there are more than a hundre",
+            "frametrail:attributes": {
+                "text": "&lt;div class=&quot;voiceNote&quot; data-voice=&quot;4&quot;&gt;&lt;p class=&quot;voiceName&quot;&gt;Nine-year-old&lt;/p&gt;&lt;p&gt;I counted eighteen. My mum says there are more than a hundred.&lt;/p&gt;&lt;/div&gt;"
+            }
+        }
+    }
+]

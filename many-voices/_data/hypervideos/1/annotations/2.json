@@ -1,0 +1,352 @@
+[
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "Art historian",
+            "type": "Person",
+            "id": "2"
+        },
+        "created": "2026-11-22T14:00:00.001Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "1_1795420000_netherlandish-proverbs.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=1,9.5"
+            }
+        },
+        "body": {
+            "type": "TextualBody",
+            "frametrail:type": "text",
+            "format": "text/html",
+            "value": "",
+            "frametrail:name": "Painted in 1559 on an oak panel about 1.6 metres wide. Today",
+            "frametrail:attributes": {
+                "text": "&lt;div class=&quot;voiceNote&quot; data-voice=&quot;2&quot;&gt;&lt;p class=&quot;voiceName&quot;&gt;Art historian&lt;/p&gt;&lt;p&gt;Painted in 1559 on an oak panel about 1.6 metres wide. Today it hangs in the Gemäldegalerie in Berlin.&lt;/p&gt;&lt;/div&gt;"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "Art historian",
+            "type": "Person",
+            "id": "2"
+        },
+        "created": "2026-11-22T14:00:00.002Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "1_1795420000_netherlandish-proverbs.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=11,20"
+            }
+        },
+        "body": {
+            "type": "TextualBody",
+            "frametrail:type": "text",
+            "format": "text/html",
+            "value": "",
+            "frametrail:name": "The busiest scenes are in the foreground, and the eye is lef",
+            "frametrail:attributes": {
+                "text": "&lt;div class=&quot;voiceNote&quot; data-voice=&quot;2&quot;&gt;&lt;p class=&quot;voiceName&quot;&gt;Art historian&lt;/p&gt;&lt;p&gt;The busiest scenes are in the foreground, and the eye is left to wander upwards. There is no single centre.&lt;/p&gt;&lt;/div&gt;"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "Art historian",
+            "type": "Person",
+            "id": "2"
+        },
+        "created": "2026-11-22T14:00:00.003Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "1_1795420000_netherlandish-proverbs.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=22,30"
+            }
+        },
+        "body": {
+            "type": "TextualBody",
+            "frametrail:type": "text",
+            "format": "text/html",
+            "value": "",
+            "frametrail:name": "The figures are types, not portraits: round faces, plain clo",
+            "frametrail:attributes": {
+                "text": "&lt;div class=&quot;voiceNote&quot; data-voice=&quot;2&quot;&gt;&lt;p class=&quot;voiceName&quot;&gt;Art historian&lt;/p&gt;&lt;p&gt;The figures are types, not portraits: round faces, plain clothes, each absorbed in one action.&lt;/p&gt;&lt;/div&gt;"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "Art historian",
+            "type": "Person",
+            "id": "2"
+        },
+        "created": "2026-11-22T14:00:00.004Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "1_1795420000_netherlandish-proverbs.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=45,53"
+            }
+        },
+        "body": {
+            "type": "TextualBody",
+            "frametrail:type": "text",
+            "format": "text/html",
+            "value": "",
+            "frametrail:name": "The upside-down globe is the key to the whole picture. An ol",
+            "frametrail:attributes": {
+                "text": "&lt;div class=&quot;voiceNote&quot; data-voice=&quot;2&quot;&gt;&lt;p class=&quot;voiceName&quot;&gt;Art historian&lt;/p&gt;&lt;p&gt;The upside-down globe is the key to the whole picture. An old name for the painting is “The Topsy-Turvy World”.&lt;/p&gt;&lt;/div&gt;"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "Art historian",
+            "type": "Person",
+            "id": "2"
+        },
+        "created": "2026-11-22T14:00:00.005Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "1_1795420000_netherlandish-proverbs.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=59,67"
+            }
+        },
+        "body": {
+            "type": "TextualBody",
+            "frametrail:type": "text",
+            "format": "text/html",
+            "value": "",
+            "frametrail:name": "We see the roofs from above and the people from the side. Th",
+            "frametrail:attributes": {
+                "text": "&lt;div class=&quot;voiceNote&quot; data-voice=&quot;2&quot;&gt;&lt;p class=&quot;voiceName&quot;&gt;Art historian&lt;/p&gt;&lt;p&gt;We see the roofs from above and the people from the side. The viewpoint is impossible, and it means nothing hides anything.&lt;/p&gt;&lt;/div&gt;"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "Art historian",
+            "type": "Person",
+            "id": "2"
+        },
+        "created": "2026-11-22T14:00:00.006Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "1_1795420000_netherlandish-proverbs.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=76,85"
+            }
+        },
+        "body": {
+            "type": "TextualBody",
+            "frametrail:type": "text",
+            "format": "text/html",
+            "value": "",
+            "frametrail:name": "The horizon lies very high. That is what gives Bruegel room ",
+            "frametrail:attributes": {
+                "text": "&lt;div class=&quot;voiceNote&quot; data-voice=&quot;2&quot;&gt;&lt;p class=&quot;voiceName&quot;&gt;Art historian&lt;/p&gt;&lt;p&gt;The horizon lies very high. That is what gives Bruegel room for more than a hundred scenes on one panel.&lt;/p&gt;&lt;/div&gt;"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "Art historian",
+            "type": "Person",
+            "id": "2"
+        },
+        "created": "2026-11-22T14:00:00.007Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "1_1795420000_netherlandish-proverbs.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=92,100"
+            }
+        },
+        "body": {
+            "type": "TextualBody",
+            "frametrail:type": "text",
+            "format": "text/html",
+            "value": "",
+            "frametrail:name": "The colours are few: earth browns, with red and blue as sign",
+            "frametrail:attributes": {
+                "text": "&lt;div class=&quot;voiceNote&quot; data-voice=&quot;2&quot;&gt;&lt;p class=&quot;voiceName&quot;&gt;Art historian&lt;/p&gt;&lt;p&gt;The colours are few: earth browns, with red and blue as signals that pull the eye from scene to scene.&lt;/p&gt;&lt;/div&gt;"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "Art historian",
+            "type": "Person",
+            "id": "2"
+        },
+        "created": "2026-11-22T14:00:00.008Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "1_1795420000_netherlandish-proverbs.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=120,135"
+            }
+        },
+        "body": {
+            "type": "TextualBody",
+            "frametrail:type": "text",
+            "format": "text/html",
+            "value": "",
+            "frametrail:name": "A print by Frans Hogenberg from about 1558 shows many of the",
+            "frametrail:attributes": {
+                "text": "&lt;div class=&quot;voiceNote&quot; data-voice=&quot;2&quot;&gt;&lt;p class=&quot;voiceName&quot;&gt;Art historian&lt;/p&gt;&lt;p&gt;A print by Frans Hogenberg from about 1558 shows many of the same proverbs. Bruegel very probably knew it.&lt;/p&gt;&lt;/div&gt;"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "Art historian",
+            "type": "Person",
+            "id": "2"
+        },
+        "created": "2026-11-22T14:00:00.009Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "1_1795420000_netherlandish-proverbs.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=153,160"
+            }
+        },
+        "body": {
+            "type": "TextualBody",
+            "frametrail:type": "text",
+            "format": "text/html",
+            "value": "",
+            "frametrail:name": "The woman in red and the man in blue stand almost in the mid",
+            "frametrail:attributes": {
+                "text": "&lt;div class=&quot;voiceNote&quot; data-voice=&quot;2&quot;&gt;&lt;p class=&quot;voiceName&quot;&gt;Art historian&lt;/p&gt;&lt;p&gt;The woman in red and the man in blue stand almost in the middle. For a long time the painting was simply called “The Blue Cloak”.&lt;/p&gt;&lt;/div&gt;"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "Art historian",
+            "type": "Person",
+            "id": "2"
+        },
+        "created": "2026-11-22T14:00:00.010Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "1_1795420000_netherlandish-proverbs.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=167.5,175"
+            }
+        },
+        "body": {
+            "type": "TextualBody",
+            "frametrail:type": "text",
+            "format": "text/html",
+            "value": "",
+            "frametrail:name": "His son, Pieter Brueghel the Younger, painted many copies. T",
+            "frametrail:attributes": {
+                "text": "&lt;div class=&quot;voiceNote&quot; data-voice=&quot;2&quot;&gt;&lt;p class=&quot;voiceName&quot;&gt;Art historian&lt;/p&gt;&lt;p&gt;His son, Pieter Brueghel the Younger, painted many copies. That is one reason the picture became so widely known.&lt;/p&gt;&lt;/div&gt;"
+            }
+        }
+    }
+]

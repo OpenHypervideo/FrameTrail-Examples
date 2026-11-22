@@ -1,0 +1,18 @@
+/* Many Voices */
+
+/* A note says whose it is, in that voice's colour */
+.voiceNote { margin: 0; padding: 2px 0 2px 12px; border-left: 4px solid #888; }
+.voiceNote[data-voice="2"] { border-color: #0073a6; }
+.voiceNote[data-voice="3"] { border-color: #cd4436; }
+.voiceNote[data-voice="4"] { border-color: #cf910d; }
+.voiceNote .voiceName { margin: 0 0 4px; font-size: 12px; letter-spacing: 1.5px; text-transform: uppercase; opacity: .75; }
+.voiceNote p { margin: 0; font-size: 19px; line-height: 1.45; }
+.voicesView .collectionElement:not(.active) .voiceNote { opacity: .4; }
+.videoContainer .hypervideo, .videoContainer .hypervideo video { background-color: #14110d; }
+
+/* Beside the film, only the notes that belong to this moment are listed: all of them, one under the other */
+.voicesView .collectionElement:not(.active) { display: none; }
+.voicesView .collectionElement { position: relative !important; top: auto !important; left: auto !important; float: none !important; width: 100% !important; max-width: none !important; height: auto !important; transform: none !important; margin: 0 0 14px; }
+.voicesView .collectionElement .resourceDetail { position: relative !important; width: 100% !important; height: auto !important; }
+.voicesView .collectionElement .resourceContent { height: auto !important; overflow: visible; }
+.voicesView .contentViewContents { height: auto !important; transform: none !important; padding: 10px 0; }

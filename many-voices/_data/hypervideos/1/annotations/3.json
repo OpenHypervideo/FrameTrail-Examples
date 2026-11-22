@@ -1,0 +1,352 @@
+[
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "Folklorist",
+            "type": "Person",
+            "id": "3"
+        },
+        "created": "2026-11-22T14:00:00.011Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "1_1795420000_netherlandish-proverbs.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=11,18"
+            }
+        },
+        "body": {
+            "type": "TextualBody",
+            "frametrail:type": "text",
+            "format": "text/html",
+            "value": "",
+            "frametrail:name": "“Pillar-biter” was an insult for someone who made a show of ",
+            "frametrail:attributes": {
+                "text": "&lt;div class=&quot;voiceNote&quot; data-voice=&quot;3&quot;&gt;&lt;p class=&quot;voiceName&quot;&gt;Folklorist&lt;/p&gt;&lt;p&gt;“Pillar-biter” was an insult for someone who made a show of piety. The Dutch word, pilaarbijter, still exists.&lt;/p&gt;&lt;/div&gt;"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "Folklorist",
+            "type": "Person",
+            "id": "3"
+        },
+        "created": "2026-11-22T14:00:00.012Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "1_1795420000_netherlandish-proverbs.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=18.5,22"
+            }
+        },
+        "body": {
+            "type": "TextualBody",
+            "frametrail:type": "text",
+            "format": "text/html",
+            "value": "",
+            "frametrail:name": "The wife who can tie up the devil himself is a stock figure ",
+            "frametrail:attributes": {
+                "text": "&lt;div class=&quot;voiceNote&quot; data-voice=&quot;3&quot;&gt;&lt;p class=&quot;voiceName&quot;&gt;Folklorist&lt;/p&gt;&lt;p&gt;The wife who can tie up the devil himself is a stock figure of the period’s jokes about marriage.&lt;/p&gt;&lt;/div&gt;"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "Folklorist",
+            "type": "Person",
+            "id": "3"
+        },
+        "created": "2026-11-22T14:00:00.013Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "1_1795420000_netherlandish-proverbs.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=22.5,29"
+            }
+        },
+        "body": {
+            "type": "TextualBody",
+            "frametrail:type": "text",
+            "format": "text/html",
+            "value": "",
+            "frametrail:name": "Banging your head against a brick wall: one of the few sayin",
+            "frametrail:attributes": {
+                "text": "&lt;div class=&quot;voiceNote&quot; data-voice=&quot;3&quot;&gt;&lt;p class=&quot;voiceName&quot;&gt;Folklorist&lt;/p&gt;&lt;p&gt;Banging your head against a brick wall: one of the few sayings here that English and German still use almost unchanged.&lt;/p&gt;&lt;/div&gt;"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "Folklorist",
+            "type": "Person",
+            "id": "3"
+        },
+        "created": "2026-11-22T14:00:00.014Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "1_1795420000_netherlandish-proverbs.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=29.5,34"
+            }
+        },
+        "body": {
+            "type": "TextualBody",
+            "frametrail:type": "text",
+            "format": "text/html",
+            "value": "",
+            "frametrail:name": "“Who will bell the cat?” goes back to a medieval fable about",
+            "frametrail:attributes": {
+                "text": "&lt;div class=&quot;voiceNote&quot; data-voice=&quot;3&quot;&gt;&lt;p class=&quot;voiceName&quot;&gt;Folklorist&lt;/p&gt;&lt;p&gt;“Who will bell the cat?” goes back to a medieval fable about a council of mice.&lt;/p&gt;&lt;/div&gt;"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "Folklorist",
+            "type": "Person",
+            "id": "3"
+        },
+        "created": "2026-11-22T14:00:00.015Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "1_1795420000_netherlandish-proverbs.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=59,66"
+            }
+        },
+        "body": {
+            "type": "TextualBody",
+            "frametrail:type": "text",
+            "format": "text/html",
+            "value": "",
+            "frametrail:name": "Roofs tiled with tarts belong to the Land of Cockaigne, the ",
+            "frametrail:attributes": {
+                "text": "&lt;div class=&quot;voiceNote&quot; data-voice=&quot;3&quot;&gt;&lt;p class=&quot;voiceName&quot;&gt;Folklorist&lt;/p&gt;&lt;p&gt;Roofs tiled with tarts belong to the Land of Cockaigne, the peasants’ dream of a country where food simply lies about.&lt;/p&gt;&lt;/div&gt;"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "Folklorist",
+            "type": "Person",
+            "id": "3"
+        },
+        "created": "2026-11-22T14:00:00.016Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "1_1795420000_netherlandish-proverbs.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=75,84"
+            }
+        },
+        "body": {
+            "type": "TextualBody",
+            "frametrail:type": "text",
+            "format": "text/html",
+            "value": "",
+            "frametrail:name": "Hanging your cloak according to the wind: English says “to t",
+            "frametrail:attributes": {
+                "text": "&lt;div class=&quot;voiceNote&quot; data-voice=&quot;3&quot;&gt;&lt;p class=&quot;voiceName&quot;&gt;Folklorist&lt;/p&gt;&lt;p&gt;Hanging your cloak according to the wind: English says “to trim your sails to the wind”.&lt;/p&gt;&lt;/div&gt;"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "Folklorist",
+            "type": "Person",
+            "id": "3"
+        },
+        "created": "2026-11-22T14:00:00.017Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "1_1795420000_netherlandish-proverbs.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=92,99"
+            }
+        },
+        "body": {
+            "type": "TextualBody",
+            "frametrail:type": "text",
+            "format": "text/html",
+            "value": "",
+            "frametrail:name": "“Big fish eat little fish” was already a proverb in antiquit",
+            "frametrail:attributes": {
+                "text": "&lt;div class=&quot;voiceNote&quot; data-voice=&quot;3&quot;&gt;&lt;p class=&quot;voiceName&quot;&gt;Folklorist&lt;/p&gt;&lt;p&gt;“Big fish eat little fish” was already a proverb in antiquity. Bruegel also made it the subject of a drawing of its own.&lt;/p&gt;&lt;/div&gt;"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "Folklorist",
+            "type": "Person",
+            "id": "3"
+        },
+        "created": "2026-11-22T14:00:00.018Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "1_1795420000_netherlandish-proverbs.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=145,149"
+            }
+        },
+        "body": {
+            "type": "TextualBody",
+            "frametrail:type": "text",
+            "format": "text/html",
+            "value": "",
+            "frametrail:name": "The Bible has pearls before swine. The Dutch saying has rose",
+            "frametrail:attributes": {
+                "text": "&lt;div class=&quot;voiceNote&quot; data-voice=&quot;3&quot;&gt;&lt;p class=&quot;voiceName&quot;&gt;Folklorist&lt;/p&gt;&lt;p&gt;The Bible has pearls before swine. The Dutch saying has roses.&lt;/p&gt;&lt;/div&gt;"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "Folklorist",
+            "type": "Person",
+            "id": "3"
+        },
+        "created": "2026-11-22T14:00:00.019Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "1_1795420000_netherlandish-proverbs.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=149.5,153"
+            }
+        },
+        "body": {
+            "type": "TextualBody",
+            "frametrail:type": "text",
+            "format": "text/html",
+            "value": "",
+            "frametrail:name": "Filling the well after the calf has drowned: English locks t",
+            "frametrail:attributes": {
+                "text": "&lt;div class=&quot;voiceNote&quot; data-voice=&quot;3&quot;&gt;&lt;p class=&quot;voiceName&quot;&gt;Folklorist&lt;/p&gt;&lt;p&gt;Filling the well after the calf has drowned: English locks the stable door after the horse has bolted.&lt;/p&gt;&lt;/div&gt;"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "Folklorist",
+            "type": "Person",
+            "id": "3"
+        },
+        "created": "2026-11-22T14:00:00.020Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "1_1795420000_netherlandish-proverbs.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=153.5,160"
+            }
+        },
+        "body": {
+            "type": "TextualBody",
+            "frametrail:type": "text",
+            "format": "text/html",
+            "value": "",
+            "frametrail:name": "In Dutch, to hang the blue cloak on someone meant to cheat o",
+            "frametrail:attributes": {
+                "text": "&lt;div class=&quot;voiceNote&quot; data-voice=&quot;3&quot;&gt;&lt;p class=&quot;voiceName&quot;&gt;Folklorist&lt;/p&gt;&lt;p&gt;In Dutch, to hang the blue cloak on someone meant to cheat on them. Blue stood for deceit and for folly.&lt;/p&gt;&lt;/div&gt;"
+            }
+        }
+    }
+]
