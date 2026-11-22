@@ -1,0 +1,10 @@
+{
+    "vote": {
+        "label": "Vote",
+        "description": "The questions the room votes on"
+    },
+    "note": {
+        "label": "Note",
+        "description": "Cards for the phones"
+    }
+}

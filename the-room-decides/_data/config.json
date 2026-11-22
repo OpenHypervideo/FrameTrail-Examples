@@ -1,0 +1,17 @@
+{
+    "updateServiceURL": "https://update.frametrail.org",
+    "autoUpdate": false,
+    "allowCaching": false,
+    "captureUserTraces": false,
+    "userTracesStartAction": "",
+    "userTracesEndAction": "",
+    "userNeedsConfirmation": true,
+    "alwaysForceLogin": false,
+    "allowUploads": true,
+    "theme": "midnight",
+    "videoFit": "contain",
+    "defaultLanguage": "en",
+    "overviewTitle": "The Room Decides",
+    "pairingBrokerURL": "https://pair.linked.video/",
+    "pairingButtonVisible": true
+}

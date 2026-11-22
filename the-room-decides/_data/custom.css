@@ -1,0 +1,56 @@
+/* The Room Decides */
+
+/* The film has branches on one timeline: a progress bar would show them all, so there is none */
+.playerContainer .playerProgress {
+    visibility: hidden;
+    pointer-events: none;
+}
+
+/* The vote beside the film */
+.voteView .resourceDetail[data-type="quiz"] .resourceContent {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 14px;
+    padding: 20px 18px;
+}
+.voteView .resourceQuizQuestion {
+    font-size: 26px;
+    font-weight: 600;
+    line-height: 1.25;
+    margin-bottom: 8px;
+}
+.voteView .resourceQuizAnswersContainer {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+}
+.voteView .resourceQuizAnswersContainer button.quizAnswer {
+    flex: none;
+    height: auto;
+    min-height: 0;
+    padding: 18px 16px;
+    font-size: 19px;
+    text-align: left;
+    border-radius: 6px;
+}
+.voteView .quizStatus {
+    font-size: 14px;
+    opacity: .8;
+}
+.voteView .resourceButtons,
+.voteView .licenseInformation {
+    display: none;
+}
+
+/* The cards on the phones */
+.journeyNote h3 {
+    margin: 0 0 10px;
+    font-size: 24px;
+    font-weight: 600;
+}
+.journeyNote p {
+    margin: 0;
+    font-size: 18px;
+    line-height: 1.5;
+}

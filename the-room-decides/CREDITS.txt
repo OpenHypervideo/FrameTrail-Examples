@@ -1,0 +1,13 @@
+The Room Decides
+================
+
+Film
+    Drawn and animated in code for this example. Public domain (CC0).
+
+Narration
+    Text written for this example (CC0). Spoken by a synthetic voice: Kokoro-82M (Apache License 2.0),
+    voice "af_heart", through kokoro-onnx (MIT).
+
+Facts
+    Heights, depths and the behaviour described follow the English Wikipedia articles on the troposphere,
+    radiosonde, aurora, photic zone, sperm whale and bioluminescence.
