@@ -1,0 +1,14 @@
+One Film, Every Viewer
+======================
+
+Film
+    "Caminandes 3: Llamigos" (2016). Directed by Pablo Vazquez, produced by Ton Roosendaal.
+    (CC) Blender Foundation, caminandes.com. Creative Commons Attribution.
+    Copy used: Wikimedia Commons, where the file is listed under CC BY 3.0:
+    https://commons.wikimedia.org/wiki/File:Caminandes_3_-_Llamigos_-_Blender_Animated_Short.webm
+    Converted to MP4 for this example; nothing else was changed.
+
+Descriptions and sound captions
+    Written for this example. Public domain (CC0). The descriptions were written from the picture.
+    The sound captions name the moments an audio tagging model heard something besides music
+    (Audio Spectrogram Transformer, fine-tuned on AudioSet); they have not been checked by ear.

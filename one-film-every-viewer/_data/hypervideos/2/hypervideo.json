@@ -1,0 +1,218 @@
+{
+    "meta": {
+        "name": "One Film, Every Viewer (with pauses)",
+        "description": "The same film and the same texts. This version stops at the more important descriptions, to give time to read them, and goes on when you press play.",
+        "thumb": "1_1795320000_thumb_caminandes-llamigos.jpg",
+        "creator": "demo",
+        "creatorId": "1",
+        "created": 1795320100000,
+        "lastchanged": 1795320100000
+    },
+    "config": {
+        "slidingMode": "adjust",
+        "slidingTrigger": "key",
+        "autohideControls": false,
+        "captionsVisible": true,
+        "clipTimeVisible": false,
+        "layoutArea": {
+            "areaTop": [],
+            "areaBottom": [
+                {
+                    "type": "Transcript",
+                    "name": "Transcript",
+                    "description": "",
+                    "icon": "",
+                    "cssClass": "",
+                    "contentSize": "medium",
+                    "initClosed": false,
+                    "transcriptSource": "Descriptions",
+                    "collectionFilter": {
+                        "tags": [],
+                        "types": [],
+                        "users": [],
+                        "text": ""
+                    }
+                }
+            ],
+            "areaLeft": [],
+            "areaRight": [
+                {
+                    "type": "TimedContent",
+                    "name": "Descriptions",
+                    "description": "",
+                    "icon": "",
+                    "cssClass": "descriptionsView",
+                    "contentSize": "large",
+                    "initClosed": false,
+                    "collectionFilter": {
+                        "tags": [
+                            "description"
+                        ],
+                        "types": [],
+                        "users": [],
+                        "text": ""
+                    },
+                    "onClickContentItem": ""
+                }
+            ],
+            "areaCompanion": [
+                {
+                    "type": "TimedContent",
+                    "name": "Descriptions",
+                    "description": "",
+                    "icon": "",
+                    "cssClass": "descriptionsView",
+                    "contentSize": "large",
+                    "initClosed": false,
+                    "collectionFilter": {
+                        "tags": [
+                            "description"
+                        ],
+                        "types": [],
+                        "users": [],
+                        "text": ""
+                    },
+                    "onClickContentItem": ""
+                },
+                {
+                    "type": "Transcript",
+                    "name": "Transcript",
+                    "description": "",
+                    "icon": "",
+                    "cssClass": "",
+                    "contentSize": "large",
+                    "initClosed": false,
+                    "transcriptSource": "Descriptions",
+                    "collectionFilter": {
+                        "tags": [],
+                        "types": [],
+                        "users": [],
+                        "text": ""
+                    }
+                }
+            ]
+        }
+    },
+    "clips": [
+        {
+            "resourceId": "1",
+            "src": "1_1795320000_caminandes-llamigos.mp4",
+            "duration": 0,
+            "in": 0,
+            "out": 0
+        }
+    ],
+    "chapters": [
+        {
+            "start": 0,
+            "title": "Caminandes"
+        },
+        {
+            "start": 5,
+            "title": "The frozen pond"
+        },
+        {
+            "start": 30,
+            "title": "The train"
+        },
+        {
+            "start": 55.5,
+            "title": "The mine"
+        },
+        {
+            "start": 79,
+            "title": "The fall"
+        },
+        {
+            "start": 104,
+            "title": "Alone"
+        },
+        {
+            "start": 118,
+            "title": "The colony"
+        },
+        {
+            "start": 136,
+            "title": "Credits"
+        }
+    ],
+    "subtitles": [
+        {
+            "src": "en.vtt",
+            "srclang": "en"
+        },
+        {
+            "src": "de.vtt",
+            "srclang": "de"
+        },
+        {
+            "src": "Descriptions.vtt",
+            "srclang": "Descriptions"
+        }
+    ],
+    "globalEvents": {
+        "onReady": "",
+        "onPlay": "",
+        "onPause": "",
+        "onEnded": ""
+    },
+    "customCSS": "",
+    "contents": [
+        {
+            "@context": [
+                "http://www.w3.org/ns/anno.jsonld",
+                "https://frametrail.org/ns/context.jsonld"
+            ],
+            "creator": {
+                "nickname": "demo",
+                "type": "Person",
+                "id": "1"
+            },
+            "created": "2026-11-21T20:00:00.056Z",
+            "type": "Annotation",
+            "frametrail:type": "Overlay",
+            "frametrail:tags": [],
+            "target": {
+                "type": "Video",
+                "source": "1_1795320000_caminandes-llamigos.mp4",
+                "selector": {
+                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                    "type": "FragmentSelector",
+                    "value": "t=0.3,5&xywh=percent:56,80,40,11"
+                }
+            },
+            "body": {
+                "type": "TextualBody",
+                "frametrail:type": "hotspot",
+                "format": "text/html",
+                "frametrail:name": "Watch without pauses",
+                "frametrail:thumb": null,
+                "frametrail:licenseType": null,
+                "frametrail:licenseAttribution": null,
+                "frametrail:attributes": {
+                    "text": "Watch without pauses",
+                    "shape": "rounded",
+                    "borderRadius": 40,
+                    "color": "#ffffff",
+                    "borderWidth": 2,
+                    "textColor": "#ffffff",
+                    "backgroundColor": "rgba(10, 30, 60, 0.72)",
+                    "pulse": false,
+                    "action": "jumpToHypervideo",
+                    "actionTarget": "1",
+                    "animation": {
+                        "in": {
+                            "preset": "fadeIn",
+                            "duration": 500
+                        },
+                        "out": {
+                            "preset": "fadeOut",
+                            "duration": 500
+                        }
+                    }
+                }
+            },
+            "frametrail:events": {}
+        }
+    ]
+}
