@@ -1,0 +1,248 @@
+{
+    "meta": {
+        "name": "Tracking the Ghost Fleet",
+        "description": "Scripps News and Bellingcat follow ships that carry grain out of occupied Crimea with their transponders off. Beside the film: how satellite images, ship-tracking data, a network analysis and a ship-spotter on the Bosphorus fit together, who speaks, and what was found.",
+        "thumb": "https://img.youtube.com/vi/3KsICByONpI/hqdefault.jpg",
+        "creator": "demo",
+        "creatorId": "1",
+        "created": 1795470100000,
+        "lastchanged": 1795470100000
+    },
+    "config": {
+        "slidingMode": "adjust",
+        "slidingTrigger": "key",
+        "autohideControls": false,
+        "captionsVisible": false,
+        "clipTimeVisible": false,
+        "layoutArea": {
+            "areaTop": [],
+            "areaLeft": [],
+            "areaBottom": [
+                {
+                    "type": "Timelines",
+                    "name": "Layers",
+                    "description": "",
+                    "icon": "",
+                    "cssClass": "",
+                    "contentSize": "medium",
+                    "initClosed": false,
+                    "collectionFilter": {
+                        "tags": [],
+                        "types": [],
+                        "users": [],
+                        "text": ""
+                    },
+                    "filterAspect": "creatorId",
+                    "zoomControls": false
+                }
+            ],
+            "areaRight": [
+                {
+                    "type": "TimedContent",
+                    "name": "Findings",
+                    "description": "",
+                    "icon": "",
+                    "cssClass": "dossierView",
+                    "contentSize": "large",
+                    "initClosed": false,
+                    "collectionFilter": {
+                        "tags": [],
+                        "types": [],
+                        "users": [
+                            "4"
+                        ],
+                        "text": ""
+                    },
+                    "onClickContentItem": ""
+                },
+                {
+                    "type": "TimedContent",
+                    "name": "Sources and voices",
+                    "description": "",
+                    "icon": "",
+                    "cssClass": "dossierView",
+                    "contentSize": "large",
+                    "initClosed": false,
+                    "collectionFilter": {
+                        "tags": [],
+                        "types": [],
+                        "users": [
+                            "3"
+                        ],
+                        "text": ""
+                    },
+                    "onClickContentItem": ""
+                },
+                {
+                    "type": "TimedContent",
+                    "name": "Method",
+                    "description": "",
+                    "icon": "",
+                    "cssClass": "dossierView",
+                    "contentSize": "large",
+                    "initClosed": false,
+                    "collectionFilter": {
+                        "tags": [],
+                        "types": [],
+                        "users": [
+                            "2"
+                        ],
+                        "text": ""
+                    },
+                    "onClickContentItem": ""
+                },
+                {
+                    "type": "TimedContent",
+                    "name": "Everything",
+                    "description": "",
+                    "icon": "",
+                    "cssClass": "dossierView",
+                    "contentSize": "large",
+                    "initClosed": false,
+                    "collectionFilter": {
+                        "tags": [],
+                        "types": [],
+                        "users": [],
+                        "text": ""
+                    },
+                    "onClickContentItem": ""
+                }
+            ]
+        }
+    },
+    "clips": [
+        {
+            "resourceId": "1",
+            "src": "https://www.youtube.com/embed/3KsICByONpI",
+            "duration": 1019,
+            "start": 0,
+            "end": 0,
+            "in": 0,
+            "out": 0
+        }
+    ],
+    "chapters": [
+        {
+            "start": 0,
+            "title": "One ship"
+        },
+        {
+            "start": 78,
+            "title": "Ukraine's grain"
+        },
+        {
+            "start": 148,
+            "title": "The occupied ports"
+        },
+        {
+            "start": 160,
+            "title": "Voices from Ukraine"
+        },
+        {
+            "start": 362,
+            "title": "Under occupation"
+        },
+        {
+            "start": 414,
+            "title": "Said in public"
+        },
+        {
+            "start": 458,
+            "title": "The grain deal"
+        },
+        {
+            "start": 511,
+            "title": "Three ways out"
+        },
+        {
+            "start": 553,
+            "title": "Going dark"
+        },
+        {
+            "start": 612,
+            "title": "A network of ships"
+        },
+        {
+            "start": 730,
+            "title": "The Bosphorus"
+        },
+        {
+            "start": 764,
+            "title": "The ship-spotter"
+        },
+        {
+            "start": 878,
+            "title": "Where the grain goes"
+        },
+        {
+            "start": 936,
+            "title": "A prosecutor's view"
+        },
+        {
+            "start": 988,
+            "title": "Still growing"
+        }
+    ],
+    "subtitles": [],
+    "globalEvents": {
+        "onReady": "",
+        "onPlay": "",
+        "onPause": "",
+        "onEnded": ""
+    },
+    "customCSS": "",
+    "contents": [
+        {
+            "@context": [
+                "http://www.w3.org/ns/anno.jsonld",
+                "https://frametrail.org/ns/context.jsonld"
+            ],
+            "creator": {
+                "nickname": "demo",
+                "type": "Person",
+                "id": "1"
+            },
+            "created": "2026-11-22T19:00:01.001Z",
+            "type": "Annotation",
+            "frametrail:type": "Overlay",
+            "frametrail:tags": [],
+            "target": {
+                "type": "Video",
+                "source": "https://www.youtube.com/embed/3KsICByONpI",
+                "selector": {
+                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                    "type": "FragmentSelector",
+                    "value": "t=30,44&xywh=percent:3,6,36,20"
+                }
+            },
+            "body": {
+                "type": "TextualBody",
+                "frametrail:type": "text",
+                "format": "text/html",
+                "value": "",
+                "frametrail:name": "What this is",
+                "frametrail:attributes": {
+                    "text": "&lt;p&gt;&lt;span style=&quot;font-size: 22px;&quot;&gt;&lt;strong&gt;How do they know?&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;Beside the film: the &lt;strong&gt;method&lt;/strong&gt; behind each step, the &lt;strong&gt;sources and voices&lt;/strong&gt;, and the &lt;strong&gt;findings&lt;/strong&gt; as the film states them.&lt;/span&gt;&lt;/p&gt;",
+                    "autoSize": "height",
+                    "box": {
+                        "background": "rgba(12, 14, 18, 0.86)",
+                        "textColor": "#ffffff",
+                        "padding": 16,
+                        "radius": 6
+                    },
+                    "animation": {
+                        "in": {
+                            "preset": "fadeIn",
+                            "duration": 500
+                        },
+                        "out": {
+                            "preset": "fadeOut",
+                            "duration": 500
+                        }
+                    }
+                }
+            },
+            "frametrail:events": {}
+        }
+    ]
+}

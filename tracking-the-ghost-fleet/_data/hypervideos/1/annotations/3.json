@@ -1,0 +1,317 @@
+[
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "Sources and voices",
+            "type": "Person",
+            "id": "3"
+        },
+        "created": "2026-11-22T19:00:00.010Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/3KsICByONpI",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=46,64"
+            }
+        },
+        "body": {
+            "type": "TextualBody",
+            "frametrail:type": "text",
+            "format": "text/html",
+            "value": "",
+            "frametrail:name": "The partners",
+            "frametrail:attributes": {
+                "text": "&lt;div class=&quot;dossierNote&quot; data-layer=&quot;3&quot;&gt;&lt;p class=&quot;dossierLayer&quot;&gt;Sources and voices&lt;/p&gt;&lt;p class=&quot;dossierTitle&quot;&gt;The partners&lt;/p&gt;&lt;p&gt;Scripps News with Bellingcat and Lloyd&amp;#x27;s List Intelligence, a firm that tracks ships worldwide.&lt;/p&gt;&lt;p class=&quot;dossierLink&quot;&gt;&lt;a href=&quot;https://www.scrippsnews.com/world/russia-s-ghost-fleet&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;The story at Scripps News ↗&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "Sources and voices",
+            "type": "Person",
+            "id": "3"
+        },
+        "created": "2026-11-22T19:00:00.011Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/3KsICByONpI",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=362,400"
+            }
+        },
+        "body": {
+            "type": "TextualBody",
+            "frametrail:type": "text",
+            "format": "text/html",
+            "value": "",
+            "frametrail:name": "A farm group's chief executive",
+            "frametrail:attributes": {
+                "text": "&lt;div class=&quot;dossierNote&quot; data-layer=&quot;3&quot;&gt;&lt;p class=&quot;dossierLayer&quot;&gt;Sources and voices&lt;/p&gt;&lt;p class=&quot;dossierTitle&quot;&gt;A farm group&amp;#x27;s chief executive&lt;/p&gt;&lt;p&gt;He co-owns an agricultural group with farms across Ukraine and is in contact with farmers in the occupied regions: “It&amp;#x27;s like mafia rule.”&lt;/p&gt;&lt;/div&gt;"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "Sources and voices",
+            "type": "Person",
+            "id": "3"
+        },
+        "created": "2026-11-22T19:00:00.012Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/3KsICByONpI",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=400,414"
+            }
+        },
+        "body": {
+            "type": "TextualBody",
+            "frametrail:type": "text",
+            "format": "text/html",
+            "value": "",
+            "frametrail:name": "Associated Press and PBS",
+            "frametrail:attributes": {
+                "text": "&lt;div class=&quot;dossierNote&quot; data-layer=&quot;3&quot;&gt;&lt;p class=&quot;dossierLayer&quot;&gt;Sources and voices&lt;/p&gt;&lt;p class=&quot;dossierTitle&quot;&gt;Associated Press and PBS&lt;/p&gt;&lt;p&gt;Farmers in occupied regions told an earlier investigation the same: they have little choice but to sell at the price the Russian authorities set.&lt;/p&gt;&lt;/div&gt;"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "Sources and voices",
+            "type": "Person",
+            "id": "3"
+        },
+        "created": "2026-11-22T19:00:00.013Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/3KsICByONpI",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=414,446"
+            }
+        },
+        "body": {
+            "type": "TextualBody",
+            "frametrail:type": "text",
+            "format": "text/html",
+            "value": "",
+            "frametrail:name": "Said in public",
+            "frametrail:attributes": {
+                "text": "&lt;div class=&quot;dossierNote&quot; data-layer=&quot;3&quot;&gt;&lt;p class=&quot;dossierLayer&quot;&gt;Sources and voices&lt;/p&gt;&lt;p class=&quot;dossierTitle&quot;&gt;Said in public&lt;/p&gt;&lt;p&gt;The acting governor of occupied Zaporizhzhia, the head of occupied Crimea and Russia&amp;#x27;s president have all announced plans to export grain through occupied ports.&lt;/p&gt;&lt;/div&gt;"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "Sources and voices",
+            "type": "Person",
+            "id": "3"
+        },
+        "created": "2026-11-22T19:00:00.014Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/3KsICByONpI",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=477,493"
+            }
+        },
+        "body": {
+            "type": "TextualBody",
+            "frametrail:type": "text",
+            "format": "text/html",
+            "value": "",
+            "frametrail:name": "The United Nations",
+            "frametrail:attributes": {
+                "text": "&lt;div class=&quot;dossierNote&quot; data-layer=&quot;3&quot;&gt;&lt;p class=&quot;dossierLayer&quot;&gt;Sources and voices&lt;/p&gt;&lt;p class=&quot;dossierTitle&quot;&gt;The United Nations&lt;/p&gt;&lt;p&gt;The Secretary-General regrets Russia&amp;#x27;s decision to end the Black Sea Grain Initiative, the deal that had let Ukraine ship grain past the blockade.&lt;/p&gt;&lt;/div&gt;"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "Sources and voices",
+            "type": "Person",
+            "id": "3"
+        },
+        "created": "2026-11-22T19:00:00.015Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/3KsICByONpI",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=501,530"
+            }
+        },
+        "body": {
+            "type": "TextualBody",
+            "frametrail:type": "text",
+            "format": "text/html",
+            "value": "",
+            "frametrail:name": "Bellingcat: Grain Trail",
+            "frametrail:attributes": {
+                "text": "&lt;div class=&quot;dossierNote&quot; data-layer=&quot;3&quot;&gt;&lt;p class=&quot;dossierLayer&quot;&gt;Sources and voices&lt;/p&gt;&lt;p class=&quot;dossierTitle&quot;&gt;Bellingcat: Grain Trail&lt;/p&gt;&lt;p&gt;In the first year of the invasion Bellingcat counted at least 179 days on which ships lay at the sanctioned Avlita terminal with their transponders apparently off: 148 found in Planet&amp;#x27;s satellite images, 31 more with a ship-detection tool using radar from the Sentinel-1 satellite.&lt;/p&gt;&lt;p class=&quot;dossierLink&quot;&gt;&lt;a href=&quot;https://www.bellingcat.com/news/2023/05/11/grain-trail-tracking-russias-ghost-ships-with-satellite-imagery/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Bellingcat: Grain Trail ↗&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "Sources and voices",
+            "type": "Person",
+            "id": "3"
+        },
+        "created": "2026-11-22T19:00:00.016Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/3KsICByONpI",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=580,612"
+            }
+        },
+        "body": {
+            "type": "TextualBody",
+            "frametrail:type": "text",
+            "format": "text/html",
+            "value": "",
+            "frametrail:name": "Ollie Ballinger",
+            "frametrail:attributes": {
+                "text": "&lt;div class=&quot;dossierNote&quot; data-layer=&quot;3&quot;&gt;&lt;p class=&quot;dossierLayer&quot;&gt;Sources and voices&lt;/p&gt;&lt;p class=&quot;dossierTitle&quot;&gt;Ollie Ballinger&lt;/p&gt;&lt;p&gt;The researcher who built the network analysis; a lecturer in geocomputation at University College London.&lt;/p&gt;&lt;/div&gt;"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "Sources and voices",
+            "type": "Person",
+            "id": "3"
+        },
+        "created": "2026-11-22T19:00:00.017Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/3KsICByONpI",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=764,796"
+            }
+        },
+        "body": {
+            "type": "TextualBody",
+            "frametrail:type": "text",
+            "format": "text/html",
+            "value": "",
+            "frametrail:name": "Yörük Işık",
+            "frametrail:attributes": {
+                "text": "&lt;div class=&quot;dossierNote&quot; data-layer=&quot;3&quot;&gt;&lt;p class=&quot;dossierLayer&quot;&gt;Sources and voices&lt;/p&gt;&lt;p class=&quot;dossierTitle&quot;&gt;Yörük Işık&lt;/p&gt;&lt;p&gt;An analyst in Istanbul who runs the Bosphorus Observer and photographs the ships that pass.&lt;/p&gt;&lt;/div&gt;"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "Sources and voices",
+            "type": "Person",
+            "id": "3"
+        },
+        "created": "2026-11-22T19:00:00.018Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/3KsICByONpI",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=955,988"
+            }
+        },
+        "body": {
+            "type": "TextualBody",
+            "frametrail:type": "text",
+            "format": "text/html",
+            "value": "",
+            "frametrail:name": "David Crane",
+            "frametrail:attributes": {
+                "text": "&lt;div class=&quot;dossierNote&quot; data-layer=&quot;3&quot;&gt;&lt;p class=&quot;dossierLayer&quot;&gt;Sources and voices&lt;/p&gt;&lt;p class=&quot;dossierTitle&quot;&gt;David Crane&lt;/p&gt;&lt;p&gt;A former international prosecutor. On switching off the transponder: “good circumstantial evidence that they know what they&amp;#x27;re doing is wrong”.&lt;/p&gt;&lt;/div&gt;"
+            }
+        }
+    }
+]

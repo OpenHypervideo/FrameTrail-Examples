@@ -1,0 +1,20 @@
+Tracking the Ghost Fleet
+========================
+
+Film
+    Scripps News with Bellingcat and Lloyd's List Intelligence, "Russia's Ghost Fleet: Uncovering the
+    Covert Grain Trade from Occupied Ukraine" (2023). © Scripps News. The film is not copied: it plays
+    from Scripps News' YouTube channel through YouTube's embedded player
+    (https://www.youtube.com/watch?v=3KsICByONpI).
+    Story: https://www.scrippsnews.com/world/russia-s-ghost-fleet
+
+Annotations
+    They restate the film's narration and interviews. Two notes on Bellingcat's method restate
+    Bellingcat, "Grain Trail: Tracking Russia's Ghost Ships with Satellite Imagery" (11 May 2023):
+    https://www.bellingcat.com/news/2023/05/11/grain-trail-tracking-russias-ghost-ships-with-satellite-imagery/
+    Written for this example from the film's automatic captions and that article, without seeing the
+    film's picture. The part from 2:40 to 6:02 has no English captions and no notes.
+    Public domain (CC0).
+
+Data and build scripts
+    Written for this example. Public domain (CC0).

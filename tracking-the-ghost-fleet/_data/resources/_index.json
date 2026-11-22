@@ -1,0 +1,18 @@
+{
+    "resources-increment": 1,
+    "resources": {
+        "1": {
+            "name": "Russia's Ghost Fleet (Scripps News with Bellingcat)",
+            "type": "youtube",
+            "src": "https://www.youtube.com/embed/3KsICByONpI",
+            "thumb": "https://img.youtube.com/vi/3KsICByONpI/hqdefault.jpg",
+            "description": null,
+            "creator": "demo",
+            "creatorId": "1",
+            "created": 1795470000,
+            "licenseType": "Copyright",
+            "licenseAttribution": "Scripps News with Bellingcat and Lloyd's List Intelligence, “Russia's Ghost Fleet: Uncovering the Covert Grain Trade from Occupied Ukraine” (2023); embedded from Scripps News' YouTube channel",
+            "attributes": {}
+        }
+    }
+}

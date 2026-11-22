@@ -1,0 +1,247 @@
+[
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "Findings",
+            "type": "Person",
+            "id": "4"
+        },
+        "created": "2026-11-22T19:00:00.019Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/3KsICByONpI",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=28,46"
+            }
+        },
+        "body": {
+            "type": "TextualBody",
+            "frametrail:type": "text",
+            "format": "text/html",
+            "value": "",
+            "frametrail:name": "A system, not an incident",
+            "frametrail:attributes": {
+                "text": "&lt;div class=&quot;dossierNote&quot; data-layer=&quot;4&quot;&gt;&lt;p class=&quot;dossierLayer&quot;&gt;Findings&lt;/p&gt;&lt;p class=&quot;dossierTitle&quot;&gt;A system, not an incident&lt;/p&gt;&lt;p&gt;The film calls it a systematic, years-long effort by Russia to profit from grain harvested in occupied Ukraine.&lt;/p&gt;&lt;/div&gt;"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "Findings",
+            "type": "Person",
+            "id": "4"
+        },
+        "created": "2026-11-22T19:00:00.020Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/3KsICByONpI",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=52,64"
+            }
+        },
+        "body": {
+            "type": "TextualBody",
+            "frametrail:type": "text",
+            "format": "text/html",
+            "value": "",
+            "frametrail:name": "Dozens of visits",
+            "frametrail:attributes": {
+                "text": "&lt;div class=&quot;dossierNote&quot; data-layer=&quot;4&quot;&gt;&lt;p class=&quot;dossierLayer&quot;&gt;Findings&lt;/p&gt;&lt;p class=&quot;dossierTitle&quot;&gt;Dozens of visits&lt;/p&gt;&lt;p&gt;Suspect ships have taken grain from Sevastopol dozens of times since the invasion began.&lt;/p&gt;&lt;/div&gt;"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "Findings",
+            "type": "Person",
+            "id": "4"
+        },
+        "created": "2026-11-22T19:00:00.021Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/3KsICByONpI",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=511,552"
+            }
+        },
+        "body": {
+            "type": "TextualBody",
+            "frametrail:type": "text",
+            "format": "text/html",
+            "value": "",
+            "frametrail:name": "Three ways out",
+            "frametrail:attributes": {
+                "text": "&lt;div class=&quot;dossierNote&quot; data-layer=&quot;4&quot;&gt;&lt;p class=&quot;dossierLayer&quot;&gt;Findings&lt;/p&gt;&lt;p class=&quot;dossierTitle&quot;&gt;Three ways out&lt;/p&gt;&lt;p&gt;Directly from Sevastopol to ports in countries such as Syria or Iran; or with one ship-to-ship transfer; or with several. The transfers happen in the Kerch Strait and mask where the grain came from.&lt;/p&gt;&lt;/div&gt;"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "Findings",
+            "type": "Person",
+            "id": "4"
+        },
+        "created": "2026-11-22T19:00:00.022Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/3KsICByONpI",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=705,720"
+            }
+        },
+        "body": {
+            "type": "TextualBody",
+            "frametrail:type": "text",
+            "format": "text/html",
+            "value": "",
+            "frametrail:name": "The same ships under a new name",
+            "frametrail:attributes": {
+                "text": "&lt;div class=&quot;dossierNote&quot; data-layer=&quot;4&quot;&gt;&lt;p class=&quot;dossierLayer&quot;&gt;Findings&lt;/p&gt;&lt;p class=&quot;dossierTitle&quot;&gt;The same ships under a new name&lt;/p&gt;&lt;p&gt;At least three tracked shipments were transferred to ships that used to belong to one company and now operate under another company&amp;#x27;s name.&lt;/p&gt;&lt;/div&gt;"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "Findings",
+            "type": "Person",
+            "id": "4"
+        },
+        "created": "2026-11-22T19:00:00.023Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/3KsICByONpI",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=883,902"
+            }
+        },
+        "body": {
+            "type": "TextualBody",
+            "frametrail:type": "text",
+            "format": "text/html",
+            "value": "",
+            "frametrail:name": "New routes to Iran",
+            "frametrail:attributes": {
+                "text": "&lt;div class=&quot;dossierNote&quot; data-layer=&quot;4&quot;&gt;&lt;p class=&quot;dossierLayer&quot;&gt;Findings&lt;/p&gt;&lt;p class=&quot;dossierTitle&quot;&gt;New routes to Iran&lt;/p&gt;&lt;p&gt;Two ships sailed directly to Iran. The film says these routes had not been reported before.&lt;/p&gt;&lt;/div&gt;"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "Findings",
+            "type": "Person",
+            "id": "4"
+        },
+        "created": "2026-11-22T19:00:00.024Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/3KsICByONpI",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=902,924"
+            }
+        },
+        "body": {
+            "type": "TextualBody",
+            "frametrail:type": "text",
+            "format": "text/html",
+            "value": "",
+            "frametrail:name": "Also to Turkey and Egypt",
+            "frametrail:attributes": {
+                "text": "&lt;div class=&quot;dossierNote&quot; data-layer=&quot;4&quot;&gt;&lt;p class=&quot;dossierLayer&quot;&gt;Findings&lt;/p&gt;&lt;p class=&quot;dossierTitle&quot;&gt;Also to Turkey and Egypt&lt;/p&gt;&lt;p&gt;Evidence of deliveries to other countries too. Trading shipments from occupied Crimea violates sanctions of the United States, the European Union and the United Kingdom.&lt;/p&gt;&lt;/div&gt;"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "Findings",
+            "type": "Person",
+            "id": "4"
+        },
+        "created": "2026-11-22T19:00:00.025Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/3KsICByONpI",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=988,1000"
+            }
+        },
+        "body": {
+            "type": "TextualBody",
+            "frametrail:type": "text",
+            "format": "text/html",
+            "value": "",
+            "frametrail:name": "More transfers, more darkness",
+            "frametrail:attributes": {
+                "text": "&lt;div class=&quot;dossierNote&quot; data-layer=&quot;4&quot;&gt;&lt;p class=&quot;dossierLayer&quot;&gt;Findings&lt;/p&gt;&lt;p class=&quot;dossierTitle&quot;&gt;More transfers, more darkness&lt;/p&gt;&lt;p&gt;Ship-to-ship transfers have increased, and more of them happen with the transponders off.&lt;/p&gt;&lt;/div&gt;"
+            }
+        }
+    }
+]

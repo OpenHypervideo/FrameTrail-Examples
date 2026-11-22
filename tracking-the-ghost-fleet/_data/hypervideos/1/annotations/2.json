@@ -1,0 +1,317 @@
+[
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "Method",
+            "type": "Person",
+            "id": "2"
+        },
+        "created": "2026-11-22T19:00:00.001Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/3KsICByONpI",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=0,9"
+            }
+        },
+        "body": {
+            "type": "TextualBody",
+            "frametrail:type": "text",
+            "format": "text/html",
+            "value": "",
+            "frametrail:name": "One ship, three sightings",
+            "frametrail:attributes": {
+                "text": "&lt;div class=&quot;dossierNote&quot; data-layer=&quot;2&quot;&gt;&lt;p class=&quot;dossierLayer&quot;&gt;Method&lt;/p&gt;&lt;p class=&quot;dossierTitle&quot;&gt;One ship, three sightings&lt;/p&gt;&lt;p&gt;A satellite image at a port in occupied Crimea, a video in the Bosphorus, a satellite image at a port in Iran: the case rests on recognising the same vessel in each.&lt;/p&gt;&lt;/div&gt;"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "Method",
+            "type": "Person",
+            "id": "2"
+        },
+        "created": "2026-11-22T19:00:00.002Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/3KsICByONpI",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=9,27"
+            }
+        },
+        "body": {
+            "type": "TextualBody",
+            "frametrail:type": "text",
+            "format": "text/html",
+            "value": "",
+            "frametrail:name": "Recognising a ship",
+            "frametrail:attributes": {
+                "text": "&lt;div class=&quot;dossierNote&quot; data-layer=&quot;2&quot;&gt;&lt;p class=&quot;dossierLayer&quot;&gt;Method&lt;/p&gt;&lt;p class=&quot;dossierTitle&quot;&gt;Recognising a ship&lt;/p&gt;&lt;p&gt;From above and from the shore, a cargo ship is identified by what does not change: the cranes on its deck, the colours of its hull and funnel. Bellingcat compares these between satellite images and ship-spotters&amp;#x27; photographs.&lt;/p&gt;&lt;p class=&quot;dossierLink&quot;&gt;&lt;a href=&quot;https://www.bellingcat.com/news/2023/05/11/grain-trail-tracking-russias-ghost-ships-with-satellite-imagery/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Bellingcat: Grain Trail ↗&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "Method",
+            "type": "Person",
+            "id": "2"
+        },
+        "created": "2026-11-22T19:00:00.003Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/3KsICByONpI",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=46,64"
+            }
+        },
+        "body": {
+            "type": "TextualBody",
+            "frametrail:type": "text",
+            "format": "text/html",
+            "value": "",
+            "frametrail:name": "Two kinds of data",
+            "frametrail:attributes": {
+                "text": "&lt;div class=&quot;dossierNote&quot; data-layer=&quot;2&quot;&gt;&lt;p class=&quot;dossierLayer&quot;&gt;Method&lt;/p&gt;&lt;p class=&quot;dossierTitle&quot;&gt;Two kinds of data&lt;/p&gt;&lt;p&gt;Satellite imagery shows where a ship is. Shipping data shows where it says it is. The investigation works in the gap between the two.&lt;/p&gt;&lt;/div&gt;"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "Method",
+            "type": "Person",
+            "id": "2"
+        },
+        "created": "2026-11-22T19:00:00.004Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/3KsICByONpI",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=553,580"
+            }
+        },
+        "body": {
+            "type": "TextualBody",
+            "frametrail:type": "text",
+            "format": "text/html",
+            "value": "",
+            "frametrail:name": "Going dark",
+            "frametrail:attributes": {
+                "text": "&lt;div class=&quot;dossierNote&quot; data-layer=&quot;2&quot;&gt;&lt;p class=&quot;dossierLayer&quot;&gt;Method&lt;/p&gt;&lt;p class=&quot;dossierTitle&quot;&gt;Going dark&lt;/p&gt;&lt;p&gt;Ships broadcast their position through the automatic identification system, AIS. The Mikhail Nenashev switched it off in Sevastopol and on again in the Kerch Strait, so that it appeared to sail from a Russian port.&lt;/p&gt;&lt;/div&gt;"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "Method",
+            "type": "Person",
+            "id": "2"
+        },
+        "created": "2026-11-22T19:00:00.005Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/3KsICByONpI",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=594,612"
+            }
+        },
+        "body": {
+            "type": "TextualBody",
+            "frametrail:type": "text",
+            "format": "text/html",
+            "value": "",
+            "frametrail:name": "Filling the gaps from orbit",
+            "frametrail:attributes": {
+                "text": "&lt;div class=&quot;dossierNote&quot; data-layer=&quot;2&quot;&gt;&lt;p class=&quot;dossierLayer&quot;&gt;Method&lt;/p&gt;&lt;p class=&quot;dossierTitle&quot;&gt;Filling the gaps from orbit&lt;/p&gt;&lt;p&gt;AIS data from Lloyd&amp;#x27;s List Intelligence is combined with satellite imagery from Planet Labs. That pinpoints ship-to-ship transfers in the Kerch Strait even when a transponder is off.&lt;/p&gt;&lt;/div&gt;"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "Method",
+            "type": "Person",
+            "id": "2"
+        },
+        "created": "2026-11-22T19:00:00.006Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/3KsICByONpI",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=638,670"
+            }
+        },
+        "body": {
+            "type": "TextualBody",
+            "frametrail:type": "text",
+            "format": "text/html",
+            "value": "",
+            "frametrail:name": "Ships as a network",
+            "frametrail:attributes": {
+                "text": "&lt;div class=&quot;dossierNote&quot; data-layer=&quot;2&quot;&gt;&lt;p class=&quot;dossierLayer&quot;&gt;Method&lt;/p&gt;&lt;p class=&quot;dossierTitle&quot;&gt;Ships as a network&lt;/p&gt;&lt;p&gt;Each ship is a dot; two dots are linked if the ships ever transferred cargo to each other. With about 12,000 transfers in the area in a few years, no person could trace the paths by hand.&lt;/p&gt;&lt;/div&gt;"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "Method",
+            "type": "Person",
+            "id": "2"
+        },
+        "created": "2026-11-22T19:00:00.007Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/3KsICByONpI",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=670,704"
+            }
+        },
+        "body": {
+            "type": "TextualBody",
+            "frametrail:type": "text",
+            "format": "text/html",
+            "value": "",
+            "frametrail:name": "Reading the clusters",
+            "frametrail:attributes": {
+                "text": "&lt;div class=&quot;dossierNote&quot; data-layer=&quot;2&quot;&gt;&lt;p class=&quot;dossierLayer&quot;&gt;Method&lt;/p&gt;&lt;p class=&quot;dossierTitle&quot;&gt;Reading the clusters&lt;/p&gt;&lt;p&gt;The ships known to have loaded in Sevastopol fall into two groups of the network. Follow whom they load onto, and four or five big ships remain, all with the same owner.&lt;/p&gt;&lt;/div&gt;"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "Method",
+            "type": "Person",
+            "id": "2"
+        },
+        "created": "2026-11-22T19:00:00.008Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/3KsICByONpI",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=730,764"
+            }
+        },
+        "body": {
+            "type": "TextualBody",
+            "frametrail:type": "text",
+            "format": "text/html",
+            "value": "",
+            "frametrail:name": "The choke point",
+            "frametrail:attributes": {
+                "text": "&lt;div class=&quot;dossierNote&quot; data-layer=&quot;2&quot;&gt;&lt;p class=&quot;dossierLayer&quot;&gt;Method&lt;/p&gt;&lt;p class=&quot;dossierTitle&quot;&gt;The choke point&lt;/p&gt;&lt;p&gt;Every ship leaving the Black Sea passes through the Bosphorus in Istanbul. There it can be seen, photographed and identified, whatever its transponder says.&lt;/p&gt;&lt;/div&gt;"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "Method",
+            "type": "Person",
+            "id": "2"
+        },
+        "created": "2026-11-22T19:00:00.009Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/3KsICByONpI",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=830,876"
+            }
+        },
+        "body": {
+            "type": "TextualBody",
+            "frametrail:type": "text",
+            "format": "text/html",
+            "value": "",
+            "frametrail:name": "Knowing the regulars",
+            "frametrail:attributes": {
+                "text": "&lt;div class=&quot;dossierNote&quot; data-layer=&quot;2&quot;&gt;&lt;p class=&quot;dossierLayer&quot;&gt;Method&lt;/p&gt;&lt;p class=&quot;dossierTitle&quot;&gt;Knowing the regulars&lt;/p&gt;&lt;p&gt;The ship-spotter&amp;#x27;s method: know the ships that work these routes, notice the one that does not fit, and notice a ship coming back full after a gap in its track on the Black Sea. Satellite images later confirm it.&lt;/p&gt;&lt;/div&gt;"
+            }
+        }
+    }
+]
