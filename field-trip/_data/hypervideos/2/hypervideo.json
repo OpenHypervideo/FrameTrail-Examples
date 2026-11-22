@@ -12,6 +12,7 @@
         "slidingMode": "adjust",
         "slidingTrigger": "key",
         "autohideControls": true,
+        "autoplay": true,
         "captionsVisible": true,
         "clipTimeVisible": false,
         "layoutArea": {
@@ -285,7 +286,7 @@
         }
     ],
     "globalEvents": {
-        "onReady": "hypervideo.play();",
+        "onReady": "",
         "onPlay": "",
         "onPause": "",
         "onEnded": "window.location.hash = 'overview';"

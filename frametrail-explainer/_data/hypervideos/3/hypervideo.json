@@ -13,6 +13,7 @@
         "slidingMode": "adjust",
         "slidingTrigger": "key",
         "autohideControls": false,
+        "autoplay": true,
         "captionsVisible": false,
         "clipTimeVisible": false,
         "layoutArea": {
@@ -45,7 +46,7 @@
         }
     ],
     "globalEvents": {
-        "onReady": "if (!navigator.userActivation || navigator.userActivation.hasBeenActive) { hypervideo.play(); }",
+        "onReady": "",
         "onPlay": "",
         "onPause": "",
         "onEnded": "window.location.hash = 'hypervideo=6';"

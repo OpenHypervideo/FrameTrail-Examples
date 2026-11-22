@@ -10,6 +10,7 @@
     "allowUploads": true,
     "theme": "dark",
     "videoFit": "cover",
+    "hypervideoTransition": "wind",
     "defaultLanguage": "en",
     "overviewTitle": "Field Trip",
     "overviewMode": "map",

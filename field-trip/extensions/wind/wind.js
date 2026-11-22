@@ -1,7 +1,7 @@
 /**
  * Wind: Field Trip's transition between episodes, as a FrameTrail extension.
  *
- * A click on a link into another episode (a hotspot with the action "jumpToHypervideo") is held back: the link's picture fades, the wind blows in over a dark veil, and only then the hypervideo changes. The wind circles while the next episode loads and blows out once it is ready. An episode opened from the map gets the circling and the blowing out.
+ * It is a transition of FrameTrail's (slots.transition), switched on by "hypervideoTransition": "wind" in config.json: FrameTrail holds a link into another episode back, covers the player and tells the wind when to blow. The link's picture fades, the wind blows in over a dark veil, circles while the next episode loads and blows out once it is ready. An episode opened from the map changes without it, as everywhere in FrameTrail.
  *
  * The animation (three Lottie files) and the three sounds are the original's, from https://github.com/OpenHypervideo/FieldTrip. See CREDITS.txt.
  */
@@ -13,34 +13,20 @@
         STAGES     = ['in', 'loading', 'out'],
         FADE       = 1000,   // the link's picture fades before the wind starts
         JUMP       = 3000,   // from the start of the wind to the change of hypervideo
-        MAX_LOOPS  = 6;      // circles to wait for a hypervideo that never arrives
+        LIFT       = 1000;   // the veil lifts over the episode that has started (wind.css)
 
     FrameTrail.registerExtension('wind', function(FrameTrail) {
 
-        var root, veil,
-            animations  = {},
-            sounds      = {},
-            ready       = false,    // library, animations and sounds are loaded
-            booted      = false,    // the interface is up
-            phase       = 'idle',   // idle | fade | in | loading | out
-            jumpPending = false,    // a held-back link has not changed the hypervideo yet
-            arrived     = false,    // the hypervideo the wind waits for is ready
-            resume      = false,    // the arrived hypervideo was playing and is held
-            loops       = 0,
-            leftEditing = false,    // edit mode was left in this very frame
-            currentID   = null,
-            lastVolume  = 1,
-            lastMuted   = false;
-
-        /**
-         * A timer on animation frames: switching the hypervideo clears every setTimeout on the page.
-         */
-        function after(ms, callback) {
-            var start = performance.now();
-            (function tick() {
-                if (performance.now() - start >= ms) { callback(); } else { requestAnimationFrame(tick); }
-            })();
-        }
+        var veil,
+            animations = {},
+            sounds     = {},
+            ready      = false,    // library, animations and sounds are loaded
+            phase      = 'idle',   // idle | fade | in | loading | out | lift
+            arrived    = false,    // the episode the wind waits for is ready
+            muted      = false,
+            timer      = null,
+            leaving    = [],       // the overlay elements of the link that was clicked
+            whenGone   = null;     // resolves enter()
 
         function loadLottie() {
             if (window.lottie) { return Promise.resolve(); }
@@ -66,7 +52,6 @@
 
             veil = document.createElement('div');
             veil.className = 'windVeil';
-            root.appendChild(veil);
 
             STAGES.forEach(function(name, index) {
 
@@ -93,9 +78,8 @@
             animations.loading.setSubframe(false);
             animations['in'].addEventListener('complete', circle);
             animations.loading.addEventListener('loopComplete', circled);
-            animations.out.addEventListener('complete', finish);
+            animations.out.addEventListener('complete', lift);
 
-            root.addEventListener('click', linkClicked, true);
             ready = true;
 
         }
@@ -112,122 +96,80 @@
             animations[name].goToAndStop(0, true);
             animations[name].play();
             sounds[name].currentTime = 0;
-            sounds[name].volume = lastVolume;
-            sounds[name].muted = lastMuted;
+            sounds[name].muted = muted;
             var playing = sounds[name].play();
             if (playing && playing['catch']) { playing['catch'](function() {}); }
         }
 
-        function rememberVolume() {
-            var video = root.querySelector('.hypervideo video.video');
-            if (video) {
-                lastVolume = video.volume;
-                lastMuted = video.muted;
-            }
-        }
-
-        function cover() {
-            if (!veil.isConnected) { root.appendChild(veil); }
-            veil.classList.add('active');
-            root.classList.add('windBlowing');
+        function after(ms, callback) {
+            window.clearTimeout(timer);
+            timer = window.setTimeout(callback, ms);
         }
 
         function blowIn() {
             phase = 'in';
-            cover();
+            veil.classList.add('active');
             show('in');
         }
 
         function circle() {
+            if (phase !== 'in') { return; }
             phase = 'loading';
-            loops = 0;
-            cover();
             show('loading');
         }
 
+        // A circle is over: the wind blows out once the episode is there.
         function circled() {
-            if (phase !== 'loading') { return; }
-            loops++;
-            if (arrived || loops >= MAX_LOOPS) {
+            if (phase === 'loading' && arrived) {
                 phase = 'out';
                 show('out');
             }
         }
 
-        function finish() {
+        // The wind is gone: the episode starts, and the veil lifts over it.
+        function lift() {
+            if (phase !== 'out') { return; }
+            phase = 'lift';
             show(null);
             veil.classList.remove('active');
-            root.classList.remove('windBlowing');
-            phase = 'idle';
-            arrived = false;
-            if (resume) {
-                resume = false;
-                FrameTrail.module('HypervideoController').play();
-            }
+            if (whenGone) { whenGone.release(); }
+            after(LIFT, gone);
         }
 
-        function overlayOf(element) {
-            var overlays = FrameTrail.module('HypervideoModel').overlays || [];
-            for (var i = 0; i < overlays.length; i++) {
-                if (overlays[i].overlayElement && overlays[i].overlayElement.contains(element)) { return overlays[i]; }
-            }
-            return null;
+        function gone() {
+            var resolve = whenGone && whenGone.resolve;
+            phase = 'idle';
+            arrived = false;
+            whenGone = null;
+            if (resolve) { resolve(); }
         }
 
         /**
          * The link's picture is an image overlay of its own, at the hotspot's place and time.
          */
-        function fadeLink(hotspot) {
+        function fadeLink(element) {
             var overlays = FrameTrail.module('HypervideoModel').overlays || [],
-                a = hotspot.data;
+                hotspot = null;
+            if (!element) { return; }
             overlays.forEach(function(overlay) {
-                var b = overlay.data;
+                if (overlay.overlayElement === element) { hotspot = overlay; }
+            });
+            if (!hotspot) { return; }
+            overlays.forEach(function(overlay) {
+                var a = hotspot.data, b = overlay.data;
                 if (b.start === a.start && b.end === a.end && JSON.stringify(b.position) === JSON.stringify(a.position) && overlay.overlayElement) {
                     overlay.overlayElement.classList.add('windLeaving');
+                    leaving.push(overlay.overlayElement);
                 }
             });
-        }
-
-        function linkClicked(event) {
-
-            if (!ready || phase !== 'idle' || FrameTrail.getState('editMode') || FrameTrail.getState('unsavedChanges')) { return; }
-
-            var element = event.target.closest && event.target.closest('.hotspot-element');
-            if (!element) { return; }
-
-            var hotspot = overlayOf(element),
-                attributes = (hotspot && hotspot.data.attributes) || {},
-                target = attributes.actionTarget,
-                time = parseFloat(attributes.actionTargetTime);
-
-            if (attributes.action !== 'jumpToHypervideo' || !target || String(target) === String(FrameTrail.module('RouteNavigation').hypervideoID)) { return; }
-
-            // FrameTrail's own click handler would change the hypervideo at once.
-            event.preventDefault();
-            event.stopPropagation();
-
-            phase = 'fade';
-            jumpPending = true;
-            rememberVolume();
-            fadeLink(hotspot);
-
-            after(FADE, function() {
-                blowIn();
-                after(JUMP, function() {
-                    jumpPending = false;
-                    window.location.hash = 'hypervideo=' + target + ((!isNaN(time) && time > 0) ? '&t=' + time : '');
-                });
-            });
-
         }
 
         return {
 
             init: function() {
 
+                // With reduced motion FrameTrail shows a short fade instead and never asks for the wind.
                 if (window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches) { return; }
-
-                root = document.querySelector(FrameTrail.getState('target'));
 
                 Promise.all([loadLottie()].concat(STAGES.map(loadData))).then(function(results) {
                     build(results.slice(1));
@@ -238,48 +180,61 @@
 
             },
 
-            onReady: function() {
-                booted = true;
-            },
+            slots: {
 
-            onHypervideoChange: function(hypervideoID) {
+                transition: {
 
-                currentID = hypervideoID;
-                if (!ready || phase === 'idle' || jumpPending) { return; }
+                    label: 'Wind',
 
-                arrived = true;
+                    available: function() { return ready; },
 
-                // The episode starts when the wind is gone.
-                var video = root.querySelector('.hypervideo video.video');
-                if (video && !video.paused) {
-                    resume = true;
-                    FrameTrail.module('HypervideoController').pause();
-                }
+                    // A link into another episode was clicked. FrameTrail changes the hypervideo when the promise resolves.
+                    leave: function(ctx) {
 
-            },
+                        if (!veil.isConnected || veil.parentNode !== ctx.cover) { ctx.cover.appendChild(veil); }
 
-            onChange: {
+                        phase = 'fade';
+                        arrived = false;
+                        muted = ctx.muted;
+                        leaving = [];
+                        fadeLink(ctx.source);
 
-                // Opening an episode from the map: FrameTrail shows the video view first, then loads the hypervideo.
-                viewMode: function(viewMode) {
+                        return new Promise(function(resolve) {
+                            after(FADE, function() {
+                                blowIn();
+                                after(JUMP, resolve);
+                            });
+                        });
 
-                    if (!ready || !booted || phase !== 'idle' || viewMode !== 'video' || FrameTrail.getState('editMode') || leftEditing) { return; }
+                    },
 
-                    Promise.resolve().then(function() {
-                        var hypervideoID = FrameTrail.module('RouteNavigation').hypervideoID;
-                        if (phase !== 'idle' || !hypervideoID || String(hypervideoID) === String(currentID)) { return; }
-                        rememberVolume();
-                        circle();
-                    });
+                    // The episode is ready, paused under the veil. FrameTrail takes its cover away when the promise resolves.
+                    enter: function(ctx) {
 
-                },
+                        muted = ctx.muted;
+                        arrived = true;
 
-                // A change of hypervideo in edit mode leaves edit mode for a moment and comes back to it: no wind for editors.
-                editMode: function(editMode, oldEditMode) {
-                    if (oldEditMode && !editMode) {
-                        leftEditing = true;
-                        requestAnimationFrame(function() { leftEditing = false; });
+                        return new Promise(function(resolve) {
+                            whenGone = { resolve: resolve, release: ctx.release };
+                            // The wind was not circling yet (the episode came quickly): it does one circle first.
+                            if (phase !== 'in' && phase !== 'loading') {
+                                phase = 'in';
+                                circle();
+                            }
+                        });
+
+                    },
+
+                    // The jump was taken back (Back while the picture faded), or the episode did not come.
+                    cancel: function() {
+                        window.clearTimeout(timer);
+                        show(null);
+                        veil.classList.remove('active');
+                        leaving.forEach(function(element) { element.classList.remove('windLeaving'); });
+                        leaving = [];
+                        gone();
                     }
+
                 }
 
             },
@@ -287,13 +242,12 @@
             onUnload: function() {
                 if (!ready) { return; }
                 ready = false;
-                root.removeEventListener('click', linkClicked, true);
+                window.clearTimeout(timer);
                 STAGES.forEach(function(name) {
                     animations[name].destroy();
                     sounds[name].pause();
                 });
                 veil.remove();
-                root.classList.remove('windBlowing');
             }
 
         };

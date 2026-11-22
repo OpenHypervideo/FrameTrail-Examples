@@ -62,7 +62,7 @@
                 {
                     "name": "Learning path",
                     "icon": "",
-                    "type": "CustomHTML",
+                    "type": "QuizResults",
                     "contentSize": "large",
                     "cssClass": "",
                     "collectionFilter": {
@@ -72,7 +72,7 @@
                         "text": ""
                     },
                     "onClickContentItem": "",
-                    "html": "<div class=\"learningPath\">\n    <p class=\"lpIntro\">Six questions, each right after the part of the video that answers it. A wrong answer plays that part again.</p>\n    <div class=\"timebased lpRow\" data-start=\"0\" data-end=\"16\"><span class=\"lpTime\">0:00</span><span class=\"lpTitle\">The Sun, our star</span><span class=\"lpDots\"></span></div>\n    <div class=\"timebased lpRow\" data-start=\"16\" data-end=\"50\"><span class=\"lpTime\">0:16</span><span class=\"lpTitle\">How gravity formed the Sun</span><span class=\"lpDots\"><span class=\"lpDot\" data-question=\"What happens to an object’s pull on other objects as it gains mass?\"></span></span></div>\n    <div class=\"timebased lpRow\" data-start=\"50\" data-end=\"75.5\"><span class=\"lpTime\">0:50</span><span class=\"lpTitle\">Forces and orbits</span><span class=\"lpDots\"><span class=\"lpDot\" data-question=\"The Moon moves around the Earth. What is this movement called?\"></span></span></div>\n    <div class=\"timebased lpRow\" data-start=\"75.5\" data-end=\"96.5\"><span class=\"lpTime\">1:15</span><span class=\"lpTitle\">Eight planets</span><span class=\"lpDots\"><span class=\"lpDot\" data-question=\"Which of these are inner planets? Select all that apply.\"></span></span></div>\n    <div class=\"timebased lpRow\" data-start=\"96.5\" data-end=\"121.5\"><span class=\"lpTime\">1:36</span><span class=\"lpTitle\">The Sun’s energy</span><span class=\"lpDots\"><span class=\"lpDot\" data-question=\"What can the solar wind cause in the sky near the Earth’s poles?\"></span></span></div>\n    <div class=\"timebased lpRow\" data-start=\"121.5\" data-end=\"159\"><span class=\"lpTime\">2:01</span><span class=\"lpTitle\">Distances in space</span><span class=\"lpDots\"><span class=\"lpDot\" data-question=\"What is one astronomical unit (AU)?\"></span><span class=\"lpDot\" data-question=\"How far does the Solar System reach?\"></span></span></div>\n    <div class=\"timebased lpRow\" data-start=\"159\" data-end=\"179.203\"><span class=\"lpTime\">2:39</span><span class=\"lpTitle\">The unexplored edge</span><span class=\"lpDots\"></span></div>\n    <p class=\"lpScore\"><span class=\"lpScoreValue\">0 of 6</span> right on the first try</p>\n    <p class=\"lpLegend\"><span class=\"lpDot right\"></span> first try <span class=\"lpDot retried\"></span> after a replay <span class=\"lpDot wrong\"></span> not yet</p>\n    <p class=\"lpCredit\">Video: <a href=\"https://commons.wikimedia.org/wiki/File:Solar_System_explained_by_simpleshow_foundation.webm\" target=\"_blank\" rel=\"noopener\">Solar System explained</a> by Cornel Becheru, simpleshow foundation, <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\" target=\"_blank\" rel=\"noopener\">CC BY-SA 3.0</a></p>\n</div>",
+                    "html": "",
                     "transcriptSource": "",
                     "initClosed": false,
                     "filterAspect": "creatorId",
@@ -93,7 +93,7 @@
         }
     ],
     "globalEvents": {
-        "onReady": "// Learning path: colour the dot of a question when it is answered. The first try counts for the score.\nif (window.solarQuizHandler) {\n    FrameTrail.removeEventListener('quizAnswered', window.solarQuizHandler);\n}\nvar results = {};\nfunction paint() {\n    var dots = document.querySelectorAll('.learningPath .lpDot[data-question]'), right = 0, i, result;\n    for (i = 0; i < dots.length; i++) {\n        result = results[dots[i].getAttribute('data-question')];\n        if (result && result.first) { right++; }\n        dots[i].className = 'lpDot' + (!result ? '' : result.first ? ' right' : result.solved ? ' retried' : ' wrong');\n    }\n    var score = document.querySelector('.learningPath .lpScoreValue');\n    if (score) { score.textContent = right + ' of ' + dots.length; }\n}\nwindow.solarQuizHandler = function (evt) {\n    var question = evt.detail.question, correct = evt.detail.correct === true;\n    if (!results[question]) { results[question] = { first: correct, solved: correct }; }\n    if (correct) { results[question].solved = true; }\n    paint();\n};\nFrameTrail.addEventListener('quizAnswered', window.solarQuizHandler);\npaint();",
+        "onReady": "",
         "onPlay": "",
         "onPause": "",
         "onEnded": ""

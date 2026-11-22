@@ -66,27 +66,6 @@
     border-color: #b3261e;
 }
 
-/* The mark after a decided answer: an icon of FrameTrail's icon font, the circle part of the glyph.
-   FrameTrail after v1.4.6 draws these marks itself; then these three rules can go. */
-.overlayElement .resourceDetail[data-type="quiz"] .resourceQuizAnswersContainer button.correct::after,
-.overlayElement .resourceDetail[data-type="quiz"] .resourceQuizAnswersContainer button.wrong::after {
-    display: inline-block;
-    margin-left: .4em;
-    font-family: "FrameTrail";
-    font-style: normal;
-    font-weight: normal;
-    line-height: 1;
-    vertical-align: -0.08em;
-}
-
-.overlayElement .resourceDetail[data-type="quiz"] .resourceQuizAnswersContainer button.correct::after {
-    content: "\e80f";
-}
-
-.overlayElement .resourceDetail[data-type="quiz"] .resourceQuizAnswersContainer button.wrong::after {
-    content: "\e811";
-}
-
 /* A wrong choice does not give the right one away: the passage plays again and the question comes back. */
 .overlayElement .resourceDetail[data-question-type="multipleChoice"]:has(.quizAnswer.wrong) .resourceQuizAnswersContainer .quizAnswer.correct {
     font-weight: 400;
@@ -125,132 +104,19 @@
     font-size: .85em;
 }
 
-/* The learning path beside the video: one row per chapter, a dot per question */
-.customhtmlContainer .learningPath {
-    padding: 8px 10px 16px;
-    font-size: 15px;
-    line-height: 1.4;
+/* The learning path beside the video: FrameTrail's Quiz Results view (chapters with a dot per question), in the colours of the questions */
+.layoutArea .contentViewContainer[data-type="QuizResults"] {
+    --quiz-result-right: var(--quiz-right);
+    --quiz-result-wrong: var(--quiz-retry);
 }
 
-.customhtmlContainer .learningPath p {
-    margin: 0;
-}
-
-.customhtmlContainer .learningPath .lpIntro {
-    padding: 0 8px 12px;
-}
-
-.layoutArea .contentViewContainer .contentViewContents .customhtmlContainer .lpRow.timebased {
-    display: flex;
-    align-items: center;
-    gap: 10px;
-    padding: 9px 8px;
-    border-bottom: 1px solid rgba(29, 29, 31, .1);
-    border-left: 4px solid transparent;
-    opacity: 1;
-    cursor: pointer;
-}
-
-.layoutArea .contentViewContainer .contentViewContents .customhtmlContainer .lpRow.timebased:hover {
-    background: rgba(138, 16, 120, .05);
-}
-
-.layoutArea .contentViewContainer .contentViewContents .customhtmlContainer .lpRow.timebased.active {
-    font-weight: 700;
-    background: rgba(138, 16, 120, .09);
-    border-left-color: var(--quiz-accent);
-}
-
-/* FrameTrail seeks when the row itself is clicked */
-.customhtmlContainer .learningPath .lpRow > * {
-    pointer-events: none;
-}
-
-.customhtmlContainer .learningPath .lpTime {
-    flex: 0 0 2.4em;
-    font-variant-numeric: tabular-nums;
-    font-weight: 400;
-    opacity: .65;
-}
-
-.customhtmlContainer .learningPath .lpTitle {
-    flex: 1;
-}
-
-.customhtmlContainer .learningPath .lpDots {
-    display: flex;
-    gap: 5px;
-}
-
-.customhtmlContainer .learningPath .lpDot {
-    display: inline-block;
-    box-sizing: border-box;
-    width: 20px;
-    height: 20px;
-    font-size: 13px;
-    font-weight: 700;
-    line-height: 16px;
-    text-align: center;
-    vertical-align: -4px;
-    background: var(--quiz-paper);
-    border: 2px solid #a9a9b2;
-    border-radius: 50%;
-}
-
-.customhtmlContainer .learningPath .lpDot.right {
-    color: #fff;
-    background: var(--quiz-right);
-    border-color: var(--quiz-right);
-}
-
-.customhtmlContainer .learningPath .lpDot.retried,
-.customhtmlContainer .learningPath .lpDot.wrong {
+/* Right only after a replay: the outlined check in the colour of a retry */
+.layoutArea .contentViewContainer[data-type="QuizResults"] .quizDot[data-state="retried"] {
     color: var(--quiz-retry);
-    border-color: var(--quiz-retry);
 }
 
-.customhtmlContainer .learningPath .lpDot.right::before,
-.customhtmlContainer .learningPath .lpDot.retried::before {
-    content: "\2713";
-}
-
-.customhtmlContainer .learningPath .lpDot.wrong::before {
-    content: "\2717";
-}
-
-.customhtmlContainer .learningPath .lpScore {
-    padding: 16px 8px 6px;
-    font-size: 17px;
-}
-
-.customhtmlContainer .learningPath .lpScoreValue {
-    font-weight: 700;
+.layoutArea .contentViewContainer[data-type="QuizResults"] .quizResultsScoreValue {
     color: var(--quiz-accent);
-}
-
-.customhtmlContainer .learningPath .lpLegend {
-    padding: 0 8px;
-    font-size: 13px;
-    opacity: .8;
-}
-
-.customhtmlContainer .learningPath .lpLegend .lpDot {
-    margin: 0 3px 0 10px;
-}
-
-.customhtmlContainer .learningPath .lpLegend .lpDot:first-child {
-    margin-left: 0;
-}
-
-.customhtmlContainer .learningPath .lpCredit {
-    padding: 18px 8px 0;
-    font-size: 12px;
-    opacity: .75;
-}
-
-.customhtmlContainer .learningPath .lpCredit a {
-    color: inherit;
-    text-decoration: underline;
 }
 
 /* A text tile among the background tiles: keep its text clear of the tile's play button */
