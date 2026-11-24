@@ -1,6 +1,15 @@
 {
     "mainAnnotation": "2",
     "annotationfiles": {
+        "1": {
+            "name": "Materials",
+            "description": "What the film names, shows or rests on",
+            "created": 1795460000,
+            "lastchanged": 1795460100000,
+            "hidden": false,
+            "owner": "demo",
+            "ownerId": 1
+        },
         "2": {
             "name": "The investigators",
             "description": "The investigators",

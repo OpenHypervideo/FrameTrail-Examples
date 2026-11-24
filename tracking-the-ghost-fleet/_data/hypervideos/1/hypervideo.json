@@ -1,7 +1,7 @@
 {
     "meta": {
         "name": "Tracking the Ghost Fleet",
-        "description": "Scripps News and Bellingcat follow ships that carry grain out of occupied Crimea with their transponders off. Beside the film: how satellite images, ship-tracking data, a network analysis and a ship-spotter on the Bosphorus fit together, who speaks, and what was found.",
+        "description": "Scripps News and Bellingcat follow ships that carry grain out of occupied Crimea with their transponders off. Beside the film: the written investigation and the reports it shows, the ports and straits on a map, the people and organisations named, and notes on how satellite images, ship-tracking data, a network analysis and a ship-spotter on the Bosphorus fit together.",
         "thumb": "https://img.youtube.com/vi/3KsICByONpI/hqdefault.jpg",
         "creator": "demo",
         "creatorId": "1",
@@ -19,11 +19,28 @@
             "areaLeft": [],
             "areaBottom": [
                 {
-                    "type": "Timelines",
-                    "name": "Layers",
+                    "type": "Chapters",
+                    "name": "",
                     "description": "",
                     "icon": "",
                     "cssClass": "",
+                    "contentSize": "small",
+                    "initClosed": false,
+                    "collectionFilter": {
+                        "tags": [],
+                        "types": [],
+                        "users": [],
+                        "text": ""
+                    }
+                }
+            ],
+            "areaRight": [
+                {
+                    "type": "TimedContent",
+                    "name": "",
+                    "description": "",
+                    "icon": "",
+                    "cssClass": "dossierView",
                     "contentSize": "medium",
                     "initClosed": false,
                     "collectionFilter": {
@@ -32,80 +49,7 @@
                         "users": [],
                         "text": ""
                     },
-                    "filterAspect": "creatorId",
-                    "zoomControls": false
-                }
-            ],
-            "areaRight": [
-                {
-                    "type": "TimedContent",
-                    "name": "Findings",
-                    "description": "",
-                    "icon": "",
-                    "cssClass": "dossierView",
-                    "contentSize": "large",
-                    "initClosed": false,
-                    "collectionFilter": {
-                        "tags": [],
-                        "types": [],
-                        "users": [
-                            "4"
-                        ],
-                        "text": ""
-                    },
-                    "onClickContentItem": ""
-                },
-                {
-                    "type": "TimedContent",
-                    "name": "Sources and voices",
-                    "description": "",
-                    "icon": "",
-                    "cssClass": "dossierView",
-                    "contentSize": "large",
-                    "initClosed": false,
-                    "collectionFilter": {
-                        "tags": [],
-                        "types": [],
-                        "users": [
-                            "3"
-                        ],
-                        "text": ""
-                    },
-                    "onClickContentItem": ""
-                },
-                {
-                    "type": "TimedContent",
-                    "name": "Method",
-                    "description": "",
-                    "icon": "",
-                    "cssClass": "dossierView",
-                    "contentSize": "large",
-                    "initClosed": false,
-                    "collectionFilter": {
-                        "tags": [],
-                        "types": [],
-                        "users": [
-                            "2"
-                        ],
-                        "text": ""
-                    },
-                    "onClickContentItem": ""
-                },
-                {
-                    "type": "TimedContent",
-                    "name": "Everything",
-                    "description": "",
-                    "icon": "",
-                    "cssClass": "dossierView",
-                    "contentSize": "large",
-                    "initClosed": false,
-                    "collectionFilter": {
-                        "tags": [],
-                        "types": [],
-                        "users": [],
-                        "text": ""
-                    },
-                    "onClickContentItem": ""
+                    "onClickContentItem": "if (this.data.type === 'text') { window.event.stopImmediatePropagation(); } else { hypervideo.pause(); }"
                 }
             ]
         }
@@ -222,7 +166,7 @@
                 "value": "",
                 "frametrail:name": "What this is",
                 "frametrail:attributes": {
-                    "text": "&lt;p&gt;&lt;span style=&quot;font-size: 22px;&quot;&gt;&lt;strong&gt;How do they know?&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;Beside the film: the &lt;strong&gt;method&lt;/strong&gt; behind each step, the &lt;strong&gt;sources and voices&lt;/strong&gt;, and the &lt;strong&gt;findings&lt;/strong&gt; as the film states them.&lt;/span&gt;&lt;/p&gt;",
+                    "text": "&lt;p&gt;&lt;span style=&quot;font-size: 22px;&quot;&gt;&lt;strong&gt;How do they know?&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;Beside the film: the &lt;strong&gt;sources&lt;/strong&gt; themselves, places and background, and notes on the &lt;strong&gt;method&lt;/strong&gt;, the &lt;strong&gt;voices&lt;/strong&gt; and the &lt;strong&gt;findings&lt;/strong&gt;. Click one to open it.&lt;/span&gt;&lt;/p&gt;",
                     "autoSize": "height",
                     "box": {
                         "background": "rgba(12, 14, 18, 0.86)",

@@ -8,7 +8,7 @@
     "userNeedsConfirmation": true,
     "alwaysForceLogin": false,
     "allowUploads": true,
-    "theme": "obsidian",
+    "theme": "carbon",
     "videoFit": "contain",
     "defaultLanguage": "en",
     "overviewTitle": "Tracking the Ghost Fleet"

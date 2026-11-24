@@ -1,1 +1,14 @@
-{}
+{
+    "ft-source": {
+        "label": "Source",
+        "description": "Material the investigation used, shows or cites: footage, posts, documents, articles, data."
+    },
+    "ft-place": {
+        "label": "Place",
+        "description": "Where it happened, on a map."
+    },
+    "ft-background": {
+        "label": "Background",
+        "description": "Who or what is being talked about."
+    }
+}

@@ -55,7 +55,7 @@
             "selector": {
                 "conformsTo": "http://www.w3.org/TR/media-frags/",
                 "type": "FragmentSelector",
-                "value": "t=362,400"
+                "value": "t=127,148"
             }
         },
         "body": {
@@ -63,9 +63,9 @@
             "frametrail:type": "text",
             "format": "text/html",
             "value": "",
-            "frametrail:name": "A farm group's chief executive",
+            "frametrail:name": "Amanda Countryman",
             "frametrail:attributes": {
-                "text": "&lt;div class=&quot;dossierNote&quot; data-layer=&quot;3&quot;&gt;&lt;p class=&quot;dossierLayer&quot;&gt;Sources and voices&lt;/p&gt;&lt;p class=&quot;dossierTitle&quot;&gt;A farm group&amp;#x27;s chief executive&lt;/p&gt;&lt;p&gt;He co-owns an agricultural group with farms across Ukraine and is in contact with farmers in the occupied regions: “It&amp;#x27;s like mafia rule.”&lt;/p&gt;&lt;/div&gt;"
+                "text": "&lt;div class=&quot;dossierNote&quot; data-layer=&quot;3&quot;&gt;&lt;p class=&quot;dossierLayer&quot;&gt;Sources and voices&lt;/p&gt;&lt;p class=&quot;dossierTitle&quot;&gt;Amanda Countryman&lt;/p&gt;&lt;p&gt;An agricultural economist at Colorado State University: about 30 per cent of Ukraine is occupied. The theft of grain is the immediate concern; what occupation does to farming is the longer one.&lt;/p&gt;&lt;/div&gt;"
             }
         }
     },
@@ -80,6 +80,251 @@
             "id": "3"
         },
         "created": "2026-11-22T19:00:00.012Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/3KsICByONpI",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=172,192"
+            }
+        },
+        "body": {
+            "type": "TextualBody",
+            "frametrail:type": "text",
+            "format": "text/html",
+            "value": "",
+            "frametrail:name": "Valery Lyuty",
+            "frametrail:attributes": {
+                "text": "&lt;div class=&quot;dossierNote&quot; data-layer=&quot;3&quot;&gt;&lt;p class=&quot;dossierLayer&quot;&gt;Sources and voices&lt;/p&gt;&lt;p class=&quot;dossierTitle&quot;&gt;Valery Lyuty&lt;/p&gt;&lt;p&gt;A grain farmer near Bilopillia in the north-east, in his field during the wheat harvest of 2023: “Wheat is the gold of Ukraine.”&lt;/p&gt;&lt;/div&gt;"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "Sources and voices",
+            "type": "Person",
+            "id": "3"
+        },
+        "created": "2026-11-22T19:00:00.013Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/3KsICByONpI",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=194,215"
+            }
+        },
+        "body": {
+            "type": "TextualBody",
+            "frametrail:type": "text",
+            "format": "text/html",
+            "value": "",
+            "frametrail:name": "Fifteen years on these fields",
+            "frametrail:attributes": {
+                "text": "&lt;div class=&quot;dossierNote&quot; data-layer=&quot;3&quot;&gt;&lt;p class=&quot;dossierLayer&quot;&gt;Sources and voices&lt;/p&gt;&lt;p class=&quot;dossierTitle&quot;&gt;Fifteen years on these fields&lt;/p&gt;&lt;p&gt;Wheat, barley, corn, buckwheat, soybeans and sunflower. “In Ukraine they say that bread is the head of everything.”&lt;/p&gt;&lt;/div&gt;"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "Sources and voices",
+            "type": "Person",
+            "id": "3"
+        },
+        "created": "2026-11-22T19:00:00.014Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/3KsICByONpI",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=217,242"
+            }
+        },
+        "body": {
+            "type": "TextualBody",
+            "frametrail:type": "text",
+            "format": "text/html",
+            "value": "",
+            "frametrail:name": "Sixty per cent less",
+            "frametrail:attributes": {
+                "text": "&lt;div class=&quot;dossierNote&quot; data-layer=&quot;3&quot;&gt;&lt;p class=&quot;dossierLayer&quot;&gt;Sources and voices&lt;/p&gt;&lt;p class=&quot;dossierTitle&quot;&gt;Sixty per cent less&lt;/p&gt;&lt;p&gt;What he earns for wheat has fallen by 60 per cent. The field is 6.5 to 7 kilometres from the Russian border, under constant mortar and artillery fire.&lt;/p&gt;&lt;/div&gt;"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "Sources and voices",
+            "type": "Person",
+            "id": "3"
+        },
+        "created": "2026-11-22T19:00:00.015Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/3KsICByONpI",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=243,273"
+            }
+        },
+        "body": {
+            "type": "TextualBody",
+            "frametrail:type": "text",
+            "format": "text/html",
+            "value": "",
+            "frametrail:name": "Craters between the rows",
+            "frametrail:attributes": {
+                "text": "&lt;div class=&quot;dossierNote&quot; data-layer=&quot;3&quot;&gt;&lt;p class=&quot;dossierLayer&quot;&gt;Sources and voices&lt;/p&gt;&lt;p class=&quot;dossierTitle&quot;&gt;Craters between the rows&lt;/p&gt;&lt;p&gt;Bilopillia has been shelled, and so have the fields. “We are doing everything we can to harvest on time and provide grain to Ukraine and all other countries that need it.”&lt;/p&gt;&lt;/div&gt;"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "Sources and voices",
+            "type": "Person",
+            "id": "3"
+        },
+        "created": "2026-11-22T19:00:00.016Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/3KsICByONpI",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=274,288"
+            }
+        },
+        "body": {
+            "type": "TextualBody",
+            "frametrail:type": "text",
+            "format": "text/html",
+            "value": "",
+            "frametrail:name": "“Where should I go?”",
+            "frametrail:attributes": {
+                "text": "&lt;div class=&quot;dossierNote&quot; data-layer=&quot;3&quot;&gt;&lt;p class=&quot;dossierLayer&quot;&gt;Sources and voices&lt;/p&gt;&lt;p class=&quot;dossierTitle&quot;&gt;“Where should I go?”&lt;/p&gt;&lt;p&gt;“I have 700 pigs. Should I let them run around the fields and explode on mines? We will work.”&lt;/p&gt;&lt;/div&gt;"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "Sources and voices",
+            "type": "Person",
+            "id": "3"
+        },
+        "created": "2026-11-22T19:00:00.017Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/3KsICByONpI",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=318,362"
+            }
+        },
+        "body": {
+            "type": "TextualBody",
+            "frametrail:type": "text",
+            "format": "text/html",
+            "value": "",
+            "frametrail:name": "No one comes for the grain",
+            "frametrail:attributes": {
+                "text": "&lt;div class=&quot;dossierNote&quot; data-layer=&quot;3&quot;&gt;&lt;p class=&quot;dossierLayer&quot;&gt;Sources and voices&lt;/p&gt;&lt;p class=&quot;dossierTitle&quot;&gt;No one comes for the grain&lt;/p&gt;&lt;p&gt;Drivers do not want to come because of the shelling; only those who really need grain take it. “Every day it is getting harder and harder.”&lt;/p&gt;&lt;/div&gt;"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "Sources and voices",
+            "type": "Person",
+            "id": "3"
+        },
+        "created": "2026-11-22T19:00:00.018Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/3KsICByONpI",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=363,400"
+            }
+        },
+        "body": {
+            "type": "TextualBody",
+            "frametrail:type": "text",
+            "format": "text/html",
+            "value": "",
+            "frametrail:name": "Petro Melnyk",
+            "frametrail:attributes": {
+                "text": "&lt;div class=&quot;dossierNote&quot; data-layer=&quot;3&quot;&gt;&lt;p class=&quot;dossierLayer&quot;&gt;Sources and voices&lt;/p&gt;&lt;p class=&quot;dossierTitle&quot;&gt;Petro Melnyk&lt;/p&gt;&lt;p&gt;Chief executive and co-founder of Agricom Group, with farms across Ukraine, and in contact with farmers in the occupied regions: “It&amp;#x27;s like mafia rule.”&lt;/p&gt;&lt;/div&gt;"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "Sources and voices",
+            "type": "Person",
+            "id": "3"
+        },
+        "created": "2026-11-22T19:00:00.019Z",
         "type": "Annotation",
         "frametrail:type": "Annotation",
         "frametrail:tags": [],
@@ -114,7 +359,7 @@
             "type": "Person",
             "id": "3"
         },
-        "created": "2026-11-22T19:00:00.013Z",
+        "created": "2026-11-22T19:00:00.020Z",
         "type": "Annotation",
         "frametrail:type": "Annotation",
         "frametrail:tags": [],
@@ -149,7 +394,7 @@
             "type": "Person",
             "id": "3"
         },
-        "created": "2026-11-22T19:00:00.014Z",
+        "created": "2026-11-22T19:00:00.021Z",
         "type": "Annotation",
         "frametrail:type": "Annotation",
         "frametrail:tags": [],
@@ -184,7 +429,7 @@
             "type": "Person",
             "id": "3"
         },
-        "created": "2026-11-22T19:00:00.015Z",
+        "created": "2026-11-22T19:00:00.022Z",
         "type": "Annotation",
         "frametrail:type": "Annotation",
         "frametrail:tags": [],
@@ -219,7 +464,7 @@
             "type": "Person",
             "id": "3"
         },
-        "created": "2026-11-22T19:00:00.016Z",
+        "created": "2026-11-22T19:00:00.023Z",
         "type": "Annotation",
         "frametrail:type": "Annotation",
         "frametrail:tags": [],
@@ -254,7 +499,7 @@
             "type": "Person",
             "id": "3"
         },
-        "created": "2026-11-22T19:00:00.017Z",
+        "created": "2026-11-22T19:00:00.024Z",
         "type": "Annotation",
         "frametrail:type": "Annotation",
         "frametrail:tags": [],
@@ -289,7 +534,7 @@
             "type": "Person",
             "id": "3"
         },
-        "created": "2026-11-22T19:00:00.018Z",
+        "created": "2026-11-22T19:00:00.025Z",
         "type": "Annotation",
         "frametrail:type": "Annotation",
         "frametrail:tags": [],

@@ -1,19 +1,194 @@
 /* Tracking the Ghost Fleet */
 
-/* A note says which layer it belongs to, in that layer's colour */
-.dossierNote { margin: 0; padding: 2px 0 2px 12px; border-left: 4px solid #888; }
-.dossierNote[data-layer="2"] { border-color: #2f8fdd; }
-.dossierNote[data-layer="3"] { border-color: #d9a441; }
-.dossierNote[data-layer="4"] { border-color: #e0604f; }
-.dossierNote .dossierLayer { margin: 0 0 3px; font-size: 11px; letter-spacing: 1.5px; text-transform: uppercase; opacity: .7; }
-.dossierNote .dossierTitle { margin: 0 0 4px; font-size: 19px; font-weight: 700; line-height: 1.3; }
-.dossierNote p { margin: 0; font-size: 16px; line-height: 1.45; }
-.dossierNote .dossierLink { margin-top: 8px; }
-.dossierNote .dossierLink a { color: inherit; text-decoration: underline; }
+/* The list beside the film: every annotation in time order, in one medium collection view (class dossierView).
+   Notes are cards as high as their text; materials are rows with a picture and a title that open on click.
+   This file is the same in the three OSINT examples (plans/osint-shared/dossier.css is copied to each _data/custom.css).
+   It styles FrameTrail's internal class names: check it after every version upgrade. */
 
-/* Beside the film, only the notes that belong to this moment are listed: all of them, one under the other */
-.dossierView .collectionElement:not(.active) { display: none; }
-.dossierView .collectionElement { position: relative !important; top: auto !important; left: auto !important; float: none !important; width: 100% !important; max-width: none !important; height: auto !important; transform: none !important; margin: 0 0 14px; }
-.dossierView .collectionElement .resourceDetail { position: relative !important; width: 100% !important; height: auto !important; }
-.dossierView .collectionElement .resourceContent { height: auto !important; overflow: visible; }
-.dossierView .contentViewContents { height: auto !important; transform: none !important; padding: 10px 0; }
+/* ---------- The area: a little wider than FrameTrail's medium, so that titles have room ---------- */
+/* No !important here: the closed state and the stacked layout of narrow windows must keep winning. */
+.hypervideoContainer .areaRightContainer.hiddenTabs[data-size="medium"] {
+    flex: 0 0 clamp(340px, calc(var(--ft-width, 100vw) * 0.30), 480px);
+    min-width: clamp(340px, calc(var(--ft-width, 100vw) * 0.30), 480px);
+}
+
+/* ---------- Colours: all taken from the theme (config.json's "theme"), so the list follows any of them ---------- */
+/* Own names only: a --primary-* set here would be copied into the dialog an item opens.
+   --dv-contrast is white on a dark theme and black on a light one (the lightness of the theme's ground, pushed to an end).
+   Text is the theme's text colour drawn towards it; the four signal colours are drawn towards it too, so they stay readable on both. */
+.layoutArea .contentViewContainer.dossierView {
+    --dv-pic: 112px;
+    --dv-row: 78px;
+    --dv-contrast: oklch(from var(--primary-bg-color) calc((.62 - l) * 1000) 0 0);
+    --dv-ink: color-mix(in oklab, var(--primary-fg-color) 30%, var(--dv-contrast));
+    --dv-dim: color-mix(in oklab, var(--dv-ink) 68%, var(--primary-bg-color));
+    --dv-card: color-mix(in srgb, var(--dv-contrast) 5%, transparent);
+    --dv-card-on: color-mix(in srgb, var(--dv-contrast) 14%, transparent);
+    --dv-pane: color-mix(in srgb, var(--dv-contrast) 8%, transparent);
+    --dv-grid: color-mix(in srgb, var(--dv-contrast) 6%, transparent);
+    --dv-method: color-mix(in oklab, #2f86d8 68%, var(--dv-contrast));
+    --dv-source: color-mix(in oklab, #c98a14 68%, var(--dv-contrast));
+    --dv-finding: color-mix(in oklab, #d9442f 68%, var(--dv-contrast));
+    --dv-place: color-mix(in oklab, #2f9d62 68%, var(--dv-contrast));
+    --thumb-title-bg: transparent;
+    --thumb-title-color: var(--dv-ink);
+    --thumb-title-shadow: none;
+}
+
+/* ---------- Every row: as high as its content, dimmed until its time has come ---------- */
+.layoutArea .contentViewContainer.dossierView[data-size="medium"] .collectionElement {
+    height: auto;
+    margin-bottom: 6px;
+    border: 0;
+    border-left: 3px solid transparent;
+    background: var(--dv-card);
+    opacity: .45;
+    transition: opacity 250ms, background-color 250ms, border-color 250ms;
+}
+.layoutArea .contentViewContainer.dossierView[data-size="medium"] .collectionElement:hover {
+    opacity: .85;
+}
+.layoutArea .contentViewContainer.dossierView[data-size="medium"] .collectionElement.active {
+    opacity: 1;
+    background: var(--dv-card-on);
+    border-left-color: var(--dv-ink);
+}
+
+/* ---------- Materials: picture and title, one height ---------- */
+/* The height goes on the tile: its default, 100 % of a row without a height, is nothing. */
+.layoutArea .contentViewContainer.dossierView[data-size="medium"] .collectionElement .resourceThumb:not([data-type="text"]) {
+    height: var(--dv-row);
+    padding-left: var(--dv-pic);
+    cursor: pointer;
+}
+.layoutArea .contentViewContainer.dossierView[data-size="medium"] .resourceThumb:not([data-type="text"])::before,
+.layoutArea .contentViewContainer.dossierView[data-size="medium"] .resourceThumb:not([data-type="text"]) .resourceOverlay {
+    width: var(--dv-pic);
+}
+.layoutArea .contentViewContainer.dossierView[data-size="medium"] .resourceThumb:not([data-type="text"]) .resourceTitle {
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 3;
+    overflow: hidden;
+    padding: 0 12px;
+    font-size: 14px;
+    line-height: 1.3;
+    hyphens: manual;
+}
+
+/* What the item is to the investigation, as a word above its title (the tags of plans/osint-shared/typed.py) */
+.layoutArea .contentViewContainer.dossierView[data-size="medium"] .resourceThumb:not([data-type="text"]) {
+    flex-direction: column;
+    justify-content: center;
+    align-items: stretch;
+}
+.layoutArea .contentViewContainer.dossierView[data-size="medium"] .resourceThumb:not([data-type="text"])::after {
+    order: -1;
+    padding: 0 12px 3px;
+    font-size: 10.5px;
+    letter-spacing: .12em;
+    text-transform: uppercase;
+    color: var(--dv-dim);
+}
+.layoutArea .contentViewContainer.dossierView[data-size="medium"] .resourceThumb.ft-source::after { content: "Source"; color: var(--dv-source); }
+.layoutArea .contentViewContainer.dossierView[data-size="medium"] .resourceThumb.ft-place::after { content: "Place"; color: var(--dv-place); }
+.layoutArea .contentViewContainer.dossierView[data-size="medium"] .resourceThumb.ft-background::after { content: "Background"; }
+.layoutArea .contentViewContainer.dossierView[data-size="medium"] .resourceThumb.ft-source[data-type="urlpreview"]::after { content: "Source · post"; }
+.layoutArea .contentViewContainer.dossierView[data-size="medium"] .resourceThumb.ft-source[data-type="youtube"]::after,
+.layoutArea .contentViewContainer.dossierView[data-size="medium"] .resourceThumb.ft-source[data-type="vimeo"]::after { content: "Source · video"; }
+.layoutArea .contentViewContainer.dossierView[data-size="medium"] .resourceThumb.ft-source[data-type="pdf"]::after { content: "Source · document"; }
+.layoutArea .contentViewContainer.dossierView[data-size="medium"] .resourceThumb.ft-background[data-type="wikipedia"]::after { content: "Background · Wikipedia"; }
+.layoutArea .contentViewContainer.dossierView[data-size="medium"] .resourceThumb.ft-background[data-type="image"]::after { content: "Background · picture"; }
+
+/* No picture (a map, a page or a post without one): the type's icon in the middle of a quiet pane */
+.layoutArea .contentViewContainer.dossierView[data-size="medium"] .resourceThumb:not([data-type="text"]):not([style*="--thumb-bg"])::before {
+    background-color: var(--dv-pane);
+    background-image: linear-gradient(var(--dv-grid) 1px, transparent 1px), linear-gradient(90deg, var(--dv-grid) 1px, transparent 1px);
+    background-size: 14px 14px;
+}
+.layoutArea .contentViewContainer.dossierView[data-size="medium"] .resourceThumb:not([data-type="text"]):not([style*="--thumb-bg"]) {
+    --thumb-icon-color: var(--dv-dim);
+    --thumb-icon-shadow: none;
+}
+.layoutArea .contentViewContainer.dossierView[data-size="medium"] .resourceThumb:not([data-type="text"]):not([style*="--thumb-bg"]) .resourceOverlay {
+    background: none;
+}
+.layoutArea .contentViewContainer.dossierView[data-size="medium"] .resourceThumb:not([data-type="text"]):not([style*="--thumb-bg"]) .resourceIcon {
+    inset: 50% auto auto 50%;
+    translate: -50% -50%;
+    width: auto;
+    height: auto;
+    line-height: 1;
+}
+.layoutArea .contentViewContainer.dossierView[data-size="medium"] .resourceThumb:not([data-type="text"]):not([style*="--thumb-bg"]) .resourceIcon [class^="icon-"]::before {
+    margin: 0;
+    font-size: 26px;
+}
+.layoutArea .contentViewContainer.dossierView[data-size="medium"] .resourceThumb[data-type="location"] .resourceIcon {
+    color: var(--dv-place);
+}
+
+/* ---------- Notes: a card as high as its text; nothing to click but its link ---------- */
+.layoutArea .contentViewContainer.dossierView[data-size="medium"] .collectionElement .resourceThumb[data-type="text"] {
+    display: block;
+    height: auto;
+    padding: 0;
+    cursor: default;
+}
+.layoutArea .contentViewContainer.dossierView[data-size="medium"] .resourceThumb[data-type="text"]::before,
+.layoutArea .contentViewContainer.dossierView[data-size="medium"] .resourceThumb[data-type="text"] .resourceOverlay {
+    display: none;
+}
+.layoutArea .contentViewContainer.dossierView[data-size="medium"] .resourceTextPreview {
+    position: static;
+    width: auto;
+    height: auto;
+    overflow: visible;
+    padding: 10px 14px 12px;
+    opacity: 1;
+    color: var(--dv-ink) !important;
+    line-height: 1.45 !important;
+}
+.layoutArea .contentViewContainer.dossierView[data-size="medium"] .resourceTextPreview::after {
+    content: none;
+}
+/* FrameTrail forces one colour and line height on everything inside a text tile: hand both back to the note */
+.layoutArea .contentViewContainer.dossierView[data-size="medium"] .resourceTextPreview * {
+    color: inherit !important;
+    line-height: inherit !important;
+}
+.layoutArea .contentViewContainer.dossierView[data-size="medium"] .resourceTextPreview .dossierNote p {
+    margin: 0;
+    font-size: 14px !important;
+}
+.layoutArea .contentViewContainer.dossierView[data-size="medium"] .resourceTextPreview .dossierNote .dossierLayer {
+    margin-bottom: 3px;
+    font-size: 10.5px !important;
+    letter-spacing: .12em;
+    text-transform: uppercase;
+    color: var(--dv-dim) !important;
+}
+.layoutArea .contentViewContainer.dossierView[data-size="medium"] .resourceTextPreview .dossierNote[data-layer="2"] .dossierLayer { color: var(--dv-method) !important; }
+.layoutArea .contentViewContainer.dossierView[data-size="medium"] .resourceTextPreview .dossierNote[data-layer="3"] .dossierLayer { color: var(--dv-source) !important; }
+.layoutArea .contentViewContainer.dossierView[data-size="medium"] .resourceTextPreview .dossierNote[data-layer="4"] .dossierLayer { color: var(--dv-finding) !important; }
+.layoutArea .contentViewContainer.dossierView[data-size="medium"] .resourceTextPreview .dossierNote .dossierTitle {
+    margin-bottom: 4px;
+    font-size: 16px !important;
+    font-weight: 700;
+    line-height: 1.3 !important;
+}
+.layoutArea .contentViewContainer.dossierView[data-size="medium"] .resourceTextPreview .dossierNote .dossierLink {
+    margin-top: 6px;
+    overflow-wrap: anywhere;
+}
+.layoutArea .contentViewContainer.dossierView[data-size="medium"] .resourceTextPreview .dossierNote a {
+    color: var(--dv-ink) !important;
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+/* ---------- The dialog an item opens in ---------- */
+/* A post higher than the dialog would be cut off */
+.ft-dialog .resourcePreviewDialog .resourceDetail[data-type="urlpreview"] .resourceContent {
+    overflow-y: auto;
+}

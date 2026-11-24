@@ -125,6 +125,41 @@
             "selector": {
                 "conformsTo": "http://www.w3.org/TR/media-frags/",
                 "type": "FragmentSelector",
+                "value": "t=96,137"
+            }
+        },
+        "body": {
+            "type": "TextualBody",
+            "frametrail:type": "text",
+            "format": "text/html",
+            "value": "",
+            "frametrail:name": "A call at 9:22 am",
+            "frametrail:attributes": {
+                "text": "&lt;div class=&quot;dossierNote&quot; data-layer=&quot;2&quot;&gt;&lt;p class=&quot;dossierLayer&quot;&gt;The investigators&lt;/p&gt;&lt;p class=&quot;dossierTitle&quot;&gt;A call at 9:22 am&lt;/p&gt;&lt;p&gt;The film plays an intercepted call of that morning. “It crossed, crossed the line”: the launcher came over the border under its own power and is now on a low-loader. It is to go “together with the Vostok tanks”.&lt;/p&gt;&lt;/div&gt;"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "The investigators",
+            "type": "Person",
+            "id": "2"
+        },
+        "created": "2026-11-22T18:00:00.005Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/Sf6gJ8NDhYA",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
                 "value": "t=138,175"
             }
         },
@@ -149,7 +184,7 @@
             "type": "Person",
             "id": "2"
         },
-        "created": "2026-11-22T18:00:00.005Z",
+        "created": "2026-11-22T18:00:00.006Z",
         "type": "Annotation",
         "frametrail:type": "Annotation",
         "frametrail:tags": [],
@@ -184,7 +219,7 @@
             "type": "Person",
             "id": "2"
         },
-        "created": "2026-11-22T18:00:00.006Z",
+        "created": "2026-11-22T18:00:00.007Z",
         "type": "Annotation",
         "frametrail:type": "Annotation",
         "frametrail:tags": [],
@@ -219,7 +254,7 @@
             "type": "Person",
             "id": "2"
         },
-        "created": "2026-11-22T18:00:00.007Z",
+        "created": "2026-11-22T18:00:00.008Z",
         "type": "Annotation",
         "frametrail:type": "Annotation",
         "frametrail:tags": [],
@@ -254,7 +289,7 @@
             "type": "Person",
             "id": "2"
         },
-        "created": "2026-11-22T18:00:00.008Z",
+        "created": "2026-11-22T18:00:00.009Z",
         "type": "Annotation",
         "frametrail:type": "Annotation",
         "frametrail:tags": [],
@@ -289,7 +324,7 @@
             "type": "Person",
             "id": "2"
         },
-        "created": "2026-11-22T18:00:00.009Z",
+        "created": "2026-11-22T18:00:00.010Z",
         "type": "Annotation",
         "frametrail:type": "Annotation",
         "frametrail:tags": [],
@@ -324,7 +359,7 @@
             "type": "Person",
             "id": "2"
         },
-        "created": "2026-11-22T18:00:00.010Z",
+        "created": "2026-11-22T18:00:00.011Z",
         "type": "Annotation",
         "frametrail:type": "Annotation",
         "frametrail:tags": [],
@@ -359,7 +394,42 @@
             "type": "Person",
             "id": "2"
         },
-        "created": "2026-11-22T18:00:00.011Z",
+        "created": "2026-11-22T18:00:00.012Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/Sf6gJ8NDhYA",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=450,481"
+            }
+        },
+        "body": {
+            "type": "TextualBody",
+            "frametrail:type": "text",
+            "format": "text/html",
+            "value": "",
+            "frametrail:name": "A call at 1:09 pm",
+            "frametrail:attributes": {
+                "text": "&lt;div class=&quot;dossierNote&quot; data-layer=&quot;2&quot;&gt;&lt;p class=&quot;dossierLayer&quot;&gt;The investigators&lt;/p&gt;&lt;p class=&quot;dossierTitle&quot;&gt;A call at 1:09 pm&lt;/p&gt;&lt;p&gt;Two men who call each other Oleg and Lionia: “the last checkpoint leaving Snizhne before Stepanivka ... to the left ... Is my sense of direction correct?” “Go to Snizhne. I&amp;#x27;ll give you further directions there.”&lt;/p&gt;&lt;/div&gt;"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "The investigators",
+            "type": "Person",
+            "id": "2"
+        },
+        "created": "2026-11-22T18:00:00.013Z",
         "type": "Annotation",
         "frametrail:type": "Annotation",
         "frametrail:tags": [],
@@ -394,7 +464,7 @@
             "type": "Person",
             "id": "2"
         },
-        "created": "2026-11-22T18:00:00.012Z",
+        "created": "2026-11-22T18:00:00.014Z",
         "type": "Annotation",
         "frametrail:type": "Annotation",
         "frametrail:tags": [],
@@ -429,7 +499,7 @@
             "type": "Person",
             "id": "2"
         },
-        "created": "2026-11-22T18:00:00.013Z",
+        "created": "2026-11-22T18:00:00.015Z",
         "type": "Annotation",
         "frametrail:type": "Annotation",
         "frametrail:tags": [],
@@ -464,7 +534,7 @@
             "type": "Person",
             "id": "2"
         },
-        "created": "2026-11-22T18:00:00.014Z",
+        "created": "2026-11-22T18:00:00.016Z",
         "type": "Annotation",
         "frametrail:type": "Annotation",
         "frametrail:tags": [],
@@ -499,7 +569,42 @@
             "type": "Person",
             "id": "2"
         },
-        "created": "2026-11-22T18:00:00.015Z",
+        "created": "2026-11-22T18:00:00.017Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/Sf6gJ8NDhYA",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=651,731"
+            }
+        },
+        "body": {
+            "type": "TextualBody",
+            "frametrail:type": "text",
+            "format": "text/html",
+            "value": "",
+            "frametrail:name": "Two calls, 18 July, 7:41 and 7:44 am",
+            "frametrail:attributes": {
+                "text": "&lt;div class=&quot;dossierNote&quot; data-layer=&quot;2&quot;&gt;&lt;p class=&quot;dossierLayer&quot;&gt;The investigators&lt;/p&gt;&lt;p class=&quot;dossierTitle&quot;&gt;Two calls, 18 July, 7:41 and 7:44 am&lt;/p&gt;&lt;p&gt;The escort brought the launcher to a crossroads and left it there; the man who took it over switched off his telephone when Strelkov and others began to call. “Where is the vehicle now?” “The vehicle is in Russia.”&lt;/p&gt;&lt;/div&gt;"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "The investigators",
+            "type": "Person",
+            "id": "2"
+        },
+        "created": "2026-11-22T18:00:00.018Z",
         "type": "Annotation",
         "frametrail:type": "Annotation",
         "frametrail:tags": [],

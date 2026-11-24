@@ -2,19 +2,26 @@ Tracking the Ghost Fleet
 ========================
 
 Film
-    Scripps News with Bellingcat and Lloyd's List Intelligence, "Russia's Ghost Fleet: Uncovering the
-    Covert Grain Trade from Occupied Ukraine" (2023). © Scripps News. The film is not copied: it plays
-    from Scripps News' YouTube channel through YouTube's embedded player
-    (https://www.youtube.com/watch?v=3KsICByONpI).
+    Scripps News with Bellingcat and Lloyd's List Intelligence, "Russia's Ghost Fleet: Uncovering the Covert Grain Trade from Occupied Ukraine" (2023). © Scripps News. The film is not copied: it plays from Scripps News' YouTube channel through YouTube's embedded player (https://www.youtube.com/watch?v=3KsICByONpI).
     Story: https://www.scrippsnews.com/world/russia-s-ghost-fleet
+    The written investigation: Bellingcat, "Russia's Ghost Ships and the Evolution of a Grain Smuggling Operation" (21 August 2023), https://www.bellingcat.com/news/2023/08/21/russias-ghost-ships-and-the-evolution-of-a-grain-smuggling-operation/
 
-Annotations
-    They restate the film's narration and interviews. Two notes on Bellingcat's method restate
-    Bellingcat, "Grain Trail: Tracking Russia's Ghost Ships with Satellite Imagery" (11 May 2023):
-    https://www.bellingcat.com/news/2023/05/11/grain-trail-tracking-russias-ghost-ships-with-satellite-imagery/
-    Written for this example from the film's automatic captions and that article, without seeing the
-    film's picture. The part from 2:40 to 6:02 has no English captions and no notes.
+Notes (Method, Sources and voices, Findings)
+    Written for this example. They restate the film's narration and interviews; the names are those of the film's name captions, and the farmer, who speaks Ukrainian, is quoted from the film's own English subtitles. Two notes on Bellingcat's method restate Bellingcat, "Grain Trail: Tracking Russia's Ghost Ships with Satellite Imagery" (11 May 2023): https://www.bellingcat.com/news/2023/05/11/grain-trail-tracking-russias-ghost-ships-with-satellite-imagery/
     Public domain (CC0).
+
+Materials beside the film
+    What the film names, shows or rests on, each shown from where it is published; nothing of it is copied here. Which item belongs to which moment was decided for this example, from the film's captions and from its picture (name captions, map labels, the headlines and dates of other outlets, the credits). Places the film shows without naming them (the transfer anchorage off Port Kavkaz, the Turkish port, the dates of the voyage) are named in Bellingcat's written investigation.
+
+    Posts on X: two posts that Bellingcat's articles cite (Yörük Işık; Xyc), each shown as the post's own embed; they belong to their authors.
+    Pages shown in a frame from their own sites: Bellingcat's Ship Detection Tool (Google Earth Engine) and Krym.Realii.
+    Pages shown as a card with a link: Bellingcat (five articles; the site announces that it will not allow framing), Scripps News, Lloyd's List, Associated Press, Frontline, The Wall Street Journal, Bloomberg, the United Nations (two pages), the Council of the European Union, the British government.
+
+Maps
+    OpenStreetMap, © OpenStreetMap contributors (openstreetmap.org/copyright), drawn by the player when a place is opened. A town or port is marked at its own position, not at the exact spot of a sighting.
+
+Wikipedia
+    Summaries of 58 articles of the English Wikipedia, licensed CC BY-SA 4.0 (creativecommons.org/licenses/by-sa/4.0), each with a link to its article and so to its authors. Their pictures are shown from Wikimedia's servers and are not copied here.
 
 Data and build scripts
     Written for this example. Public domain (CC0).

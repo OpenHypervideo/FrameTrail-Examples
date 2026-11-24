@@ -2,24 +2,33 @@ How We Know: The Beirut Port Explosion
 ======================================
 
 Film
-    Forensic Architecture with Mada Masr, "The Beirut Port Explosion" (2020).
-    © Forensic Architecture. The film is not copied: it plays from Forensic Architecture's own Vimeo
-    channel through Vimeo's embedded player (https://vimeo.com/479844049).
+    Forensic Architecture with Mada Masr, "The Beirut Port Explosion" (2020). © Forensic Architecture. The film is not copied: it plays from Forensic Architecture's own Vimeo channel through Vimeo's embedded player (https://vimeo.com/479844049).
     Investigation: https://forensic-architecture.org/investigation/beirut-port-explosion
     Models and source material: https://github.com/forensic-architecture/models/tree/master/65
 
 Captions
-    YouTube's automatic English captions of the film (from Forensic Architecture's own upload,
-    https://www.youtube.com/watch?v=-mQ60wNgKrQ), set as sentences, with names and numbers corrected
-    for this example.
+    YouTube's automatic English captions of the film (from Forensic Architecture's own upload, https://www.youtube.com/watch?v=-mQ60wNgKrQ), set as sentences, with names and numbers corrected for this example.
 
-Annotations
-    Written for this example. They restate the film's narration, what it shows on screen and what
-    Forensic Architecture says about its method on the page above; the sources they name are the ones
-    the film names or shows (a tweet, St George Hospital, the fire brigade, Legal Action Worldwide,
-    The New York Times, Al Jadeed, MTV Lebanon, Gareth Collett, the UK Health and Safety Executive,
-    the Government of Western Australia, NASA).
-    Public domain (CC0).
+Notes (Method, Sources, Findings)
+    Written for this example. They restate the film's narration, what it shows on screen and what Forensic Architecture says about its method on the page above. Public domain (CC0).
+
+Materials beside the film
+    What the film names, shows or rests on, each shown from where it is published. Nothing of it is copied here except the one picture below. Which item belongs to which moment was decided for this example, from the film's narration and from its picture.
+
+    Posts on X: 16 posts from Forensic Architecture's own inventory of the media it used (Media_inventory.xlsx in the repository above). Of its 34 posts on X, 22 still existed on 24 November 2026. Each is shown as the post's own embed and belongs to its author. They stand where the film deals with what they show (the first photograph, the blast, the fire brigade, the sacks in the hangar): a match by subject, not frame by frame.
+    Video: Global News, "Beirut explosion: Drone footage captures extent of the damage in the city's devastated port" (from the same inventory), embedded from YouTube.
+    Pages shown in a frame from their own sites: Forensic Architecture (the investigation, its method pages, the expert's page, two later investigations) and Salim al-Kadi's open model of Beirut.
+    Pages shown as a card with a link, because their sites do not allow framing: Mada Masr, The New York Times, Legal Action Worldwide, Human Rights Watch, NASA's Jet Propulsion Laboratory, WorkSafe Western Australia, GitHub.
+    Document: Health and Safety Executive, "Storing and handling ammonium nitrate" (INDG230), Crown copyright, shown from hse.gov.uk.
+
+Picture
+    _data/resources/1_1795450202_nasa-damage-map-of-beirut.jpg (and its thumb): NASA Earth Observatory, with data from the ARIA team (NASA-JPL/Caltech, Earth Observatory of Singapore); contains modified Copernicus Sentinel data (2020). From https://earthobservatory.nasa.gov/images/147098/scientists-map-beirut-blast-damage, made smaller. NASA does not claim copyright in it.
+
+Maps
+    OpenStreetMap, © OpenStreetMap contributors (openstreetmap.org/copyright), drawn by the player when a place is opened. A town or port is marked at its own position, not at the exact spot of a sighting.
+
+Wikipedia
+    Summaries of 26 articles of the English Wikipedia, licensed CC BY-SA 4.0 (creativecommons.org/licenses/by-sa/4.0), each with a link to its article and so to its authors. Their pictures are shown from Wikimedia's servers and are not copied here.
 
 Data and build scripts
     Written for this example. Public domain (CC0).

@@ -1,6 +1,15 @@
 {
     "mainAnnotation": "2",
     "annotationfiles": {
+        "1": {
+            "name": "Materials",
+            "description": "What the film names, shows or rests on",
+            "created": 1795470000,
+            "lastchanged": 1795470100000,
+            "hidden": false,
+            "owner": "demo",
+            "ownerId": 1
+        },
         "2": {
             "name": "Method",
             "description": "Method",

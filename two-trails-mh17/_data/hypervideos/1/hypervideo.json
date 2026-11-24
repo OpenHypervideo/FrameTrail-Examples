@@ -1,7 +1,7 @@
 {
     "meta": {
         "name": "Two Trails: The Route of the Buk",
-        "description": "The Joint Investigation Team’s animation of how the missile launcher that shot down flight MH17 was brought to its launch site and taken away, with the evidence the investigators name and the earlier open-source findings as layers beside it, a timeline of the day, and corrected captions.",
+        "description": "The Joint Investigation Team’s animation of how the missile launcher that shot down flight MH17 was brought to its launch site and taken away, with the evidence the investigators name and the earlier open-source findings beside it: notes, every town of the route on a map, the videos and articles of each sighting, and corrected captions.",
         "thumb": "https://img.youtube.com/vi/Sf6gJ8NDhYA/hqdefault.jpg",
         "creator": "demo",
         "creatorId": "1",
@@ -19,11 +19,28 @@
             "areaLeft": [],
             "areaBottom": [
                 {
-                    "type": "Timelines",
-                    "name": "Layers",
+                    "type": "Chapters",
+                    "name": "",
                     "description": "",
                     "icon": "",
                     "cssClass": "",
+                    "contentSize": "small",
+                    "initClosed": false,
+                    "collectionFilter": {
+                        "tags": [],
+                        "types": [],
+                        "users": [],
+                        "text": ""
+                    }
+                }
+            ],
+            "areaRight": [
+                {
+                    "type": "TimedContent",
+                    "name": "",
+                    "description": "",
+                    "icon": "",
+                    "cssClass": "dossierView",
                     "contentSize": "medium",
                     "initClosed": false,
                     "collectionFilter": {
@@ -32,80 +49,7 @@
                         "users": [],
                         "text": ""
                     },
-                    "filterAspect": "creatorId",
-                    "zoomControls": false
-                }
-            ],
-            "areaRight": [
-                {
-                    "type": "TimedContent",
-                    "name": "17 July 2014",
-                    "description": "",
-                    "icon": "",
-                    "cssClass": "dossierView",
-                    "contentSize": "large",
-                    "initClosed": false,
-                    "collectionFilter": {
-                        "tags": [],
-                        "types": [],
-                        "users": [
-                            "4"
-                        ],
-                        "text": ""
-                    },
-                    "onClickContentItem": ""
-                },
-                {
-                    "type": "TimedContent",
-                    "name": "Open sources",
-                    "description": "",
-                    "icon": "",
-                    "cssClass": "dossierView",
-                    "contentSize": "large",
-                    "initClosed": false,
-                    "collectionFilter": {
-                        "tags": [],
-                        "types": [],
-                        "users": [
-                            "3"
-                        ],
-                        "text": ""
-                    },
-                    "onClickContentItem": ""
-                },
-                {
-                    "type": "TimedContent",
-                    "name": "The investigators",
-                    "description": "",
-                    "icon": "",
-                    "cssClass": "dossierView",
-                    "contentSize": "large",
-                    "initClosed": false,
-                    "collectionFilter": {
-                        "tags": [],
-                        "types": [],
-                        "users": [
-                            "2"
-                        ],
-                        "text": ""
-                    },
-                    "onClickContentItem": ""
-                },
-                {
-                    "type": "TimedContent",
-                    "name": "Everything",
-                    "description": "",
-                    "icon": "",
-                    "cssClass": "dossierView",
-                    "contentSize": "large",
-                    "initClosed": false,
-                    "collectionFilter": {
-                        "tags": [],
-                        "types": [],
-                        "users": [],
-                        "text": ""
-                    },
-                    "onClickContentItem": ""
+                    "onClickContentItem": "if (this.data.type === 'text') { window.event.stopImmediatePropagation(); } else { hypervideo.pause(); }"
                 }
             ]
         }
@@ -219,7 +163,7 @@
                 "value": "",
                 "frametrail:name": "What this is",
                 "frametrail:attributes": {
-                    "text": "&lt;p&gt;&lt;span style=&quot;font-size: 22px;&quot;&gt;&lt;strong&gt;Two trails&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;The investigation team’s own film of the launcher’s route, with two layers beside it: the &lt;strong&gt;evidence the investigators name&lt;/strong&gt; at each step, and what &lt;strong&gt;open-source researchers&lt;/strong&gt; had found in public material before.&lt;/span&gt;&lt;/p&gt;",
+                    "text": "&lt;p&gt;&lt;span style=&quot;font-size: 22px;&quot;&gt;&lt;strong&gt;Two trails&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;The investigation team’s own film of the launcher’s route, with two trails beside it: the &lt;strong&gt;evidence the investigators name&lt;/strong&gt;, and what &lt;strong&gt;open-source researchers&lt;/strong&gt; had found before, with the places, videos and articles themselves. Click one to open it.&lt;/span&gt;&lt;/p&gt;",
                     "autoSize": "height",
                     "box": {
                         "background": "rgba(12, 14, 18, 0.86)",

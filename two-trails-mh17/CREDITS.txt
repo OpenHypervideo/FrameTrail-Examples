@@ -2,23 +2,29 @@ Two Trails: The Route of the Buk
 ================================
 
 Film
-    Joint Investigation Team MH17 / Netherlands Public Prosecution Service (Openbaar Ministerie),
-    "3. MH17 Animation regarding the transport route and the launch site", shown at the team's
-    presentation of 28 September 2016. The film is not copied: it plays from the Prosecution Service's
-    YouTube channel through YouTube's embedded player (https://www.youtube.com/watch?v=Sf6gJ8NDhYA).
+    Joint Investigation Team MH17 / Netherlands Public Prosecution Service (Openbaar Ministerie), "3. MH17 Animation regarding the transport route and the launch site", shown at the team's presentation of 28 September 2016. The film is not copied: it plays from the Prosecution Service's YouTube channel through YouTube's embedded player (https://www.youtube.com/watch?v=Sf6gJ8NDhYA).
     Presentation: https://www.prosecutionservice.nl/topics/mh17-plane-crash/criminal-investigation-jit-mh17/jit-presentation-first-results-mh17-criminal-investigation-28-9-2016
 
 Captions
-    YouTube's automatic English captions of the film, set as sentences, with the names of places,
-    institutions and vehicles corrected for this example. The intercepted telephone calls in the film
-    are not captioned.
+    YouTube's automatic English captions of the film, set as sentences, with the names of places, institutions and vehicles corrected for this example. The intercepted telephone calls in the film are not captioned; three notes quote them from the transcripts the film shows.
 
-Annotations
-    "The investigators" and "17 July 2014" restate the film's narration. "Open sources" restates
-    Bellingcat, "MH17 – The Open Source Evidence" (8 October 2015):
-    https://www.bellingcat.com/news/uk-and-europe/2015/10/08/mh17-the-open-source-evidence/
-    Written for this example from the transcript and that article, without seeing the film's picture.
-    Public domain (CC0).
+Notes (The investigators, Open sources, 17 July 2014)
+    "The investigators" and "17 July 2014" restate the film's narration and the transcripts of the calls it shows. "Open sources" restates Bellingcat, "MH17 - The Open Source Evidence" (8 October 2015): https://www.bellingcat.com/news/uk-and-europe/2015/10/08/mh17-the-open-source-evidence/
+    Written for this example. Public domain (CC0).
+
+Materials beside the film
+    What the film names, shows or rests on, each shown from where it is published; nothing of it is copied here. Which item belongs to which moment was decided for this example, from the film's narration and from its picture (the labels on its maps, its legends, the calls). The pages of open-source researchers and reporters are the ones Bellingcat's overview cites for the same sighting.
+
+    Videos, embedded from YouTube: four further films of the investigation team (Openbaar Ministerie): an intercepted call of 16 July 2014, the weapon, the forensic investigation, the detonation tests; Bellingcat's copy of the video of the launcher in Zuhres; the video of the launcher in Luhansk as Ukraine's Ministry of Internal Affairs published it; a recording of the Zello radio channel of Torez, Shakhtarsk and Snizhne of 17 July 2014 (torezinfo).
+    Post on X: the photograph of the smoke trail as it was posted on the afternoon of 17 July 2014, shown as the post's own embed.
+    Pages shown in a frame from their own sites: the District Court of The Hague's MH17 site, Correctiv, Mashable, the blog Ukraine at War.
+    Pages shown as a card with a link: Bellingcat (ten articles and its report; the site announces that it will not allow framing), the Netherlands Public Prosecution Service, the Dutch police, the Dutch Safety Board, Paris Match, The Guardian, BuzzFeed News, The Daily Telegraph, RTL Nieuws.
+
+Maps
+    OpenStreetMap, © OpenStreetMap contributors (openstreetmap.org/copyright), drawn by the player when a place is opened. A town or port is marked at its own position, not at the exact spot of a sighting.
+
+Wikipedia
+    Summaries of 40 articles of the English Wikipedia, licensed CC BY-SA 4.0 (creativecommons.org/licenses/by-sa/4.0), each with a link to its article and so to its authors. Their pictures are shown from Wikimedia's servers and are not copied here.
 
 Data and build scripts
     Written for this example. Public domain (CC0).

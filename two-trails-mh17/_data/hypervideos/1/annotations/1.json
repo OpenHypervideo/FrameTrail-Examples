@@ -1,0 +1,3915 @@
+[
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-24T12:00:00.001Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ft-background"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/Sf6gJ8NDhYA",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=1,22"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/Malaysia_Airlines_Flight_17",
+            "frametrail:name": "Malaysia Airlines Flight 17",
+            "frametrail:thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Boeing_777-2H6ER_9M-MRD_Malaysian_%286658105143%29.jpg/330px-Boeing_777-2H6ER_9M-MRD_Malaysian_%286658105143%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "articleUrl": "https://en.wikipedia.org/wiki/Malaysia_Airlines_Flight_17",
+                "wikiLang": "en",
+                "dir": "ltr",
+                "description": "2014 aircraft shootdown over Ukraine",
+                "extract": "Malaysia Airlines Flight 17 was a scheduled passenger flight from Amsterdam to Kuala Lumpur that was shot down by Russian-backed forces with a Buk 9M38 surface-to-air missile on 17 July 2014, while flying over eastern Ukraine. All 283 passengers and 15 crew were killed. Contact with the aircraft, a Boeing 777-200ER, was lost when it was about 50 kilometres (31 mi; 27 nmi) from the Ukraine–Russia border, and wreckage from the aircraft landed near Hrabove in Donetsk Oblast, Ukraine, 40 km (25 mi; 22 nmi) from the border. The shoot-down occurred during the war in Donbas over territory controlled by Russian separatist forces in Ukraine.",
+                "extract_html": "<p><b>Malaysia Airlines Flight 17</b> was a scheduled passenger flight from Amsterdam to Kuala Lumpur that was shot down by Russian-backed forces with a Buk 9M38 surface-to-air missile on 17 July 2014, while flying over eastern Ukraine. All 283 passengers and 15 crew were killed. Contact with the aircraft, a Boeing 777-200ER, was lost when it was about 50 kilometres (31 mi; 27 nmi) from the Ukraine–Russia border, and wreckage from the aircraft landed near Hrabove in Donetsk Oblast, Ukraine, 40 km (25 mi; 22 nmi) from the border. The shoot-down occurred during the war in Donbas over territory controlled by Russian separatist forces in Ukraine.</p>"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-24T12:00:00.002Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ft-place"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/Sf6gJ8NDhYA",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=3,24"
+            }
+        },
+        "body": {
+            "type": "Dataset",
+            "frametrail:type": "location",
+            "format": "application/x-frametrail-location",
+            "source": "",
+            "frametrail:name": "Amsterdam Airport Schiphol, where the flight began",
+            "frametrail:thumb": null,
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "lat": 52.3086,
+                "lon": 4.7639,
+                "zoom": 9,
+                "tileStyle": "dark",
+                "marker": {
+                    "show": true,
+                    "color": "#e0604f"
+                },
+                "controls": {
+                    "dragging": true,
+                    "scrollWheelZoom": false,
+                    "zoomControl": true
+                }
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-24T12:00:00.003Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ft-source"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/Sf6gJ8NDhYA",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=9,32"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "webpage",
+            "format": "text/html",
+            "value": "https://www.prosecutionservice.nl/topics/mh17-plane-crash/criminal-investigation-jit-mh17/jit-presentation-first-results-mh17-criminal-investigation-28-9-2016",
+            "frametrail:name": "The team's presentation of 28 September 2016",
+            "frametrail:thumb": "https://www.prosecutionservice.nl/openGraphImage/%2Ftopics%2Fm%2Fmh17-plane-crash%2Fcriminal-investigation-jit-mh17%2Fjit-presentation-first-results-mh17-criminal-investigation-28-9-2016.png",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "embed": "forbidden",
+                "description": "The Dutch Public Prosecution Service's page for the presentation this film was made for, with the team's other films and the text."
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-24T12:00:00.004Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ft-background"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/Sf6gJ8NDhYA",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=10,32"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/Joint_investigation_team",
+            "frametrail:name": "Joint investigation team",
+            "frametrail:thumb": null,
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "articleUrl": "https://en.wikipedia.org/wiki/Joint_investigation_team",
+                "wikiLang": "en",
+                "dir": "ltr",
+                "description": "EU members law enforcement and judicial team founded in 2014",
+                "extract": "A joint investigation team (abbr. JIT) is a law enforcement and judicial team set up jointly by national investigative agencies of European Union (EU) member states to handle cross-border crime. Joint investigation teams coordinate the investigations and prosecutions conducted in parallel by several countries. Such a team is formed based upon an agreement between competent authorities – both judicial (judges, prosecutors, investigative judges) and law enforcement – of two or more member states of the European Union. They can be backed up by Eurojust and Europol, the EU judicial and law enforcement cooperation agencies.",
+                "extract_html": "<p>A <b>joint investigation team</b> (abbr. <b>JIT</b>) is a law enforcement and judicial team set up jointly by national investigative agencies of European Union (EU) member states to handle cross-border crime. Joint investigation teams coordinate the investigations and prosecutions conducted in parallel by several countries. Such a team is formed based upon an agreement between competent authorities – both judicial (judges, prosecutors, investigative judges) and law enforcement – of two or more member states of the European Union. They can be backed up by Eurojust and Europol, the EU judicial and law enforcement cooperation agencies.</p>"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-24T12:00:00.005Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ft-background"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/Sf6gJ8NDhYA",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=12,34"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/Public_Prosecution_Service_(Netherlands)",
+            "frametrail:name": "Public Prosecution Service (Netherlands)",
+            "frametrail:thumb": null,
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "articleUrl": "https://en.wikipedia.org/wiki/Public_Prosecution_Service_(Netherlands)",
+                "wikiLang": "en",
+                "dir": "ltr",
+                "description": "",
+                "extract": "The Public Prosecution Service (Dutch: Openbaar Ministerie, OM; lit. 'Public Ministry') is the body of public prosecutors in the Dutch criminal justice system. The literal translation of Openbaar Ministerie, \"Public Ministry\", can lead to a misunderstanding, as the OM is not a ministry like the Ministry of Finance. The name doesn’t refer to a ministry of the government but of 'publicity'.",
+                "extract_html": "<p>The <b>Public Prosecution Service</b> (Dutch: <i lang=\"nl\">Openbaar Ministerie</i>, OM; lit. 'Public Ministry') is the body of public prosecutors in the Dutch criminal justice system.</p><p>The literal translation of <i>Openbaar Ministerie</i>, \"Public Ministry\", can lead to a misunderstanding, as the OM is not a ministry like the Ministry of Finance. The name doesn’t refer to a ministry of the government but of 'publicity'.</p>"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-24T12:00:00.006Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ft-background"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/Sf6gJ8NDhYA",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=17,38"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/Cell_site",
+            "frametrail:name": "Cell site",
+            "frametrail:thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Cell_tower_aerial.jpg/330px-Cell_tower_aerial.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "articleUrl": "https://en.wikipedia.org/wiki/Cell_site",
+                "wikiLang": "en",
+                "dir": "ltr",
+                "description": "Communications equipment location",
+                "extract": "A cell site, cell phone tower, cell base tower, or cellular base station is a cellular-enabled mobile device site where antennas and electronic communications equipment are placed on a raised structure (typically on a radio mast, or tower) to create a cell, or adjacent cells, in a cellular network. The base station structure typically supports antennae and one or more sets of transmitter/receivers transceivers, digital signal processors, control electronics, a GPS receiver for timing (for CDMA2000/IS-95 or GSM systems), primary and backup electrical power sources, and sheltering.",
+                "extract_html": "<p>A <b>cell site</b>, <b>cell phone tower</b>, <b>cell base tower</b>, or <b>cellular base station</b> is a cellular-enabled mobile device site where antennas and electronic communications equipment are placed on a raised structure (typically on a radio mast, or tower) to create a cell, or adjacent cells, in a cellular network. The base station structure typically supports antennae and one or more sets of transmitter/receivers transceivers, digital signal processors, control electronics, a GPS receiver for timing (for CDMA2000/IS-95 or GSM systems), primary and backup electrical power sources, and sheltering.</p>"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-24T12:00:00.007Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ft-background"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/Sf6gJ8NDhYA",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=25,47"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/Wiretapping",
+            "frametrail:name": "Wiretapping",
+            "frametrail:thumb": null,
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "articleUrl": "https://en.wikipedia.org/wiki/Wiretapping",
+                "wikiLang": "en",
+                "dir": "ltr",
+                "description": "Third-party monitoring of electronic communications",
+                "extract": "Wiretapping, also known as wire tapping or telephone tapping, is the monitoring of telephone and Internet-based conversations by a third party, often by covert means. The wire tap received its name because, historically, the monitoring connection was an actual electrical tap on an analog telephone or telegraph line. Legal wiretapping by a government agency is also called lawful interception. Passive wiretapping monitors or records the traffic, while active wiretapping alters or otherwise affects it.",
+                "extract_html": "<p><b>Wiretapping</b>, also known as <b>wire tapping</b> or <b>telephone tapping</b>, is the monitoring of telephone and Internet-based conversations by a third party, often by covert means. The wire tap received its name because, historically, the monitoring connection was an actual electrical tap on an analog telephone or telegraph line. Legal wiretapping by a government agency is also called lawful interception. <b>Passive wiretapping</b> monitors or records the traffic, while <b>active wiretapping</b> alters or otherwise affects it.</p>"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-24T12:00:00.008Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ft-source"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/Sf6gJ8NDhYA",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=28,52"
+            }
+        },
+        "body": {
+            "type": "Video",
+            "frametrail:type": "youtube",
+            "format": "text/html",
+            "source": "https://www.youtube.com/embed/94LF4sg14Zc",
+            "frametrail:name": "The team's film of an intercepted call of 16 July 2014",
+            "frametrail:thumb": "https://img.youtube.com/vi/94LF4sg14Zc/hqdefault.jpg",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {}
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-24T12:00:00.009Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ft-source"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/Sf6gJ8NDhYA",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=38,60"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "webpage",
+            "format": "text/html",
+            "value": "https://www.politie.nl/themas/vlucht-mh17---onderzoek-ovv.html",
+            "frametrail:name": "The police's appeal for witnesses",
+            "frametrail:thumb": null,
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "embed": "forbidden",
+                "description": "The Dutch police's page for the investigation, through which witnesses were asked to come forward."
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-24T12:00:00.010Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ft-background"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/Sf6gJ8NDhYA",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=47,70"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/Buk_missile_system",
+            "frametrail:name": "Buk missile system",
+            "frametrail:thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Buk-M1-2_air_defence_system_in_2010.jpg/330px-Buk-M1-2_air_defence_system_in_2010.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "articleUrl": "https://en.wikipedia.org/wiki/Buk_missile_system",
+                "wikiLang": "en",
+                "dir": "ltr",
+                "description": "Soviet and Russian surface-to-air missile system",
+                "extract": "The Buk (Russian: Бук, lit. 'beech', BOOK) is a family of self-propelled, medium-range surface-to-air missile systems developed by the Soviet Union and its successor state, the Russian Federation, and designed to counter cruise missiles, smart bombs, rotary-wing aircraft, and unmanned aerial vehicles. In the Russian A2AD network, Buk is located below the S-200/300/400 systems and above the point defense Tor and Pantsir.",
+                "extract_html": "<p>The <b>Buk</b> (Russian: Бук, lit. 'beech', <i title=\"English pronunciation respelling\">BOOK</i>) is a family of self-propelled, medium-range surface-to-air missile systems developed by the Soviet Union and its successor state, the Russian Federation, and designed to counter cruise missiles, smart bombs, rotary-wing aircraft, and unmanned aerial vehicles. In the Russian A2AD network, Buk is located below the S-200/300/400 systems and above the point defense Tor and Pantsir.</p>"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-24T12:00:00.011Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ft-source"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/Sf6gJ8NDhYA",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=48,72"
+            }
+        },
+        "body": {
+            "type": "Video",
+            "frametrail:type": "youtube",
+            "format": "text/html",
+            "source": "https://www.youtube.com/embed/dz6CUI-fTRI",
+            "frametrail:name": "The team's film on the weapon",
+            "frametrail:thumb": "https://img.youtube.com/vi/dz6CUI-fTRI/hqdefault.jpg",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {}
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-24T12:00:00.012Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ft-background"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/Sf6gJ8NDhYA",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=50,72"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/Transporter_erector_launcher",
+            "frametrail:name": "Transporter erector launcher",
+            "frametrail:thumb": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Sa-4.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "articleUrl": "https://en.wikipedia.org/wiki/Transporter_erector_launcher",
+                "wikiLang": "en",
+                "dir": "ltr",
+                "description": "Self-propelled heavy missile systems",
+                "extract": "A transporter erector launcher (TEL) is a missile vehicle with an integrated tractor unit that can transport, elevate to a firing position and launch one or more missiles.",
+                "extract_html": "<p>A <b>transporter erector launcher</b> (<b>TEL</b>) is a missile vehicle with an integrated tractor unit that can transport, elevate to a firing position and launch one or more missiles.</p>"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-24T12:00:00.013Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ft-source"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/Sf6gJ8NDhYA",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=54,78"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "webpage",
+            "format": "text/html",
+            "value": "https://www.bellingcat.com/news/uk-and-europe/2015/10/08/mh17-the-open-source-evidence/",
+            "frametrail:name": "Bellingcat: MH17, the open source evidence",
+            "frametrail:thumb": "https://www.bellingcat.com/app/uploads/2015/10/191.jpg",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "embed": "forbidden",
+                "description": "The overview of what researchers had found in public photographs and videos, a year before this film."
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-24T12:00:00.014Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ft-background"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/Sf6gJ8NDhYA",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=55,76"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/Bellingcat",
+            "frametrail:name": "Bellingcat",
+            "frametrail:thumb": null,
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "articleUrl": "https://en.wikipedia.org/wiki/Bellingcat",
+                "wikiLang": "en",
+                "dir": "ltr",
+                "description": "Investigative journalism group",
+                "extract": "Bellingcat is a Netherlands-based investigative journalism group that specialises in fact-checking and open-source intelligence (OSINT). It was founded by British citizen journalist and former blogger Eliot Higgins in July 2014. Bellingcat publishes the findings of both professional and citizen journalist investigations into war zones, human rights abuses, and the criminal underworld. The site's contributors also publish guides to their techniques, as well as case studies. In 2025, Bellingcat expanded operations to the United States.",
+                "extract_html": "<p><b>Bellingcat</b> is a Netherlands-based investigative journalism group that specialises in fact-checking and open-source intelligence (OSINT). It was founded by British citizen journalist and former blogger Eliot Higgins in July 2014.</p><p>Bellingcat publishes the findings of both professional and citizen journalist investigations into war zones, human rights abuses, and the criminal underworld. The site's contributors also publish guides to their techniques, as well as case studies. In 2025, Bellingcat expanded operations to the United States.</p>"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-24T12:00:00.015Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ft-background"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/Sf6gJ8NDhYA",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=57,78"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/Open-source_intelligence",
+            "frametrail:name": "Open-source intelligence",
+            "frametrail:thumb": null,
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "articleUrl": "https://en.wikipedia.org/wiki/Open-source_intelligence",
+                "wikiLang": "en",
+                "dir": "ltr",
+                "description": "Data collected from publicly available sources to be used in an intelligence context",
+                "extract": "Open-source intelligence (OSINT) is the collection and analysis of data gathered from 'open sources' (overt sources and publicly available information) to produce intelligence. OSINT is primarily used in national security, law enforcement, and business intelligence and is used by analysts to answer classified, unclassified, or proprietary intelligence requirements.",
+                "extract_html": "<p><b>Open-source intelligence</b> (<b>OSINT</b>) is the collection and analysis of data gathered from 'open sources' (overt sources and publicly available information) to produce intelligence. OSINT is primarily used in national security, law enforcement, and business intelligence and is used by analysts to answer classified, unclassified, or proprietary intelligence requirements.</p>"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-24T12:00:00.016Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ft-background"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/Sf6gJ8NDhYA",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=60,84"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/53rd_Anti-Aircraft_Missile_Brigade",
+            "frametrail:name": "53rd Anti-Aircraft Missile Brigade",
+            "frametrail:thumb": null,
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "articleUrl": "https://en.wikipedia.org/wiki/53rd_Anti-Aircraft_Missile_Brigade",
+                "wikiLang": "en",
+                "dir": "ltr",
+                "description": "Military unit",
+                "extract": "The 53rd Guards Anti-Aircraft Missile Brigade is a surface-to-air missile brigade of the Russian Ground Forces. Part of the 20th Guards Army, the brigade is based at Kursk. Formed from an anti-aircraft regiment in 1967 in Armenia, the brigade was transferred to East Germany shortly after its formation and served as part of the Group of Soviet Forces in Germany for the remainder of the Cold War. After the withdrawal of Soviet troops from Germany in 1992, the brigade was relocated to Kursk.",
+                "extract_html": "<p>The <b>53rd Guards Anti-Aircraft Missile Brigade</b> is a surface-to-air missile brigade of the Russian Ground Forces. Part of the 20th Guards Army, the brigade is based at Kursk.</p><p>Formed from an anti-aircraft regiment in 1967 in Armenia, the brigade was transferred to East Germany shortly after its formation and served as part of the Group of Soviet Forces in Germany for the remainder of the Cold War. After the withdrawal of Soviet troops from Germany in 1992, the brigade was relocated to Kursk.</p>"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-24T12:00:00.017Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ft-source"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/Sf6gJ8NDhYA",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=62,86"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "webpage",
+            "format": "text/html",
+            "value": "https://www.bellingcat.com/news/uk-and-europe/2014/11/08/origin-of-the-separatists-buk-a-bellingcat-investigation/",
+            "frametrail:name": "Bellingcat: Origin of the separatists' Buk",
+            "frametrail:thumb": "https://www.bellingcat.com/app/uploads/2014/11/91.jpg",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "embed": "forbidden",
+                "description": "The investigation that traced the launcher to a Russian convoy of June 2014."
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-24T12:00:00.018Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ft-place"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/Sf6gJ8NDhYA",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=64,88"
+            }
+        },
+        "body": {
+            "type": "Dataset",
+            "frametrail:type": "location",
+            "format": "application/x-frametrail-location",
+            "source": "",
+            "frametrail:name": "Kursk, home of the 53rd brigade",
+            "frametrail:thumb": null,
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "lat": 51.7167,
+                "lon": 36.1833,
+                "zoom": 7,
+                "tileStyle": "dark",
+                "marker": {
+                    "show": true,
+                    "color": "#e0604f"
+                },
+                "controls": {
+                    "dragging": true,
+                    "scrollWheelZoom": false,
+                    "zoomControl": true
+                }
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-24T12:00:00.019Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ft-place"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/Sf6gJ8NDhYA",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=67,90"
+            }
+        },
+        "body": {
+            "type": "Dataset",
+            "frametrail:type": "location",
+            "format": "application/x-frametrail-location",
+            "source": "",
+            "frametrail:name": "Sukhodilsk, where the film has the launcher cross the border",
+            "frametrail:thumb": null,
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "lat": 48.35,
+                "lon": 39.7167,
+                "zoom": 10,
+                "tileStyle": "dark",
+                "marker": {
+                    "show": true,
+                    "color": "#e0604f"
+                },
+                "controls": {
+                    "dragging": true,
+                    "scrollWheelZoom": false,
+                    "zoomControl": true
+                }
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-24T12:00:00.020Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ft-background"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/Sf6gJ8NDhYA",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=68,90"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/Russia%E2%80%93Ukraine_border",
+            "frametrail:name": "Russia–Ukraine border",
+            "frametrail:thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Map_of_Ukraine_border_with_Russia_de-facto.png/330px-Map_of_Ukraine_border_with_Russia_de-facto.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "articleUrl": "https://en.wikipedia.org/wiki/Russia%E2%80%93Ukraine_border",
+                "wikiLang": "en",
+                "dir": "ltr",
+                "description": "International border In Europe",
+                "extract": "The Russia–Ukraine border is the de jure international boundary between Russia and Ukraine. Over land, the border spans five Russian oblasts and five Ukrainian oblasts. Due to the ongoing Russo-Ukrainian War, which began in early 2014, the de facto border between Russia and Ukraine is different from the legal border recognized by the United Nations. As of 2024, Russia is militarily occupying part of Ukraine, and Ukraine is militarily occupying a very small portion of Russia.",
+                "extract_html": "<p>The <b>Russia–Ukraine border</b> is the <i lang=\"la\">de jure</i> international boundary between Russia and Ukraine. Over land, the border spans five Russian oblasts and five Ukrainian oblasts. Due to the ongoing Russo-Ukrainian War, which began in early 2014, the <i lang=\"la\">de facto</i> border between Russia and Ukraine is different from the legal border recognized by the United Nations. As of 2024, Russia is militarily occupying part of Ukraine, and Ukraine is militarily occupying a very small portion of Russia.</p>"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-24T12:00:00.021Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ft-background"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/Sf6gJ8NDhYA",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=73,96"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/Donetsk_People%27s_Republic",
+            "frametrail:name": "Donetsk People's Republic",
+            "frametrail:thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Russian_Occupation_of_Donetsk_Oblast.svg/330px-Russian_Occupation_of_Donetsk_Oblast.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "articleUrl": "https://en.wikipedia.org/wiki/Donetsk_People%27s_Republic",
+                "wikiLang": "en",
+                "dir": "ltr",
+                "description": "Disputed Russian republic in eastern Ukraine",
+                "extract": "The Donetsk People's Republic (DPR; Russian: Донецкая Народная Республика (ДНР), romanised: Donetskaya Narodnaya Respublika (DNR), IPA: [dɐˈnʲetskəjə nɐˈrodnəjə rʲɪˈspublʲɪkə]) is a disputed republic of Russia with a capital in Donetsk, established on an illegally annexed part of Donetsk Oblast in eastern Ukraine. The DPR was created in 2014 when Russian-backed paramilitaries took control of settlements in the province. This started an eight-year war against Ukraine. The DPR declared itself to be an independent state, but is often described as a puppet state of Russia during the conflict. It was illegally annexed by Russia in 2022.",
+                "extract_html": "<p>The <b>Donetsk People's Republic</b> (<b>DPR</b>; Russian: Донецкая Народная Республика (ДНР), romanised: <i lang=\"ru-Latn\">Donetskaya Narodnaya Respublika (DNR)</i>, IPA: [dɐˈnʲetskəjə nɐˈrodnəjə rʲɪˈspublʲɪkə]) is a disputed republic of Russia with a capital in Donetsk, established on an illegally annexed part of Donetsk Oblast in eastern Ukraine. The DPR was created in 2014 when Russian-backed paramilitaries took control of settlements in the province. This started an eight-year war against Ukraine. The DPR declared itself to be an independent state, but is often described as a puppet state of Russia during the conflict. It was illegally annexed by Russia in 2022.</p>"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-24T12:00:00.022Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ft-background"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/Sf6gJ8NDhYA",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=75,98"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/War_in_Donbas",
+            "frametrail:name": "War in Donbas",
+            "frametrail:thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/A_Russia-backed_rebel_armored_fighting_vehicles_convoy_near_Donetsk%2C_Eastern_Ukraine%2C_May_30%2C_2015.jpg/330px-A_Russia-backed_rebel_armored_fighting_vehicles_convoy_near_Donetsk%2C_Eastern_Ukraine%2C_May_30%2C_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "articleUrl": "https://en.wikipedia.org/wiki/War_in_Donbas",
+                "wikiLang": "en",
+                "dir": "ltr",
+                "description": "2014–2022 war between Ukraine and Russia",
+                "extract": "The war in Donbas, also called the Donbas war, was a phase of the Russo-Ukrainian war in the eastern Donbas region of Ukraine. The war began in April 2014, when Russian-backed paramilitaries began an uprising against the Ukrainian government, seized territory and declared independent states. Ukraine's military launched an operation against them, but failed to fully retake the territory. Covertly, Russia's military were directly involved, and the separatists were largely under Russian control. This phase ended when the war was subsumed by the full-scale Russian invasion of Ukraine in 2022.",
+                "extract_html": "<p>The <b>war in Donbas</b>, also called the <b>Donbas war</b>, was a phase of the Russo-Ukrainian war in the eastern Donbas region of Ukraine. The war began in April 2014, when Russian-backed paramilitaries began an uprising against the Ukrainian government, seized territory and declared independent states. Ukraine's military launched an operation against them, but failed to fully retake the territory. Covertly, Russia's military were directly involved, and the separatists were largely under Russian control. This phase ended when the war was subsumed by the full-scale Russian invasion of Ukraine in 2022.</p>"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-24T12:00:00.023Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ft-place"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/Sf6gJ8NDhYA",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=82,106"
+            }
+        },
+        "body": {
+            "type": "Dataset",
+            "frametrail:type": "location",
+            "format": "application/x-frametrail-location",
+            "source": "",
+            "frametrail:name": "Yenakiieve",
+            "frametrail:thumb": null,
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "lat": 48.2167,
+                "lon": 38.2,
+                "zoom": 11,
+                "tileStyle": "dark",
+                "marker": {
+                    "show": true,
+                    "color": "#e0604f"
+                },
+                "controls": {
+                    "dragging": true,
+                    "scrollWheelZoom": false,
+                    "zoomControl": true
+                }
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-24T12:00:00.024Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ft-background"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/Sf6gJ8NDhYA",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=96,122"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/Lawful_interception",
+            "frametrail:name": "Lawful interception",
+            "frametrail:thumb": null,
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "articleUrl": "https://en.wikipedia.org/wiki/Lawful_interception",
+                "wikiLang": "en",
+                "dir": "ltr",
+                "description": "Permission for law enforcement to wiretap subscribers",
+                "extract": "Lawful interception (LI) refers to the facilities in telecommunications and telephone networks that allow law enforcement agencies with court orders or other legal authorization to selectively wiretap individual subscribers. Most countries require licensed telecommunications operators to provide their networks with Legal Interception gateways and nodes for the interception of communications. The interfaces of these gateways have been standardized by telecommunication standardization organizations. As with many law enforcement tools, LI systems may be subverted for illicit purposes.",
+                "extract_html": "<p><b>Lawful interception</b> (<b>LI</b>) refers to the facilities in telecommunications and telephone networks that allow law enforcement agencies with court orders or other legal authorization to selectively wiretap individual subscribers. Most countries require licensed telecommunications operators to provide their networks with Legal Interception gateways and nodes for the interception of communications. The interfaces of these gateways have been standardized by telecommunication standardization organizations. As with many law enforcement tools, LI systems may be subverted for illicit purposes.</p>"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-24T12:00:00.025Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ft-background"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/Sf6gJ8NDhYA",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=123,146"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/114th_Separate_Guards_Motor_Rifle_Brigade",
+            "frametrail:name": "Vostok Brigade",
+            "frametrail:thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Sleeve_patch_of_the_114th_Separate_Guards_Motor_Rifle_Brigade.svg/330px-Sleeve_patch_of_the_114th_Separate_Guards_Motor_Rifle_Brigade.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "articleUrl": "https://en.wikipedia.org/wiki/114th_Separate_Guards_Motor_Rifle_Brigade",
+                "wikiLang": "en",
+                "dir": "ltr",
+                "description": "Military unit",
+                "extract": "The 114th Guards Motor Rifle Brigade (Russian: 114-я гвардейская мотострелковая бригада, 114 омсбр; Military Unit Number 08818) or Vostok Brigade (Russian: Бригада «Восток») is a military unit of Russian Ground Forces. Until January 1, 2023, it was part of the self-proclaimed Donetsk People's Republic (DPR). It is attached to the 51st Donetsk Combined Arms Army. The brigade was created by Alexander Khodakovsky.",
+                "extract_html": "<p>The <b>114th Guards Motor Rifle Brigade</b> (Russian: 114-я гвардейская мотострелковая бригада, 114 омсбр; Military Unit Number 08818) or <b>Vostok Brigade</b> (Russian: Бригада «Восток») is a military unit of Russian Ground Forces. Until January 1, 2023, it was part of the self-proclaimed Donetsk People's Republic (DPR). It is attached to the 51st Donetsk Combined Arms Army. The brigade was created by Alexander Khodakovsky.</p>"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-24T12:00:00.026Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ft-background"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/Sf6gJ8NDhYA",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=138,162"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/Lowboy_(trailer)",
+            "frametrail:name": "Low-loader",
+            "frametrail:thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Globe_Trailers_Lowboy_with_Volvo_A300.jpg/330px-Globe_Trailers_Lowboy_with_Volvo_A300.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "articleUrl": "https://en.wikipedia.org/wiki/Lowboy_(trailer)",
+                "wikiLang": "en",
+                "dir": "ltr",
+                "description": "Type of trailer",
+                "extract": "A lowboy (low-loader in British English, low-bed in western Canada and South Africa or float in Australia and eastern Canada) is a semi-trailer with two drops in deck height: one right after the gooseneck and one right before the wheels. This allows the deck to be extremely low compared with other trailers. It offers the ability to carry legal loads up to 3,600 mm (12 ft) tall, which other trailers cannot. Lowboys are extensively used in heavy haulers to haul heavy equipment such as bulldozers and large industrial equipment such as generators and transformers.",
+                "extract_html": "<p>A <b>lowboy</b> (<b>low-loader</b> in British English, <b>low-bed</b> in western Canada and South Africa or <b>float</b> in Australia and eastern Canada) is a semi-trailer with two drops in deck height: one right after the gooseneck and one right before the wheels. This allows the deck to be extremely low compared with other trailers. It offers the ability to carry legal loads up to 3,600 mm (12 ft) tall, which other trailers cannot. Lowboys are extensively used in heavy haulers to haul heavy equipment such as bulldozers and large industrial equipment such as generators and transformers.</p>"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-24T12:00:00.027Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ft-source"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/Sf6gJ8NDhYA",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=140,164"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "webpage",
+            "format": "text/html",
+            "value": "https://www.bellingcat.com/news/uk-and-europe/2015/06/30/low-loader/",
+            "frametrail:name": "Bellingcat: the truck and low-loader",
+            "frametrail:thumb": "https://www.bellingcat.com/app/uploads/2015/06/Separatist-and-low-loader.jpg",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "embed": "forbidden",
+                "description": "How researchers traced the vehicle with the telephone number on its cab that carried the launcher."
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-24T12:00:00.028Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ft-background"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/Sf6gJ8NDhYA",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=142,164"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/Volvo_FH",
+            "frametrail:name": "Volvo FH",
+            "frametrail:thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Volvo_FH16_780_Euro6_IAA_Transportation_2024_%28DSC03967%29.jpg/330px-Volvo_FH16_780_Euro6_IAA_Transportation_2024_%28DSC03967%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "articleUrl": "https://en.wikipedia.org/wiki/Volvo_FH",
+                "wikiLang": "en",
+                "dir": "ltr",
+                "description": "Motor vehicle",
+                "extract": "The Volvo FH is a heavy truck range manufactured by the Swedish company Volvo Trucks. It was originally introduced in late 1993 as the FH12 and FH16. FH stands for forward control high entry, where numbers denominate engine capacity in litres. The FH range is one of the most successful truck series ever having sold more than 400,000 units worldwide.",
+                "extract_html": "<p>The <b>Volvo FH</b> is a heavy truck range manufactured by the Swedish company Volvo Trucks. It was originally introduced in late 1993 as the FH12 and FH16. FH stands for <i>forward control high entry</i>, where numbers denominate engine capacity in litres. The FH range is one of the most successful truck series ever having sold more than 400,000 units worldwide.</p>"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-24T12:00:00.029Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ft-background"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/Sf6gJ8NDhYA",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=165,186"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/Volkswagen_Transporter",
+            "frametrail:name": "Volkswagen Transporter",
+            "frametrail:thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/2017_Volkswagen_Transporter_BlueMotion.jpg/330px-2017_Volkswagen_Transporter_BlueMotion.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "articleUrl": "https://en.wikipedia.org/wiki/Volkswagen_Transporter",
+                "wikiLang": "en",
+                "dir": "ltr",
+                "description": "Series of vans",
+                "extract": "The Volkswagen Transporter, (formerly based on the Volkswagen Group's T platform), now in its seventh generation using a platform shared with Ford, refers to a series of vans produced for over 70 years and marketed worldwide. The T series was considered an official Volkswagen Group automotive platform. and generations are sequentially named T1, T2, T3, T4, T5, T6 and T7. Pre-dating the T platform designations, the first three generations were named Type 2, indicating their relative position to the Type 1, or Beetle. As part of the T platform, the first three generations are retroactively named T1, T2 and T3.",
+                "extract_html": "<p>The <b>Volkswagen Transporter</b>, (formerly based on the Volkswagen Group's T platform), now in its seventh generation using a platform shared with Ford, refers to a series of vans produced for over 70 years and marketed worldwide.</p><p>The T series was considered an official Volkswagen Group automotive platform. and generations are sequentially named T1, T2, T3, T4, T5, T6 and T7. Pre-dating the <i>T platform</i> designations, the first three generations were named <b>Type 2</b>, indicating their relative position to the Type 1, or Beetle. As part of the <i>T platform</i>, the first three generations are retroactively named T1, T2 and T3.</p>"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-24T12:00:00.030Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ft-background"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/Sf6gJ8NDhYA",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=166,188"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/UAZ-469",
+            "frametrail:name": "UAZ-469",
+            "frametrail:thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/ParkPatriot2015part4-12.jpg/330px-ParkPatriot2015part4-12.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "articleUrl": "https://en.wikipedia.org/wiki/UAZ-469",
+                "wikiLang": "en",
+                "dir": "ltr",
+                "description": "Soviet military light utility vehicle",
+                "extract": "The UAZ-469, later sold as the UAZ-3151 and UAZ Hunter, is an off-road military light utility vehicle manufactured by UAZ since 1971. It was used by Soviet and other Warsaw Pact armed forces, as well as paramilitary units in Eastern Bloc countries. In the Soviet Union, it also saw widespread service in state organizations that needed a robust and durable off-road vehicle. Standard military versions included seating for seven personnel.",
+                "extract_html": "<p>The <b>UAZ-469</b>, later sold as the <b>UAZ-3151</b> and <b>UAZ Hunter</b>, is an off-road military light utility vehicle manufactured by UAZ since 1971. It was used by Soviet and other Warsaw Pact armed forces, as well as paramilitary units in Eastern Bloc countries. In the Soviet Union, it also saw widespread service in state organizations that needed a robust and durable off-road vehicle. Standard military versions included seating for seven personnel.</p>"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-24T12:00:00.031Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ft-place"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/Sf6gJ8NDhYA",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=175,198"
+            }
+        },
+        "body": {
+            "type": "Dataset",
+            "frametrail:type": "location",
+            "format": "application/x-frametrail-location",
+            "source": "",
+            "frametrail:name": "Donetsk",
+            "frametrail:thumb": null,
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "lat": 48.0158,
+                "lon": 37.8028,
+                "zoom": 11,
+                "tileStyle": "dark",
+                "marker": {
+                    "show": true,
+                    "color": "#e0604f"
+                },
+                "controls": {
+                    "dragging": true,
+                    "scrollWheelZoom": false,
+                    "zoomControl": true
+                }
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-24T12:00:00.032Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ft-background"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/Sf6gJ8NDhYA",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=177,200"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/Donetsk",
+            "frametrail:name": "Donetsk",
+            "frametrail:thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/%D0%A1%D0%B2%D1%8F%D1%82%D0%BE-%D0%9F%D1%80%D0%B5%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%BE%D0%B1%D0%BE%D1%80_-_panoramio_%282%29.jpg/330px-%D0%A1%D0%B2%D1%8F%D1%82%D0%BE-%D0%9F%D1%80%D0%B5%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%BE%D0%B1%D0%BE%D1%80_-_panoramio_%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "articleUrl": "https://en.wikipedia.org/wiki/Donetsk",
+                "wikiLang": "en",
+                "dir": "ltr",
+                "description": "City in Donetsk Oblast, Ukraine",
+                "extract": "Donetsk (UK: , US: dən-; Ukrainian: Донецьк [doˈnɛtsʲk] ; Russian: Донецк [dɐˈnʲetsk] ), formerly known as Aleksandrovka, Yuzivka (or Hughesovka), Stalin, and Stalino, is an industrial city in eastern Ukraine located on the Kalmius River in Donetsk Oblast, which is currently occupied by Russia as the capital of the Donetsk People's Republic. The population was estimated at 901,645 (2022 estimate) in the city core, with over 2 million in the metropolitan area (2011). According to the 2001 census, Donetsk was the fifth-largest city in Ukraine.",
+                "extract_html": "<p><b>Donetsk</b> (UK: , US: <i title=\"English pronunciation respelling\">dən-</i>; Ukrainian: Донецьк [doˈnɛtsʲk] ; Russian: Донецк [dɐˈnʲetsk] ), formerly known as <b>Aleksandrovka</b>, <b>Yuzivka</b> (or <b>Hughesovka</b>), <b>Stalin</b>, and <b>Stalino</b>, is an industrial city in eastern Ukraine located on the Kalmius River in Donetsk Oblast, which is currently occupied by Russia as the capital of the Donetsk People's Republic. The population was estimated at 901,645 (2022 estimate) in the city core, with over 2 million in the metropolitan area (2011). According to the 2001 census, Donetsk was the fifth-largest city in Ukraine.</p>"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-24T12:00:00.033Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ft-background"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/Sf6gJ8NDhYA",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=194,216"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/Paris_Match",
+            "frametrail:name": "Paris Match",
+            "frametrail:thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Paris_Match_1981_logo.svg/330px-Paris_Match_1981_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "articleUrl": "https://en.wikipedia.org/wiki/Paris_Match",
+                "wikiLang": "en",
+                "dir": "ltr",
+                "description": "French weekly news magazine",
+                "extract": "Paris Match (French pronunciation: [paʁi matʃ]) is a French-language weekly magazine that features a mix of news and pop culture. It covers major national and international news along with celebrity lifestyle features and photo reporting. Paris Match has been considered \"one of the world's best outlets for photojournalism\". Its content quality was compared to the American magazine Life. Paris Match's original slogan was \"Le poids des mots, le choc des photos\" (\"The weight of words, the shock of photos\"), which was changed to \"Life is a true story\" in 2008. The magazine was sold by Lagardère to LVMH in 2024.",
+                "extract_html": "<p><i><b>Paris Match</b></i> (French pronunciation: [paʁi matʃ]) is a French-language weekly magazine that features a mix of news and pop culture. It covers major national and international news along with celebrity lifestyle features and photo reporting. <i>Paris Match</i> has been considered \"one of the world's best outlets for photojournalism\". Its content quality was compared to the American magazine <i>Life</i>. <i>Paris Match</i>'s original slogan was \"<i>Le poids des mots, le choc des photos</i>\" (\"The weight of words, the shock of photos\"), which was changed to \"Life is a true story\" in 2008. The magazine was sold by Lagardère to LVMH in 2024.</p>"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-24T12:00:00.034Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ft-source"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/Sf6gJ8NDhYA",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=195,218"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "webpage",
+            "format": "text/html",
+            "value": "https://www.parismatch.com/Actu/International/EXCLU-MATCH-Un-camion-vole-pour-transporter-le-systeme-lance-missiles-577289",
+            "frametrail:name": "Paris Match: the photograph of the stolen truck",
+            "frametrail:thumb": "https://images.ctfassets.net/iatfclnjf6rx/2iHOE4pEBKOW64Xz2eV0yM/aac6d9a2cf8611e7f2862525be8e7eab/EXCLU-MATCH-Un-camion-vole-pour-transporter-le-systeme-lance-missiles.jpg?w=1600",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "embed": "forbidden",
+                "description": "The magazine's own article with the picture of the truck and the launcher in Donetsk (in French)."
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-24T12:00:00.035Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ft-source"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/Sf6gJ8NDhYA",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=197,220"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "webpage",
+            "format": "text/html",
+            "value": "https://www.bellingcat.com/news/uk-and-europe/2015/01/17/new-images-of-the-mh17-buk-missile-launcher-in-ukraine-and-russia/",
+            "frametrail:name": "Bellingcat: New images of the launcher",
+            "frametrail:thumb": "https://www.bellingcat.com/app/uploads/2015/01/NtAx_E_cFSo.jpg",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "embed": "forbidden",
+                "description": "On the Paris Match picture, which turned out to be a frame of a video, and where it was taken."
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-24T12:00:00.036Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ft-source"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/Sf6gJ8NDhYA",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=199,222"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "webpage",
+            "format": "text/html",
+            "value": "https://ukraineatwar.blogspot.com/2015/09/suncalcing-buk-and-vostok-transport-to.html",
+            "frametrail:name": "Ukraine at War: timing the transport by its shadows",
+            "frametrail:thumb": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiB_xmKZ-fiI7wd_EfpnexsFJowDFKIn7AwSqEfOegS5GJq4Cls5-_q982wz__qpB6-uPxsL0IPJBbqBFiRk1ktiaJXPqc2bD26bUaYI00yYtHt4hnWNW0d7UvNfq1Xo3k9iAlgZyb8Zs/w1200-h630-p-k-no-nu/Paris+Match+shadows.JPG",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "embed": "allowed",
+                "description": "The blog that dated the Donetsk picture to about 10 to 10:15 in the morning from the shadows."
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-24T12:00:00.037Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ft-background"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/Sf6gJ8NDhYA",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=202,224"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/Dashcam",
+            "frametrail:name": "Dashcam",
+            "frametrail:thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Dashcams_P1210466.JPG/330px-Dashcams_P1210466.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "articleUrl": "https://en.wikipedia.org/wiki/Dashcam",
+                "wikiLang": "en",
+                "dir": "ltr",
+                "description": "Onboard camera that records through vehicle windows",
+                "extract": "A dashboard camera or simply dashcam, also known as car digital video recorder (car DVR), driving recorder, or event data recorder (EDR), is an onboard camera that continuously records the view through a vehicle's front windscreen and sometimes rear or other windows. Some dashcams include a camera to record the interior of the car in 360 degrees inside camera, usually in a ball form, and can automatically send pictures and video using mobile connectivity. In commercial fleets, dashcams are a core component of video telematics systems, which are a key technology used in the broader trend of fleet digitalization and referred to as AI Dashcams.",
+                "extract_html": "<p>A <b>dashboard camera</b> or simply <b>dashcam</b>, also known as <b>car digital video recorder</b> (<b>car DVR</b>), <b>driving recorder</b>, or <b>event data recorder</b> (<b>EDR</b>), is an onboard camera that continuously records the view through a vehicle's front windscreen and sometimes rear or other windows. Some dashcams include a camera to record the interior of the car in 360 degrees inside camera, usually in a ball form, and can automatically send pictures and video using mobile connectivity. In commercial fleets, dashcams are a core component of video telematics systems, which are a key technology used in the broader trend of fleet digitalization and referred to as AI Dashcams.</p>"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-24T12:00:00.038Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ft-background"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/Sf6gJ8NDhYA",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=214,236"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/Highway_H21_(Ukraine)",
+            "frametrail:name": "Highway H21",
+            "frametrail:thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Ukraine_road_h21.jpg/330px-Ukraine_road_h21.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "articleUrl": "https://en.wikipedia.org/wiki/Highway_H21_(Ukraine)",
+                "wikiLang": "en",
+                "dir": "ltr",
+                "description": "Highway in Ukraine",
+                "extract": "H21 is an important Ukraine national highway (H-highway) in the Donetsk Oblast and Luhansk Oblast of Donbas, Ukraine. It connects Donetsk through Luhansk with Starobilsk. The highway runs both, west–east between Donetsk and Luhansk, and south–north between Luhansk and Starobilsk. It passes either through or near Makiivka, Kolosnykove, Khartsyzk, Zuhres; Serdyte, Molodetske, and Shakhtarsk in Shakhtarsky; Torez, Snizhne, Miusynsk, Krasnyi Luch; Ivanivka and Malomykolaivka in Antratsitivsky; Myrne, Uspenka, Lutuhyne, and Heorhiivka in Lutuhynsky; Luhansk; Metalisk, Stukalova Balka, and Lyman-Tsvitni Pisky-Svitle in Slovianoserbsky; Shchastia; Mykhailivka in Troitsky; Novoaidar, Denezhnykove, and Peremorzhne-Shtormove in Novoaidarsky; Shul'hynka in Markivsky, Baidivke, and Polovynkyne in Starobilsky.",
+                "extract_html": "<p><b>H21</b> is an important Ukraine national highway (H-highway) in the Donetsk Oblast and Luhansk Oblast of Donbas, Ukraine. It connects Donetsk through Luhansk with Starobilsk. The highway runs both, west–east between Donetsk and Luhansk, and south–north between Luhansk and Starobilsk. It passes either through or near Makiivka, Kolosnykove, Khartsyzk, Zuhres; Serdyte, Molodetske, and Shakhtarsk in Shakhtarsky; Torez, Snizhne, Miusynsk, Krasnyi Luch; Ivanivka and Malomykolaivka in Antratsitivsky; Myrne, Uspenka, Lutuhyne, and Heorhiivka in Lutuhynsky; Luhansk; Metalisk, Stukalova Balka, and Lyman-Tsvitni Pisky-Svitle in Slovianoserbsky; Shchastia; Mykhailivka in Troitsky; Novoaidar, Denezhnykove, and Peremorzhne-Shtormove in Novoaidarsky; Shul'hynka in Markivsky, Baidivke, and Polovynkyne in Starobilsky.</p>"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-24T12:00:00.039Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ft-place"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/Sf6gJ8NDhYA",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=216,238"
+            }
+        },
+        "body": {
+            "type": "Dataset",
+            "frametrail:type": "location",
+            "format": "application/x-frametrail-location",
+            "source": "",
+            "frametrail:name": "Makiivka",
+            "frametrail:thumb": null,
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "lat": 48.0556,
+                "lon": 37.9611,
+                "zoom": 11,
+                "tileStyle": "dark",
+                "marker": {
+                    "show": true,
+                    "color": "#e0604f"
+                },
+                "controls": {
+                    "dragging": true,
+                    "scrollWheelZoom": false,
+                    "zoomControl": true
+                }
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-24T12:00:00.040Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ft-place"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/Sf6gJ8NDhYA",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=221,244"
+            }
+        },
+        "body": {
+            "type": "Dataset",
+            "frametrail:type": "location",
+            "format": "application/x-frametrail-location",
+            "source": "",
+            "frametrail:name": "Zuhres",
+            "frametrail:thumb": null,
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "lat": 48.0167,
+                "lon": 38.2667,
+                "zoom": 12,
+                "tileStyle": "dark",
+                "marker": {
+                    "show": true,
+                    "color": "#e0604f"
+                },
+                "controls": {
+                    "dragging": true,
+                    "scrollWheelZoom": false,
+                    "zoomControl": true
+                }
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-24T12:00:00.041Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ft-source"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/Sf6gJ8NDhYA",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=230,252"
+            }
+        },
+        "body": {
+            "type": "Video",
+            "frametrail:type": "youtube",
+            "format": "text/html",
+            "source": "https://www.youtube.com/embed/xK3tXzqais0",
+            "frametrail:name": "The sighting in Zuhres (Bellingcat's copy of the video)",
+            "frametrail:thumb": "https://img.youtube.com/vi/xK3tXzqais0/hqdefault.jpg",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {}
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-24T12:00:00.042Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ft-place"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/Sf6gJ8NDhYA",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=246,268"
+            }
+        },
+        "body": {
+            "type": "Dataset",
+            "frametrail:type": "location",
+            "format": "application/x-frametrail-location",
+            "source": "",
+            "frametrail:name": "Torez, today Chystiakove",
+            "frametrail:thumb": null,
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "lat": 48.0219,
+                "lon": 38.6264,
+                "zoom": 12,
+                "tileStyle": "dark",
+                "marker": {
+                    "show": true,
+                    "color": "#e0604f"
+                },
+                "controls": {
+                    "dragging": true,
+                    "scrollWheelZoom": false,
+                    "zoomControl": true
+                }
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-24T12:00:00.043Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ft-background"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/Sf6gJ8NDhYA",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=247,270"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/Chystiakove",
+            "frametrail:name": "Torez, today Chystiakove",
+            "frametrail:thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/%D0%AE%D0%BD%D0%BE%D1%81%D1%82%D1%8C-%D1%82%D0%BE%D1%80%D0%B5%D0%B7.jpg/330px-%D0%AE%D0%BD%D0%BE%D1%81%D1%82%D1%8C-%D1%82%D0%BE%D1%80%D0%B5%D0%B7.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "articleUrl": "https://en.wikipedia.org/wiki/Chystiakove",
+                "wikiLang": "en",
+                "dir": "ltr",
+                "description": "City in the Donbas region",
+                "extract": "Chystiakove (Ukrainian: Чистякове, IPA: [tʃɪsʲtʲɐˈkɔwe] ; Russian: Чистяково, romanized: Chistyakovo), formerly known as Torez (Ukrainian and Russian: Торез) is a city in Ukraine. The city is a center of the regional coal industry and much of its economy relies on mining, despite a recent drop in the number of employed miners. The city has a population of 53,462 (2022 estimate).",
+                "extract_html": "<p><b>Chystiakove</b> (Ukrainian: Чистякове, IPA: [tʃɪsʲtʲɐˈkɔwe] ; Russian: Чистяково, romanized: <i lang=\"ru-Latn\">Chistyakovo</i>), formerly known as <b>Torez</b> (Ukrainian and Russian: Торез) is a city in Ukraine. The city is a center of the regional coal industry and much of its economy relies on mining, despite a recent drop in the number of employed miners. The city has a population of 53,462 (2022 estimate).</p>"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-24T12:00:00.044Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ft-source"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/Sf6gJ8NDhYA",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=249,272"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "webpage",
+            "format": "text/html",
+            "value": "https://www.bellingcat.com/resources/case-studies/2014/07/17/geolocating-the-missile-launcher-linked-to-the-downing-of-mh17/",
+            "frametrail:name": "Bellingcat: geolocating the launcher in Torez and Snizhne",
+            "frametrail:thumb": "https://www.bellingcat.com/app/uploads/2014/07/bukmap4.jpg",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "embed": "forbidden",
+                "description": "Written on the day itself: where the first photograph and video of the launcher were taken."
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-24T12:00:00.045Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ft-source"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/Sf6gJ8NDhYA",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=251,274"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "webpage",
+            "format": "text/html",
+            "value": "https://www.theguardian.com/world/2014/jul/22/ukraine-sightings-missile-launcher-mh17",
+            "frametrail:name": "The Guardian: sightings of the launcher",
+            "frametrail:thumb": "https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2014/7/22/1406048288879/Buk-009.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMTQucG5n&enable=upscale&s=06a8d620c73fd7e916d69a73017330ef",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "embed": "forbidden",
+                "description": "Reporters who asked residents of Torez and Snizhne what they saw, five days later."
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-24T12:00:00.046Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ft-source"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/Sf6gJ8NDhYA",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=253,276"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "webpage",
+            "format": "text/html",
+            "value": "https://www.buzzfeed.com/maxseddon/locals-say-rebels-moved-missile-launcher-shortly-before-mala",
+            "frametrail:name": "BuzzFeed News: locals on the launcher",
+            "frametrail:thumb": "https://img.buzzfeed.com/buzzfeed-static/static/2014-07/22/13/enhanced/webdr09/original-10275-1406049580-3.jpg?crop=1024:679;0,1&resize=1250:830",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "embed": "forbidden",
+                "description": "A second team of reporters in Torez that week."
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-24T12:00:00.047Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ft-place"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/Sf6gJ8NDhYA",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=265,288"
+            }
+        },
+        "body": {
+            "type": "Dataset",
+            "frametrail:type": "location",
+            "format": "application/x-frametrail-location",
+            "source": "",
+            "frametrail:name": "Snizhne",
+            "frametrail:thumb": null,
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "lat": 48.0283,
+                "lon": 38.7656,
+                "zoom": 12,
+                "tileStyle": "dark",
+                "marker": {
+                    "show": true,
+                    "color": "#e0604f"
+                },
+                "controls": {
+                    "dragging": true,
+                    "scrollWheelZoom": false,
+                    "zoomControl": true
+                }
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-24T12:00:00.048Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ft-background"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/Sf6gJ8NDhYA",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=267,290"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/Snizhne",
+            "frametrail:name": "Snizhne",
+            "frametrail:thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Snezhnoe_011.jpg/330px-Snezhnoe_011.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "articleUrl": "https://en.wikipedia.org/wiki/Snizhne",
+                "wikiLang": "en",
+                "dir": "ltr",
+                "description": "City in Donetsk Oblast, Ukraine",
+                "extract": "Snizhne (Ukrainian: Сніжне, IPA: [s⁽ʲ⁾n⁽ʲ⁾iʒˈnɛ] ) or Snezhnoye (Russian: Снежное), formerly known as Vasylivka (Ukrainian: Василівка; Russian: Васильевка, romanized: Vasil'yevka) until 1864, is a city in Horlivka Raion, Donetsk Oblast, Ukraine. The eastern edge of Snizhne is adjacent to administrative border of Luhansk Oblast. Its population is 45,767 (2022 estimate).",
+                "extract_html": "<p><b>Snizhne</b> (Ukrainian: Сніжне, IPA: [s⁽ʲ⁾n⁽ʲ⁾iʒˈnɛ] ) or <b>Snezhnoye</b> (Russian: Снежное), formerly known as <b>Vasylivka</b> (Ukrainian: Василівка; Russian: Васильевка, romanized: <i lang=\"ru-Latn\">Vasil'yevka</i>) until 1864, is a city in Horlivka Raion, Donetsk Oblast, Ukraine. The eastern edge of Snizhne is adjacent to administrative border of Luhansk Oblast. Its population is 45,767 (2022 estimate).</p>"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-24T12:00:00.049Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ft-place"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/Sf6gJ8NDhYA",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=311,336"
+            }
+        },
+        "body": {
+            "type": "Dataset",
+            "frametrail:type": "location",
+            "format": "application/x-frametrail-location",
+            "source": "",
+            "frametrail:name": "Pervomaiskyi: the launch site is farmland beside the village",
+            "frametrail:thumb": null,
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "lat": 47.9714,
+                "lon": 38.7873,
+                "zoom": 12,
+                "tileStyle": "dark",
+                "marker": {
+                    "show": true,
+                    "color": "#e0604f"
+                },
+                "controls": {
+                    "dragging": true,
+                    "scrollWheelZoom": false,
+                    "zoomControl": true
+                }
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-24T12:00:00.050Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ft-source"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/Sf6gJ8NDhYA",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=313,338"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "webpage",
+            "format": "text/html",
+            "value": "https://www.bellingcat.com/news/uk-and-europe/2015/01/27/is-this-the-launch-site-of-the-missile-that-shot-down-flight-mh17/",
+            "frametrail:name": "Bellingcat: Is this the launch site?",
+            "frametrail:thumb": "https://www.bellingcat.com/app/uploads/2015/01/51.jpg",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "embed": "forbidden",
+                "description": "The open-source case for the field south of Snizhne, made in January 2015."
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-24T12:00:00.051Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ft-place"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/Sf6gJ8NDhYA",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=317,340"
+            }
+        },
+        "body": {
+            "type": "Dataset",
+            "frametrail:type": "location",
+            "format": "application/x-frametrail-location",
+            "source": "",
+            "frametrail:name": "Where MH17 came down, near Hrabove",
+            "frametrail:thumb": null,
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "lat": 48.1384,
+                "lon": 38.6392,
+                "zoom": 11,
+                "tileStyle": "dark",
+                "marker": {
+                    "show": true,
+                    "color": "#e0604f"
+                },
+                "controls": {
+                    "dragging": true,
+                    "scrollWheelZoom": false,
+                    "zoomControl": true
+                }
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-24T12:00:00.052Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ft-background"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/Sf6gJ8NDhYA",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=319,342"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/Hrabove,_Donetsk_Oblast",
+            "frametrail:name": "Hrabove",
+            "frametrail:thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/%D0%A3%D1%80%D0%BE%D1%87%D0%B8%D1%89%D0%B5_%D0%93%D1%80%D0%B0%D0%B1%D0%BE%D0%B2%D0%B5%2C_%D0%93%D1%80%D0%B0%D0%B1%D1%96%D0%B2%D1%81%D1%8C%D0%BA%D0%B5_%D0%B2%D0%BE%D0%B4%D0%BE%D1%81%D1%85%D0%BE%D0%B2%D0%B8%D1%89%D0%B5.jpg/330px-%D0%A3%D1%80%D0%BE%D1%87%D0%B8%D1%89%D0%B5_%D0%93%D1%80%D0%B0%D0%B1%D0%BE%D0%B2%D0%B5%2C_%D0%93%D1%80%D0%B0%D0%B1%D1%96%D0%B2%D1%81%D1%8C%D0%BA%D0%B5_%D0%B2%D0%BE%D0%B4%D0%BE%D1%81%D1%85%D0%BE%D0%B2%D0%B8%D1%89%D0%B5.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "articleUrl": "https://en.wikipedia.org/wiki/Hrabove,_Donetsk_Oblast",
+                "wikiLang": "en",
+                "dir": "ltr",
+                "description": "Village in Donetsk Oblast, Ukraine",
+                "extract": "Hrabove (Ukrainian: Грабове, also spelled as Grabove), also known as Grabovo (Russian: Грабово, romanized: Grabovo) is a village in Horlivka Raion, Donetsk Oblast, eastern Ukraine. Its population was 1,000 as of the 2001 Ukrainian census. It is known for being the crash site of Malaysia Airlines Flight 17, which was shot down by Igor Girkin, Sergey Dubinsky, and Leonid Kharchenko, and crashed in the south of the village.",
+                "extract_html": "<p><b>Hrabove</b> (Ukrainian: Грабове, also spelled as <i><b>Grabove</b></i>), also known as <b>Grabovo</b> (Russian: Грабово, romanized: <i lang=\"ru-Latn\">Grabovo</i>) is a village in Horlivka Raion, Donetsk Oblast, eastern Ukraine. Its population was 1,000 as of the 2001 Ukrainian census. It is known for being the crash site of Malaysia Airlines Flight 17, which was shot down by Igor Girkin, Sergey Dubinsky, and Leonid Kharchenko, and crashed in the south of the village.</p>"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-24T12:00:00.053Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ft-background"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/Sf6gJ8NDhYA",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=325,348"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/Dutch_Safety_Board",
+            "frametrail:name": "Dutch Safety Board",
+            "frametrail:thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Logo_of_the_Dutch_Safety_Board.svg/330px-Logo_of_the_Dutch_Safety_Board.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "articleUrl": "https://en.wikipedia.org/wiki/Dutch_Safety_Board",
+                "wikiLang": "en",
+                "dir": "ltr",
+                "description": "Government safety authority",
+                "extract": "The Dutch Safety Board (DSB; Dutch: Onderzoeksraad voor Veiligheid, OVV, literally \"Investigation Council for Safety\") is the official body that investigates a wide variety of safety matters in the Netherlands. It is based in The Hague.",
+                "extract_html": "<p>The <b>Dutch Safety Board</b> (<b>DSB</b>; Dutch: <i lang=\"nl\">Onderzoeksraad voor Veiligheid</i>, OVV, literally \"Investigation Council for Safety\") is the official body that investigates a wide variety of safety matters in the Netherlands. It is based in The Hague.</p>"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-24T12:00:00.054Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ft-source"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/Sf6gJ8NDhYA",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=327,350"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "webpage",
+            "format": "text/html",
+            "value": "https://onderzoeksraad.nl/en/onderzoek/crash-mh17-17-july-2014/",
+            "frametrail:name": "Dutch Safety Board: the crash of MH17",
+            "frametrail:thumb": null,
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "embed": "forbidden",
+                "description": "The safety investigation of 2015, which had narrowed the launch to an area of 320 square kilometres."
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-24T12:00:00.055Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ft-source"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/Sf6gJ8NDhYA",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=346,370"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "webpage",
+            "format": "text/html",
+            "value": "https://www.bellingcat.com/news/uk-and-europe/2015/07/16/in-their-own-words/",
+            "frametrail:name": "Bellingcat: MH17 in their own words",
+            "frametrail:thumb": "https://www.bellingcat.com/app/uploads/2015/07/425snizhne.jpg",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "embed": "forbidden",
+                "description": "What residents wrote on social media that afternoon, collected a year later."
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-24T12:00:00.056Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ft-source"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/Sf6gJ8NDhYA",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=352,376"
+            }
+        },
+        "body": {
+            "type": "Video",
+            "frametrail:type": "youtube",
+            "format": "text/html",
+            "source": "https://www.youtube.com/embed/SkCcCmYlMZc",
+            "frametrail:name": "Radio chatter from Torez, Shakhtarsk and Snizhne, 17 July 2014",
+            "frametrail:thumb": "https://img.youtube.com/vi/SkCcCmYlMZc/hqdefault.jpg",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {}
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-24T12:00:00.057Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ft-background"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/Sf6gJ8NDhYA",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=354,376"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/Zello",
+            "frametrail:name": "Zello",
+            "frametrail:thumb": null,
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "articleUrl": "https://en.wikipedia.org/wiki/Zello",
+                "wikiLang": "en",
+                "dir": "ltr",
+                "description": "Software development company",
+                "extract": "Zello is a tech software company in Austin, Texas, U.S., known for the Zello app, which emulates push-to-talk (PTT) walkie-talkies over cell phone networks.",
+                "extract_html": "<p><b>Zello</b> is a tech software company in Austin, Texas, U.S., known for the Zello app, which emulates push-to-talk (PTT) walkie-talkies over cell phone networks.</p>"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-24T12:00:00.058Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ft-background"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/Sf6gJ8NDhYA",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=379,400"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/Contrail",
+            "frametrail:name": "Contrail",
+            "frametrail:thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Jet-contrails-tokyosky-japan-2018.webm/330px--Jet-contrails-tokyosky-japan-2018.webm.jpg",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "articleUrl": "https://en.wikipedia.org/wiki/Contrail",
+                "wikiLang": "en",
+                "dir": "ltr",
+                "description": "Long, thin artificial clouds that sometimes form behind aircraft",
+                "extract": "Contrails (; short for \"condensation trails\") or vapour trails are line-shaped clouds produced by aircraft engine exhaust or changes in air pressure, typically at aircraft cruising altitudes several kilometres/miles above the Earth's surface. They are composed primarily of water, in the form of ice crystals. The combination of water vapor in aircraft engine exhaust and the low ambient temperatures at high altitudes cause the trails' formation.",
+                "extract_html": "<p><b>Contrails</b> (; short for \"condensation trails\") or <b>vapour trails</b> are line-shaped clouds produced by aircraft engine exhaust or changes in air pressure, typically at aircraft cruising altitudes several kilometres/miles above the Earth's surface. They are composed primarily of water, in the form of ice crystals. The combination of water vapor in aircraft engine exhaust and the low ambient temperatures at high altitudes cause the trails' formation.</p>"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-24T12:00:00.059Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ft-source"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/Sf6gJ8NDhYA",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=388,412"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "urlpreview",
+            "format": "text/html",
+            "source": "https://x.com/WowihaY/status/489807649509478400",
+            "frametrail:name": "The photograph of the smoke trail, posted that afternoon",
+            "frametrail:thumb": null,
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "originalType": "xtwitter",
+                "description": "свидетель скинул фотку момента пуска ракеты.На горизонте канатная дорога между Лутугина и Цоф #Торез граница #Снежное pic.twitter.com/Z3mBtLjWfa",
+                "html": "<blockquote class=\"twitter-tweet\" data-dnt=\"true\"><p lang=\"ru\" dir=\"ltr\">свидетель скинул фотку момента пуска ракеты.На горизонте канатная дорога между Лутугина и Цоф <a href=\"https://x.com/hashtag/%D0%A2%D0%BE%D1%80%D0%B5%D0%B7?src=hash&amp;ref_src=twsrc%5Etfw\">#Торез</a> граница <a href=\"https://x.com/hashtag/%D0%A1%D0%BD%D0%B5%D0%B6%D0%BD%D0%BE%D0%B5?src=hash&amp;ref_src=twsrc%5Etfw\">#Снежное</a> <a href=\"http://t.co/Z3mBtLjWfa\">pic.twitter.com/Z3mBtLjWfa</a></p>&mdash; Мізоруϟϟія в армії 🇺🇦|🇪🇺| (@WowihaY) <a href=\"https://x.com/WowihaY/status/489807649509478400?ref_src=twsrc%5Etfw\">July 17, 2014</a></blockquote>"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-24T12:00:00.060Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ft-source"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/Sf6gJ8NDhYA",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=390,428"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "webpage",
+            "format": "text/html",
+            "value": "https://www.rtlnieuws.nl/nieuws/binnenland/hoe-onderzocht-rtl-nieuws-de-nieuwe-mh17-fotos",
+            "frametrail:name": "RTL Nieuws: how the photographs were examined",
+            "frametrail:thumb": null,
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "embed": "forbidden",
+                "description": "The Dutch broadcaster that obtained the original files and had them examined (in Dutch)."
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-24T12:00:00.061Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ft-background"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/Sf6gJ8NDhYA",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=395,418"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/Netherlands_Forensic_Institute",
+            "frametrail:name": "Netherlands Forensic Institute",
+            "frametrail:thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Nederlands_Forensisch_Instituut.jpg/330px-Nederlands_Forensisch_Instituut.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "articleUrl": "https://en.wikipedia.org/wiki/Netherlands_Forensic_Institute",
+                "wikiLang": "en",
+                "dir": "ltr",
+                "description": "",
+                "extract": "The Netherlands Forensic Institute (Dutch Nederlands Forensisch Instituut) is the national forensics institute of the Netherlands, located in the Ypenburg quarter of The Hague. It is a agency of the Dutch Ministry of Justice and Security and falls under the Directorate-General for the Administration of Justice and Law Enforcement.",
+                "extract_html": "<p>The <b>Netherlands Forensic Institute</b> (Dutch <i>Nederlands Forensisch Instituut</i>) is the national forensics institute of the Netherlands, located in the Ypenburg quarter of The Hague.</p><p>It is a agency of the Dutch Ministry of Justice and Security and falls under the Directorate-General for the Administration of Justice and Law Enforcement.</p>"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-24T12:00:00.062Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ft-background"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/Sf6gJ8NDhYA",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=404,430"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/Royal_Netherlands_Meteorological_Institute",
+            "frametrail:name": "Royal Netherlands Meteorological Institute",
+            "frametrail:thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/FS_IMG_8907_KNMI.jpg/330px-FS_IMG_8907_KNMI.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "articleUrl": "https://en.wikipedia.org/wiki/Royal_Netherlands_Meteorological_Institute",
+                "wikiLang": "en",
+                "dir": "ltr",
+                "description": "Research institute",
+                "extract": "The Royal Netherlands Meteorological Institute (Dutch: Koninklijk Nederlands Meteorologisch Instituut, pronounced [ˈkoːnɪŋklək ˈneːdərlɑnts ˌmeːteːjoːroːˈloːɣis ɪnstiˈtyt]; KNMI) is the Dutch national weather forecasting service, which has its headquarters in De Bilt, in the province of Utrecht, central Netherlands.",
+                "extract_html": "<p>The <b>Royal Netherlands Meteorological Institute</b> (Dutch: <i lang=\"nl\">Koninklijk Nederlands Meteorologisch Instituut</i>, pronounced [ˈkoːnɪŋklək ˈneːdərlɑnts ˌmeːteːjoːroːˈloːɣis ɪnstiˈtyt]; <b>KNMI</b>) is the Dutch national weather forecasting service, which has its headquarters in De Bilt, in the province of Utrecht, central Netherlands.</p>"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-24T12:00:00.063Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ft-background"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/Sf6gJ8NDhYA",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=429,450"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/Triangulation",
+            "frametrail:name": "Triangulation",
+            "frametrail:thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Mountain_height_by_triangulation.svg/330px-Mountain_height_by_triangulation.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "articleUrl": "https://en.wikipedia.org/wiki/Triangulation",
+                "wikiLang": "en",
+                "dir": "ltr",
+                "description": "Method of determining a location",
+                "extract": "In trigonometry and geometry, triangulation is the process of determining the location of a point by forming triangles to the point from known points.",
+                "extract_html": "<p>In trigonometry and geometry, <b>triangulation</b> is the process of determining the location of a point by forming triangles to the point from known points.</p>"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-24T12:00:00.064Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ft-source"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/Sf6gJ8NDhYA",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=431,454"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "webpage",
+            "format": "text/html",
+            "value": "https://ukraineatwar.blogspot.com/2014/07/exact-location-pinpointed-of-mh17.html",
+            "frametrail:name": "Ukraine at War: the launch site pinpointed",
+            "frametrail:thumb": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiD4sGzsAaNWQg4qjZ-l90_1CYkuGbb6cF2eXpGZCOs_Hxz_vCDhrvMjkxqxc-flNCmfVIRaS08NbMyUoAOYi2JPVHxom_XGjAY96MPUO6eu-XBGl0McW5ySyAjUbmAou3H0pFopNMobyk/w1200-h630-p-k-no-nu/missile+trail+12.jpg",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "embed": "allowed",
+                "description": "The blog that drew the same lines from the photograph within days of the crash."
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-24T12:00:00.065Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ft-source"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/Sf6gJ8NDhYA",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=450,476"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "webpage",
+            "format": "text/html",
+            "value": "https://www.prosecutionservice.nl/topics/mh17-plane-crash/criminal-investigation-jit-mh17/jit-presentation-first-results-mh17-criminal-investigation-28-9-2016",
+            "frametrail:name": "The team on its intercepted calls",
+            "frametrail:thumb": "https://www.prosecutionservice.nl/openGraphImage/%2Ftopics%2Fm%2Fmh17-plane-crash%2Fcriminal-investigation-jit-mh17%2Fjit-presentation-first-results-mh17-criminal-investigation-28-9-2016.png",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "embed": "forbidden",
+                "description": "The presentation of 28 September 2016, with the calls the team made public that day."
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-24T12:00:00.066Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ft-background"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/Sf6gJ8NDhYA",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=481,502"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/Mobile_phone_tracking",
+            "frametrail:name": "Mobile phone tracking",
+            "frametrail:thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Indoor_location_services_on_mobile_phone_%2810928087126%29.jpg/330px-Indoor_location_services_on_mobile_phone_%2810928087126%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "articleUrl": "https://en.wikipedia.org/wiki/Mobile_phone_tracking",
+                "wikiLang": "en",
+                "dir": "ltr",
+                "description": "Identifying the location of a mobile phone",
+                "extract": "Mobile phone tracking is a process for identifying the location of a mobile phone, whether stationary or moving. Localization may be effected by a number of technologies, such as the multilateration of radio signals between (several) cell towers of the network and the phone or by simply using GPS tracking. To locate a mobile phone using multilateration of mobile radio signals, the phone must emit at least the idle signal to contact nearby antenna towers and does not require an active call. The Global System for Mobile Communications (GSM) is based on the phone's signal strength to nearby antenna masts.",
+                "extract_html": "<p><b>Mobile phone tracking</b> is a process for identifying the location of a mobile phone, whether stationary or moving. Localization may be effected by a number of technologies, such as the multilateration of radio signals between (several) cell towers of the network and the phone or by simply using GPS tracking. To locate a mobile phone using multilateration of mobile radio signals, the phone must emit at least the idle signal to contact nearby antenna towers and does not require an active call. The Global System for Mobile Communications (GSM) is based on the phone's signal strength to nearby antenna masts.</p>"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-24T12:00:00.067Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ft-source"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/Sf6gJ8NDhYA",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=499,522"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "webpage",
+            "format": "text/html",
+            "value": "https://www.telegraph.co.uk/news/worldnews/europe/ukraine/10984530/MH17-the-clues-which-may-lead-to-missile-launch-site.html",
+            "frametrail:name": "The Daily Telegraph: the clues to the launch site",
+            "frametrail:thumb": "https://www.telegraph.co.uk/multimedia/archive/02983/chrism_jpg_2983581c.jpg",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "embed": "forbidden",
+                "description": "Roland Oliphant's report from the burnt corner of the field, five days after the crash."
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-24T12:00:00.068Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ft-source"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/Sf6gJ8NDhYA",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=501,524"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "webpage",
+            "format": "text/html",
+            "value": "https://mashable.com/2015/07/15/mh17-missile-launch-site/",
+            "frametrail:name": "Mashable: how MH17 was brought down",
+            "frametrail:thumb": "https://helios-i.mashable.com/imagery/archives/02p7ATwY6iHj5K2d0DTNOdN/hero-image.fill.size_1200x675.1.jpg",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "embed": "allowed",
+                "description": "Christopher Miller's return to the field and its neighbours a year later."
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-24T12:00:00.069Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ft-source"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/Sf6gJ8NDhYA",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=512,540"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "webpage",
+            "format": "text/html",
+            "value": "https://mh17.correctiv.org/english/",
+            "frametrail:name": "Correctiv: Flight MH17, searching for the truth",
+            "frametrail:thumb": null,
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "embed": "allowed",
+                "description": "The German newsroom that went to the places of the route and spoke to residents."
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-24T12:00:00.070Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ft-background"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/Sf6gJ8NDhYA",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=539,562"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/DigitalGlobe",
+            "frametrail:name": "DigitalGlobe",
+            "frametrail:thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/DigitalGlobe_ring_logo.svg/330px-DigitalGlobe_ring_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "articleUrl": "https://en.wikipedia.org/wiki/DigitalGlobe",
+                "wikiLang": "en",
+                "dir": "ltr",
+                "description": "American space imagery company",
+                "extract": "DigitalGlobe (formerly EarthWatch) was an American commercial vendor of space imagery and geospatial content, and operator of civilian remote sensing spacecraft. The company went public on the New York Stock Exchange on 14 May 2009, selling 14.7 million shares at US$19.00 each to raise US$279 million in capital. On 5 October 2017, Maxar Technologies completed its acquisition of DigitalGlobe.",
+                "extract_html": "<p><b>DigitalGlobe</b> (formerly <b>EarthWatch</b>) was an American commercial vendor of space imagery and geospatial content, and operator of civilian remote sensing spacecraft. The company went public on the New York Stock Exchange on 14 May 2009, selling 14.7 million shares at US$19.00 each to raise US$279 million in capital. On 5 October 2017, Maxar Technologies completed its acquisition of DigitalGlobe.</p>"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-24T12:00:00.071Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ft-background"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/Sf6gJ8NDhYA",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=541,564"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/Satellite_imagery",
+            "frametrail:name": "Satellite imagery",
+            "frametrail:thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/First_photo_from_space.jpg/330px-First_photo_from_space.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "articleUrl": "https://en.wikipedia.org/wiki/Satellite_imagery",
+                "wikiLang": "en",
+                "dir": "ltr",
+                "description": "Images taken from an artificial satellite",
+                "extract": "Satellite images (also Earth observation imagery, spaceborne photography, or simply satellite photo) are images of Earth collected by imaging satellites operated by governments and businesses around the world. Satellite imaging companies sell images by licensing them to governments and businesses such as Apple Maps and Google Maps.",
+                "extract_html": "<p><b>Satellite images</b> (also <b>Earth observation imagery</b>, <b>spaceborne photography</b>, or simply <b>satellite photo</b>) are images of Earth collected by imaging satellites operated by governments and businesses around the world. Satellite imaging companies sell images by licensing them to governments and businesses such as Apple Maps and Google Maps.</p>"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-24T12:00:00.072Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ft-background"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/Sf6gJ8NDhYA",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=566,590"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/Continuous_track",
+            "frametrail:name": "Caterpillar track",
+            "frametrail:thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Caterpillar_track_shingle.JPG/330px-Caterpillar_track_shingle.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "articleUrl": "https://en.wikipedia.org/wiki/Continuous_track",
+                "wikiLang": "en",
+                "dir": "ltr",
+                "description": "System of vehicle propulsion",
+                "extract": "A continuous track or tracked treads are a system of vehicle propulsion used in tracked vehicles, running on a continuous band of treads or track plates driven by two or more wheels. The large surface area of the tracks distributes the weight of the vehicle better than steel or rubber tyres on an equivalent vehicle, enabling continuous tracked vehicles to traverse soft ground with less likelihood of becoming stuck due to sinking.",
+                "extract_html": "<p>A <b>continuous track</b> or <b>tracked treads</b> are a system of vehicle propulsion used in <b>tracked vehicles</b>, running on a continuous band of treads or track plates driven by two or more wheels. The large surface area of the tracks distributes the weight of the vehicle better than steel or rubber tyres on an equivalent vehicle, enabling continuous tracked vehicles to traverse soft ground with less likelihood of becoming stuck due to sinking.</p>"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-24T12:00:00.073Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ft-background"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/Sf6gJ8NDhYA",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=584,608"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/Signals_intelligence",
+            "frametrail:name": "Signals intelligence",
+            "frametrail:thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Menwith-hill-radomes.jpg/330px-Menwith-hill-radomes.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "articleUrl": "https://en.wikipedia.org/wiki/Signals_intelligence",
+                "wikiLang": "en",
+                "dir": "ltr",
+                "description": "Intelligence-gathering by interception of signals",
+                "extract": "Signals intelligence (SIGINT) is the act and field of intelligence-gathering by interception of signals, whether communications between people (communications intelligence—abbreviated to COMINT) or from electronic signals not directly used in communication (electronic intelligence—abbreviated to ELINT). As classified and sensitive information is usually encrypted, signals intelligence may necessarily involve cryptanalysis (to decipher the messages). Traffic analysis—the study of who is signaling to whom and in what quantity—is also used to integrate information, and it may complement cryptanalysis.",
+                "extract_html": "<p><b>Signals intelligence</b> (<b>SIGINT</b>) is the act and field of intelligence-gathering by interception of <i>signals</i>, whether communications between people (<b>communications intelligence</b>—abbreviated to <b>COMINT</b>) or from electronic signals not directly used in communication (<b>electronic intelligence</b>—abbreviated to <b>ELINT</b>). As classified and sensitive information is usually encrypted, signals intelligence may necessarily involve cryptanalysis (to decipher the messages). Traffic analysis—the study of who is signaling to whom and in what quantity—is also used to integrate information, and it may complement cryptanalysis.</p>"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-24T12:00:00.074Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ft-place"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/Sf6gJ8NDhYA",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=596,616"
+            }
+        },
+        "body": {
+            "type": "Dataset",
+            "frametrail:type": "location",
+            "format": "application/x-frametrail-location",
+            "source": "",
+            "frametrail:name": "Snizhne, where the launcher was loaded again that night",
+            "frametrail:thumb": null,
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "lat": 48.0283,
+                "lon": 38.7656,
+                "zoom": 12,
+                "tileStyle": "dark",
+                "marker": {
+                    "show": true,
+                    "color": "#e0604f"
+                },
+                "controls": {
+                    "dragging": true,
+                    "scrollWheelZoom": false,
+                    "zoomControl": true
+                }
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-24T12:00:00.075Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ft-place"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/Sf6gJ8NDhYA",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=607,630"
+            }
+        },
+        "body": {
+            "type": "Dataset",
+            "frametrail:type": "location",
+            "format": "application/x-frametrail-location",
+            "source": "",
+            "frametrail:name": "Krasnyi Luch, today Khrustalnyi",
+            "frametrail:thumb": null,
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "lat": 48.1333,
+                "lon": 38.9333,
+                "zoom": 11,
+                "tileStyle": "dark",
+                "marker": {
+                    "show": true,
+                    "color": "#e0604f"
+                },
+                "controls": {
+                    "dragging": true,
+                    "scrollWheelZoom": false,
+                    "zoomControl": true
+                }
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-24T12:00:00.076Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ft-place"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/Sf6gJ8NDhYA",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=609,632"
+            }
+        },
+        "body": {
+            "type": "Dataset",
+            "frametrail:type": "location",
+            "format": "application/x-frametrail-location",
+            "source": "",
+            "frametrail:name": "Debaltseve",
+            "frametrail:thumb": null,
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "lat": 48.3333,
+                "lon": 38.4,
+                "zoom": 11,
+                "tileStyle": "dark",
+                "marker": {
+                    "show": true,
+                    "color": "#e0604f"
+                },
+                "controls": {
+                    "dragging": true,
+                    "scrollWheelZoom": false,
+                    "zoomControl": true
+                }
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-24T12:00:00.077Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ft-place"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/Sf6gJ8NDhYA",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=614,638"
+            }
+        },
+        "body": {
+            "type": "Dataset",
+            "frametrail:type": "location",
+            "format": "application/x-frametrail-location",
+            "source": "",
+            "frametrail:name": "Luhansk",
+            "frametrail:thumb": null,
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "lat": 48.5678,
+                "lon": 39.3031,
+                "zoom": 11,
+                "tileStyle": "dark",
+                "marker": {
+                    "show": true,
+                    "color": "#e0604f"
+                },
+                "controls": {
+                    "dragging": true,
+                    "scrollWheelZoom": false,
+                    "zoomControl": true
+                }
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-24T12:00:00.078Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ft-source"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/Sf6gJ8NDhYA",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=615,640"
+            }
+        },
+        "body": {
+            "type": "Video",
+            "frametrail:type": "youtube",
+            "format": "text/html",
+            "source": "https://www.youtube.com/embed/L4HJmev5xg0",
+            "frametrail:name": "The Luhansk video, as Ukraine's interior ministry published it",
+            "frametrail:thumb": "https://img.youtube.com/vi/L4HJmev5xg0/hqdefault.jpg",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {}
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-24T12:00:00.079Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ft-source"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/Sf6gJ8NDhYA",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=617,642"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "webpage",
+            "format": "text/html",
+            "value": "https://www.bellingcat.com/news/uk-and-europe/2015/05/29/whos-lying-an-in-depth-analysis-of-the-luhansk-buk-video/",
+            "frametrail:name": "Bellingcat: Who is lying? The Luhansk video examined",
+            "frametrail:thumb": "https://www.bellingcat.com/app/uploads/2015/05/vandalism.jpg",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "embed": "forbidden",
+                "description": "Where the video was filmed, against the Russian defence ministry's claim that it was elsewhere."
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-24T12:00:00.080Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ft-background"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/Sf6gJ8NDhYA",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=619,642"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/Ministry_of_Internal_Affairs_(Ukraine)",
+            "frametrail:name": "Ukraine's Ministry of Internal Affairs",
+            "frametrail:thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/%D0%93%D0%B5%D1%80%D0%B0%D0%BB%D1%8C%D0%B4%D0%B8%D1%87%D0%BD%D0%B8%D0%B9_%D0%B7%D0%BD%D0%B0%D0%BA_-_%D0%B5%D0%BC%D0%B1%D0%BB%D0%B5%D0%BC%D0%B0_%D0%9C%D0%92%D0%A1_%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B8.svg/330px-%D0%93%D0%B5%D1%80%D0%B0%D0%BB%D1%8C%D0%B4%D0%B8%D1%87%D0%BD%D0%B8%D0%B9_%D0%B7%D0%BD%D0%B0%D0%BA_-_%D0%B5%D0%BC%D0%B1%D0%BB%D0%B5%D0%BC%D0%B0_%D0%9C%D0%92%D0%A1_%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B8.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "articleUrl": "https://en.wikipedia.org/wiki/Ministry_of_Internal_Affairs_(Ukraine)",
+                "wikiLang": "en",
+                "dir": "ltr",
+                "description": "Ukrainian government ministry",
+                "extract": "The Ministry of Internal Affairs of Ukraine (Ukrainian: Міністерство внутрішніх справ України, romanized: Ministerstvo vnutrishnikh sprav Ukrainy; pronounced [min⁽ʲ⁾iˈstɛrstwo ˈu̯nut⁽ʲ⁾r⁽ʲ⁾iʃn⁽ʲ⁾ix ˈsprɑu̯ ʊkrɐˈjinɪ]; MVS) is the ministry of the Ukrainian government that oversees the interior affairs of Ukraine.",
+                "extract_html": "<p>The <b>Ministry of Internal Affairs of Ukraine</b> (Ukrainian: Міністерство внутрішніх справ України, romanized: <i lang=\"uk-Latn\">Ministerstvo vnutrishnikh sprav Ukrainy</i>; pronounced [min⁽ʲ⁾iˈstɛrstwo ˈu̯nut⁽ʲ⁾r⁽ʲ⁾iʃn⁽ʲ⁾ix ˈsprɑu̯ ʊkrɐˈjinɪ]; <i><b>MVS</b></i>) is the ministry of the Ukrainian government that oversees the interior affairs of Ukraine.</p>"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-24T12:00:00.081Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ft-source"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/Sf6gJ8NDhYA",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=627,652"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "webpage",
+            "format": "text/html",
+            "value": "https://www.bellingcat.com/news/uk-and-europe/2014/07/18/buk-transporter-filmed-heading-to-russia-sighted-in-an-earlier-photograph/",
+            "frametrail:name": "Bellingcat: the transporter filmed heading to Russia",
+            "frametrail:thumb": "https://www.bellingcat.com/app/uploads/2014/07/buk-possible-site.jpg.jpg",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "embed": "forbidden",
+                "description": "Written the day after: the same truck in the Luhansk video and in the pictures of the day before."
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-24T12:00:00.082Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ft-source"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/Sf6gJ8NDhYA",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=630,656"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "webpage",
+            "format": "text/html",
+            "value": "https://www.bellingcat.com/app/uploads/2015/10/MH17-The-Open-Source-Evidence-EN.pdf",
+            "frametrail:name": "Bellingcat's report: MH17, the open source evidence",
+            "frametrail:thumb": null,
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "embed": "forbidden",
+                "description": ""
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-24T12:00:00.083Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ft-source"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/Sf6gJ8NDhYA",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=634,660"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "webpage",
+            "format": "text/html",
+            "value": "https://www.bellingcat.com/news/uk-and-europe/2015/05/13/tracking-the-trailers-investigation-of-mh17-buks-russian-convoy/",
+            "frametrail:name": "Bellingcat: Tracking the trailers",
+            "frametrail:thumb": "https://www.bellingcat.com/app/uploads/2015/05/buk-convoy.jpg",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "embed": "forbidden",
+                "description": "The Russian convoy the launcher had come with, followed from Kursk to the border in June 2014."
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-24T12:00:00.084Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ft-background"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/Sf6gJ8NDhYA",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=650,676"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/Lawful_interception",
+            "frametrail:name": "Intercepting telephone calls",
+            "frametrail:thumb": null,
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "articleUrl": "https://en.wikipedia.org/wiki/Lawful_interception",
+                "wikiLang": "en",
+                "dir": "ltr",
+                "description": "Permission for law enforcement to wiretap subscribers",
+                "extract": "Lawful interception (LI) refers to the facilities in telecommunications and telephone networks that allow law enforcement agencies with court orders or other legal authorization to selectively wiretap individual subscribers. Most countries require licensed telecommunications operators to provide their networks with Legal Interception gateways and nodes for the interception of communications. The interfaces of these gateways have been standardized by telecommunication standardization organizations. As with many law enforcement tools, LI systems may be subverted for illicit purposes.",
+                "extract_html": "<p><b>Lawful interception</b> (<b>LI</b>) refers to the facilities in telecommunications and telephone networks that allow law enforcement agencies with court orders or other legal authorization to selectively wiretap individual subscribers. Most countries require licensed telecommunications operators to provide their networks with Legal Interception gateways and nodes for the interception of communications. The interfaces of these gateways have been standardized by telecommunication standardization organizations. As with many law enforcement tools, LI systems may be subverted for illicit purposes.</p>"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-24T12:00:00.085Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ft-background"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/Sf6gJ8NDhYA",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=669,694"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/Igor_Girkin",
+            "frametrail:name": "Igor Girkin, known as Strelkov",
+            "frametrail:thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Igor_Ivanovich_Strelkov_Yekaterinburg3.JPG/330px-Igor_Ivanovich_Strelkov_Yekaterinburg3.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "articleUrl": "https://en.wikipedia.org/wiki/Igor_Girkin",
+                "wikiLang": "en",
+                "dir": "ltr",
+                "description": "Russian intelligence officer and militant leader (born 1970)",
+                "extract": "Igor Vsevolodovich Girkin (Russian: Игорь Всеволодович Гиркин, IPA: [ˈiɡərʲ ˈfsʲevələdəvʲɪdʑ ˈɡʲirkʲɪn]; born 17 December 1970), also known by the alias Igor Ivanovich Strelkov (Russian: Игорь Иванович Стрелков, IPA: [ˈiɡərʲ ɪˈvanəvʲɪtɕ strʲɪlˈkof]), is a Russian army veteran and former Federal Security Service (FSB) officer who played a key role in the Russian annexation of Crimea, and then in the Donbas War as an organizer of militant groups in the Donetsk People's Republic (DPR). In 2024 he was convicted on charges of inciting extremism. Earlier he received a life sentence in absentia in the Netherlands for his role in downing the Malaysia Airlines Flight 17.",
+                "extract_html": "<p><b>Igor Vsevolodovich Girkin</b> (Russian: Игорь Всеволодович Гиркин, IPA: [ˈiɡərʲ ˈfsʲevələdəvʲɪdʑ ˈɡʲirkʲɪn]; born 17 December 1970), also known by the alias <b>Igor Ivanovich Strelkov</b> (Russian: Игорь Иванович Стрелков, IPA: [ˈiɡərʲ ɪˈvanəvʲɪtɕ strʲɪlˈkof]), is a Russian army veteran and former Federal Security Service (FSB) officer who played a key role in the Russian annexation of Crimea, and then in the Donbas War as an organizer of militant groups in the Donetsk People's Republic (DPR). In 2024 he was convicted on charges of inciting extremism. Earlier he received a life sentence <i>in absentia</i> in the Netherlands for his role in downing the Malaysia Airlines Flight 17.</p>"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-24T12:00:00.086Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ft-source"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/Sf6gJ8NDhYA",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=690,716"
+            }
+        },
+        "body": {
+            "type": "Video",
+            "frametrail:type": "youtube",
+            "format": "text/html",
+            "source": "https://www.youtube.com/embed/nMS3yVJ2h3Y",
+            "frametrail:name": "The team's film on the forensic investigation",
+            "frametrail:thumb": "https://img.youtube.com/vi/nMS3yVJ2h3Y/hqdefault.jpg",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {}
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-24T12:00:00.087Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ft-source"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/Sf6gJ8NDhYA",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=696,722"
+            }
+        },
+        "body": {
+            "type": "Video",
+            "frametrail:type": "youtube",
+            "format": "text/html",
+            "source": "https://www.youtube.com/embed/9b4fsCxh8tk",
+            "frametrail:name": "The team's film of the detonation tests",
+            "frametrail:thumb": "https://img.youtube.com/vi/9b4fsCxh8tk/hqdefault.jpg",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {}
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-24T12:00:00.088Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ft-source"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/Sf6gJ8NDhYA",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=704,731"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "webpage",
+            "format": "text/html",
+            "value": "https://www.courtmh17.com/en/summaries-and-news/news/summary-of-the-day-in-court-17-november-2022-judgment.htm",
+            "frametrail:name": "What followed: the judgment of 17 November 2022",
+            "frametrail:thumb": null,
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "embed": "allowed",
+                "description": "The District Court of The Hague sentenced three men to life in their absence and acquitted a fourth; it found that the missile was launched from the field near Pervomaiskyi."
+            }
+        }
+    }
+]

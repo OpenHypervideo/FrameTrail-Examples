@@ -20,76 +20,6 @@
             "selector": {
                 "conformsTo": "http://www.w3.org/TR/media-frags/",
                 "type": "FragmentSelector",
-                "value": "t=14,33"
-            }
-        },
-        "body": {
-            "type": "TextualBody",
-            "frametrail:type": "text",
-            "format": "text/html",
-            "value": "",
-            "frametrail:name": "Commissioned by Mada Masr",
-            "frametrail:attributes": {
-                "text": "&lt;div class=&quot;dossierNote&quot; data-layer=&quot;3&quot;&gt;&lt;p class=&quot;dossierLayer&quot;&gt;Sources&lt;/p&gt;&lt;p class=&quot;dossierTitle&quot;&gt;Commissioned by Mada Masr&lt;/p&gt;&lt;p&gt;The Egyptian news outlet invited Forensic Architecture to examine the open-source material.&lt;/p&gt;&lt;p class=&quot;dossierLink&quot;&gt;&lt;a href=&quot;https://www.madamasr.com/en/2020/11/16/feature/politics/video-reconstructing-the-august-4-beirut-explosion&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Mada Masr&amp;#x27;s article ↗&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;"
-            }
-        }
-    },
-    {
-        "@context": [
-            "http://www.w3.org/ns/anno.jsonld",
-            "https://frametrail.org/ns/context.jsonld"
-        ],
-        "creator": {
-            "nickname": "Sources",
-            "type": "Person",
-            "id": "3"
-        },
-        "created": "2026-11-22T17:00:00.016Z",
-        "type": "Annotation",
-        "frametrail:type": "Annotation",
-        "frametrail:tags": [],
-        "frametrail:uri": null,
-        "target": {
-            "type": "Video",
-            "source": "https://player.vimeo.com/video/479844049",
-            "selector": {
-                "conformsTo": "http://www.w3.org/TR/media-frags/",
-                "type": "FragmentSelector",
-                "value": "t=34,46"
-            }
-        },
-        "body": {
-            "type": "TextualBody",
-            "frametrail:type": "text",
-            "format": "text/html",
-            "value": "",
-            "frametrail:name": "A tweet, 5:54 pm",
-            "frametrail:attributes": {
-                "text": "&lt;div class=&quot;dossierNote&quot; data-layer=&quot;3&quot;&gt;&lt;p class=&quot;dossierLayer&quot;&gt;Sources&lt;/p&gt;&lt;p class=&quot;dossierTitle&quot;&gt;A tweet, 5:54 pm&lt;/p&gt;&lt;p&gt;The first photograph of the warehouse on fire, posted on 4 August 2020.&lt;/p&gt;&lt;/div&gt;"
-            }
-        }
-    },
-    {
-        "@context": [
-            "http://www.w3.org/ns/anno.jsonld",
-            "https://frametrail.org/ns/context.jsonld"
-        ],
-        "creator": {
-            "nickname": "Sources",
-            "type": "Person",
-            "id": "3"
-        },
-        "created": "2026-11-22T17:00:00.017Z",
-        "type": "Annotation",
-        "frametrail:type": "Annotation",
-        "frametrail:tags": [],
-        "frametrail:uri": null,
-        "target": {
-            "type": "Video",
-            "source": "https://player.vimeo.com/video/479844049",
-            "selector": {
-                "conformsTo": "http://www.w3.org/TR/media-frags/",
-                "type": "FragmentSelector",
                 "value": "t=100,112"
             }
         },
@@ -114,42 +44,7 @@
             "type": "Person",
             "id": "3"
         },
-        "created": "2026-11-22T17:00:00.018Z",
-        "type": "Annotation",
-        "frametrail:type": "Annotation",
-        "frametrail:tags": [],
-        "frametrail:uri": null,
-        "target": {
-            "type": "Video",
-            "source": "https://player.vimeo.com/video/479844049",
-            "selector": {
-                "conformsTo": "http://www.w3.org/TR/media-frags/",
-                "type": "FragmentSelector",
-                "value": "t=118,132"
-            }
-        },
-        "body": {
-            "type": "TextualBody",
-            "frametrail:type": "text",
-            "format": "text/html",
-            "value": "",
-            "frametrail:name": "Gareth Collett",
-            "frametrail:attributes": {
-                "text": "&lt;div class=&quot;dossierNote&quot; data-layer=&quot;3&quot;&gt;&lt;p class=&quot;dossierLayer&quot;&gt;Sources&lt;/p&gt;&lt;p class=&quot;dossierTitle&quot;&gt;Gareth Collett&lt;/p&gt;&lt;p&gt;An explosives analyst for the United Nations, consulted throughout the film.&lt;/p&gt;&lt;/div&gt;"
-            }
-        }
-    },
-    {
-        "@context": [
-            "http://www.w3.org/ns/anno.jsonld",
-            "https://frametrail.org/ns/context.jsonld"
-        ],
-        "creator": {
-            "nickname": "Sources",
-            "type": "Person",
-            "id": "3"
-        },
-        "created": "2026-11-22T17:00:00.019Z",
+        "created": "2026-11-22T17:00:00.016Z",
         "type": "Annotation",
         "frametrail:type": "Annotation",
         "frametrail:tags": [],
@@ -184,7 +79,7 @@
             "type": "Person",
             "id": "3"
         },
-        "created": "2026-11-22T17:00:00.020Z",
+        "created": "2026-11-22T17:00:00.017Z",
         "type": "Annotation",
         "frametrail:type": "Annotation",
         "frametrail:tags": [],
@@ -219,7 +114,7 @@
             "type": "Person",
             "id": "3"
         },
-        "created": "2026-11-22T17:00:00.021Z",
+        "created": "2026-11-22T17:00:00.018Z",
         "type": "Annotation",
         "frametrail:type": "Annotation",
         "frametrail:tags": [],
@@ -254,7 +149,7 @@
             "type": "Person",
             "id": "3"
         },
-        "created": "2026-11-22T17:00:00.022Z",
+        "created": "2026-11-22T17:00:00.019Z",
         "type": "Annotation",
         "frametrail:type": "Annotation",
         "frametrail:tags": [],
@@ -289,7 +184,7 @@
             "type": "Person",
             "id": "3"
         },
-        "created": "2026-11-22T17:00:00.023Z",
+        "created": "2026-11-22T17:00:00.020Z",
         "type": "Annotation",
         "frametrail:type": "Annotation",
         "frametrail:tags": [],
@@ -324,7 +219,7 @@
             "type": "Person",
             "id": "3"
         },
-        "created": "2026-11-22T17:00:00.024Z",
+        "created": "2026-11-22T17:00:00.021Z",
         "type": "Annotation",
         "frametrail:type": "Annotation",
         "frametrail:tags": [],
@@ -359,112 +254,7 @@
             "type": "Person",
             "id": "3"
         },
-        "created": "2026-11-22T17:00:00.025Z",
-        "type": "Annotation",
-        "frametrail:type": "Annotation",
-        "frametrail:tags": [],
-        "frametrail:uri": null,
-        "target": {
-            "type": "Video",
-            "source": "https://player.vimeo.com/video/479844049",
-            "selector": {
-                "conformsTo": "http://www.w3.org/TR/media-frags/",
-                "type": "FragmentSelector",
-                "value": "t=604,622"
-            }
-        },
-        "body": {
-            "type": "TextualBody",
-            "frametrail:type": "text",
-            "format": "text/html",
-            "value": "",
-            "frametrail:name": "UK Health and Safety Executive",
-            "frametrail:attributes": {
-                "text": "&lt;div class=&quot;dossierNote&quot; data-layer=&quot;3&quot;&gt;&lt;p class=&quot;dossierLayer&quot;&gt;Sources&lt;/p&gt;&lt;p class=&quot;dossierTitle&quot;&gt;UK Health and Safety Executive&lt;/p&gt;&lt;p&gt;“Storing and Handling Ammonium Nitrate” (2004).&lt;/p&gt;&lt;/div&gt;"
-            }
-        }
-    },
-    {
-        "@context": [
-            "http://www.w3.org/ns/anno.jsonld",
-            "https://frametrail.org/ns/context.jsonld"
-        ],
-        "creator": {
-            "nickname": "Sources",
-            "type": "Person",
-            "id": "3"
-        },
-        "created": "2026-11-22T17:00:00.026Z",
-        "type": "Annotation",
-        "frametrail:type": "Annotation",
-        "frametrail:tags": [],
-        "frametrail:uri": null,
-        "target": {
-            "type": "Video",
-            "source": "https://player.vimeo.com/video/479844049",
-            "selector": {
-                "conformsTo": "http://www.w3.org/TR/media-frags/",
-                "type": "FragmentSelector",
-                "value": "t=622,640"
-            }
-        },
-        "body": {
-            "type": "TextualBody",
-            "frametrail:type": "text",
-            "format": "text/html",
-            "value": "",
-            "frametrail:name": "Government of Western Australia",
-            "frametrail:attributes": {
-                "text": "&lt;div class=&quot;dossierNote&quot; data-layer=&quot;3&quot;&gt;&lt;p class=&quot;dossierLayer&quot;&gt;Sources&lt;/p&gt;&lt;p class=&quot;dossierTitle&quot;&gt;Government of Western Australia&lt;/p&gt;&lt;p&gt;“Safe storage of solid ammonium nitrate” (2013).&lt;/p&gt;&lt;/div&gt;"
-            }
-        }
-    },
-    {
-        "@context": [
-            "http://www.w3.org/ns/anno.jsonld",
-            "https://frametrail.org/ns/context.jsonld"
-        ],
-        "creator": {
-            "nickname": "Sources",
-            "type": "Person",
-            "id": "3"
-        },
-        "created": "2026-11-22T17:00:00.027Z",
-        "type": "Annotation",
-        "frametrail:type": "Annotation",
-        "frametrail:tags": [],
-        "frametrail:uri": null,
-        "target": {
-            "type": "Video",
-            "source": "https://player.vimeo.com/video/479844049",
-            "selector": {
-                "conformsTo": "http://www.w3.org/TR/media-frags/",
-                "type": "FragmentSelector",
-                "value": "t=653,663"
-            }
-        },
-        "body": {
-            "type": "TextualBody",
-            "frametrail:type": "text",
-            "format": "text/html",
-            "value": "",
-            "frametrail:name": "NASA's damage map",
-            "frametrail:attributes": {
-                "text": "&lt;div class=&quot;dossierNote&quot; data-layer=&quot;3&quot;&gt;&lt;p class=&quot;dossierLayer&quot;&gt;Sources&lt;/p&gt;&lt;p class=&quot;dossierTitle&quot;&gt;NASA&amp;#x27;s damage map&lt;/p&gt;&lt;p&gt;Made from satellite radar; it shows how far the blast reached.&lt;/p&gt;&lt;/div&gt;"
-            }
-        }
-    },
-    {
-        "@context": [
-            "http://www.w3.org/ns/anno.jsonld",
-            "https://frametrail.org/ns/context.jsonld"
-        ],
-        "creator": {
-            "nickname": "Sources",
-            "type": "Person",
-            "id": "3"
-        },
-        "created": "2026-11-22T17:00:00.028Z",
+        "created": "2026-11-22T17:00:00.022Z",
         "type": "Annotation",
         "frametrail:type": "Annotation",
         "frametrail:tags": [],
@@ -486,41 +276,6 @@
             "frametrail:name": "The survivors",
             "frametrail:attributes": {
                 "text": "&lt;div class=&quot;dossierNote&quot; data-layer=&quot;3&quot;&gt;&lt;p class=&quot;dossierLayer&quot;&gt;Sources&lt;/p&gt;&lt;p class=&quot;dossierTitle&quot;&gt;The survivors&lt;/p&gt;&lt;p&gt;About a thousand survivors and victims&amp;#x27; families have called for an independent investigation and public access to all relevant documents. The statements shown are from the report by Legal Action Worldwide.&lt;/p&gt;&lt;/div&gt;"
-            }
-        }
-    },
-    {
-        "@context": [
-            "http://www.w3.org/ns/anno.jsonld",
-            "https://frametrail.org/ns/context.jsonld"
-        ],
-        "creator": {
-            "nickname": "Sources",
-            "type": "Person",
-            "id": "3"
-        },
-        "created": "2026-11-22T17:00:00.029Z",
-        "type": "Annotation",
-        "frametrail:type": "Annotation",
-        "frametrail:tags": [],
-        "frametrail:uri": null,
-        "target": {
-            "type": "Video",
-            "source": "https://player.vimeo.com/video/479844049",
-            "selector": {
-                "conformsTo": "http://www.w3.org/TR/media-frags/",
-                "type": "FragmentSelector",
-                "value": "t=696,720"
-            }
-        },
-        "body": {
-            "type": "TextualBody",
-            "frametrail:type": "text",
-            "format": "text/html",
-            "value": "",
-            "frametrail:name": "The models, published",
-            "frametrail:attributes": {
-                "text": "&lt;div class=&quot;dossierNote&quot; data-layer=&quot;3&quot;&gt;&lt;p class=&quot;dossierLayer&quot;&gt;Sources&lt;/p&gt;&lt;p class=&quot;dossierTitle&quot;&gt;The models, published&lt;/p&gt;&lt;p&gt;Forensic Architecture and Mada Masr made the model, the geolocated videos and the source material publicly available.&lt;/p&gt;&lt;p class=&quot;dossierLink&quot;&gt;&lt;a href=&quot;https://github.com/forensic-architecture/models/tree/master/65&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Open the models on GitHub ↗&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;"
             }
         }
     }

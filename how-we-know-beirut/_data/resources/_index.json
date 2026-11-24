@@ -1,5 +1,5 @@
 {
-    "resources-increment": 1,
+    "resources-increment": 2,
     "resources": {
         "1": {
             "name": "The Beirut Port Explosion (Forensic Architecture)",
@@ -12,6 +12,19 @@
             "created": 1795450000,
             "licenseType": "Copyright",
             "licenseAttribution": "Forensic Architecture with Mada Masr, “The Beirut Port Explosion” (2020). © Forensic Architecture; embedded from their Vimeo channel",
+            "attributes": {}
+        },
+        "2": {
+            "name": "NASA damage map of Beirut",
+            "type": "image",
+            "src": "1_1795450202_nasa-damage-map-of-beirut.jpg",
+            "thumb": "1_1795450202_thumb_nasa-damage-map-of-beirut.jpg",
+            "description": null,
+            "creator": "demo",
+            "creatorId": "1",
+            "created": 1795450202,
+            "licenseType": "PD",
+            "licenseAttribution": "NASA Earth Observatory, with data from the ARIA team (NASA-JPL/Caltech, Earth Observatory of Singapore); contains modified Copernicus Sentinel data (2020) (https://earthobservatory.nasa.gov/images/147098/scientists-map-beirut-blast-damage)",
             "attributes": {}
         }
     }

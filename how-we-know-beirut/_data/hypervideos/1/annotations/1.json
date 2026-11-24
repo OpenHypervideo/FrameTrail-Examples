@@ -1,0 +1,3119 @@
+[
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-24T12:00:00.001Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ft-background"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://player.vimeo.com/video/479844049",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=1,22"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/2020_Beirut_explosion",
+            "frametrail:name": "2020 Beirut explosion",
+            "frametrail:thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Damages_after_2020_Beirut_explosions_1.jpg/330px-Damages_after_2020_Beirut_explosions_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "articleUrl": "https://en.wikipedia.org/wiki/2020_Beirut_explosion",
+                "wikiLang": "en",
+                "dir": "ltr",
+                "description": "Ammonium nitrate explosion in Lebanon",
+                "extract": "On 4 August 2020, a major explosion occurred in Beirut, Lebanon, caused by the ignition of 2,750 tonnes of ammonium nitrate. The chemical, confiscated in 2014 from the cargo ship MV Rhosus and stored at the Port of Beirut without adequate safety measures for six years, detonated after a fire broke out in a nearby warehouse. The explosion resulted in at least 218 deaths, 7,000 injuries, and approximately 300,000 displaced people, alongside property damage estimated at US$15 billion. The blast released energy comparable to 1.1 kilotons of TNT, ranking it among the most powerful non-nuclear explosions ever recorded and the largest single detonation of ammonium nitrate.",
+                "extract_html": "<p>On 4 August 2020, a major explosion occurred in Beirut, Lebanon, caused by the ignition of 2,750 tonnes of ammonium nitrate. The chemical, confiscated in 2014 from the cargo ship MV <i>Rhosus</i> and stored at the Port of Beirut without adequate safety measures for six years, detonated after a fire broke out in a nearby warehouse. The explosion resulted in at least 218 deaths, 7,000 injuries, and approximately 300,000 displaced people, alongside property damage estimated at US$15 billion. The blast released energy comparable to 1.1 kilotons of TNT, ranking it among the most powerful non-nuclear explosions ever recorded and the largest single detonation of ammonium nitrate.</p>"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-24T12:00:00.002Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ft-place"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://player.vimeo.com/video/479844049",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=2,24"
+            }
+        },
+        "body": {
+            "type": "Dataset",
+            "frametrail:type": "location",
+            "format": "application/x-frametrail-location",
+            "source": "",
+            "frametrail:name": "Port of Beirut",
+            "frametrail:thumb": null,
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "lat": 33.9028,
+                "lon": 35.525,
+                "zoom": 14,
+                "tileStyle": "dark",
+                "marker": {
+                    "show": true,
+                    "color": "#e0604f"
+                },
+                "controls": {
+                    "dragging": true,
+                    "scrollWheelZoom": false,
+                    "zoomControl": true
+                }
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-24T12:00:00.003Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ft-source"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://player.vimeo.com/video/479844049",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=7,30"
+            }
+        },
+        "body": {
+            "type": "Video",
+            "frametrail:type": "youtube",
+            "format": "text/html",
+            "source": "https://www.youtube.com/embed/7apZtvgBHx8",
+            "frametrail:name": "The destroyed port from the air (Global News)",
+            "frametrail:thumb": "https://img.youtube.com/vi/7apZtvgBHx8/hqdefault.jpg",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {}
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-24T12:00:00.004Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ft-source"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://player.vimeo.com/video/479844049",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=8,30"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "urlpreview",
+            "format": "text/html",
+            "source": "https://x.com/Natsecjeff/status/1290997506852126720",
+            "frametrail:name": "FJ: Video 100 from Beirut, the moment of the explosion",
+            "frametrail:thumb": null,
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "originalType": "xtwitter",
+                "description": "VIDEO # 100 from Beirut, Lebanon: We have hit 100 videos now. This footage from yesterday shows moment of mega explosion. pic.twitter.com/TQboTH3PDG",
+                "html": "<blockquote class=\"twitter-tweet\" data-dnt=\"true\"><p lang=\"en\" dir=\"ltr\">VIDEO # 100 from Beirut, Lebanon:<br><br>We have hit 100 videos now. This footage from yesterday shows moment of mega explosion. <a href=\"https://t.co/TQboTH3PDG\">pic.twitter.com/TQboTH3PDG</a></p>&mdash; FJ (@Natsecjeff) <a href=\"https://x.com/Natsecjeff/status/1290997506852126720?ref_src=twsrc%5Etfw\">August 5, 2020</a></blockquote>"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-24T12:00:00.005Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ft-source"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://player.vimeo.com/video/479844049",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=10,32"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "urlpreview",
+            "format": "text/html",
+            "source": "https://x.com/ConflictsW/status/1290715886819696640",
+            "frametrail:name": "CNW: the explosion, filmed from inside the port",
+            "frametrail:thumb": null,
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "originalType": "xtwitter",
+                "description": "Footage of the explosion at Beirut port from people within the port #Lebanon #Beirut https://t.co/VCgQr7gmMg",
+                "html": "<blockquote class=\"twitter-tweet\" data-dnt=\"true\"><p lang=\"en\" dir=\"ltr\">Footage of the explosion at Beirut port from people within the port <a href=\"https://x.com/hashtag/Lebanon?src=hash&amp;ref_src=twsrc%5Etfw\">#Lebanon</a> <a href=\"https://x.com/hashtag/Beirut?src=hash&amp;ref_src=twsrc%5Etfw\">#Beirut</a>  <a href=\"https://t.co/VCgQr7gmMg\">https://t.co/VCgQr7gmMg</a></p>&mdash; CNW (@ConflictsW) <a href=\"https://x.com/ConflictsW/status/1290715886819696640?ref_src=twsrc%5Etfw\">August 4, 2020</a></blockquote>"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-24T12:00:00.006Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ft-background"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://player.vimeo.com/video/479844049",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=14,36"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/Forensic_Architecture",
+            "frametrail:name": "Forensic Architecture",
+            "frametrail:thumb": null,
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "articleUrl": "https://en.wikipedia.org/wiki/Forensic_Architecture",
+                "wikiLang": "en",
+                "dir": "ltr",
+                "description": "Multidisciplinary research group",
+                "extract": "Forensic Architecture (FA) is a multidisciplinary research group based at Goldsmiths, University of London that uses architectural techniques and technologies to investigate cases of state violence and violations of human rights around the world. The group is led by architect Eyal Weizman. He received a Peabody Award in 2021 for his work with FA.",
+                "extract_html": "<p><b>Forensic Architecture</b> (<b>FA</b>) is a multidisciplinary research group based at Goldsmiths, University of London that uses architectural techniques and technologies to investigate cases of state violence and violations of human rights around the world. The group is led by architect Eyal Weizman. He received a Peabody Award in 2021 for his work with FA.</p>"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-24T12:00:00.007Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ft-background"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://player.vimeo.com/video/479844049",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=14,36"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/Mada_Masr",
+            "frametrail:name": "Mada Masr",
+            "frametrail:thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Mada_Masr_Logo.svg/330px-Mada_Masr_Logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "articleUrl": "https://en.wikipedia.org/wiki/Mada_Masr",
+                "wikiLang": "en",
+                "dir": "ltr",
+                "description": "Independent Egyptian online newspaper",
+                "extract": "Mada Masr (Arabic: مدى مصر) is an independent Egyptian online newspaper, founded in June 2013 by former journalists of the English-language newspaper Egypt Independent following the shutting down of its editorial operations in April 2013. Its editorial alignment has been described as liberal.",
+                "extract_html": "<p><i><b>Mada Masr</b></i> (Arabic: مدى مصر) is an independent Egyptian online newspaper, founded in June 2013 by former journalists of the English-language newspaper <i>Egypt Independent</i> following the shutting down of its editorial operations in April 2013. Its editorial alignment has been described as liberal.</p>"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-24T12:00:00.008Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ft-source"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://player.vimeo.com/video/479844049",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=15,40"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "webpage",
+            "format": "text/html",
+            "value": "https://forensic-architecture.org/investigation/beirut-port-explosion",
+            "frametrail:name": "Forensic Architecture: The Beirut Port Explosion",
+            "frametrail:thumb": null,
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "embed": "allowed",
+                "description": "The investigation's own page: the film, the method, the team and the press it had."
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-24T12:00:00.009Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ft-source"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://player.vimeo.com/video/479844049",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=16,40"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "webpage",
+            "format": "text/html",
+            "value": "https://www.madamasr.com/en/2020/11/16/feature/politics/video-reconstructing-the-august-4-beirut-explosion",
+            "frametrail:name": "Mada Masr: Reconstructing the August 4 Beirut explosion",
+            "frametrail:thumb": null,
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "embed": "forbidden",
+                "description": "The article of the Egyptian outlet that asked Forensic Architecture to examine the open-source material."
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-24T12:00:00.010Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ft-background"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://player.vimeo.com/video/479844049",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=18,40"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/Open-source_intelligence",
+            "frametrail:name": "Open-source intelligence",
+            "frametrail:thumb": null,
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "articleUrl": "https://en.wikipedia.org/wiki/Open-source_intelligence",
+                "wikiLang": "en",
+                "dir": "ltr",
+                "description": "Data collected from publicly available sources to be used in an intelligence context",
+                "extract": "Open-source intelligence (OSINT) is the collection and analysis of data gathered from 'open sources' (overt sources and publicly available information) to produce intelligence. OSINT is primarily used in national security, law enforcement, and business intelligence and is used by analysts to answer classified, unclassified, or proprietary intelligence requirements.",
+                "extract_html": "<p><b>Open-source intelligence</b> (<b>OSINT</b>) is the collection and analysis of data gathered from 'open sources' (overt sources and publicly available information) to produce intelligence. OSINT is primarily used in national security, law enforcement, and business intelligence and is used by analysts to answer classified, unclassified, or proprietary intelligence requirements.</p>"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-24T12:00:00.011Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ft-source"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://player.vimeo.com/video/479844049",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=19,42"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "webpage",
+            "format": "text/html",
+            "value": "https://forensic-architecture.org/methodology/osint",
+            "frametrail:name": "How Forensic Architecture works with open sources",
+            "frametrail:thumb": null,
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "embed": "allowed",
+                "description": "The research group on investigating with material that is already public."
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-24T12:00:00.012Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ft-source"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://player.vimeo.com/video/479844049",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=22,44"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "webpage",
+            "format": "text/html",
+            "value": "https://forensic-architecture.org/methodology/3d-modelling",
+            "frametrail:name": "3D modelling as a method",
+            "frametrail:thumb": null,
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "embed": "allowed",
+                "description": "Forensic Architecture on building models from images and using them to place cameras."
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-24T12:00:00.013Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ft-source"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://player.vimeo.com/video/479844049",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=24,46"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "webpage",
+            "format": "text/html",
+            "value": "https://www.salimalkadi.com/07_beirut-001",
+            "frametrail:name": "Beirut 001: the open 3D model of the city",
+            "frametrail:thumb": null,
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "embed": "allowed",
+                "description": "The open-source model of Beirut by the architect Salim al-Kadi, which the team adjusted and placed its cameras in."
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-24T12:00:00.014Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ft-source"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://player.vimeo.com/video/479844049",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=30,50"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "webpage",
+            "format": "text/html",
+            "value": "https://github.com/forensic-architecture/models/tree/master/65",
+            "frametrail:name": "The models on GitHub",
+            "frametrail:thumb": "https://opengraph.githubassets.com/8683693dcaf87936aa835ee4dec4ac8f564fe33241352a4b92202cbf30ee803b/forensic-architecture/models",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "embed": "forbidden",
+                "description": "The 3D models of the port, the warehouse and the plumes, and the inventory of the media used."
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-24T12:00:00.015Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ft-source"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://player.vimeo.com/video/479844049",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=34,58"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "urlpreview",
+            "format": "text/html",
+            "source": "https://x.com/nabihbulos/status/1290662401399033856",
+            "frametrail:name": "Nabih Bulos: Huge explosion in Beirut (5:54 pm)",
+            "frametrail:thumb": null,
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "originalType": "xtwitter",
+                "description": "Huge explosion in #Beirut pic.twitter.com/UEBECAMTHz",
+                "html": "<blockquote class=\"twitter-tweet\" data-dnt=\"true\"><p lang=\"en\" dir=\"ltr\">Huge explosion in <a href=\"https://x.com/hashtag/Beirut?src=hash&amp;ref_src=twsrc%5Etfw\">#Beirut</a> <a href=\"https://t.co/UEBECAMTHz\">pic.twitter.com/UEBECAMTHz</a></p>&mdash; Nabih (@nabihbulos) <a href=\"https://x.com/nabihbulos/status/1290662401399033856?ref_src=twsrc%5Etfw\">August 4, 2020</a></blockquote>"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-24T12:00:00.016Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ft-source"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://player.vimeo.com/video/479844049",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=40,62"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "webpage",
+            "format": "text/html",
+            "value": "https://forensic-architecture.org/methodology/geolocation",
+            "frametrail:name": "Geolocation as a method",
+            "frametrail:thumb": null,
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "embed": "allowed",
+                "description": "Forensic Architecture on finding where a picture was taken from what is in it."
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-24T12:00:00.017Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ft-place"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://player.vimeo.com/video/479844049",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=57,82"
+            }
+        },
+        "body": {
+            "type": "Dataset",
+            "frametrail:type": "location",
+            "format": "application/x-frametrail-location",
+            "source": "",
+            "frametrail:name": "Warehouse 12, Port of Beirut",
+            "frametrail:thumb": null,
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "lat": 33.9014,
+                "lon": 35.519,
+                "zoom": 16,
+                "tileStyle": "dark",
+                "marker": {
+                    "show": true,
+                    "color": "#e0604f"
+                },
+                "controls": {
+                    "dragging": true,
+                    "scrollWheelZoom": false,
+                    "zoomControl": true
+                }
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-24T12:00:00.018Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ft-background"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://player.vimeo.com/video/479844049",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=58,80"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/Port_of_Beirut",
+            "frametrail:name": "Port of Beirut",
+            "frametrail:thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Hafen_von_Beirut.jpg/330px-Hafen_von_Beirut.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "articleUrl": "https://en.wikipedia.org/wiki/Port_of_Beirut",
+                "wikiLang": "en",
+                "dir": "ltr",
+                "description": "Port in Lebanon and quarter of Beirut",
+                "extract": "The Port of Beirut (Arabic: مرفأ بيروت) is the main port in Lebanon on the eastern part of the Saint George Bay on Beirut's northern Mediterranean coast, west of the Beirut River. It is one of the largest and busiest ports on the Eastern Mediterranean. On 4 August 2020, a large explosion, caused by improperly stored ammonium nitrate, occurred at the port, killing at least 218 people, injuring more than 7,000 and rendering 300,000 others homeless. Large sections of the port and its infrastructure were destroyed, including most of Beirut's grain reserves, and billions of dollars in damages were inflicted across the city. The Port of Beirut was forced to close, due to the large-scale damage caused by the explosions, with cargo being redirected to smaller ports, such as Tripoli and Tyre. Prior to the disaster, about 60 percent of Lebanon's imports came through the port, according to an S&P Global estimate.",
+                "extract_html": "<p>The <b>Port of Beirut</b> (Arabic: مرفأ بيروت) is the main port in Lebanon on the eastern part of the Saint George Bay on Beirut's northern Mediterranean coast, west of the Beirut River. It is one of the largest and busiest ports on the Eastern Mediterranean.</p><p>On 4 August 2020, a large explosion, caused by improperly stored ammonium nitrate, occurred at the port, killing at least 218 people, injuring more than 7,000 and rendering 300,000 others homeless. Large sections of the port and its infrastructure were destroyed, including most of Beirut's grain reserves, and billions of dollars in damages were inflicted across the city. The Port of Beirut was forced to close, due to the large-scale damage caused by the explosions, with cargo being redirected to smaller ports, such as Tripoli and Tyre. Prior to the disaster, about 60 percent of Lebanon's imports came through the port, according to an S&amp;P Global estimate.</p>"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-24T12:00:00.019Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ft-source"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://player.vimeo.com/video/479844049",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=65,102"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "webpage",
+            "format": "text/html",
+            "value": "https://forensic-architecture.org/methodology/synchronisation",
+            "frametrail:name": "Synchronisation as a method",
+            "frametrail:thumb": null,
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "embed": "allowed",
+                "description": "Forensic Architecture on putting footage without time stamps in order."
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-24T12:00:00.020Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ft-background"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://player.vimeo.com/video/479844049",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=100,122"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/Saint_George_Hospital_University_Medical_Center",
+            "frametrail:name": "Saint George Hospital University Medical Center",
+            "frametrail:thumb": null,
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "articleUrl": "https://en.wikipedia.org/wiki/Saint_George_Hospital_University_Medical_Center",
+                "wikiLang": "en",
+                "dir": "ltr",
+                "description": "Hospital in Beirut, Lebanon",
+                "extract": "Saint George Hospital University Medical Center, also known as Al-Roum Hospital, is the oldest Lebanese Christian teaching hospital founded in 1878. It is affiliated with Saint George University of Beirut and one of the three leading Lebanese medical centres. It is located in Rmeil, Beirut.",
+                "extract_html": "<p><b>Saint George Hospital University Medical Center</b>, also known as <b>Al-Roum Hospital</b>, is the oldest Lebanese Christian teaching hospital founded in 1878. It is affiliated with Saint George University of Beirut and one of the three leading Lebanese medical centres. It is located in Rmeil, Beirut.</p>"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-24T12:00:00.021Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ft-place"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://player.vimeo.com/video/479844049",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=101,124"
+            }
+        },
+        "body": {
+            "type": "Dataset",
+            "frametrail:type": "location",
+            "format": "application/x-frametrail-location",
+            "source": "",
+            "frametrail:name": "St George Hospital",
+            "frametrail:thumb": null,
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "lat": 33.8939,
+                "lon": 35.5233,
+                "zoom": 15,
+                "tileStyle": "dark",
+                "marker": {
+                    "show": true,
+                    "color": "#e0604f"
+                },
+                "controls": {
+                    "dragging": true,
+                    "scrollWheelZoom": false,
+                    "zoomControl": true
+                }
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-24T12:00:00.022Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ft-source"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://player.vimeo.com/video/479844049",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=118,140"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "webpage",
+            "format": "text/html",
+            "value": "https://forensic-architecture.org/about/team/member/gareth-collett-cbe",
+            "frametrail:name": "Gareth Collett, the explosives expert",
+            "frametrail:thumb": null,
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "embed": "allowed",
+                "description": "The explosives analyst the team consulted throughout; the film quotes him as chief executive of Brimstone Consultancy."
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-24T12:00:00.023Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ft-source"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://player.vimeo.com/video/479844049",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=134,158"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "urlpreview",
+            "format": "text/html",
+            "source": "https://x.com/guyelster/status/1290981852824600576",
+            "frametrail:name": "Guy Elster: a fire with what looks like fireworks, then the explosion",
+            "frametrail:thumb": null,
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "originalType": "xtwitter",
+                "description": "Another footage from #Beirut shows an initial fire, with what seems like fireworks, and then another huge explosion pic.twitter.com/5zizBG1EZw",
+                "html": "<blockquote class=\"twitter-tweet\" data-dnt=\"true\"><p lang=\"en\" dir=\"ltr\">Another footage from <a href=\"https://x.com/hashtag/Beirut?src=hash&amp;ref_src=twsrc%5Etfw\">#Beirut</a> shows an initial fire, with what seems like fireworks, and then another huge explosion <a href=\"https://t.co/5zizBG1EZw\">pic.twitter.com/5zizBG1EZw</a></p>&mdash; Guy Elster גיא אלסטר (@guyelster) <a href=\"https://x.com/guyelster/status/1290981852824600576?ref_src=twsrc%5Etfw\">August 5, 2020</a></blockquote>"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-24T12:00:00.024Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ft-background"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://player.vimeo.com/video/479844049",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=145,166"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/Fireworks",
+            "frametrail:name": "Fireworks",
+            "frametrail:thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/New_Year%27s_Eve_on_Sydney_Harbour.jpg/330px-New_Year%27s_Eve_on_Sydney_Harbour.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "articleUrl": "https://en.wikipedia.org/wiki/Fireworks",
+                "wikiLang": "en",
+                "dir": "ltr",
+                "description": "Low explosive pyrotechnic devices for entertainment",
+                "extract": "Fireworks are low explosive pyrotechnic devices used for aesthetic and entertainment purposes. They are most commonly used in fireworks displays (also called a fireworks show or pyrotechnics), combining a large number of devices in an outdoor setting. Such displays are the focal point of many cultural and religious celebrations, though mismanagement can lead to fireworks accidents.",
+                "extract_html": "<p><b>Fireworks</b> are low explosive pyrotechnic devices used for aesthetic and entertainment purposes. They are most commonly used in <b>fireworks displays</b> (also called a fireworks show or pyrotechnics), combining a large number of devices in an outdoor setting. Such displays are the focal point of many cultural and religious celebrations, though mismanagement can lead to fireworks accidents.</p>"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-24T12:00:00.025Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ft-source"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://player.vimeo.com/video/479844049",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=154,178"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "urlpreview",
+            "format": "text/html",
+            "source": "https://x.com/MohamadAhwaze/status/1290673085293760518",
+            "frametrail:name": "Mohamad Ahwaze: the moment of the explosion",
+            "frametrail:thumb": null,
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "originalType": "xtwitter",
+                "description": "لحظة الانفجار في مرفأ بيروت. pic.twitter.com/qcVrl45PYz",
+                "html": "<blockquote class=\"twitter-tweet\" data-dnt=\"true\"><p lang=\"ar\" dir=\"rtl\">لحظة الانفجار في مرفأ بيروت. <a href=\"https://t.co/qcVrl45PYz\">pic.twitter.com/qcVrl45PYz</a></p>&mdash; Mohamad Ahwaze (@MohamadAhwaze) <a href=\"https://x.com/MohamadAhwaze/status/1290673085293760518?ref_src=twsrc%5Etfw\">August 4, 2020</a></blockquote>"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-24T12:00:00.026Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ft-source"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://player.vimeo.com/video/479844049",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=157,180"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "urlpreview",
+            "format": "text/html",
+            "source": "https://x.com/AuroraIntel/status/1293093366020923392",
+            "frametrail:name": "Aurora Intel: a video with the roar before the blast",
+            "frametrail:thumb": null,
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "originalType": "xtwitter",
+                "description": "A new video of the #Beirut Port Blasts has appeared online. The intense roaring of initial explosion can be heard as it gains intensity into the secondary larger blast. pic.twitter.com/9TPTzWwJqA",
+                "html": "<blockquote class=\"twitter-tweet\" data-dnt=\"true\"><p lang=\"en\" dir=\"ltr\">A new video of the <a href=\"https://x.com/hashtag/Beirut?src=hash&amp;ref_src=twsrc%5Etfw\">#Beirut</a> Port Blasts has appeared online. The intense roaring of initial explosion can be heard as it gains intensity into the secondary larger blast. <a href=\"https://t.co/9TPTzWwJqA\">pic.twitter.com/9TPTzWwJqA</a></p>&mdash; Aurora Intel (@AuroraIntel) <a href=\"https://x.com/AuroraIntel/status/1293093366020923392?ref_src=twsrc%5Etfw\">August 11, 2020</a></blockquote>"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-24T12:00:00.027Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ft-background"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://player.vimeo.com/video/479844049",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=161,184"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/Detonation",
+            "frametrail:name": "Detonation",
+            "frametrail:thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/TNT_detonation_on_Kaho%27olawe_Island_during_Operation_Sailor_Hat%2C_shot_Bravo%2C_1965.jpg/330px-TNT_detonation_on_Kaho%27olawe_Island_during_Operation_Sailor_Hat%2C_shot_Bravo%2C_1965.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "articleUrl": "https://en.wikipedia.org/wiki/Detonation",
+                "wikiLang": "en",
+                "dir": "ltr",
+                "description": "Explosion at supersonic velocity",
+                "extract": "Detonation (from Latin  detonare 'to thunder down/forth') is a type of combustion involving a supersonic exothermic front accelerating through a medium that eventually drives a shock front propagating directly in front of it. Detonations propagate supersonically through shock waves with speeds about 1 km/sec and differ from deflagrations which have subsonic flame speeds about 1 m/sec. Detonation may form from an explosion of fuel-oxidizer mixture. Compared with deflagration, detonation doesn't need to have an external oxidizer. Oxidizers and fuel mix when deflagration occurs. Detonation is more destructive than deflagration. In detonation, the flame front travels through the air-fuel faster than sound; while in deflagration, the flame front travels through the air-fuel slower than sound.",
+                "extract_html": "<p><b>Detonation</b> (from Latin <i> <i lang=\"la\">detonare</i></i> 'to thunder down/forth') is a type of combustion involving a supersonic exothermic front accelerating through a medium that eventually drives a shock front propagating directly in front of it. Detonations propagate supersonically through shock waves with speeds about 1 km/sec and differ from deflagrations which have subsonic flame speeds about 1 m/sec. Detonation may form from an explosion of fuel-oxidizer mixture. Compared with deflagration, detonation doesn't need to have an external oxidizer. Oxidizers and fuel mix when deflagration occurs. Detonation is more destructive than deflagration. In detonation, the flame front travels through the air-fuel faster than sound; while in deflagration, the flame front travels through the air-fuel slower than sound.</p>"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-24T12:00:00.028Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ft-background"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://player.vimeo.com/video/479844049",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=171,194"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/Ammonium_nitrate",
+            "frametrail:name": "Ammonium nitrate",
+            "frametrail:thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Ammonium-nitrate-xtal-3D-balls-A.png/330px-Ammonium-nitrate-xtal-3D-balls-A.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "articleUrl": "https://en.wikipedia.org/wiki/Ammonium_nitrate",
+                "wikiLang": "en",
+                "dir": "ltr",
+                "description": "Chemical compound with formula NH4NO3",
+                "extract": "Ammonium nitrate is a chemical compound with the formula NH4NO3. It is a white crystalline salt consisting of ions of ammonium and nitrate. It is highly soluble in water and hygroscopic as a solid, but does not form hydrates. It is predominantly used in agriculture as a high-nitrogen fertilizer.",
+                "extract_html": "<p><b>Ammonium nitrate</b> is a chemical compound with the formula NH<sub class=\"template-chem2-sub\">4</sub>NO<sub class=\"template-chem2-sub\">3</sub>. It is a white crystalline salt consisting of ions of ammonium and nitrate. It is highly soluble in water and hygroscopic as a solid, but does not form hydrates. It is predominantly used in agriculture as a high-nitrogen fertilizer.</p>"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-24T12:00:00.029Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ft-source"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://player.vimeo.com/video/479844049",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=172,195"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "urlpreview",
+            "format": "text/html",
+            "source": "https://x.com/opeyemidipe/status/1290763122089897986",
+            "frametrail:name": "Opeyemi: the prime minister on 2,750 tonnes left for six years",
+            "frametrail:thumb": null,
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "originalType": "xtwitter",
+                "description": "BREAKING: Lebanese Prime Minister says #Beirut explosions caused by an estimated 2,750 tons of ammonium nitrate left unsecured for 6 years in a warehouse. He vows to punish officials responsible. 50+ dead, 3,000 injured, hospitals overwhelmed. pic.twitter.com/tBVeyZ6xdB",
+                "html": "<blockquote class=\"twitter-tweet\" data-dnt=\"true\"><p lang=\"en\" dir=\"ltr\">BREAKING: Lebanese Prime Minister says <a href=\"https://x.com/hashtag/Beirut?src=hash&amp;ref_src=twsrc%5Etfw\">#Beirut</a> explosions caused by an estimated 2,750 tons of ammonium nitrate left unsecured for 6 years in a warehouse. He vows to punish officials responsible. 50+ dead, 3,000 injured, hospitals overwhelmed. <a href=\"https://t.co/tBVeyZ6xdB\">pic.twitter.com/tBVeyZ6xdB</a></p>&mdash; Opeyemi (@opeyemidipe) <a href=\"https://x.com/opeyemidipe/status/1290763122089897986?ref_src=twsrc%5Etfw\">August 4, 2020</a></blockquote>"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-24T12:00:00.030Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ft-source"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://player.vimeo.com/video/479844049",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=180,204"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "urlpreview",
+            "format": "text/html",
+            "source": "https://x.com/Natsecjeff/status/1290674881458327554",
+            "frametrail:name": "FJ: Video 6, a warehouse goes up",
+            "frametrail:thumb": null,
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "originalType": "xtwitter",
+                "description": "VIDEO # 6: Looks like a warehouse also went up in explosions. #Beirut #Lebanon pic.twitter.com/7dWRzuo6dO",
+                "html": "<blockquote class=\"twitter-tweet\" data-dnt=\"true\"><p lang=\"en\" dir=\"ltr\">VIDEO # 6: <br><br>Looks like a warehouse also went up in explosions. <a href=\"https://x.com/hashtag/Beirut?src=hash&amp;ref_src=twsrc%5Etfw\">#Beirut</a> <a href=\"https://x.com/hashtag/Lebanon?src=hash&amp;ref_src=twsrc%5Etfw\">#Lebanon</a> <a href=\"https://t.co/7dWRzuo6dO\">pic.twitter.com/7dWRzuo6dO</a></p>&mdash; FJ (@Natsecjeff) <a href=\"https://x.com/Natsecjeff/status/1290674881458327554?ref_src=twsrc%5Etfw\">August 4, 2020</a></blockquote>"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-24T12:00:00.031Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ft-source"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://player.vimeo.com/video/479844049",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=184,208"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "urlpreview",
+            "format": "text/html",
+            "source": "https://x.com/Bissan_Fakih/status/1290671086951161856",
+            "frametrail:name": "Bissan: a video received on WhatsApp",
+            "frametrail:thumb": null,
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "originalType": "xtwitter",
+                "description": "A video I received on WhatsApp of the scalr of explosion in #Beirut , confirming it was at the port. pic.twitter.com/bIkcyfsi0o",
+                "html": "<blockquote class=\"twitter-tweet\" data-dnt=\"true\"><p lang=\"en\" dir=\"ltr\">A video I received on WhatsApp of the scalr of explosion in <a href=\"https://x.com/hashtag/Beirut?src=hash&amp;ref_src=twsrc%5Etfw\">#Beirut</a>, confirming it was at the port. <a href=\"https://t.co/bIkcyfsi0o\">pic.twitter.com/bIkcyfsi0o</a></p>&mdash; Bissan بيسان (@Bissan_Fakih) <a href=\"https://x.com/Bissan_Fakih/status/1290671086951161856?ref_src=twsrc%5Etfw\">August 4, 2020</a></blockquote>"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-24T12:00:00.032Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ft-source"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://player.vimeo.com/video/479844049",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=190,214"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "urlpreview",
+            "format": "text/html",
+            "source": "https://x.com/afif/status/1290665104036581377",
+            "frametrail:name": "Afif Tabish: the blast from a distance",
+            "frametrail:thumb": null,
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "originalType": "xtwitter",
+                "description": "pic.twitter.com/PetjNK79Gf",
+                "html": "<blockquote class=\"twitter-tweet\" data-dnt=\"true\"><p lang=\"qme\" dir=\"ltr\"> <a href=\"https://t.co/PetjNK79Gf\">pic.twitter.com/PetjNK79Gf</a></p>&mdash; Afif Tabish (@afif) <a href=\"https://x.com/afif/status/1290665104036581377?ref_src=twsrc%5Etfw\">August 4, 2020</a></blockquote>"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-24T12:00:00.033Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ft-source"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://player.vimeo.com/video/479844049",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=201,226"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "urlpreview",
+            "format": "text/html",
+            "source": "https://x.com/S0101019/status/1290686172843380741",
+            "frametrail:name": "Shah: footage of the explosion at the port",
+            "frametrail:thumb": null,
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "originalType": "xtwitter",
+                "description": "Footage of the massive explosion at #Beirut port a short while ago. It's truly frightening! pic.twitter.com/XTTkRVfREz",
+                "html": "<blockquote class=\"twitter-tweet\" data-dnt=\"true\"><p lang=\"en\" dir=\"ltr\">Footage of the massive explosion at <a href=\"https://x.com/hashtag/Beirut?src=hash&amp;ref_src=twsrc%5Etfw\">#Beirut</a> port a short while ago. It&#39;s truly frightening! <a href=\"https://t.co/XTTkRVfREz\">pic.twitter.com/XTTkRVfREz</a></p>&mdash; Shah (@S0101019) <a href=\"https://x.com/S0101019/status/1290686172843380741?ref_src=twsrc%5Etfw\">August 4, 2020</a></blockquote>"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-24T12:00:00.034Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ft-source"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://player.vimeo.com/video/479844049",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=224,260"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "webpage",
+            "format": "text/html",
+            "value": "https://forensic-architecture.org/investigation/cloudstudies",
+            "frametrail:name": "Cloud Studies: clouds as evidence",
+            "frametrail:thumb": null,
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "embed": "allowed",
+                "description": "Forensic Architecture's wider work on reading smoke, gas and dust clouds; the Beirut plumes are part of it."
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-24T12:00:00.035Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ft-source"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://player.vimeo.com/video/479844049",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=235,273"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "webpage",
+            "format": "text/html",
+            "value": "https://github.com/forensic-architecture/models/tree/master/65",
+            "frametrail:name": "The four plumes as 3D models",
+            "frametrail:thumb": "https://opengraph.githubassets.com/8683693dcaf87936aa835ee4dec4ac8f564fe33241352a4b92202cbf30ee803b/forensic-architecture/models",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "embed": "forbidden",
+                "description": "Clouds.blend in the repository: the plumes and the blast as the team modelled them, to be opened in Blender."
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-24T12:00:00.036Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ft-source"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://player.vimeo.com/video/479844049",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=273,312"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "urlpreview",
+            "format": "text/html",
+            "source": "https://x.com/ConflictsW/status/1290948529209384960",
+            "frametrail:name": "CNW: the fire shortly before the explosion",
+            "frametrail:thumb": null,
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "originalType": "xtwitter",
+                "description": "Footage of the initial fire at Beirut port yesterday shortly before the massive explosion #Lebanon #Beirut pic.twitter.com/aiEBZ2RIeX",
+                "html": "<blockquote class=\"twitter-tweet\" data-dnt=\"true\"><p lang=\"en\" dir=\"ltr\">Footage of the initial fire at Beirut port yesterday shortly before the massive explosion<a href=\"https://x.com/hashtag/Lebanon?src=hash&amp;ref_src=twsrc%5Etfw\">#Lebanon</a> <a href=\"https://x.com/hashtag/Beirut?src=hash&amp;ref_src=twsrc%5Etfw\">#Beirut</a>   <a href=\"https://t.co/aiEBZ2RIeX\">pic.twitter.com/aiEBZ2RIeX</a></p>&mdash; CNW (@ConflictsW) <a href=\"https://x.com/ConflictsW/status/1290948529209384960?ref_src=twsrc%5Etfw\">August 5, 2020</a></blockquote>"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-24T12:00:00.037Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ft-background"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://player.vimeo.com/video/479844049",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=310,336"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/Image_stabilization",
+            "frametrail:name": "Image stabilization",
+            "frametrail:thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Comparison_of_image_stabilisation.svg/330px-Comparison_of_image_stabilisation.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "articleUrl": "https://en.wikipedia.org/wiki/Image_stabilization",
+                "wikiLang": "en",
+                "dir": "ltr",
+                "description": "Techniques used to reduce blurring of images",
+                "extract": "In photography, image stabilization (IS) is a family of techniques that reduce blurring associated with the motion of a camera or other imaging device during exposure. Generally, it compensates for pan and tilt (angular movement, equivalent to yaw and pitch) of the imaging device, though electronic image stabilization can also compensate for rotation about the optical axis (roll). It is mainly used in high-end image-stabilized binoculars, still and video cameras, astronomical telescopes, and also smartphones. With still cameras, camera shake is a particular problem at slow shutter speeds or with long focal length lenses (telephoto or zoom). With video cameras, camera shake causes visible frame-to-frame jitter in the recorded video. In astronomy, the problem of lens shake is added to variation in the atmosphere, which changes the apparent positions of objects over time.",
+                "extract_html": "<p>In photography, <b>image stabilization</b> (<b>IS</b>) is a family of techniques that reduce blurring associated with the motion of a camera or other imaging device during exposure.</p><p>Generally, it compensates for pan and tilt (angular movement, equivalent to yaw and pitch) of the imaging device, though electronic image stabilization can also compensate for rotation about the optical axis (roll). It is mainly used in high-end image-stabilized binoculars, still and video cameras, astronomical telescopes, and also smartphones. With still cameras, <b>camera shake</b> is a particular problem at slow shutter speeds or with long focal length lenses (telephoto or zoom). With video cameras, camera shake causes visible frame-to-frame jitter in the recorded video. In astronomy, the problem of lens shake is added to variation in the atmosphere, which changes the apparent positions of objects over time.</p>"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-24T12:00:00.038Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ft-source"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://player.vimeo.com/video/479844049",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=338,364"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "urlpreview",
+            "format": "text/html",
+            "source": "https://x.com/jarasscoop/status/1290947416896811013",
+            "frametrail:name": "Jaras Scoop: the video the firemen sent their comrades",
+            "frametrail:thumb": null,
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "originalType": "xtwitter",
+                "description": "خاص #جرس_سكوب : فيديو يُظهر عناصر من فوج اطفاء بيروت الذين توجهوا لإطفاء الحريق الذي سبق #انفجار_بيروت القاتل..فيديو ارسلوه لرفاقهم قبل ان يستشهدوا في #انفجار_مرفأ_بيروت . رحمهم الله. pic.twitter.com/NJ5Q1WYEpI",
+                "html": "<blockquote class=\"twitter-tweet\" data-dnt=\"true\"><p lang=\"ar\" dir=\"rtl\">خاص <a href=\"https://x.com/hashtag/%D8%AC%D8%B1%D8%B3_%D8%B3%D9%83%D9%88%D8%A8?src=hash&amp;ref_src=twsrc%5Etfw\">#جرس_سكوب</a>: فيديو يُظهر عناصر من فوج اطفاء بيروت الذين توجهوا لإطفاء الحريق الذي سبق <a href=\"https://x.com/hashtag/%D8%A7%D9%86%D9%81%D8%AC%D8%A7%D8%B1_%D8%A8%D9%8A%D8%B1%D9%88%D8%AA?src=hash&amp;ref_src=twsrc%5Etfw\">#انفجار_بيروت</a> القاتل..فيديو ارسلوه لرفاقهم قبل ان يستشهدوا في <a href=\"https://x.com/hashtag/%D8%A7%D9%86%D9%81%D8%AC%D8%A7%D8%B1_%D9%85%D8%B1%D9%81%D8%A3_%D8%A8%D9%8A%D8%B1%D9%88%D8%AA?src=hash&amp;ref_src=twsrc%5Etfw\">#انفجار_مرفأ_بيروت</a>.<br>رحمهم الله. <a href=\"https://t.co/NJ5Q1WYEpI\">pic.twitter.com/NJ5Q1WYEpI</a></p>&mdash; Jaras Scoop FM (@jarasscoop) <a href=\"https://x.com/jarasscoop/status/1290947416896811013?ref_src=twsrc%5Etfw\">August 5, 2020</a></blockquote>"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-24T12:00:00.039Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ft-source"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://player.vimeo.com/video/479844049",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=342,366"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "urlpreview",
+            "format": "text/html",
+            "source": "https://x.com/Dalatrm/status/1291331617500409857",
+            "frametrail:name": "Riam Dalati: the firemen at the door of the warehouse",
+            "frametrail:thumb": null,
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "originalType": "xtwitter",
+                "description": "This photo here, shown yesterday by @riadkobaissi , shows the valiant efforts of martyred firemen on the day of the #BeirutBlast fire. They were trying to break into the Hangar 12, because only 2 sets of keys exist with Customs &amp; Port Authorities. They sent them to certain death. pic.twitter.com/OjpG68TELx",
+                "html": "<blockquote class=\"twitter-tweet\" data-dnt=\"true\"><p lang=\"en\" dir=\"ltr\">This photo here, shown yesterday by <a href=\"https://x.com/riadkobaissi?ref_src=twsrc%5Etfw\">@riadkobaissi</a>, shows the valiant efforts of martyred firemen on the day of the <a href=\"https://x.com/hashtag/BeirutBlast?src=hash&amp;ref_src=twsrc%5Etfw\">#BeirutBlast</a> fire. They were trying to break into the Hangar 12, because only 2 sets of keys exist with Customs &amp; Port Authorities. They sent them to certain death. <a href=\"https://t.co/OjpG68TELx\">pic.twitter.com/OjpG68TELx</a></p>&mdash; Riam Dalati (@Dalatrm) <a href=\"https://x.com/Dalatrm/status/1291331617500409857?ref_src=twsrc%5Etfw\">August 6, 2020</a></blockquote>"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-24T12:00:00.040Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ft-background"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://player.vimeo.com/video/479844049",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=365,388"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/MV_Rhosus",
+            "frametrail:name": "MV Rhosus",
+            "frametrail:thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/MV_Rhosus_20110730.jpg/330px-MV_Rhosus_20110730.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "articleUrl": "https://en.wikipedia.org/wiki/MV_Rhosus",
+                "wikiLang": "en",
+                "dir": "ltr",
+                "description": "Cargo ship built in 1986, sank in 2018 in Beirut",
+                "extract": "MV Rhosus was a general cargo ship that was abandoned in Beirut, Lebanon, after the ship was declared unseaworthy and the charterers lost interest in the cargo. The 2,750 tonnes of ammonium nitrate which the ship was carrying was confiscated and brought to shore in 2014, and later caused the catastrophic 2020 Beirut explosion. The vessel's owner at the time of abandonment was Cyprus-based Russian businessman Igor Grechushkin. The ship sank in the Port of Beirut in 2018.",
+                "extract_html": "<p><b>MV <i>Rhosus</i></b> was a general cargo ship that was abandoned in Beirut, Lebanon, after the ship was declared unseaworthy and the charterers lost interest in the cargo. The 2,750 tonnes of ammonium nitrate which the ship was carrying was confiscated and brought to shore in 2014, and later caused the catastrophic 2020 Beirut explosion. The vessel's owner at the time of abandonment was Cyprus-based Russian businessman Igor Grechushkin. The ship sank in the Port of Beirut in 2018.</p>"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-24T12:00:00.041Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ft-place"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://player.vimeo.com/video/479844049",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=366,390"
+            }
+        },
+        "body": {
+            "type": "Dataset",
+            "frametrail:type": "location",
+            "format": "application/x-frametrail-location",
+            "source": "",
+            "frametrail:name": "Where the Rhosus lay, and sank in 2018",
+            "frametrail:thumb": null,
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "lat": 33.9059,
+                "lon": 35.5186,
+                "zoom": 15,
+                "tileStyle": "dark",
+                "marker": {
+                    "show": true,
+                    "color": "#e0604f"
+                },
+                "controls": {
+                    "dragging": true,
+                    "scrollWheelZoom": false,
+                    "zoomControl": true
+                }
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-24T12:00:00.042Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ft-source"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://player.vimeo.com/video/479844049",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=373,408"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "webpage",
+            "format": "text/html",
+            "value": "https://www.legalactionworldwide.org/lebanon/",
+            "frametrail:name": "Legal Action Worldwide: Lebanon",
+            "frametrail:thumb": null,
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "embed": "forbidden",
+                "description": "The organisation whose chronology of the warnings, and whose report for the victims, the film shows."
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-24T12:00:00.043Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ft-background"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://player.vimeo.com/video/479844049",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=376,400"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/Lebanese_Customs_Administration",
+            "frametrail:name": "Lebanese Customs Administration",
+            "frametrail:thumb": null,
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "articleUrl": "https://en.wikipedia.org/wiki/Lebanese_Customs_Administration",
+                "wikiLang": "en",
+                "dir": "ltr",
+                "description": "Law enforcement agency",
+                "extract": "Lebanese Customs (Arabic: الجمارك اللبنانية Al-Jamarek Al-Lubnaniyah) (French: Douanes Libanaises) is the government authority in Lebanon responsible for collecting customs duties and controlling the flow of goods in and out of the country. It operates under the Ministry of Finance.",
+                "extract_html": "<p><b>Lebanese Customs</b> (Arabic: الجمارك اللبنانية <i>Al-Jamarek Al-Lubnaniyah</i>) (French: Douanes Libanaises) is the government authority in Lebanon responsible for collecting customs duties and controlling the flow of goods in and out of the country. It operates under the Ministry of Finance.</p>"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-24T12:00:00.044Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ft-source"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://player.vimeo.com/video/479844049",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=406,430"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "webpage",
+            "format": "text/html",
+            "value": "https://www.nytimes.com/interactive/2020/09/09/world/middleeast/beirut-explosion.html",
+            "frametrail:name": "The New York Times: the photographs from inside Hangar 12",
+            "frametrail:thumb": null,
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "embed": "forbidden",
+                "description": "The reconstruction in which the photographs of the torn and spilling sacks were first published."
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-24T12:00:00.045Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ft-source"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://player.vimeo.com/video/479844049",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=410,434"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "urlpreview",
+            "format": "text/html",
+            "source": "https://x.com/Dalatrm/status/1290780414114779137",
+            "frametrail:name": "Riam Dalati: the first photographs from Hangar 12",
+            "frametrail:thumb": null,
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "originalType": "xtwitter",
+                "description": "First photos emerging from #Beirut Port's #Hangar12 with workers stacking what seems to be the salvaged Nitroprill Ammonium Nitrate which caused the #BeirutBlast pic.twitter.com/8176TH3CFY",
+                "html": "<blockquote class=\"twitter-tweet\" data-dnt=\"true\"><p lang=\"en\" dir=\"ltr\">First photos emerging from <a href=\"https://x.com/hashtag/Beirut?src=hash&amp;ref_src=twsrc%5Etfw\">#Beirut</a> Port&#39;s <a href=\"https://x.com/hashtag/Hangar12?src=hash&amp;ref_src=twsrc%5Etfw\">#Hangar12</a> with workers stacking what seems to be the salvaged Nitroprill Ammonium Nitrate which caused the <a href=\"https://x.com/hashtag/BeirutBlast?src=hash&amp;ref_src=twsrc%5Etfw\">#BeirutBlast</a> <a href=\"https://t.co/8176TH3CFY\">pic.twitter.com/8176TH3CFY</a></p>&mdash; Riam Dalati (@Dalatrm) <a href=\"https://x.com/Dalatrm/status/1290780414114779137?ref_src=twsrc%5Etfw\">August 4, 2020</a></blockquote>"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-24T12:00:00.046Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ft-source"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://player.vimeo.com/video/479844049",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=413,446"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "urlpreview",
+            "format": "text/html",
+            "source": "https://x.com/DimaSadek/status/1291486030458224640",
+            "frametrail:name": "Dima Sadek: how the sacks were stacked",
+            "frametrail:thumb": null,
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "originalType": "xtwitter",
+                "description": "هكذا كانت اكياس الموت مكدّسة. الصور مأخوذة قبل ايام من الحادث، عندما تحدث جهاز امن الدولة عن وجود نيترات الامونيوم في العنبر رقم ١٢. pic.twitter.com/cICAKE5h7x",
+                "html": "<blockquote class=\"twitter-tweet\" data-dnt=\"true\"><p lang=\"ar\" dir=\"rtl\">هكذا كانت اكياس الموت مكدّسة.<br>الصور مأخوذة قبل ايام من الحادث، عندما تحدث جهاز امن الدولة عن وجود نيترات الامونيوم في العنبر رقم ١٢. <a href=\"https://t.co/cICAKE5h7x\">pic.twitter.com/cICAKE5h7x</a></p>&mdash; Dima ديما صادق (@DimaSadek) <a href=\"https://x.com/DimaSadek/status/1291486030458224640?ref_src=twsrc%5Etfw\">August 6, 2020</a></blockquote>"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-24T12:00:00.047Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ft-background"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://player.vimeo.com/video/479844049",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=445,482"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/Al_Jadeed",
+            "frametrail:name": "Al Jadeed",
+            "frametrail:thumb": "https://thumb.wikimedia.org/wikipedia/en/thumb/1/17/Al_Jadeed.PNG/330px-Al_Jadeed.PNG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "articleUrl": "https://en.wikipedia.org/wiki/Al_Jadeed",
+                "wikiLang": "en",
+                "dir": "ltr",
+                "description": "Lebanese TV channel",
+                "extract": "Al Jadeed (Arabic: الجديد, romanized: al-Jadīd, lit. 'the new', English: New TV) is an independent Lebanese TV station. Headquartered in Beirut, it was launched in 1992 and paused its broadcasts in 1997 due to Syrian intervention, before resuming broadcasting in 2001. On 9 May 2005, Al Jadeed was also launched in America and the Pacific, reaching Arabic-speaking immigrants in the United States, Canada, South America and Australia. As of 2012, it has become available for viewers in South America through over-the-top technology on myTV.",
+                "extract_html": "<p><i><b>Al Jadeed</b></i> (Arabic: الجديد, romanized: <i lang=\"ar-Latn\"><i>al-Jadīd</i></i>, lit. 'the new', English: New TV) is an independent Lebanese TV station. Headquartered in Beirut, it was launched in 1992 and paused its broadcasts in 1997 due to Syrian intervention, before resuming broadcasting in 2001.</p><p>On 9 May 2005, <i>Al Jadeed</i> was also launched in America and the Pacific, reaching Arabic-speaking immigrants in the United States, Canada, South America and Australia. As of 2012, it has become available for viewers in South America through over-the-top technology on myTV.</p>"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-24T12:00:00.048Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ft-source"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://player.vimeo.com/video/479844049",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=464,513"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "webpage",
+            "format": "text/html",
+            "value": "https://github.com/forensic-architecture/models/tree/master/65",
+            "frametrail:name": "The warehouse as a 3D model",
+            "frametrail:thumb": "https://opengraph.githubassets.com/8683693dcaf87936aa835ee4dec4ac8f564fe33241352a4b92202cbf30ee803b/forensic-architecture/models",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "embed": "forbidden",
+                "description": "Warehouse.blend in the repository: the building with the bags, the tyres and the fireworks where the team placed them."
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-24T12:00:00.049Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ft-background"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://player.vimeo.com/video/479844049",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=513,536"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/MTV_(Lebanon)",
+            "frametrail:name": "MTV (Lebanon)",
+            "frametrail:thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/MTV_%28Lebanon%29_Logo.svg/330px-MTV_%28Lebanon%29_Logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "articleUrl": "https://en.wikipedia.org/wiki/MTV_(Lebanon)",
+                "wikiLang": "en",
+                "dir": "ltr",
+                "description": "Television network in Lebanon",
+                "extract": "Murr Television, marketed and known as MTV Lebanon, is a Lebanese television station based in Naccache, Metn District. It was founded in 1991 by businessman Michel El Murr, son of Gabriel Murr (brother of Lebanese politician Michel Murr), as an independent channel emphasizing local programming while also broadcasting Arab and Western content.",
+                "extract_html": "<p><b>Murr Television</b>, marketed and known as <b>MTV Lebanon</b>, is a Lebanese television station based in Naccache, Metn District. It was founded in 1991 by businessman Michel El Murr, son of Gabriel Murr (brother of Lebanese politician Michel Murr), as an independent channel emphasizing local programming while also broadcasting Arab and Western content.</p>"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-24T12:00:00.050Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ft-background"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://player.vimeo.com/video/479844049",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=521,544"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/Ammonium_phosphate",
+            "frametrail:name": "Ammonium phosphate",
+            "frametrail:thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Ammonium_phosphate.png/330px-Ammonium_phosphate.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "articleUrl": "https://en.wikipedia.org/wiki/Ammonium_phosphate",
+                "wikiLang": "en",
+                "dir": "ltr",
+                "description": "Chemical compound",
+                "extract": "Ammonium phosphate is the inorganic compound with the formula (NH4)3PO4. It is the ammonium salt of orthophosphoric acid. A related double salt, (NH4)3PO4.(NH4)2HPO4 is also recognized but is impractical to use. Both triammonium salts evolve ammonia. In contrast to the unstable nature of the triammonium salts, the diammonium phosphate (NH4)2HPO4 and monoammonium salt (NH4)H2PO4 are stable materials that are commonly used as fertilizers to provide plants with fixed nitrogen and phosphorus.",
+                "extract_html": "<p><b>Ammonium phosphate</b> is the inorganic compound with the formula (NH<sub>4</sub>)<sub>3</sub>PO<sub>4</sub>. It is the ammonium salt of orthophosphoric acid. A related double salt, (NH<sub>4</sub>)<sub>3</sub>PO<sub>4</sub><sup>.</sup>(NH<sub>4</sub>)<sub>2</sub>HPO<sub>4</sub> is also recognized but is impractical to use. Both triammonium salts evolve ammonia. In contrast to the unstable nature of the triammonium salts, the diammonium phosphate (NH<sub>4</sub>)<sub>2</sub>HPO<sub>4</sub> and monoammonium salt (NH<sub>4</sub>)H<sub>2</sub>PO<sub>4</sub> are stable materials that are commonly used as fertilizers to provide plants with fixed nitrogen and phosphorus.</p>"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-24T12:00:00.051Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ft-background"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://player.vimeo.com/video/479844049",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=527,550"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/Detonating_cord",
+            "frametrail:name": "Detonating cord",
+            "frametrail:thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/US_Marines_100830-M-DX861-005_detonation_cord.jpg/330px-US_Marines_100830-M-DX861-005_detonation_cord.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "articleUrl": "https://en.wikipedia.org/wiki/Detonating_cord",
+                "wikiLang": "en",
+                "dir": "ltr",
+                "description": "Thin explosive tube",
+                "extract": "Detonating cord (also called detonation cord, detcord, detacord, blasting rope, or primer cord) is a thin, flexible plastic tube usually filled with pentaerythritol tetranitrate (PETN, pentrite). With the PETN exploding at a rate of approximately 6,400 m/s (21,000 ft/s), any common length of detonation cord appears to explode instantaneously. It is a high-speed fuse which explodes, rather than burns, and is suitable for detonating high explosives. The detonation velocity is sufficient to use it for synchronizing multiple charges to detonate almost simultaneously even if the charges are placed at different distances from the point of initiation. It is used to reliably and inexpensively chain together multiple explosive charges. Typical uses include mining, drilling, demolitions, and warfare.",
+                "extract_html": "<p><b>Detonating cord</b> (also called <b>detonation cord</b>, <b>detcord</b>, <b>detacord</b>, <b>blasting rope</b>, or <b>primer cord</b>) is a thin, flexible plastic tube usually filled with pentaerythritol tetranitrate (PETN, pentrite). With the PETN exploding at a rate of approximately 6,400 m/s (21,000 ft/s), any common length of detonation cord appears to explode instantaneously. It is a high-speed fuse which explodes, rather than burns, and is suitable for detonating high explosives. The detonation velocity is sufficient to use it for synchronizing multiple charges to detonate almost simultaneously even if the charges are placed at different distances from the point of initiation. It is used to reliably and inexpensively chain together multiple explosive charges. Typical uses include mining, drilling, demolitions, and warfare.</p>"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-24T12:00:00.052Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ft-background"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://player.vimeo.com/video/479844049",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=535,560"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/Tire_fire",
+            "frametrail:name": "Tire fire",
+            "frametrail:thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Tire_fire_in_Minto%2C_NB.jpg/330px-Tire_fire_in_Minto%2C_NB.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "articleUrl": "https://en.wikipedia.org/wiki/Tire_fire",
+                "wikiLang": "en",
+                "dir": "ltr",
+                "description": "Events involving the combustion of tires",
+                "extract": "Tire fires are events that involve the combustion of large quantities of tires, usually waste tires, typically in locations where they are stored, dumped, or processed. They exist in two forms: fast-burning combustion and slow-burning pyrolysis that can continue for more than a decade. Tire fires are difficult to extinguish. They produce much smoke, which carries toxic chemicals from the breakdown of synthetic rubber compounds while burning.",
+                "extract_html": "<p><b>Tire fires</b> are events that involve the combustion of large quantities of tires, usually waste tires, typically in locations where they are stored, dumped, or processed. They exist in two forms: fast-burning combustion and slow-burning pyrolysis that can continue for more than a decade. Tire fires are difficult to extinguish. They produce much smoke, which carries toxic chemicals from the breakdown of synthetic rubber compounds while burning.</p>"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-24T12:00:00.053Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ft-source"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://player.vimeo.com/video/479844049",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=558,582"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "webpage",
+            "format": "text/html",
+            "value": "https://forensic-architecture.org/about/team/member/gareth-collett-cbe",
+            "frametrail:name": "Gareth Collett, quoted here",
+            "frametrail:thumb": null,
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "embed": "allowed",
+                "description": "The explosives expert whose reading of the smoke and of the layout the film follows."
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-24T12:00:00.054Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ft-background"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://player.vimeo.com/video/479844049",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=577,600"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/List_of_ammonium_nitrate_incidents_and_disasters",
+            "frametrail:name": "Ammonium nitrate disasters",
+            "frametrail:thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Ammonium_nitrate_33%2C5_EC-fertilizer_by_Borealis.jpg/330px-Ammonium_nitrate_33%2C5_EC-fertilizer_by_Borealis.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "articleUrl": "https://en.wikipedia.org/wiki/List_of_ammonium_nitrate_incidents_and_disasters",
+                "wikiLang": "en",
+                "dir": "ltr",
+                "description": "",
+                "extract": "When heated, ammonium nitrate decomposes non-explosively into nitrous oxide and water vapor; however, it can be induced to decompose explosively by detonation into oxygen, nitrogen, and water vapor. Large stockpiles of the material can be a major fire risk due to their supporting oxidation, and may also detonate, as happened in the Texas City disaster of 1947 which led to major changes in the regulations for storage and handling.",
+                "extract_html": "<p>When heated, ammonium nitrate decomposes non-explosively into nitrous oxide and water vapor; however, it can be induced to decompose explosively by detonation into oxygen, nitrogen, and water vapor. Large stockpiles of the material can be a major fire risk due to their supporting oxidation, and may also detonate, as happened in the Texas City disaster of 1947 which led to major changes in the regulations for storage and handling.</p>"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-24T12:00:00.055Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ft-background"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://player.vimeo.com/video/479844049",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=583,604"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/Texas_City_disaster",
+            "frametrail:name": "Texas City disaster",
+            "frametrail:thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Txcitydisasterboat.jpg/330px-Txcitydisasterboat.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "articleUrl": "https://en.wikipedia.org/wiki/Texas_City_disaster",
+                "wikiLang": "en",
+                "dir": "ltr",
+                "description": "1947 explosions in Texas City, Texas",
+                "extract": "The Texas City disaster was an industrial accident that occurred on April 16, 1947, in the port of Texas City, Texas, United States, located in Galveston Bay. It was the deadliest industrial accident in U.S. history and one of history's largest non-nuclear explosions. The explosion was triggered by a mid-morning fire on board the French-registered vessel Grandcamp (docked at port), which detonated her cargo of about 2,300 short tons (2,100 metric tons) of ammonium nitrate. This started a chain reaction of fires and explosions aboard other ships and in nearby oil-storage facilities, ultimately killing at least 581 people, including all but one member of Texas City's volunteer fire department.",
+                "extract_html": "<p>The <b>Texas City disaster</b> was an industrial accident that occurred on April 16, 1947, in the port of Texas City, Texas, United States, located in Galveston Bay. It was the deadliest industrial accident in U.S. history and one of history's largest non-nuclear explosions.</p><p>The explosion was triggered by a mid-morning fire on board the French-registered vessel <i>Grandcamp</i> (docked at port), which detonated her cargo of about 2,300 short tons (2,100 metric tons) of ammonium nitrate. This started a chain reaction of fires and explosions aboard other ships and in nearby oil-storage facilities, ultimately killing at least 581 people, including all but one member of Texas City's volunteer fire department.</p>"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-24T12:00:00.056Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ft-background"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://player.vimeo.com/video/479844049",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=586,606"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/2015_Tianjin_explosions",
+            "frametrail:name": "2015 Tianjin explosions",
+            "frametrail:thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/2015_Tianjin_explosion_-_Crop.jpg/330px-2015_Tianjin_explosion_-_Crop.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "articleUrl": "https://en.wikipedia.org/wiki/2015_Tianjin_explosions",
+                "wikiLang": "en",
+                "dir": "ltr",
+                "description": "Explosions at the Binhai New Area of Tianjin, China",
+                "extract": "On 12 August 2015, a series of explosions at the Port of Tianjin in Tianjin, Northern China, killed 173 people, according to official reports, and injured hundreds of others. The explosions occurred at a container storage station in the Binhai New Area of Tianjin, China. The first two explosions occurred 33 seconds apart. The second explosion was much larger and involved the detonation of about 800 tonnes of ammonium nitrate (approx. 256 tonnes TNT equivalent). Fires caused by the initial explosions continued to burn uncontrolled throughout the weekend, resulting in eight additional explosions on 15 August.",
+                "extract_html": "<p>On 12 August 2015, a series of explosions at the Port of Tianjin in Tianjin, Northern China, killed 173 people, according to official reports, and injured hundreds of others. The explosions occurred at a container storage station in the Binhai New Area of Tianjin, China. The first two explosions occurred 33 seconds apart. The second explosion was much larger and involved the detonation of about 800 tonnes of ammonium nitrate (approx. 256 tonnes TNT equivalent). Fires caused by the initial explosions continued to burn uncontrolled throughout the weekend, resulting in eight additional explosions on 15 August.</p>"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-24T12:00:00.057Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ft-background"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://player.vimeo.com/video/479844049",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=603,624"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/Health_and_Safety_Executive",
+            "frametrail:name": "Health and Safety Executive",
+            "frametrail:thumb": null,
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "articleUrl": "https://en.wikipedia.org/wiki/Health_and_Safety_Executive",
+                "wikiLang": "en",
+                "dir": "ltr",
+                "description": "Health and safety body in Great Britain",
+                "extract": "The Health and Safety Executive (HSE) is a public body responsible for the encouragement, regulation and enforcement of workplace health, safety and welfare in Great Britain. It has additionally adopted a research role into occupational risks. It is a non-departmental public body with its headquarters in Bootle, England. The HSE was created by the Health and Safety at Work etc. Act 1974, and has since absorbed earlier regulatory bodies such as the Factory Inspectorate and the Railway Inspectorate though the Railway Inspectorate was transferred to the Office of Rail and Road in April 2006. The HSE is sponsored by the Department for Work and Pensions. As part of its work, HSE investigates industrial accidents, small and large, including major incidents such as the explosion and fire at Buncefield in 2005. Though it formerly reported to the Health and Safety Commission, on 1 April 2008, the two bodies merged. It does not operate in Northern Ireland, where the Health and Safety Executive for Northern Ireland carries out such duties.",
+                "extract_html": "<p>The <b>Health and Safety Executive</b> (<b>HSE</b>) is a public body responsible for the encouragement, regulation and enforcement of workplace health, safety and welfare in Great Britain. It has additionally adopted a research role into occupational risks. It is a non-departmental public body with its headquarters in Bootle, England. The HSE was created by the Health and Safety at Work etc. Act 1974, and has since absorbed earlier regulatory bodies such as the Factory Inspectorate and the Railway Inspectorate though the Railway Inspectorate was transferred to the Office of Rail and Road in April 2006. The HSE is sponsored by the Department for Work and Pensions. As part of its work, HSE investigates industrial accidents, small and large, including major incidents such as the explosion and fire at Buncefield in 2005. Though it formerly reported to the Health and Safety Commission, on 1 April 2008, the two bodies merged. It does not operate in Northern Ireland, where the Health and Safety Executive for Northern Ireland carries out such duties.</p>"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-24T12:00:00.058Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ft-source"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://player.vimeo.com/video/479844049",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=604,626"
+            }
+        },
+        "body": {
+            "frametrail:type": "pdf",
+            "source": "https://www.hse.gov.uk/pubns/indg230.pdf",
+            "frametrail:name": "HSE: Storing and handling ammonium nitrate",
+            "frametrail:thumb": null,
+            "frametrail:licenseType": "Copyright",
+            "frametrail:licenseAttribution": "Health and Safety Executive, Crown copyright",
+            "frametrail:attributes": {}
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-24T12:00:00.059Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ft-source"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://player.vimeo.com/video/479844049",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=622,648"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "webpage",
+            "format": "text/html",
+            "value": "https://www.worksafe.wa.gov.au/publications/safe-storage-solid-ammonium-nitrate-code-practice",
+            "frametrail:name": "Western Australia: Safe storage of solid ammonium nitrate",
+            "frametrail:thumb": null,
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "embed": "forbidden",
+                "description": "The code of practice the film compares the warehouse with: stacks of 500 tonnes, 890 metres from homes."
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-24T12:00:00.060Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ft-place"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://player.vimeo.com/video/479844049",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=643,666"
+            }
+        },
+        "body": {
+            "type": "Dataset",
+            "frametrail:type": "location",
+            "format": "application/x-frametrail-location",
+            "source": "",
+            "frametrail:name": "Mar Mikhael: homes within 500 metres",
+            "frametrail:thumb": null,
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "lat": 33.8994,
+                "lon": 35.5247,
+                "zoom": 15,
+                "tileStyle": "dark",
+                "marker": {
+                    "show": true,
+                    "color": "#e0604f"
+                },
+                "controls": {
+                    "dragging": true,
+                    "scrollWheelZoom": false,
+                    "zoomControl": true
+                }
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-24T12:00:00.061Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ft-background"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://player.vimeo.com/video/479844049",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=645,666"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/Mar_Mikha%C3%ABl",
+            "frametrail:name": "Mar Mikhael",
+            "frametrail:thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Mar_Mikhael_1966.jpg/330px-Mar_Mikhael_1966.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "articleUrl": "https://en.wikipedia.org/wiki/Mar_Mikha%C3%ABl",
+                "wikiLang": "en",
+                "dir": "ltr",
+                "description": "75th sector of Beirut",
+                "extract": "Mar Mikhaël (Arabic: مار ميخائيل, Lebanese pronunciation: مار مخايل) is a residential and commercial neighborhood (sector 75) in the Medawar district of Beirut, Lebanon. It is a fashionable area with cafes, restaurants, art galleries, bakeries and shops. The neighborhood is named after the Maronite Catholic Church of St. Michael, which is located on Rue Pharoun.",
+                "extract_html": "<p><b>Mar Mikhaël</b> (Arabic: مار ميخائيل, Lebanese pronunciation: مار مخايل) is a residential and commercial neighborhood (sector 75) in the Medawar district of Beirut, Lebanon. It is a fashionable area with cafes, restaurants, art galleries, bakeries and shops. The neighborhood is named after the Maronite Catholic Church of St. Michael, which is located on Rue Pharoun.</p>"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-24T12:00:00.062Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ft-background"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://player.vimeo.com/video/479844049",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=647,668"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/Karantina",
+            "frametrail:name": "Karantina",
+            "frametrail:thumb": null,
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "articleUrl": "https://en.wikipedia.org/wiki/Karantina",
+                "wikiLang": "en",
+                "dir": "ltr",
+                "description": "Neighborhood in Beirut",
+                "extract": "La Quarantine, which is colloquially referred to as Karantina (Arabic: الكرنتينا) and sometimes spelled Quarantina, is a predominantly low-income, mixed-use residential, commercial, and semi-industrial neighborhood in northeastern Beirut. The neighborhood lies east of the Port of Beirut, which also encircles it from the north, west of the Beirut River and north of the Charles Helou highway and the Achrafieh district of Beirut.",
+                "extract_html": "<p><b>La Quarantine</b>, which is colloquially referred to as <b>Karantina</b> (Arabic: الكرنتينا) and sometimes spelled <b>Quarantina</b>, is a predominantly low-income, mixed-use residential, commercial, and semi-industrial neighborhood in northeastern Beirut. The neighborhood lies east of the Port of Beirut, which also encircles it from the north, west of the Beirut River and north of the Charles Helou highway and the Achrafieh district of Beirut.</p>"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-24T12:00:00.063Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ft-source"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://player.vimeo.com/video/479844049",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=654,676"
+            }
+        },
+        "body": {
+            "type": "Image",
+            "frametrail:type": "image",
+            "format": "image/jpeg",
+            "source": "1_1795450202_nasa-damage-map-of-beirut.jpg",
+            "frametrail:name": "NASA's map of the damage",
+            "frametrail:thumb": "1_1795450202_thumb_nasa-damage-map-of-beirut.jpg",
+            "frametrail:licenseType": "PD",
+            "frametrail:licenseAttribution": "NASA Earth Observatory, with data from the ARIA team (NASA-JPL/Caltech, Earth Observatory of Singapore); contains modified Copernicus Sentinel data (2020) (https://earthobservatory.nasa.gov/images/147098/scientists-map-beirut-blast-damage)",
+            "frametrail:resourceId": "2",
+            "frametrail:attributes": {}
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-24T12:00:00.064Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ft-source"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://player.vimeo.com/video/479844049",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=655,678"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "webpage",
+            "format": "text/html",
+            "value": "https://www.jpl.nasa.gov/images/pia23692-aria-damage-map-beirut-explosion-aftermath",
+            "frametrail:name": "NASA: ARIA damage map of Beirut",
+            "frametrail:thumb": "https://www.jpl.nasa.gov/img/og.png",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "embed": "forbidden",
+                "description": "The map as NASA's Jet Propulsion Laboratory published it, made from satellite radar before and after the blast."
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-24T12:00:00.065Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ft-background"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://player.vimeo.com/video/479844049",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=657,680"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/Synthetic-aperture_radar",
+            "frametrail:name": "Synthetic-aperture radar",
+            "frametrail:thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/TEIDE.JPG/330px-TEIDE.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "articleUrl": "https://en.wikipedia.org/wiki/Synthetic-aperture_radar",
+                "wikiLang": "en",
+                "dir": "ltr",
+                "description": "Form of radar used to create images of landscapes",
+                "extract": "Synthetic-aperture radar (SAR) is a form of radar that is used to create two-dimensional images or three-dimensional reconstructions of objects, such as landscapes. SAR uses the motion of the radar antenna over a target region to provide finer spatial resolution than conventional stationary beam-scanning radars. SAR is typically mounted on a moving platform, such as an aircraft or spacecraft, and has its origins in an advanced form of side looking airborne radar (SLAR). The distance the SAR device travels over a target during the period when the target scene is illuminated creates the large synthetic antenna aperture (the size of the antenna). Typically, the larger the aperture, the higher the image resolution will be, regardless of whether the aperture is physical (a large antenna) or synthetic (a moving antenna) – this allows SAR to create high-resolution images with comparatively small physical antennas. For a fixed antenna size and orientation, objects which are further away remain illuminated longer – therefore SAR has the property of creating larger synthetic apertures for more distant objects, which results in a consistent spatial resolution over a range of viewing distances.",
+                "extract_html": "<p><b>Synthetic-aperture radar</b> (<b>SAR</b>) is a form of radar that is used to create two-dimensional images or three-dimensional reconstructions of objects, such as landscapes. SAR uses the motion of the radar antenna over a target region to provide finer spatial resolution than conventional stationary beam-scanning radars. SAR is typically mounted on a moving platform, such as an aircraft or spacecraft, and has its origins in an advanced form of side looking airborne radar (SLAR). The distance the SAR device travels over a target during the period when the target scene is illuminated creates the large <i>synthetic</i> antenna aperture (the <i>size</i> of the antenna). Typically, the larger the aperture, the higher the image resolution will be, regardless of whether the aperture is physical (a large antenna) or synthetic (a moving antenna) – this allows SAR to create high-resolution images with comparatively small physical antennas. For a fixed antenna size and orientation, objects which are further away remain illuminated longer – therefore SAR has the property of creating larger synthetic apertures for more distant objects, which results in a consistent spatial resolution over a range of viewing distances.</p>"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-24T12:00:00.066Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ft-source"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://player.vimeo.com/video/479844049",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=675,700"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "webpage",
+            "format": "text/html",
+            "value": "https://www.hrw.org/report/2021/08/03/they-killed-us-inside/investigation-august-4-beirut-blast",
+            "frametrail:name": "Human Rights Watch: They Killed Us from the Inside",
+            "frametrail:thumb": "https://www.hrw.org/sites/default/files/styles/opengraph/public/media_2021/08/202108mena_lebanon_beirutblast_main.jpg?h=5657362f&itok=qSi_06pQ",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "embed": "forbidden",
+                "description": "The 2021 investigation into what officials knew and did; it draws on the same warnings."
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-24T12:00:00.067Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ft-background"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://player.vimeo.com/video/479844049",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=678,702"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/Tarek_Bitar",
+            "frametrail:name": "Tarek Bitar",
+            "frametrail:thumb": null,
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "articleUrl": "https://en.wikipedia.org/wiki/Tarek_Bitar",
+                "wikiLang": "en",
+                "dir": "ltr",
+                "description": "Lebanese judge (born 1974)",
+                "extract": "Tarek Bitar (Arabic: طارق بيطار, Akkar, born 1974) is a Lebanese judge and the head of Beirut's criminal court, who is the second judge to lead the investigation of the 2020 Beirut Port explosion, succeeding Fadi Sawwan who was dismissed by the Lebanese court after charging two former Amal Party ministers over the blast, which was caused by 2,750 tonnes of ammonium nitrate negligently stored in the port for over six years. Sawwan's dismissal was objected to by the victims’ families because they feared that it would take the case back to zero. In September 2021, Bitar received a threat by Hezbollah.",
+                "extract_html": "<p><b>Tarek Bitar</b> (Arabic: طارق بيطار, Akkar, born 1974) is a Lebanese judge and the head of Beirut's criminal court, who is the second judge to lead the investigation of the 2020 Beirut Port explosion, succeeding Fadi Sawwan who was dismissed by the Lebanese court after charging two former Amal Party ministers over the blast, which was caused by 2,750 tonnes of ammonium nitrate negligently stored in the port for over six years. Sawwan's dismissal was objected to by the victims’ families because they feared that it would take the case back to zero. In September 2021, Bitar received a threat by Hezbollah.</p>"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-24T12:00:00.068Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ft-source"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://player.vimeo.com/video/479844049",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=684,706"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "webpage",
+            "format": "text/html",
+            "value": "https://www.legalactionworldwide.org/lebanon/",
+            "frametrail:name": "Legal Action Worldwide: the report for the victims",
+            "frametrail:thumb": null,
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "embed": "forbidden",
+                "description": "Its report on behalf of the victims carries the witness statements the film shows."
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-24T12:00:00.069Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ft-source"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://player.vimeo.com/video/479844049",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=698,720"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "webpage",
+            "format": "text/html",
+            "value": "https://github.com/forensic-architecture/models/tree/master/65",
+            "frametrail:name": "The models and the media inventory on GitHub",
+            "frametrail:thumb": "https://opengraph.githubassets.com/8683693dcaf87936aa835ee4dec4ac8f564fe33241352a4b92202cbf30ee803b/forensic-architecture/models",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "embed": "forbidden",
+                "description": "Blender and Cinema 4D files of the port, the warehouse and the plumes, and the list of the footage used."
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-24T12:00:00.070Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ft-background"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://player.vimeo.com/video/479844049",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=702,720"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/Blender_(software)",
+            "frametrail:name": "Blender (software)",
+            "frametrail:thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Blender_4.5.1_startup_screen.png/330px-Blender_4.5.1_startup_screen.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "articleUrl": "https://en.wikipedia.org/wiki/Blender_(software)",
+                "wikiLang": "en",
+                "dir": "ltr",
+                "description": "3D computer graphics software",
+                "extract": "Blender is a free and open-source 3D computer graphics software suite. It runs on Windows, macOS, Linux, BSD, Haiku, and IRIX and is used for general 3D modeling, animation, digital sculpting, visual effects, rendering, compositing, motion tracking, drawing, 2D animation and video editing. It is widely used to create animated films, visual effects, art, 3D-printed models, motion graphics, interactive 3D applications, virtual reality, and 3D models for video games.",
+                "extract_html": "<p><b>Blender</b> is a free and open-source 3D computer graphics software suite. It runs on Windows, macOS, Linux, BSD, Haiku, and IRIX and is used for general 3D modeling, animation, digital sculpting, visual effects, rendering, compositing, motion tracking, drawing, 2D animation and video editing. It is widely used to create animated films, visual effects, art, 3D-printed models, motion graphics, interactive 3D applications, virtual reality, and 3D models for video games.</p>"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-24T12:00:00.071Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ft-source"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://player.vimeo.com/video/479844049",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=704,720"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "webpage",
+            "format": "text/html",
+            "value": "https://forensic-architecture.org/investigation/the-beirut-port-explosion-the-welders",
+            "frametrail:name": "What followed: The Welders",
+            "frametrail:thumb": null,
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "embed": "allowed",
+                "description": "Forensic Architecture's later investigation into the welding work said to have started the fire."
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-24T12:00:00.072Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ft-source"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://player.vimeo.com/video/479844049",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=706,720"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "webpage",
+            "format": "text/html",
+            "value": "https://forensic-architecture.org/investigation/the-beirut-port-explosion-destruction-of-destruction",
+            "frametrail:name": "What followed: Destruction of Destruction",
+            "frametrail:thumb": null,
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "embed": "allowed",
+                "description": "The later investigation into what happened to the site, and to the evidence, afterwards."
+            }
+        }
+    }
+]
