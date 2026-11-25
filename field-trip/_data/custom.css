@@ -179,7 +179,7 @@ input[type="text"], input[type="password"], textarea, input[type="number"], inpu
     background: transparent;
     font-size: 56px;
     margin-left: -28px;
-    margin-top: -34px;
+    margin-top: -28px;
     text-shadow: 0 0 20px rgba(0, 0, 0, .6);
 }
 
