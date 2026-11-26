@@ -35,7 +35,8 @@
                         "users": [],
                         "text": ""
                     },
-                    "onClickContentItem": ""
+                    "onClickContentItem": "",
+                    "openWhenActive": true
                 }
             ],
             "areaCompanion": [
@@ -92,7 +93,7 @@
                 "type": "Person",
                 "id": "1"
             },
-            "created": "2026-11-21T15:00:00.017Z",
+            "created": "2026-11-21T15:00:00.007Z",
             "type": "Annotation",
             "frametrail:type": "Overlay",
             "frametrail:tags": [],
@@ -146,7 +147,7 @@
                 "type": "Person",
                 "id": "1"
             },
-            "created": "2026-11-21T15:00:00.018Z",
+            "created": "2026-11-21T15:00:00.008Z",
             "type": "Annotation",
             "frametrail:type": "Overlay",
             "frametrail:tags": [],
@@ -194,7 +195,7 @@
                 "type": "Person",
                 "id": "1"
             },
-            "created": "2026-11-21T15:00:00.019Z",
+            "created": "2026-11-21T15:00:00.009Z",
             "type": "Annotation",
             "frametrail:type": "Overlay",
             "frametrail:tags": [],
@@ -248,7 +249,7 @@
                 "type": "Person",
                 "id": "1"
             },
-            "created": "2026-11-21T15:00:00.020Z",
+            "created": "2026-11-21T15:00:00.010Z",
             "type": "Annotation",
             "frametrail:type": "Overlay",
             "frametrail:tags": [],
@@ -296,7 +297,7 @@
                 "type": "Person",
                 "id": "1"
             },
-            "created": "2026-11-21T15:00:00.021Z",
+            "created": "2026-11-21T15:00:00.011Z",
             "type": "Annotation",
             "frametrail:type": "Overlay",
             "frametrail:tags": [],
@@ -350,7 +351,7 @@
                 "type": "Person",
                 "id": "1"
             },
-            "created": "2026-11-21T15:00:00.022Z",
+            "created": "2026-11-21T15:00:00.012Z",
             "type": "Annotation",
             "frametrail:type": "Overlay",
             "frametrail:tags": [],
@@ -398,7 +399,7 @@
                 "type": "Person",
                 "id": "1"
             },
-            "created": "2026-11-21T15:00:00.023Z",
+            "created": "2026-11-21T15:00:00.013Z",
             "type": "Annotation",
             "frametrail:type": "Overlay",
             "frametrail:tags": [],
@@ -452,7 +453,7 @@
                 "type": "Person",
                 "id": "1"
             },
-            "created": "2026-11-21T15:00:00.024Z",
+            "created": "2026-11-21T15:00:00.014Z",
             "type": "Annotation",
             "frametrail:type": "Overlay",
             "frametrail:tags": [],
@@ -500,7 +501,7 @@
                 "type": "Person",
                 "id": "1"
             },
-            "created": "2026-11-21T15:00:00.025Z",
+            "created": "2026-11-21T15:00:00.015Z",
             "type": "Annotation",
             "frametrail:type": "Overlay",
             "frametrail:tags": [],
@@ -554,7 +555,7 @@
                 "type": "Person",
                 "id": "1"
             },
-            "created": "2026-11-21T15:00:00.026Z",
+            "created": "2026-11-21T15:00:00.016Z",
             "type": "Annotation",
             "frametrail:type": "Overlay",
             "frametrail:tags": [],
@@ -602,7 +603,7 @@
                 "type": "Person",
                 "id": "1"
             },
-            "created": "2026-11-21T15:00:00.027Z",
+            "created": "2026-11-21T15:00:00.017Z",
             "type": "Annotation",
             "frametrail:type": "Overlay",
             "frametrail:tags": [],
@@ -656,7 +657,7 @@
                 "type": "Person",
                 "id": "1"
             },
-            "created": "2026-11-21T15:00:00.028Z",
+            "created": "2026-11-21T15:00:00.018Z",
             "type": "Annotation",
             "frametrail:type": "Overlay",
             "frametrail:tags": [],
@@ -704,7 +705,7 @@
                 "type": "Person",
                 "id": "1"
             },
-            "created": "2026-11-21T15:00:00.029Z",
+            "created": "2026-11-21T15:00:00.019Z",
             "type": "Annotation",
             "frametrail:type": "Overlay",
             "frametrail:tags": [],
@@ -758,7 +759,7 @@
                 "type": "Person",
                 "id": "1"
             },
-            "created": "2026-11-21T15:00:00.030Z",
+            "created": "2026-11-21T15:00:00.020Z",
             "type": "Annotation",
             "frametrail:type": "Overlay",
             "frametrail:tags": [],
@@ -814,347 +815,7 @@
                 "type": "Person",
                 "id": "1"
             },
-            "created": "2026-11-21T15:00:00.002Z",
-            "type": "Annotation",
-            "frametrail:type": "CodeSnippet",
-            "frametrail:tags": [],
-            "target": {
-                "type": "Video",
-                "source": "1_1795290000_up-or-down.mp4",
-                "selector": {
-                    "conformsTo": "http://www.w3.org/TR/media-frags/",
-                    "type": "FragmentSelector",
-                    "value": "t=13.2"
-                }
-            },
-            "body": {
-                "type": "TextualBody",
-                "frametrail:type": "codesnippet",
-                "format": "text/javascript",
-                "value": "hypervideo.openLayoutArea('right');",
-                "frametrail:name": "Open the vote",
-                "frametrail:thumb": null,
-                "frametrail:resourceId": null,
-                "frametrail:attributes": {}
-            }
-        },
-        {
-            "@context": [
-                "http://www.w3.org/ns/anno.jsonld",
-                "https://frametrail.org/ns/context.jsonld"
-            ],
-            "creator": {
-                "nickname": "demo",
-                "type": "Person",
-                "id": "1"
-            },
             "created": "2026-11-21T15:00:00.004Z",
-            "type": "Annotation",
-            "frametrail:type": "CodeSnippet",
-            "frametrail:tags": [],
-            "target": {
-                "type": "Video",
-                "source": "1_1795290000_up-or-down.mp4",
-                "selector": {
-                    "conformsTo": "http://www.w3.org/TR/media-frags/",
-                    "type": "FragmentSelector",
-                    "value": "t=35.2"
-                }
-            },
-            "body": {
-                "type": "TextualBody",
-                "frametrail:type": "codesnippet",
-                "format": "text/javascript",
-                "value": "hypervideo.openLayoutArea('right');",
-                "frametrail:name": "Open the vote",
-                "frametrail:thumb": null,
-                "frametrail:resourceId": null,
-                "frametrail:attributes": {}
-            }
-        },
-        {
-            "@context": [
-                "http://www.w3.org/ns/anno.jsonld",
-                "https://frametrail.org/ns/context.jsonld"
-            ],
-            "creator": {
-                "nickname": "demo",
-                "type": "Person",
-                "id": "1"
-            },
-            "created": "2026-11-21T15:00:00.006Z",
-            "type": "Annotation",
-            "frametrail:type": "CodeSnippet",
-            "frametrail:tags": [],
-            "target": {
-                "type": "Video",
-                "source": "1_1795290000_up-or-down.mp4",
-                "selector": {
-                    "conformsTo": "http://www.w3.org/TR/media-frags/",
-                    "type": "FragmentSelector",
-                    "value": "t=103.2"
-                }
-            },
-            "body": {
-                "type": "TextualBody",
-                "frametrail:type": "codesnippet",
-                "format": "text/javascript",
-                "value": "hypervideo.openLayoutArea('right');",
-                "frametrail:name": "Open the vote",
-                "frametrail:thumb": null,
-                "frametrail:resourceId": null,
-                "frametrail:attributes": {}
-            }
-        },
-        {
-            "@context": [
-                "http://www.w3.org/ns/anno.jsonld",
-                "https://frametrail.org/ns/context.jsonld"
-            ],
-            "creator": {
-                "nickname": "demo",
-                "type": "Person",
-                "id": "1"
-            },
-            "created": "2026-11-21T15:00:00.007Z",
-            "type": "Annotation",
-            "frametrail:type": "CodeSnippet",
-            "frametrail:tags": [],
-            "target": {
-                "type": "Video",
-                "source": "1_1795290000_up-or-down.mp4",
-                "selector": {
-                    "conformsTo": "http://www.w3.org/TR/media-frags/",
-                    "type": "FragmentSelector",
-                    "value": "t=16.1"
-                }
-            },
-            "body": {
-                "type": "TextualBody",
-                "frametrail:type": "codesnippet",
-                "format": "text/javascript",
-                "value": "hypervideo.closeLayoutArea('right');",
-                "frametrail:name": "Close the vote",
-                "frametrail:thumb": null,
-                "frametrail:resourceId": null,
-                "frametrail:attributes": {}
-            }
-        },
-        {
-            "@context": [
-                "http://www.w3.org/ns/anno.jsonld",
-                "https://frametrail.org/ns/context.jsonld"
-            ],
-            "creator": {
-                "nickname": "demo",
-                "type": "Person",
-                "id": "1"
-            },
-            "created": "2026-11-21T15:00:00.008Z",
-            "type": "Annotation",
-            "frametrail:type": "CodeSnippet",
-            "frametrail:tags": [],
-            "target": {
-                "type": "Video",
-                "source": "1_1795290000_up-or-down.mp4",
-                "selector": {
-                    "conformsTo": "http://www.w3.org/TR/media-frags/",
-                    "type": "FragmentSelector",
-                    "value": "t=38.1"
-                }
-            },
-            "body": {
-                "type": "TextualBody",
-                "frametrail:type": "codesnippet",
-                "format": "text/javascript",
-                "value": "hypervideo.closeLayoutArea('right');",
-                "frametrail:name": "Close the vote",
-                "frametrail:thumb": null,
-                "frametrail:resourceId": null,
-                "frametrail:attributes": {}
-            }
-        },
-        {
-            "@context": [
-                "http://www.w3.org/ns/anno.jsonld",
-                "https://frametrail.org/ns/context.jsonld"
-            ],
-            "creator": {
-                "nickname": "demo",
-                "type": "Person",
-                "id": "1"
-            },
-            "created": "2026-11-21T15:00:00.009Z",
-            "type": "Annotation",
-            "frametrail:type": "CodeSnippet",
-            "frametrail:tags": [],
-            "target": {
-                "type": "Video",
-                "source": "1_1795290000_up-or-down.mp4",
-                "selector": {
-                    "conformsTo": "http://www.w3.org/TR/media-frags/",
-                    "type": "FragmentSelector",
-                    "value": "t=61.1"
-                }
-            },
-            "body": {
-                "type": "TextualBody",
-                "frametrail:type": "codesnippet",
-                "format": "text/javascript",
-                "value": "hypervideo.closeLayoutArea('right');",
-                "frametrail:name": "Close the vote",
-                "frametrail:thumb": null,
-                "frametrail:resourceId": null,
-                "frametrail:attributes": {}
-            }
-        },
-        {
-            "@context": [
-                "http://www.w3.org/ns/anno.jsonld",
-                "https://frametrail.org/ns/context.jsonld"
-            ],
-            "creator": {
-                "nickname": "demo",
-                "type": "Person",
-                "id": "1"
-            },
-            "created": "2026-11-21T15:00:00.010Z",
-            "type": "Annotation",
-            "frametrail:type": "CodeSnippet",
-            "frametrail:tags": [],
-            "target": {
-                "type": "Video",
-                "source": "1_1795290000_up-or-down.mp4",
-                "selector": {
-                    "conformsTo": "http://www.w3.org/TR/media-frags/",
-                    "type": "FragmentSelector",
-                    "value": "t=84.1"
-                }
-            },
-            "body": {
-                "type": "TextualBody",
-                "frametrail:type": "codesnippet",
-                "format": "text/javascript",
-                "value": "hypervideo.closeLayoutArea('right');",
-                "frametrail:name": "Close the vote",
-                "frametrail:thumb": null,
-                "frametrail:resourceId": null,
-                "frametrail:attributes": {}
-            }
-        },
-        {
-            "@context": [
-                "http://www.w3.org/ns/anno.jsonld",
-                "https://frametrail.org/ns/context.jsonld"
-            ],
-            "creator": {
-                "nickname": "demo",
-                "type": "Person",
-                "id": "1"
-            },
-            "created": "2026-11-21T15:00:00.011Z",
-            "type": "Annotation",
-            "frametrail:type": "CodeSnippet",
-            "frametrail:tags": [],
-            "target": {
-                "type": "Video",
-                "source": "1_1795290000_up-or-down.mp4",
-                "selector": {
-                    "conformsTo": "http://www.w3.org/TR/media-frags/",
-                    "type": "FragmentSelector",
-                    "value": "t=106.1"
-                }
-            },
-            "body": {
-                "type": "TextualBody",
-                "frametrail:type": "codesnippet",
-                "format": "text/javascript",
-                "value": "hypervideo.closeLayoutArea('right');",
-                "frametrail:name": "Close the vote",
-                "frametrail:thumb": null,
-                "frametrail:resourceId": null,
-                "frametrail:attributes": {}
-            }
-        },
-        {
-            "@context": [
-                "http://www.w3.org/ns/anno.jsonld",
-                "https://frametrail.org/ns/context.jsonld"
-            ],
-            "creator": {
-                "nickname": "demo",
-                "type": "Person",
-                "id": "1"
-            },
-            "created": "2026-11-21T15:00:00.012Z",
-            "type": "Annotation",
-            "frametrail:type": "CodeSnippet",
-            "frametrail:tags": [],
-            "target": {
-                "type": "Video",
-                "source": "1_1795290000_up-or-down.mp4",
-                "selector": {
-                    "conformsTo": "http://www.w3.org/TR/media-frags/",
-                    "type": "FragmentSelector",
-                    "value": "t=129.1"
-                }
-            },
-            "body": {
-                "type": "TextualBody",
-                "frametrail:type": "codesnippet",
-                "format": "text/javascript",
-                "value": "hypervideo.closeLayoutArea('right');",
-                "frametrail:name": "Close the vote",
-                "frametrail:thumb": null,
-                "frametrail:resourceId": null,
-                "frametrail:attributes": {}
-            }
-        },
-        {
-            "@context": [
-                "http://www.w3.org/ns/anno.jsonld",
-                "https://frametrail.org/ns/context.jsonld"
-            ],
-            "creator": {
-                "nickname": "demo",
-                "type": "Person",
-                "id": "1"
-            },
-            "created": "2026-11-21T15:00:00.013Z",
-            "type": "Annotation",
-            "frametrail:type": "CodeSnippet",
-            "frametrail:tags": [],
-            "target": {
-                "type": "Video",
-                "source": "1_1795290000_up-or-down.mp4",
-                "selector": {
-                    "conformsTo": "http://www.w3.org/TR/media-frags/",
-                    "type": "FragmentSelector",
-                    "value": "t=153.1"
-                }
-            },
-            "body": {
-                "type": "TextualBody",
-                "frametrail:type": "codesnippet",
-                "format": "text/javascript",
-                "value": "hypervideo.closeLayoutArea('right');",
-                "frametrail:name": "Close the vote",
-                "frametrail:thumb": null,
-                "frametrail:resourceId": null,
-                "frametrail:attributes": {}
-            }
-        },
-        {
-            "@context": [
-                "http://www.w3.org/ns/anno.jsonld",
-                "https://frametrail.org/ns/context.jsonld"
-            ],
-            "creator": {
-                "nickname": "demo",
-                "type": "Person",
-                "id": "1"
-            },
-            "created": "2026-11-21T15:00:00.014Z",
             "type": "Annotation",
             "frametrail:type": "CodeSnippet",
             "frametrail:tags": [],
@@ -1188,7 +849,7 @@
                 "type": "Person",
                 "id": "1"
             },
-            "created": "2026-11-21T15:00:00.015Z",
+            "created": "2026-11-21T15:00:00.005Z",
             "type": "Annotation",
             "frametrail:type": "CodeSnippet",
             "frametrail:tags": [],
@@ -1222,7 +883,7 @@
                 "type": "Person",
                 "id": "1"
             },
-            "created": "2026-11-21T15:00:00.016Z",
+            "created": "2026-11-21T15:00:00.006Z",
             "type": "Annotation",
             "frametrail:type": "CodeSnippet",
             "frametrail:tags": [],

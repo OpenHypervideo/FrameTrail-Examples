@@ -1,0 +1,11 @@
+/* The left area holds the chapters as steps (a progress indicator), which need less room than a list of cards */
+@container ft-root (min-width: 768px) {
+    .areaLeftContainer[data-size="medium"] {
+        flex: 0 0 250px !important;
+        min-width: 250px !important;
+    }
+}
+
+.chapterSteps .chapterCardTitle {
+    text-transform: uppercase;
+}

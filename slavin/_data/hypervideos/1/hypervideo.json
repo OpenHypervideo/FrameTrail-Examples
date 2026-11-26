@@ -80,7 +80,9 @@
                     },
                     "onClickContentItem": "",
                     "html": "",
-                    "transcriptSource": ""
+                    "transcriptSource": "",
+                    "openWhenActive": true,
+                    "openGap": 5
                 },
                 {
                     "name": "EN",
@@ -99,7 +101,9 @@
                     },
                     "onClickContentItem": "",
                     "html": "",
-                    "transcriptSource": ""
+                    "transcriptSource": "",
+                    "openWhenActive": true,
+                    "openGap": 5
                 }
             ]
         }

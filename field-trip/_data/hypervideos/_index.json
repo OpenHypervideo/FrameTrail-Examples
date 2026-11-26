@@ -25,6 +25,7 @@
         "paddingUnit": "percent",
         "pinStyle": "thumb",
         "pinAnimation": "wobble",
+        "cardShape": "circle",
         "lastchanged": 1795006800000,
         "markers": {
             "1": {
