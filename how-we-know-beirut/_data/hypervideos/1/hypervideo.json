@@ -12,20 +12,37 @@
         "slidingMode": "adjust",
         "slidingTrigger": "key",
         "autohideControls": false,
-        "captionsVisible": true,
+        "captionsVisible": false,
         "clipTimeVisible": false,
         "layoutArea": {
-            "areaTop": [],
-            "areaLeft": [],
-            "areaBottom": [
+            "areaTop": [
                 {
                     "type": "Chapters",
                     "name": "",
                     "description": "",
                     "icon": "",
                     "cssClass": "",
-                    "contentSize": "small",
+                    "contentSize": "medium",
                     "initClosed": false,
+                    "collectionFilter": {
+                        "tags": [],
+                        "types": [],
+                        "users": [],
+                        "text": ""
+                    }
+                }
+            ],
+            "areaLeft": [],
+            "areaBottom": [
+                {
+                    "type": "Transcript",
+                    "name": "",
+                    "description": "",
+                    "icon": "",
+                    "cssClass": "",
+                    "contentSize": "medium",
+                    "initClosed": false,
+                    "transcriptSource": "en",
                     "collectionFilter": {
                         "tags": [],
                         "types": [],
