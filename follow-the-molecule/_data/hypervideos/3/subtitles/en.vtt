@@ -1,0 +1,317 @@
+WEBVTT
+
+NOTE
+Captions of "Citric Acid Cycle" by Drew Berry, wehi.tv, for HHMI BioInteractive, from the film's page on YouTube (youtu.be/IlSFn0gRyC4).
+Each cue is one line here, and mishearings in the captions are put right (plans/follow-the-molecule/captions.py lists them).
+
+1
+00:00:01.440 --> 00:00:05.310
+The origin of energy production and biosynthesis
+
+2
+00:00:05.310 --> 00:00:12.390
+inside your living cells is the dynamic mitochondria organelle.
+
+3
+00:00:12.390 --> 00:00:16.410
+Mitochondria are filled with metabolic enzymes that
+
+4
+00:00:16.410 --> 00:00:19.410
+catalyze a loop of chemical reactions
+
+5
+00:00:19.410 --> 00:00:23.640
+called the citric acid cycle.
+
+6
+00:00:23.640 --> 00:00:26.870
+The eight steps of the citric acid cycle
+
+7
+00:00:26.870 --> 00:00:30.740
+gradually break apart two carbon atoms from glycolysis,
+
+8
+00:00:30.740 --> 00:00:34.220
+capturing liberated electrons for the electron transport
+
+9
+00:00:34.220 --> 00:00:39.360
+chain, while generating carbon dioxide as waste.
+
+10
+00:00:39.360 --> 00:00:42.640
+The citric acid cycle starts with the end product
+
+11
+00:00:42.640 --> 00:00:49.150
+of a previous cycle, the four carbon molecule oxaloacetate.
+
+12
+00:00:49.150 --> 00:00:51.670
+New carbon enters from glycolysis
+
+13
+00:00:51.670 --> 00:00:55.030
+in the form of acetyl CoA, a two carbon acetyl
+
+14
+00:00:55.030 --> 00:01:00.150
+group attached to coenzyme A.
+
+15
+00:01:00.150 --> 00:01:04.680
+Step 1 is the catalytic transfer of a two carbon acetyl
+
+16
+00:01:04.680 --> 00:01:09.270
+group from coenzyme A to four carbon oxaloacetate,
+
+17
+00:01:09.270 --> 00:01:12.780
+creating six carbon citric acid, the molecule that
+
+18
+00:01:12.780 --> 00:01:14.250
+gives the cycle its name.
+
+19
+00:01:17.450 --> 00:01:20.000
+Citric acid is used by your cells
+
+20
+00:01:20.000 --> 00:01:24.440
+for the biosynthesis of fatty acids, lipids, and cholesterol,
+
+21
+00:01:24.440 --> 00:01:27.945
+and is also the substrate for step 2 of the citric acid
+
+22
+00:01:27.945 --> 00:01:28.445
+cycle.
+
+23
+00:01:32.000 --> 00:01:35.650
+The enzyme reaction of step 2 makes a small change
+
+24
+00:01:35.650 --> 00:01:37.930
+to the citric acid molecule, moving
+
+25
+00:01:37.930 --> 00:01:41.350
+the position of an oxygen atom, converting citrate
+
+26
+00:01:41.350 --> 00:01:42.520
+into isocitrate.
+
+27
+00:01:50.080 --> 00:01:53.440
+Step 3 of this cycle removes the carbon atom,
+
+28
+00:01:53.440 --> 00:01:57.760
+forming carbon dioxide as waste, while converting six carbon
+
+29
+00:01:57.760 --> 00:02:01.506
+isocitrate to five carbon ketoglutarate.
+
+30
+00:02:05.790 --> 00:02:08.310
+During this process, chemical energy
+
+31
+00:02:08.310 --> 00:02:11.400
+is harvested when two electrons are transferred
+
+32
+00:02:11.400 --> 00:02:14.910
+to coenzyme NADH, which delivers them
+
+33
+00:02:14.910 --> 00:02:18.210
+to nearby enzymes of the electron transport chain.
+
+34
+00:02:22.020 --> 00:02:24.900
+Step 4 of the citric acid cycle is
+
+35
+00:02:24.900 --> 00:02:28.680
+performed by a huge multi-enzyme complex,
+
+36
+00:02:28.680 --> 00:02:31.170
+connecting multiple chemical reactions
+
+37
+00:02:31.170 --> 00:02:33.480
+with flexible tethers, efficiently
+
+38
+00:02:33.480 --> 00:02:36.480
+moving reactants between active sites
+
+39
+00:02:36.480 --> 00:02:40.830
+and diverting electrons between pathways.
+
+40
+00:02:40.830 --> 00:02:45.270
+The large complex is made with a repeating unit of three core
+
+41
+00:02:45.270 --> 00:02:48.720
+enzymes working in sequence to remove a carbon
+
+42
+00:02:48.720 --> 00:02:52.830
+atom from ketoglutarate, generating carbon dioxide
+
+43
+00:02:52.830 --> 00:03:07.450
+waste, then attaching four carbon succinyl to coenzyme A.
+
+44
+00:03:07.450 --> 00:03:10.600
+The electron from ketoglutarate oxidation
+
+45
+00:03:10.600 --> 00:03:13.150
+is retained by the tethered enzyme
+
+46
+00:03:13.150 --> 00:03:18.760
+before passing it to coenzyme NADH, which delivers electrons
+
+47
+00:03:18.760 --> 00:03:20.710
+to the electron transport chain.
+
+48
+00:03:43.280 --> 00:03:48.710
+Enzymes of step 5 separate succinyl from coenzyme A
+
+49
+00:03:48.710 --> 00:03:52.580
+by breaking an energetic bond, providing enough energy
+
+50
+00:03:52.580 --> 00:03:55.400
+to create GTP.
+
+51
+00:03:55.400 --> 00:04:00.320
+GTP is a building block of RNA and an energy source
+
+52
+00:04:00.320 --> 00:04:03.750
+for protein synthesis.
+
+53
+00:04:03.750 --> 00:04:07.860
+In the most direct path to ATP from the citric acid cycle,
+
+54
+00:04:07.860 --> 00:04:11.280
+other enzymes in the matrix can use GTP
+
+55
+00:04:11.280 --> 00:04:13.425
+to make the chemical fuel ATP.
+
+56
+00:04:18.370 --> 00:04:21.820
+Step 6 is performed by an enzyme embedded
+
+57
+00:04:21.820 --> 00:04:24.700
+in the inner mitochondrial membrane.
+
+58
+00:04:24.700 --> 00:04:28.660
+This enzyme is also known as complex two of the electron
+
+59
+00:04:28.660 --> 00:04:29.610
+transport chain.
+
+60
+00:04:33.160 --> 00:04:36.620
+The enzyme catalyzes the oxidation of succinate
+
+61
+00:04:36.620 --> 00:04:39.980
+to create fumarate, releasing two electrons
+
+62
+00:04:39.980 --> 00:04:43.745
+that hop through the interior to coenzyme Q, which is reduced.
+
+63
+00:04:47.090 --> 00:04:50.960
+Coenzyme Q travels in the membrane carrying the electrons
+
+64
+00:04:50.960 --> 00:04:54.140
+to nearby enzymes of the electron transport chain.
+
+65
+00:05:03.710 --> 00:05:08.240
+Step 7 takes fumarate generated by step 6
+
+66
+00:05:08.240 --> 00:05:11.255
+and reacts it with water to create four carbon malate.
+
+67
+00:05:17.520 --> 00:05:20.790
+The final step of the citric acid cycle
+
+68
+00:05:20.790 --> 00:05:24.240
+uses malate to regenerate oxaloacetate,
+
+69
+00:05:24.240 --> 00:05:28.860
+transferring electrons to coenzyme NADH, which supplies
+
+70
+00:05:28.860 --> 00:05:31.930
+the electron transport chain.
+
+71
+00:05:31.930 --> 00:05:36.750
+Oxaloacetate can return to step 1 for another loop of the cycle
+
+72
+00:05:36.750 --> 00:05:38.460
+and is also an essential building
+
+73
+00:05:38.460 --> 00:05:43.740
+block for making amino acids and the genetic code of DNA
+
+74
+00:05:43.740 --> 00:05:44.265
+and RNA.
+
+75
+00:05:47.050 --> 00:05:50.140
+At the center of cellular metabolism,
+
+76
+00:05:50.140 --> 00:05:54.040
+the citric acid cycle generates both chemical energy
+
+77
+00:05:54.040 --> 00:05:58.030
+and material for biosynthesis of the entire diversity
+
+78
+00:05:58.030 --> 00:06:02.370
+of molecules found inside a living cell.

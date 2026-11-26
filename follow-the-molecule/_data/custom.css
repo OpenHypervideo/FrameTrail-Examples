@@ -1,0 +1,179 @@
+/* Follow the Molecule
+   Written by hand (the build leaves this file alone). It styles FrameTrail's internal class names (.overlayElement, .resourceDetail, .collectionElement, .resourceThumb, .resourceOverlay, .resourceIcon, .resourceTitle, .areaRightContainer.hiddenTabs): check it after every version upgrade. */
+
+/* ---------- The strip above the film: the six films in the order of the pathway ---------- */
+.pathStrip {
+    display: flex;
+    align-items: center;
+    gap: 4px;
+    box-sizing: border-box;
+    height: 100%;
+    min-height: 34px;
+    padding: 0 12px;
+    overflow: hidden;
+    font-size: 13px;
+    line-height: 1;
+    white-space: nowrap;
+    color: var(--primary-fg-color);
+}
+.pathStrip a {
+    display: inline-flex;
+    align-items: center;
+    gap: 7px;
+    padding: 4px 11px 4px 4px;
+    border-radius: 20px;
+    color: inherit;
+    text-decoration: none;
+    opacity: .7;
+    transition: opacity 150ms, background-color 150ms;
+}
+.pathStrip a:hover {
+    opacity: 1;
+    background: rgba(255, 255, 255, .09);
+}
+.pathStrip a b {
+    display: inline-grid;
+    place-items: center;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    background: rgba(255, 255, 255, .16);
+    font-size: 11.5px;
+    font-weight: 700;
+}
+.pathStrip a.pathMap {
+    margin-right: 10px;
+    padding: 5px 12px;
+    border: 1px solid rgba(255, 255, 255, .28);
+}
+.pathStrip a.pathStep + a.pathStep::before {
+    content: "→";
+    margin: 0 4px 0 -6px;
+    opacity: .5;
+}
+.pathStrip a.current {
+    opacity: 1;
+    background: rgba(255, 216, 77, .13);
+}
+.pathStrip a.current b {
+    background: #ffd84d;
+    color: #10131c;
+}
+.pathStrip .pathCredit {
+    margin-left: auto;
+    padding-left: 16px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    font-size: 11.5px;
+    opacity: .55;
+}
+@media (max-width: 1180px) {
+    .pathStrip .pathCredit { display: none; }
+}
+@media (max-width: 900px) {
+    .pathStrip a.pathStep:not(.current) span { display: none; }
+    .pathStrip a.pathStep:not(.current) { padding-right: 4px; }
+}
+
+/* ---------- The labels beside the hotspots are not in the way of a click ---------- */
+/* Every text overlay of this example is such a label. Not while overlays are edited, where a label has to be picked up. */
+.overlayContainer .overlayElement:not(.ui-draggable):has(.resourceDetail[data-type="text"]) {
+    pointer-events: none;
+}
+
+/* ---------- The list beside the film: what is on screen, in time order ---------- */
+.hypervideoContainer .areaRightContainer.hiddenTabs[data-size="medium"] {
+    flex: 0 0 clamp(250px, calc(var(--ft-width, 100vw) * 0.21), 330px);
+    min-width: clamp(250px, calc(var(--ft-width, 100vw) * 0.21), 330px);
+}
+.layoutArea .contentViewContainer.materialsView {
+    --mv-pic: 74px;
+    --mv-row: 62px;
+    --mv-ink: #e8edf3;
+    --mv-dim: #96a1b0;
+    --thumb-title-bg: transparent;
+    --thumb-title-color: var(--mv-ink);
+    --thumb-title-shadow: none;
+}
+.layoutArea .contentViewContainer.materialsView[data-size="medium"] .collectionElement {
+    height: auto;
+    margin-bottom: 5px;
+    border: 0;
+    border-left: 3px solid transparent;
+    background: rgba(255, 255, 255, .05);
+    opacity: .42;
+    transition: opacity 250ms, background-color 250ms, border-color 250ms;
+}
+.layoutArea .contentViewContainer.materialsView[data-size="medium"] .collectionElement:hover {
+    opacity: .85;
+}
+.layoutArea .contentViewContainer.materialsView[data-size="medium"] .collectionElement.active {
+    opacity: 1;
+    background: rgba(255, 255, 255, .13);
+    border-left-color: var(--mv-ink);
+}
+.layoutArea .contentViewContainer.materialsView[data-size="medium"] .collectionElement .resourceThumb {
+    flex-direction: column;
+    justify-content: center;
+    align-items: stretch;
+    height: var(--mv-row);
+    padding-left: var(--mv-pic);
+    cursor: pointer;
+}
+.layoutArea .contentViewContainer.materialsView[data-size="medium"] .resourceThumb::before,
+.layoutArea .contentViewContainer.materialsView[data-size="medium"] .resourceThumb .resourceOverlay {
+    width: var(--mv-pic);
+}
+.layoutArea .contentViewContainer.materialsView[data-size="medium"] .resourceThumb .resourceTitle {
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 2;
+    overflow: hidden;
+    padding: 0 10px;
+    font-size: 13.5px;
+    line-height: 1.25;
+}
+/* What the item is, as a word above its title (the tags of plans/follow-the-molecule/materials.py) */
+.layoutArea .contentViewContainer.materialsView[data-size="medium"] .resourceThumb::after {
+    order: -1;
+    padding: 0 10px 3px;
+    font-size: 10px;
+    letter-spacing: .12em;
+    text-transform: uppercase;
+    color: var(--mv-dim);
+}
+.layoutArea .contentViewContainer.materialsView[data-size="medium"] .resourceThumb.ftm-molecule::after { content: "Molecule"; color: #ffd84d; }
+.layoutArea .contentViewContainer.materialsView[data-size="medium"] .resourceThumb.ftm-enzyme::after { content: "Enzyme"; color: #ffffff; }
+.layoutArea .contentViewContainer.materialsView[data-size="medium"] .resourceThumb.ftm-place::after { content: "Place"; color: #7fb6ee; }
+.layoutArea .contentViewContainer.materialsView[data-size="medium"] .resourceThumb.ftm-process::after { content: "Process"; }
+.layoutArea .contentViewContainer.materialsView[data-size="medium"] .resourceThumb.ftm-structure::after { content: "Structure · Protein Data Bank"; color: #6fd3c1; }
+/* An article without a picture: the type's icon in the middle of a quiet pane */
+.layoutArea .contentViewContainer.materialsView[data-size="medium"] .resourceThumb:not([style*="--thumb-bg"])::before {
+    background-color: rgba(255, 255, 255, .07);
+    background-image: none;
+}
+.layoutArea .contentViewContainer.materialsView[data-size="medium"] .resourceThumb:not([style*="--thumb-bg"]) {
+    --thumb-icon-color: var(--mv-dim);
+    --thumb-icon-shadow: none;
+}
+.layoutArea .contentViewContainer.materialsView[data-size="medium"] .resourceThumb:not([style*="--thumb-bg"]) .resourceOverlay {
+    background: none;
+}
+.layoutArea .contentViewContainer.materialsView[data-size="medium"] .resourceThumb:not([style*="--thumb-bg"]) .resourceIcon {
+    inset: 50% auto auto 50%;
+    translate: -50% -50%;
+    width: auto;
+    height: auto;
+    line-height: 1;
+}
+.layoutArea .contentViewContainer.materialsView[data-size="medium"] .resourceThumb:not([style*="--thumb-bg"]) .resourceIcon [class^="icon-"]::before {
+    margin: 0;
+    font-size: 22px;
+}
+
+/* ---------- The way on at a film's end: a hotspot with words in it ---------- */
+.overlayContainer .resourceDetail[data-type="hotspot"][data-shape="rounded"] .hotspot-label {
+    font-size: 1.25em;
+    font-weight: 600;
+    letter-spacing: .01em;
+}

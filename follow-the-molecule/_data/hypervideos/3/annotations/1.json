@@ -1,0 +1,1348 @@
+[
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-26T11:03:00.001Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ftm-place"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/IlSFn0gRyC4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=0,12"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/Mitochondria",
+            "frametrail:name": "Mitochondrion",
+            "frametrail:thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Animal_mitochondrion_diagram_en.svg/330px-Animal_mitochondrion_diagram_en.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "articleUrl": "https://en.wikipedia.org/wiki/Mitochondria",
+                "wikiLang": "en",
+                "dir": "ltr",
+                "description": "Organelle in eukaryotic cells responsible for respiration",
+                "extract": "A mitochondrion (pl. mitochondria) is an organelle found in the cells of most eukaryotes, such as animals, plants and fungi. Mitochondria have a double membrane structure and use aerobic respiration to generate adenosine triphosphate (ATP), which is used throughout the cell as a source of chemical energy. They were discovered by Albert von Kölliker in 1857 in the voluntary muscles of insects. The term mitochondrion, meaning \"a thread-like granule\", was coined by Carl Benda in 1898. The mitochondrion is popularly nicknamed the \"powerhouse of the cell\", a phrase popularized by Philip Siekevitz in a 1957 Scientific American article of the same name.",
+                "extract_html": "<p>A <b>mitochondrion</b> (pl. <b>mitochondria</b>) is an organelle found in the cells of most eukaryotes, such as animals, plants and fungi. Mitochondria have a double membrane structure and use aerobic respiration to generate adenosine triphosphate (ATP), which is used throughout the cell as a source of chemical energy. They were discovered by Albert von Kölliker in 1857 in the voluntary muscles of insects. The term <i>mitochondrion</i>, meaning \"a thread-like granule\", was coined by Carl Benda in 1898. The mitochondrion is popularly nicknamed the \"powerhouse of the cell\", a phrase popularized by Philip Siekevitz in a 1957 <i>Scientific American</i> article of the same name.</p>"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-26T11:03:00.002Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ftm-process"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/IlSFn0gRyC4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=12,40"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/Citric_acid_cycle",
+            "frametrail:name": "Citric acid cycle",
+            "frametrail:thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Citric_acid_cycle_with_aconitate_2.svg/330px-Citric_acid_cycle_with_aconitate_2.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "articleUrl": "https://en.wikipedia.org/wiki/Citric_acid_cycle",
+                "wikiLang": "en",
+                "dir": "ltr",
+                "description": "Interconnected biochemical reactions releasing energy",
+                "extract": "The citric acid cycle—also known as the Krebs cycle, Szent-Györgyi–Krebs cycle, or TCA cycle (tricarboxylic acid cycle)—is a series of biochemical reactions that release the energy stored in nutrients through acetyl-CoA oxidation. The energy released is available in the form of ATP. The Krebs cycle is used by organisms that generate energy via respiration, either anaerobically or aerobically (organisms that ferment use different pathways). In addition, the cycle provides precursors of certain amino acids, as well as the reducing agent NADH, which are used in other reactions. Its central importance to many biochemical pathways suggests that it was one of the earliest metabolic components. Even though it is branded as a \"cycle\", it is not necessary for metabolites to follow a specific route; at least three alternative pathways of the citric acid cycle are recognized.",
+                "extract_html": "<p>The <b>citric acid cycle</b>—also known as the <b>Krebs cycle</b>, <b>Szent-Györgyi–Krebs cycle</b>, or <b>TCA cycle</b> (<b>tricarboxylic acid cycle</b>)—is a series of biochemical reactions that release the energy stored in nutrients through acetyl-CoA oxidation. The energy released is available in the form of ATP. The Krebs cycle is used by organisms that generate energy via respiration, either anaerobically or aerobically (organisms that ferment use different pathways). In addition, the cycle provides precursors of certain amino acids, as well as the reducing agent NADH, which are used in other reactions. Its central importance to many biochemical pathways suggests that it was one of the earliest metabolic components. Even though it is branded as a \"cycle\", it is not necessary for metabolites to follow a specific route; at least three alternative pathways of the citric acid cycle are recognized.</p>"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-26T11:03:00.003Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ftm-structure"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/IlSFn0gRyC4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=23,44"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "webpage",
+            "format": "text/html",
+            "value": "https://pdb101.rcsb.org/motm/154",
+            "frametrail:name": "The eight enzymes of the citric acid cycle, as structures",
+            "frametrail:thumb": "https://cdn.rcsb.org/pdb101/motm/154/154-CitricAcidCycle_citricacidcycle.jpg",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "embed": "allowed",
+                "description": "Eight enzymes form a cyclic pathway for energy production and biosynthesis"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-26T11:03:00.004Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ftm-molecule"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/IlSFn0gRyC4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=40.17,62"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/Oxaloacetic_acid",
+            "frametrail:name": "Oxaloacetate",
+            "frametrail:thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Oxaloacetic_acid.svg/330px-Oxaloacetic_acid.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "articleUrl": "https://en.wikipedia.org/wiki/Oxaloacetic_acid",
+                "wikiLang": "en",
+                "dir": "ltr",
+                "description": "Organic compound",
+                "extract": "Oxaloacetic acid (also known as oxalacetic acid or OAA) is a crystalline organic compound with the chemical formula HO2CC(O)CH2CO2H. Oxaloacetic acid, in the form of its conjugate base oxaloacetate, is a metabolic intermediate in many processes that occur in animals. It takes part in gluconeogenesis, the urea cycle, the glyoxylate cycle, amino acid synthesis, fatty acid synthesis and the citric acid cycle.",
+                "extract_html": "<p><b>Oxaloacetic acid</b> (also known as <b>oxalacetic acid</b> or <b>OAA</b>) is a crystalline organic compound with the chemical formula HO<sub>2</sub>CC(O)CH<sub>2</sub>CO<sub>2</sub>H. Oxaloacetic acid, in the form of its conjugate base <b>oxaloacetate</b>, is a metabolic intermediate in many processes that occur in animals. It takes part in gluconeogenesis, the urea cycle, the glyoxylate cycle, amino acid synthesis, fatty acid synthesis and the citric acid cycle.</p>"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-26T11:03:00.005Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ftm-molecule"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/IlSFn0gRyC4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=49,64"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/Acetyl-CoA",
+            "frametrail:name": "Acetyl-CoA",
+            "frametrail:thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Acetyl-CoA-2D_colored.svg/330px-Acetyl-CoA-2D_colored.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "articleUrl": "https://en.wikipedia.org/wiki/Acetyl-CoA",
+                "wikiLang": "en",
+                "dir": "ltr",
+                "description": "Chemical compound",
+                "extract": "Acetyl-CoA (acetyl coenzyme A) is a molecule that participates in many biochemical reactions in protein, carbohydrate and lipid metabolism. Its main function is to deliver the acetyl group to the citric acid cycle (Krebs cycle) to be oxidized for energy production. Coenzyme A (CoASH or CoA) consists of a β-mercaptoethylamine group linked to pantothenic acid (vitamin B5) through an amide linkage and 3', 5'-phosphorylated ADP. The acetyl group (indicated in blue in the structural diagram on the right) of acetyl-CoA is linked to the sulfhydryl substituent of the β-mercaptoethylamine group. This thioester linkage is a \"high energy\" bond, which is particularly reactive. Hydrolysis of the thioester bond is exergonic (−31.5 kJ/mol).",
+                "extract_html": "<p><b>Acetyl-CoA</b> (<b>acetyl coenzyme A</b>) is a molecule that participates in many biochemical reactions in protein, carbohydrate and lipid metabolism. Its main function is to deliver the acetyl group to the citric acid cycle (Krebs cycle) to be oxidized for energy production.</p><p>Coenzyme A (CoASH or CoA) consists of a β-mercaptoethylamine group linked to pantothenic acid (vitamin B5) through an amide linkage and 3', 5'-phosphorylated ADP. The acetyl group (indicated in blue in the structural diagram on the right) of acetyl-CoA is linked to the sulfhydryl substituent of the β-mercaptoethylamine group. This thioester linkage is a \"high energy\" bond, which is particularly reactive. Hydrolysis of the thioester bond is exergonic (−31.5 kJ/mol).</p>"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-26T11:03:00.006Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ftm-molecule"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/IlSFn0gRyC4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=53,64"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/Coenzyme_A",
+            "frametrail:name": "Coenzyme A",
+            "frametrail:thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Coenzym_A.svg/330px-Coenzym_A.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "articleUrl": "https://en.wikipedia.org/wiki/Coenzyme_A",
+                "wikiLang": "en",
+                "dir": "ltr",
+                "description": "Coenzyme, notable for its synthesis and oxidation role",
+                "extract": "Coenzyme A (CoA, SHCoA, CoASH) is a coenzyme, notable for its role in the synthesis and oxidation of fatty acids, and the oxidation of pyruvate in the citric acid cycle. Every genome sequenced to date encodes enzymes that use coenzyme A as a substrate, and around 4% of cellular enzymes use it (or a thioester) as a substrate. In humans, CoA biosynthesis requires cysteine, pantothenate (vitamin B5), and adenosine triphosphate (ATP).",
+                "extract_html": "<p><b>Coenzyme A</b> (<b>CoA</b>, <b>SHCoA</b>, <b>CoASH</b>) is a coenzyme, notable for its role in the synthesis and oxidation of fatty acids, and the oxidation of pyruvate in the citric acid cycle. Every genome sequenced to date encodes enzymes that use coenzyme A as a substrate, and around 4% of cellular enzymes use it (or a thioester) as a substrate. In humans, CoA biosynthesis requires cysteine, pantothenate (vitamin B<sub>5</sub>), and adenosine triphosphate (ATP).</p>"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-26T11:03:00.007Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ftm-enzyme"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/IlSFn0gRyC4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=58.17,80"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/Citrate_synthase",
+            "frametrail:name": "Citrate synthase",
+            "frametrail:thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Citrate_synthase2.png/330px-Citrate_synthase2.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "articleUrl": "https://en.wikipedia.org/wiki/Citrate_synthase",
+                "wikiLang": "en",
+                "dir": "ltr",
+                "description": "Enzyme found in humans",
+                "extract": "Citrate synthase (E.C. 2.3.3.1 (previously 4.1.3.7)) is an enzyme that exists in nearly all living cells. It functions as a pace-making enzyme in the first step of the citric acid cycle (or Krebs cycle). Citrate synthase is located within eukaryotic cells in the mitochondrial matrix, but is encoded by nuclear DNA rather than mitochondrial. It is synthesized using cytoplasmic ribosomes, then transported into the mitochondrial matrix.",
+                "extract_html": "<p><b>Citrate synthase</b> (E.C. 2.3.3.1 (previously 4.1.3.7)) is an enzyme that exists in nearly all living cells. It functions as a pace-making enzyme in the first step of the citric acid cycle (or Krebs cycle). Citrate synthase is located within eukaryotic cells in the mitochondrial matrix, but is encoded by nuclear DNA rather than mitochondrial. It is synthesized using cytoplasmic ribosomes, then transported into the mitochondrial matrix.</p>"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-26T11:03:00.008Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ftm-molecule"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/IlSFn0gRyC4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=69,92"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/Citric_acid",
+            "frametrail:name": "Citric acid",
+            "frametrail:thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Citric-acid-3D-balls.png/330px-Citric-acid-3D-balls.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "articleUrl": "https://en.wikipedia.org/wiki/Citric_acid",
+                "wikiLang": "en",
+                "dir": "ltr",
+                "description": "Weak organic acid",
+                "extract": "Citric acid is an organic compound with the formula C6H8O7. It is a colorless weak organic acid. It occurs naturally in citrus fruits. In biochemistry, it is an intermediate in the citric acid cycle, which occurs in the metabolism of all aerobic organisms. More than two million tons of citric acid are manufactured every year. It is used widely as acidifier, flavoring, preservative, and chelating agent.",
+                "extract_html": "<p><b>Citric acid</b> is an organic compound with the formula C<sub class=\"template-chem2-sub\">6</sub>H<sub class=\"template-chem2-sub\">8</sub>O<sub class=\"template-chem2-sub\">7</sub>. It is a colorless weak organic acid. It occurs naturally in citrus fruits. In biochemistry, it is an intermediate in the citric acid cycle, which occurs in the metabolism of all aerobic organisms.</p><p>More than two million tons of citric acid are manufactured every year. It is used widely as acidifier, flavoring, preservative, and chelating agent.</p>"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-26T11:03:00.009Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ftm-enzyme"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/IlSFn0gRyC4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=83.7,107.83"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/Aconitase",
+            "frametrail:name": "Aconitase",
+            "frametrail:thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/7ACN.jpg/330px-7ACN.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "articleUrl": "https://en.wikipedia.org/wiki/Aconitase",
+                "wikiLang": "en",
+                "dir": "ltr",
+                "description": "Class of enzymes",
+                "extract": "Aconitase (aconitate hydratase; EC 4.2.1.3) is an enzyme that catalyses the stereo-specific isomerization of citrate to isocitrate via cis-aconitate in the tricarboxylic acid cycle, a non-redox-active process.",
+                "extract_html": "<p><b>Aconitase</b> (aconitate hydratase; EC 4.2.1.3) is an enzyme that catalyses the stereo-specific isomerization of citrate to isocitrate via <i>cis</i>-aconitate in the tricarboxylic acid cycle, a non-redox-active process.</p>"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-26T11:03:00.010Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ftm-molecule"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/IlSFn0gRyC4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=95,112"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/Isocitric_acid",
+            "frametrail:name": "Isocitrate",
+            "frametrail:thumb": null,
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "articleUrl": "https://en.wikipedia.org/wiki/Isocitric_acid",
+                "wikiLang": "en",
+                "dir": "ltr",
+                "description": "Chemical compound",
+                "extract": "Isocitric acid is a structural isomer of citric acid and consequently shares similar physical and chemical properties. This makes it difficult to separate the two isomers. Isocitric acid can form salts and esters known as isocitrates. Its anion form is an intermediate in the citric acid cycle.",
+                "extract_html": "<p><b>Isocitric acid</b> is a structural isomer of citric acid and consequently shares similar physical and chemical properties. This makes it difficult to separate the two isomers. Isocitric acid can form salts and esters known as <b>isocitrates</b>. Its anion form is an intermediate in the citric acid cycle.</p>"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-26T11:03:00.011Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ftm-enzyme"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/IlSFn0gRyC4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=107.83,139.43"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/Isocitrate_dehydrogenase",
+            "frametrail:name": "Isocitrate dehydrogenase",
+            "frametrail:thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Isocitrate_dehydrogenase_of_Escherichia_coli_Complex.jpg/330px-Isocitrate_dehydrogenase_of_Escherichia_coli_Complex.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "articleUrl": "https://en.wikipedia.org/wiki/Isocitrate_dehydrogenase",
+                "wikiLang": "en",
+                "dir": "ltr",
+                "description": "Class of enzymes",
+                "extract": "Isocitrate dehydrogenases (IDH) (EC 1.1.1.42, EC 1.1.1.41) are a type of enzyme that catalyze the oxidative decarboxylation of isocitrate, producing alpha-ketoglutarate (α-ketoglutarate) and CO2. This is a two-step process, which involves oxidation of isocitrate (a secondary alcohol) to oxalosuccinate (a ketone), followed by the decarboxylation of the carboxyl group beta to the ketone, forming alpha-ketoglutarate.",
+                "extract_html": "<p><b>Isocitrate dehydrogenases</b> (<b>IDH</b>) (EC 1.1.1.42, EC 1.1.1.41) are a type of enzyme that catalyze the oxidative decarboxylation of isocitrate, producing alpha-ketoglutarate (α-ketoglutarate) and CO<sub>2</sub>. This is a two-step process, which involves oxidation of isocitrate (a secondary alcohol) to oxalosuccinate (a ketone), followed by the decarboxylation of the carboxyl group beta to the ketone, forming alpha-ketoglutarate.</p>"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-26T11:03:00.012Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ftm-molecule"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/IlSFn0gRyC4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=113,145"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/%CE%91-Ketoglutaric_acid",
+            "frametrail:name": "Ketoglutarate",
+            "frametrail:thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Alpha-ketoglutaric_acid.png/330px-Alpha-ketoglutaric_acid.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "articleUrl": "https://en.wikipedia.org/wiki/%CE%91-Ketoglutaric_acid",
+                "wikiLang": "en",
+                "dir": "ltr",
+                "description": "Chemical compound",
+                "extract": "α-Ketoglutaric acid (AKG) is an organic compound with the formula HO2CCO(CH2)2CO2H. A white, nontoxic solid, it is a common dicarboxylic acid. Relevant to its biological roles, it exists in water as its conjugate base α-ketoglutarate. It is also classified as a 2-ketocarboxylic acid. β-Ketoglutaric acid is an isomer. \"Ketoglutaric acid\" and \"ketoglutarate\", when not qualified as α or β, almost always refers respectively to α-ketoglutaric acid or α-ketoglutarate.",
+                "extract_html": "<p><b>α-Ketoglutaric acid</b> (AKG) is an organic compound with the formula HO<sub class=\"template-chem2-sub\">2</sub>CCO(CH<sub class=\"template-chem2-sub\">2</sub>)<sub class=\"template-chem2-sub\">2</sub>CO<sub class=\"template-chem2-sub\">2</sub>H. A white, nontoxic solid, it is a common dicarboxylic acid. Relevant to its biological roles, it exists in water as its conjugate base <b>α-ketoglutarate</b>. It is also classified as a 2-ketocarboxylic acid. β-Ketoglutaric acid is an isomer. \"Ketoglutaric acid\" and \"ketoglutarate\", when not qualified as α or β, almost always refers respectively to α-ketoglutaric acid or α-ketoglutarate.</p>"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-26T11:03:00.013Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ftm-molecule"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/IlSFn0gRyC4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=125,139.43"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/Nicotinamide_adenine_dinucleotide",
+            "frametrail:name": "NADH",
+            "frametrail:thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/NAD%2B.svg/330px-NAD%2B.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "articleUrl": "https://en.wikipedia.org/wiki/Nicotinamide_adenine_dinucleotide",
+                "wikiLang": "en",
+                "dir": "ltr",
+                "description": "Coenzyme",
+                "extract": "Nicotinamide adenine dinucleotide (NAD+) is a coenzyme central to metabolism. Found in all living cells, NAD is called a dinucleotide because it consists of two nucleotides joined through their phosphate groups. One nucleotide contains an adenine nucleobase and the other, nicotinamide. NAD exists in two forms: an oxidized and reduced form, abbreviated as NAD+ and NADH (H for hydrogen), respectively.",
+                "extract_html": "<p><b>Nicotinamide adenine dinucleotide</b> (<b>NAD+</b>) is a coenzyme central to metabolism. Found in all living cells, NAD is called a dinucleotide because it consists of two nucleotides joined through their phosphate groups. One nucleotide contains an adenine nucleobase and the other, nicotinamide. NAD exists in two forms: an oxidized and reduced form, abbreviated as <b>NAD<sup>+</sup></b> and <b>NADH</b> (H for hydrogen), respectively.</p>"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-26T11:03:00.014Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ftm-enzyme"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/IlSFn0gRyC4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=139.43,221.97"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/Oxoglutarate_dehydrogenase_complex",
+            "frametrail:name": "Ketoglutarate dehydrogenase complex",
+            "frametrail:thumb": null,
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "articleUrl": "https://en.wikipedia.org/wiki/Oxoglutarate_dehydrogenase_complex",
+                "wikiLang": "en",
+                "dir": "ltr",
+                "description": "Multienzyme complex involved in Kreb's cycle",
+                "extract": "The oxoglutarate dehydrogenase complex (OGDC) or α-ketoglutarate dehydrogenase complex is a mitochondrial multienzyme complex, most commonly known for its role in the citric acid cycle. It belongs to the 2-oxoacid dehydrogenase complex family.",
+                "extract_html": "<p>The <b>oxoglutarate dehydrogenase complex</b> (<b>OGDC</b>) or <b>α-ketoglutarate dehydrogenase complex</b> is a mitochondrial multienzyme complex, most commonly known for its role in the citric acid cycle. It belongs to the 2-oxoacid dehydrogenase complex family.</p>"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-26T11:03:00.015Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ftm-molecule"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/IlSFn0gRyC4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=168,221.97"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/Succinyl-CoA",
+            "frametrail:name": "Succinyl-CoA",
+            "frametrail:thumb": null,
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "articleUrl": "https://en.wikipedia.org/wiki/Succinyl-CoA",
+                "wikiLang": "en",
+                "dir": "ltr",
+                "description": "Chemical compound",
+                "extract": "Succinyl-coenzyme A, abbreviated as succinyl-CoA () or SucCoA, is a thioester of succinic acid and coenzyme A.",
+                "extract_html": "<p><b>Succinyl-coenzyme A</b>, abbreviated as <b>succinyl-CoA</b> () or <b>SucCoA</b>, is a thioester of succinic acid and coenzyme A.</p>"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-26T11:03:00.016Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ftm-process"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/IlSFn0gRyC4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=187,212"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/Electron_transport_chain",
+            "frametrail:name": "Electron transport chain",
+            "frametrail:thumb": null,
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "articleUrl": "https://en.wikipedia.org/wiki/Electron_transport_chain",
+                "wikiLang": "en",
+                "dir": "ltr",
+                "description": "Energy-producing metabolic pathway",
+                "extract": "An electron transport chain (ETC) is a series of protein complexes and other molecules which transfer electrons from electron donors to electron acceptors via redox reactions (both reduction and oxidation occurring simultaneously) and couples this electron transfer with the transfer of protons (H+ ions) across a membrane. Many of the enzymes in the electron transport chain are embedded within the membrane.",
+                "extract_html": "<p>An <b>electron transport chain</b> (<b>ETC</b>) is a series of protein complexes and other molecules which transfer electrons from electron donors to electron acceptors via redox reactions (both reduction and oxidation occurring simultaneously) and couples this electron transfer with the transfer of protons (H<sup>+</sup> ions) across a membrane. Many of the enzymes in the electron transport chain are embedded within the membrane.</p>"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-26T11:03:00.017Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ftm-enzyme"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/IlSFn0gRyC4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=221.97,248.6"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/Succinyl_coenzyme_A_synthetase",
+            "frametrail:name": "Succinyl-CoA synthetase",
+            "frametrail:thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/2fp4.png/330px-2fp4.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "articleUrl": "https://en.wikipedia.org/wiki/Succinyl_coenzyme_A_synthetase",
+                "wikiLang": "en",
+                "dir": "ltr",
+                "description": "Class of enzymes",
+                "extract": "Succinyl coenzyme A synthetase (SCS, also known as succinyl-CoA synthetase or succinate thiokinase or succinate-CoA ligase) is an enzyme that catalyzes the reversible reaction of succinyl-CoA to succinate. The enzyme facilitates the coupling of this reaction to the formation of a nucleoside triphosphate molecule (either GTP or ATP) from an inorganic phosphate molecule and a nucleoside diphosphate molecule (either GDP or ADP). It plays a key role as one of the catalysts involved in the citric acid cycle, a central pathway in cellular metabolism, and it is located within the mitochondrial matrix of a cell.",
+                "extract_html": "<p><b>Succinyl coenzyme A synthetase</b> (<b>SCS</b>, also known as <b>succinyl-CoA synthetase</b> or <b>succinate thiokinase</b> or <b>succinate-CoA ligase</b>) is an enzyme that catalyzes the reversible reaction of succinyl-CoA to succinate. The enzyme facilitates the coupling of this reaction to the formation of a nucleoside triphosphate molecule (either GTP or ATP) from an inorganic phosphate molecule and a nucleoside diphosphate molecule (either GDP or ADP). It plays a key role as one of the catalysts involved in the citric acid cycle, a central pathway in cellular metabolism, and it is located within the mitochondrial matrix of a cell.</p>"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-26T11:03:00.018Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ftm-molecule"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/IlSFn0gRyC4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=232,248.6"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/Guanosine_triphosphate",
+            "frametrail:name": "GTP",
+            "frametrail:thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Guanosine-triphosphate-anion-3D-spacefill.png/330px-Guanosine-triphosphate-anion-3D-spacefill.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "articleUrl": "https://en.wikipedia.org/wiki/Guanosine_triphosphate",
+                "wikiLang": "en",
+                "dir": "ltr",
+                "description": "Chemical compound",
+                "extract": "Guanosine-5'-triphosphate (GTP) is a purine nucleoside triphosphate. It is one of the building blocks needed for the synthesis of RNA during the transcription process. Its structure is similar to that of the guanosine nucleoside, the only difference being that nucleotides like GTP have phosphates on their ribose sugar. GTP has the guanine nucleobase attached to the 1' carbon of the ribose and it has the triphosphate moiety attached to ribose's 5' carbon.",
+                "extract_html": "<p><b>Guanosine-5'-triphosphate</b> (<b>GTP</b>) is a purine nucleoside triphosphate. It is one of the building blocks needed for the synthesis of RNA during the transcription process. Its structure is similar to that of the guanosine nucleoside, the only difference being that nucleotides like GTP have phosphates on their ribose sugar. GTP has the guanine nucleobase attached to the 1' carbon of the ribose and it has the triphosphate moiety attached to ribose's 5' carbon.</p>"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-26T11:03:00.019Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ftm-molecule"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/IlSFn0gRyC4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=235,262"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/Succinic_acid",
+            "frametrail:name": "Succinate",
+            "frametrail:thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Kwas_bursztynowy007.svg/330px-Kwas_bursztynowy007.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "articleUrl": "https://en.wikipedia.org/wiki/Succinic_acid",
+                "wikiLang": "en",
+                "dir": "ltr",
+                "description": "Dicarboxylic acid",
+                "extract": "Succinic acid () is a dicarboxylic acid with the chemical formula (CH2)2(CO2H)2. In living organisms, succinic acid takes the form of an anion, succinate, which has multiple biological roles as a metabolic intermediate being converted into fumarate by the enzyme succinate dehydrogenase in complex 2 of the electron transport chain which is involved in making ATP, and as a signaling molecule reflecting the cellular metabolic state.",
+                "extract_html": "<p><b>Succinic acid</b> () is a dicarboxylic acid with the chemical formula (CH<sub class=\"template-chem2-sub\">2</sub>)<sub class=\"template-chem2-sub\">2</sub>(CO<sub class=\"template-chem2-sub\">2</sub>H)<sub class=\"template-chem2-sub\">2</sub>. In living organisms, succinic acid takes the form of an anion, <b>succinate</b>, which has multiple biological roles as a metabolic intermediate being converted into fumarate by the enzyme succinate dehydrogenase in complex 2 of the electron transport chain which is involved in making ATP, and as a signaling molecule reflecting the cellular metabolic state.</p>"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-26T11:03:00.020Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ftm-enzyme"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/IlSFn0gRyC4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=248.6,259.5"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/Nucleoside-diphosphate_kinase",
+            "frametrail:name": "Nucleoside-diphosphate kinase",
+            "frametrail:thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/NDPK_structure_.jpg/330px-NDPK_structure_.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "articleUrl": "https://en.wikipedia.org/wiki/Nucleoside-diphosphate_kinase",
+                "wikiLang": "en",
+                "dir": "ltr",
+                "description": "Class of enzymes",
+                "extract": "Nucleoside-diphosphate kinases (NDPKs, also NDP kinase, (poly)nucleotide kinases and nucleoside diphosphokinases) are enzymes that catalyze the exchange of terminal phosphate between different nucleoside diphosphates (NDP) and triphosphates (NTP) in a reversible manner to produce nucleotide triphosphates. Many NDP serve as acceptor while NTP are donors of phosphate group. The general reaction via ping-pong mechanism is as follows: XDP + YTP ←→ XTP + YDP (X and Y each represent different nitrogenous base). NDPK activities maintain an equilibrium between the concentrations of different nucleoside triphosphates such as, for example, when guanosine triphosphate (GTP) produced in the citric acid (Krebs) cycle is converted to adenosine triphosphate (ATP). Other activities include cell proliferation, differentiation and development, signal transduction, G protein-coupled receptor, endocytosis, and gene expression.",
+                "extract_html": "<p><b>Nucleoside-diphosphate kinases</b> (<b>NDPKs</b>, also <b>NDP kinase</b>, (<b>poly</b>)<b>nucleotide kinases</b> and <b>nucleoside diphosphokinase</b>s) are enzymes that catalyze the exchange of terminal phosphate between different nucleoside diphosphates (NDP) and triphosphates (NTP) in a reversible manner to produce nucleotide triphosphates. Many NDP serve as acceptor while NTP are donors of phosphate group. The general reaction via ping-pong mechanism is as follows: XDP + YTP ←→ XTP + YDP (X and Y each represent different nitrogenous base). NDPK activities maintain an equilibrium between the concentrations of different nucleoside triphosphates such as, for example, when guanosine triphosphate (GTP) produced in the citric acid (Krebs) cycle is converted to adenosine triphosphate (ATP). Other activities include cell proliferation, differentiation and development, signal transduction, G protein-coupled receptor, endocytosis, and gene expression.</p>"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-26T11:03:00.021Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ftm-molecule"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/IlSFn0gRyC4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=248.6,259.5"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/Adenosine_triphosphate",
+            "frametrail:name": "ATP",
+            "frametrail:thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Adenosintriphosphat_protoniert.svg/330px-Adenosintriphosphat_protoniert.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "articleUrl": "https://en.wikipedia.org/wiki/Adenosine_triphosphate",
+                "wikiLang": "en",
+                "dir": "ltr",
+                "description": "Energy-carrying molecule in living cells",
+                "extract": "Adenosine triphosphate (ATP) is a purine nucleoside triphosphate that provides free energy of approximately 58 kJ/mol (0.6 eV) to drive and support many processes in living cells, such as muscle contraction, nerve impulse propagation, and chemical synthesis. Found in all known forms of life, it is often referred to as the \"molecular unit of currency\" for intracellular energy transfer.",
+                "extract_html": "<p><b>Adenosine triphosphate</b> (<b>ATP</b>) is a purine nucleoside triphosphate that provides free energy of approximately 58 kJ/mol (0.6 eV) to drive and support many processes in living cells, such as muscle contraction, nerve impulse propagation, and chemical synthesis. Found in all known forms of life, it is often referred to as the \"molecular unit of currency\" for intracellular energy transfer.</p>"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-26T11:03:00.022Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ftm-enzyme"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/IlSFn0gRyC4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=259.5,301.13"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/Succinate_dehydrogenase",
+            "frametrail:name": "Succinate dehydrogenase",
+            "frametrail:thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Succinate_Dehydrogenase_1YQ3_and_Membrane.png/330px-Succinate_Dehydrogenase_1YQ3_and_Membrane.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "articleUrl": "https://en.wikipedia.org/wiki/Succinate_dehydrogenase",
+                "wikiLang": "en",
+                "dir": "ltr",
+                "description": "Enzyme",
+                "extract": "Succinate dehydrogenase (SDH) - succinate-coenzyme Q reductase (SQR) - respiratory complex II is an enzyme complex, found in many bacterial cells and in the inner mitochondrial membrane of eukaryotes. It is the only enzyme that participates in both the citric acid cycle and oxidative phosphorylation. Histochemical analysis showing high succinate dehydrogenase in muscle demonstrates high mitochondrial content and high oxidative potential.",
+                "extract_html": "<p><b>Succinate dehydrogenase</b> (<b>SDH</b>) - <b>succinate-coenzyme Q reductase</b> (<b>SQR</b>) - <b>respiratory complex II</b> is an enzyme complex, found in many bacterial cells and in the inner mitochondrial membrane of eukaryotes. It is the only enzyme that participates in both the citric acid cycle and oxidative phosphorylation. Histochemical analysis showing high succinate dehydrogenase in muscle demonstrates high mitochondrial content and high oxidative potential.</p>"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-26T11:03:00.023Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ftm-molecule"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/IlSFn0gRyC4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=273,301.13"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/Fumaric_acid",
+            "frametrail:name": "Fumarate",
+            "frametrail:thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Fumars%C3%A4ure.svg/330px-Fumars%C3%A4ure.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "articleUrl": "https://en.wikipedia.org/wiki/Fumaric_acid",
+                "wikiLang": "en",
+                "dir": "ltr",
+                "description": "Organic compound",
+                "extract": "Fumaric acid or trans-butenedioic acid is an organic compound with the formula HO2CCH=CHCO2H. A white solid, fumaric acid occurs widely in nature. It has a fruit-like taste and has been used as a food additive. Its E number is E297. The salts and esters are known as fumarates. Fumarate can also refer to the C4H2O2−4 ion (in solution). Fumaric acid is the trans isomer of butenedioic acid, while maleic acid is the cis isomer.",
+                "extract_html": "<p><b>Fumaric acid</b> or <b><i>trans</i>-butenedioic acid</b> is an organic compound with the formula HO<sub>2</sub>CCH=CHCO<sub>2</sub>H. A white solid, fumaric acid occurs widely in nature. It has a fruit-like taste and has been used as a food additive. Its E number is E297. The salts and esters are known as <b>fumarates</b>. Fumarate can also refer to the C<sup style=\"font-size:inherit;line-height:inherit;vertical-align:baseline\"></sup><sub style=\"font-size:inherit;line-height:inherit;vertical-align:baseline\">4</sub>H<sup style=\"font-size:inherit;line-height:inherit;vertical-align:baseline\"></sup><sub style=\"font-size:inherit;line-height:inherit;vertical-align:baseline\">2</sub>O<sup style=\"font-size:inherit;line-height:inherit;vertical-align:baseline\">2−</sup><sub style=\"font-size:inherit;line-height:inherit;vertical-align:baseline\">4</sub> ion (in solution). Fumaric acid is the <i>trans</i> isomer of butenedioic acid, while maleic acid is the <i>cis</i> isomer.</p>"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-26T11:03:00.024Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ftm-molecule"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/IlSFn0gRyC4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=279,301.13"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/Coenzyme_Q10",
+            "frametrail:name": "Coenzyme Q",
+            "frametrail:thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Coenzyme_Q10.svg/330px-Coenzyme_Q10.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "articleUrl": "https://en.wikipedia.org/wiki/Coenzyme_Q10",
+                "wikiLang": "en",
+                "dir": "ltr",
+                "description": "Biochemical cofactor and antioxidant",
+                "extract": "Coenzyme Q (CoQ ), also known as ubiquinone, is a naturally occurring biochemical cofactor (coenzyme) and an antioxidant produced by the human body. The human body mainly produces the form known as coenzyme Q10 (CoQ10, ubidecarenone), but other forms exist. CoQ is used by and found in many organisms, including animals and bacteria. As a result, it can also be obtained from dietary sources, such as meat, fish, seed oils, vegetables, and dietary supplements.",
+                "extract_html": "<p><b>Coenzyme Q</b> (<b>CoQ</b> ), also known as <b>ubiquinone</b>, is a naturally occurring biochemical cofactor (coenzyme) and an antioxidant produced by the human body. The human body mainly produces the form known as <b>coenzyme Q<sub>10</sub></b> (CoQ<sub>10</sub>, ubidecarenone), but other forms exist. CoQ is used by and found in many organisms, including animals and bacteria. As a result, it can also be obtained from dietary sources, such as meat, fish, seed oils, vegetables, and dietary supplements.</p>"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-26T11:03:00.025Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ftm-enzyme"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/IlSFn0gRyC4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=301.13,315.9"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/Fumarase",
+            "frametrail:name": "Fumarase",
+            "frametrail:thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Fumarase.png/330px-Fumarase.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "articleUrl": "https://en.wikipedia.org/wiki/Fumarase",
+                "wikiLang": "en",
+                "dir": "ltr",
+                "description": "Type of enzyme",
+                "extract": "Fumarase (or fumarate hydratase) is an enzyme (EC 4.2.1.2) that catalyzes the reversible hydration/dehydration of fumarate to malate. Fumarase comes in two forms: mitochondrial and cytosolic. The mitochondrial isoenzyme is involved in the Krebs cycle and the cytosolic isoenzyme is involved in the metabolism of amino acids and fumarate. Subcellular localization is established by the presence of a signal sequence on the amino terminus in the mitochondrial form, while subcellular localization in the cytosolic form is established by the absence of the signal sequence found in the mitochondrial variety.",
+                "extract_html": "<p><b>Fumarase</b> (or <b>fumarate hydratase</b>) is an enzyme (EC 4.2.1.2) that catalyzes the reversible hydration/dehydration of fumarate to malate. Fumarase comes in two forms: mitochondrial and cytosolic. The mitochondrial isoenzyme is involved in the Krebs cycle and the cytosolic isoenzyme is involved in the metabolism of amino acids and fumarate. Subcellular localization is established by the presence of a signal sequence on the amino terminus in the mitochondrial form, while subcellular localization in the cytosolic form is established by the absence of the signal sequence found in the mitochondrial variety.</p>"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-26T11:03:00.026Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ftm-molecule"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/IlSFn0gRyC4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=306,322"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/Malic_acid",
+            "frametrail:name": "Malate",
+            "frametrail:thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/%C3%84pfels%C3%A4ure3.svg/330px-%C3%84pfels%C3%A4ure3.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "articleUrl": "https://en.wikipedia.org/wiki/Malic_acid",
+                "wikiLang": "en",
+                "dir": "ltr",
+                "description": "Dicarboxylic acid responsible for apple acidity",
+                "extract": "Malic acid is an organic compound with the molecular formula HO2CCH(OH)CH2CO2H. It is a dicarboxylic acid that is made by all living organisms, contributes to the sour taste of fruits, and is used as a food additive. Malic acid has two stereoisomeric forms (L- and D-enantiomers), though only the L-isomer exists naturally. The salts and esters of malic acid are known as malates. The malate anion is a metabolic intermediate in the citric acid cycle.",
+                "extract_html": "<p><b>Malic acid</b> is an organic compound with the molecular formula HO<sub class=\"template-chem2-sub\">2</sub>CCH(OH)CH<sub class=\"template-chem2-sub\">2</sub>CO<sub class=\"template-chem2-sub\">2</sub>H. It is a dicarboxylic acid that is made by all living organisms, contributes to the sour taste of fruits, and is used as a food additive. Malic acid has two stereoisomeric forms (L- and D-enantiomers), though only the L-isomer exists naturally. The salts and esters of malic acid are known as <b>malates</b>. The malate anion is a metabolic intermediate in the citric acid cycle.</p>"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-26T11:03:00.027Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ftm-enzyme"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/IlSFn0gRyC4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=315.9,346"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/Malate_dehydrogenase",
+            "frametrail:name": "Malate dehydrogenase",
+            "frametrail:thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Malate_dehydrogenase_structure.png/330px-Malate_dehydrogenase_structure.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "articleUrl": "https://en.wikipedia.org/wiki/Malate_dehydrogenase",
+                "wikiLang": "en",
+                "dir": "ltr",
+                "description": "Class of enzymes",
+                "extract": "Malate dehydrogenases (EC 1.1.1.37) (MDH) are a type of enzyme that reversibly catalyze the oxidation of malate to oxaloacetate using the reduction of the cofactor NAD+ to NADH. This reaction is part of many metabolic pathways, including the citric acid cycle. In humans, there are separate cytoplasmic (MDH1) and mitochondrial (MDH2) forms.",
+                "extract_html": "<p><b>Malate dehydrogenases</b> (EC 1.1.1.37) (<b>MDH</b>) are a type of enzyme that reversibly catalyze the oxidation of malate to oxaloacetate using the reduction of the cofactor NAD<sup>+</sup> to NADH. This reaction is part of many metabolic pathways, including the citric acid cycle. In humans, there are separate cytoplasmic (MDH1) and mitochondrial (MDH2) forms.</p>"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-26T11:03:00.028Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ftm-molecule"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/IlSFn0gRyC4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=320,346"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/Oxaloacetic_acid",
+            "frametrail:name": "Oxaloacetate",
+            "frametrail:thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Oxaloacetic_acid.svg/330px-Oxaloacetic_acid.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "articleUrl": "https://en.wikipedia.org/wiki/Oxaloacetic_acid",
+                "wikiLang": "en",
+                "dir": "ltr",
+                "description": "Organic compound",
+                "extract": "Oxaloacetic acid (also known as oxalacetic acid or OAA) is a crystalline organic compound with the chemical formula HO2CC(O)CH2CO2H. Oxaloacetic acid, in the form of its conjugate base oxaloacetate, is a metabolic intermediate in many processes that occur in animals. It takes part in gluconeogenesis, the urea cycle, the glyoxylate cycle, amino acid synthesis, fatty acid synthesis and the citric acid cycle.",
+                "extract_html": "<p><b>Oxaloacetic acid</b> (also known as <b>oxalacetic acid</b> or <b>OAA</b>) is a crystalline organic compound with the chemical formula HO<sub>2</sub>CC(O)CH<sub>2</sub>CO<sub>2</sub>H. Oxaloacetic acid, in the form of its conjugate base <b>oxaloacetate</b>, is a metabolic intermediate in many processes that occur in animals. It takes part in gluconeogenesis, the urea cycle, the glyoxylate cycle, amino acid synthesis, fatty acid synthesis and the citric acid cycle.</p>"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-26T11:03:00.029Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ftm-molecule"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/IlSFn0gRyC4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=324,346"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/Nicotinamide_adenine_dinucleotide",
+            "frametrail:name": "NADH",
+            "frametrail:thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/NAD%2B.svg/330px-NAD%2B.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "articleUrl": "https://en.wikipedia.org/wiki/Nicotinamide_adenine_dinucleotide",
+                "wikiLang": "en",
+                "dir": "ltr",
+                "description": "Coenzyme",
+                "extract": "Nicotinamide adenine dinucleotide (NAD+) is a coenzyme central to metabolism. Found in all living cells, NAD is called a dinucleotide because it consists of two nucleotides joined through their phosphate groups. One nucleotide contains an adenine nucleobase and the other, nicotinamide. NAD exists in two forms: an oxidized and reduced form, abbreviated as NAD+ and NADH (H for hydrogen), respectively.",
+                "extract_html": "<p><b>Nicotinamide adenine dinucleotide</b> (<b>NAD+</b>) is a coenzyme central to metabolism. Found in all living cells, NAD is called a dinucleotide because it consists of two nucleotides joined through their phosphate groups. One nucleotide contains an adenine nucleobase and the other, nicotinamide. NAD exists in two forms: an oxidized and reduced form, abbreviated as <b>NAD<sup>+</sup></b> and <b>NADH</b> (H for hydrogen), respectively.</p>"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-26T11:03:00.030Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ftm-process"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/IlSFn0gRyC4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=346,363.4"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/Metabolism",
+            "frametrail:name": "Metabolism",
+            "frametrail:thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Metabolism-en.svg/330px-Metabolism-en.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "articleUrl": "https://en.wikipedia.org/wiki/Metabolism",
+                "wikiLang": "en",
+                "dir": "ltr",
+                "description": "Set of chemical reactions in organisms",
+                "extract": "Metabolism (, from Greek  μεταβολή (metabolē) 'change') refers to the set of life-sustaining chemical reactions that occur within living organisms. The three main functions of metabolism are the conversion of energy in food into a usable form for cellular processes; the conversion of food to building blocks of macromolecules (biopolymers) such as proteins, lipids, nucleic acids, and some carbohydrates; and the excretion of metabolic wastes. These enzyme-catalyzed reactions allow organisms to grow, reproduce, maintain their structures, and respond to their environments. The word metabolism can also refer to all chemical reactions that occur in living organisms, including digestion and the transportation of substances into and between different cells. In a broader sense, the set of reactions occurring within the cells is called intermediary (or intermediate) metabolism.",
+                "extract_html": "<p><b>Metabolism</b> (, from Greek <i> </i>μεταβολή<i> (metabolē)</i> 'change') refers to the set of life-sustaining chemical reactions that occur within living organisms. The three main functions of metabolism are the conversion of energy in food into a usable form for cellular processes; the conversion of food to building blocks of macromolecules (biopolymers) such as proteins, lipids, nucleic acids, and some carbohydrates; and the excretion of metabolic wastes. These enzyme-catalyzed reactions allow organisms to grow, reproduce, maintain their structures, and respond to their environments. The word <i>metabolism</i> can also refer to all chemical reactions that occur in living organisms, including digestion and the transportation of substances into and between different cells. In a broader sense, the set of reactions occurring within the cells is called intermediary (or intermediate) metabolism.</p>"
+            }
+        }
+    }
+]

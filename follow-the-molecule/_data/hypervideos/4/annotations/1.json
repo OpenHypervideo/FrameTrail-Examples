@@ -1,0 +1,800 @@
+[
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-26T11:04:00.001Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ftm-place"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/zNpeuA4gtq0",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=0,12"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/Mitochondria",
+            "frametrail:name": "Mitochondrion",
+            "frametrail:thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Animal_mitochondrion_diagram_en.svg/330px-Animal_mitochondrion_diagram_en.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "articleUrl": "https://en.wikipedia.org/wiki/Mitochondria",
+                "wikiLang": "en",
+                "dir": "ltr",
+                "description": "Organelle in eukaryotic cells responsible for respiration",
+                "extract": "A mitochondrion (pl. mitochondria) is an organelle found in the cells of most eukaryotes, such as animals, plants and fungi. Mitochondria have a double membrane structure and use aerobic respiration to generate adenosine triphosphate (ATP), which is used throughout the cell as a source of chemical energy. They were discovered by Albert von Kölliker in 1857 in the voluntary muscles of insects. The term mitochondrion, meaning \"a thread-like granule\", was coined by Carl Benda in 1898. The mitochondrion is popularly nicknamed the \"powerhouse of the cell\", a phrase popularized by Philip Siekevitz in a 1957 Scientific American article of the same name.",
+                "extract_html": "<p>A <b>mitochondrion</b> (pl. <b>mitochondria</b>) is an organelle found in the cells of most eukaryotes, such as animals, plants and fungi. Mitochondria have a double membrane structure and use aerobic respiration to generate adenosine triphosphate (ATP), which is used throughout the cell as a source of chemical energy. They were discovered by Albert von Kölliker in 1857 in the voluntary muscles of insects. The term <i>mitochondrion</i>, meaning \"a thread-like granule\", was coined by Carl Benda in 1898. The mitochondrion is popularly nicknamed the \"powerhouse of the cell\", a phrase popularized by Philip Siekevitz in a 1957 <i>Scientific American</i> article of the same name.</p>"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-26T11:04:00.002Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ftm-place"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/zNpeuA4gtq0",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=10,27"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/Inner_mitochondrial_membrane",
+            "frametrail:name": "Inner mitochondrial membrane",
+            "frametrail:thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Mitochondrion_mini.svg/330px-Mitochondrion_mini.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "articleUrl": "https://en.wikipedia.org/wiki/Inner_mitochondrial_membrane",
+                "wikiLang": "en",
+                "dir": "ltr",
+                "description": "Cell structure",
+                "extract": "The inner mitochondrial membrane (IMM) is the mitochondrial membrane which separates the mitochondrial matrix from the intermembrane space.",
+                "extract_html": "<p>The <b>inner mitochondrial membrane</b> (<b>IMM</b>) is the mitochondrial membrane which separates the mitochondrial matrix from the intermembrane space.</p>"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-26T11:04:00.003Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ftm-process"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/zNpeuA4gtq0",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=16,30"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/Electron_transport_chain",
+            "frametrail:name": "Electron transport chain",
+            "frametrail:thumb": null,
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "articleUrl": "https://en.wikipedia.org/wiki/Electron_transport_chain",
+                "wikiLang": "en",
+                "dir": "ltr",
+                "description": "Energy-producing metabolic pathway",
+                "extract": "An electron transport chain (ETC) is a series of protein complexes and other molecules which transfer electrons from electron donors to electron acceptors via redox reactions (both reduction and oxidation occurring simultaneously) and couples this electron transfer with the transfer of protons (H+ ions) across a membrane. Many of the enzymes in the electron transport chain are embedded within the membrane.",
+                "extract_html": "<p>An <b>electron transport chain</b> (<b>ETC</b>) is a series of protein complexes and other molecules which transfer electrons from electron donors to electron acceptors via redox reactions (both reduction and oxidation occurring simultaneously) and couples this electron transfer with the transfer of protons (H<sup>+</sup> ions) across a membrane. Many of the enzymes in the electron transport chain are embedded within the membrane.</p>"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-26T11:04:00.004Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ftm-enzyme"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/zNpeuA4gtq0",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=27,104"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/Respiratory_complex_I",
+            "frametrail:name": "Complex I",
+            "frametrail:thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/NADH_Dehydrogenase_Mechanism_%28Fixed%29.png/330px-NADH_Dehydrogenase_Mechanism_%28Fixed%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "articleUrl": "https://en.wikipedia.org/wiki/Respiratory_complex_I",
+                "wikiLang": "en",
+                "dir": "ltr",
+                "description": "Protein complex involved in cellular respiration",
+                "extract": "Respiratory complex I, EC 7.1.1.2 (also known as NADH:ubiquinone oxidoreductase, Type I NADH dehydrogenase and mitochondrial complex I) is the first large protein complex of the respiratory chains of many organisms from bacteria to humans. It catalyzes the transfer of electrons from NADH to coenzyme Q10 (CoQ10) and translocates protons across the inner mitochondrial membrane in eukaryotes or the plasma membrane of bacteria.",
+                "extract_html": "<p><b>Respiratory complex I</b>, EC 7.1.1.2 (also known as <b>NADH:ubiquinone oxidoreductase</b>, <b>Type I NADH dehydrogenase</b> and <b>mitochondrial complex I</b>) is the first large protein complex of the respiratory chains of many organisms from bacteria to humans. It catalyzes the transfer of electrons from NADH to coenzyme Q10 (CoQ10) and translocates protons across the inner mitochondrial membrane in eukaryotes or the plasma membrane of bacteria.</p>"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-26T11:04:00.005Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ftm-molecule"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/zNpeuA4gtq0",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=32,66"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/Nicotinamide_adenine_dinucleotide",
+            "frametrail:name": "NADH",
+            "frametrail:thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/NAD%2B.svg/330px-NAD%2B.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "articleUrl": "https://en.wikipedia.org/wiki/Nicotinamide_adenine_dinucleotide",
+                "wikiLang": "en",
+                "dir": "ltr",
+                "description": "Coenzyme",
+                "extract": "Nicotinamide adenine dinucleotide (NAD+) is a coenzyme central to metabolism. Found in all living cells, NAD is called a dinucleotide because it consists of two nucleotides joined through their phosphate groups. One nucleotide contains an adenine nucleobase and the other, nicotinamide. NAD exists in two forms: an oxidized and reduced form, abbreviated as NAD+ and NADH (H for hydrogen), respectively.",
+                "extract_html": "<p><b>Nicotinamide adenine dinucleotide</b> (<b>NAD+</b>) is a coenzyme central to metabolism. Found in all living cells, NAD is called a dinucleotide because it consists of two nucleotides joined through their phosphate groups. One nucleotide contains an adenine nucleobase and the other, nicotinamide. NAD exists in two forms: an oxidized and reduced form, abbreviated as <b>NAD<sup>+</sup></b> and <b>NADH</b> (H for hydrogen), respectively.</p>"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-26T11:04:00.006Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ftm-structure"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/zNpeuA4gtq0",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=48.4,80"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "webpage",
+            "format": "text/html",
+            "value": "https://pdb101.rcsb.org/motm/144",
+            "frametrail:name": "Complex I, as a structure",
+            "frametrail:thumb": "https://cdn.rcsb.org/pdb101/motm/144/144-ComplexI_3m9s_3rko.jpg",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "embed": "allowed",
+                "description": "A proton-pumping protein complex performs the first step of the respiratory electron transport chain"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-26T11:04:00.007Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ftm-molecule"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/zNpeuA4gtq0",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=58,104"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/Coenzyme_Q10",
+            "frametrail:name": "Coenzyme Q",
+            "frametrail:thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Coenzyme_Q10.svg/330px-Coenzyme_Q10.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "articleUrl": "https://en.wikipedia.org/wiki/Coenzyme_Q10",
+                "wikiLang": "en",
+                "dir": "ltr",
+                "description": "Biochemical cofactor and antioxidant",
+                "extract": "Coenzyme Q (CoQ ), also known as ubiquinone, is a naturally occurring biochemical cofactor (coenzyme) and an antioxidant produced by the human body. The human body mainly produces the form known as coenzyme Q10 (CoQ10, ubidecarenone), but other forms exist. CoQ is used by and found in many organisms, including animals and bacteria. As a result, it can also be obtained from dietary sources, such as meat, fish, seed oils, vegetables, and dietary supplements.",
+                "extract_html": "<p><b>Coenzyme Q</b> (<b>CoQ</b> ), also known as <b>ubiquinone</b>, is a naturally occurring biochemical cofactor (coenzyme) and an antioxidant produced by the human body. The human body mainly produces the form known as <b>coenzyme Q<sub>10</sub></b> (CoQ<sub>10</sub>, ubidecarenone), but other forms exist. CoQ is used by and found in many organisms, including animals and bacteria. As a result, it can also be obtained from dietary sources, such as meat, fish, seed oils, vegetables, and dietary supplements.</p>"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-26T11:04:00.008Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ftm-process"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/zNpeuA4gtq0",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=81,104"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/Proton_pump",
+            "frametrail:name": "Proton pump",
+            "frametrail:thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/144-ComplexI_3m9s_3rko.jpg/330px-144-ComplexI_3m9s_3rko.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "articleUrl": "https://en.wikipedia.org/wiki/Proton_pump",
+                "wikiLang": "en",
+                "dir": "ltr",
+                "description": "Transport protein",
+                "extract": "A proton pump is an integral membrane protein pump that builds up a proton gradient across a biological membrane. Proton pumps catalyzes the following reaction: Mechanisms are based on energy-induced conformational changes of the protein structure, or on the Q cycle.",
+                "extract_html": "<p>A <b>proton pump</b> is an integral membrane protein pump that builds up a proton gradient across a biological membrane. Proton pumps catalyzes the following reaction:</p><p>Mechanisms are based on energy-induced conformational changes of the protein structure, or on the Q cycle.</p>"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-26T11:04:00.009Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ftm-enzyme"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/zNpeuA4gtq0",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=104,145"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/Coenzyme_Q_%E2%80%93_cytochrome_c_reductase",
+            "frametrail:name": "Complex III",
+            "frametrail:thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Cytochrome1ntz.PNG/330px-Cytochrome1ntz.PNG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "articleUrl": "https://en.wikipedia.org/wiki/Coenzyme_Q_%E2%80%93_cytochrome_c_reductase",
+                "wikiLang": "en",
+                "dir": "ltr",
+                "description": "Class of enzymes",
+                "extract": "The coenzyme Q : cytochrome c – oxidoreductase, sometimes called the cytochrome bc1 complex, and at other times complex III, is the third complex in the electron transport chain (EC 1.10.2.2), playing a critical role in biochemical generation of ATP (oxidative phosphorylation). Complex III is a multisubunit transmembrane protein encoded by both the mitochondrial (cytochrome b) and the nuclear genomes (all other subunits). Complex III is present in the mitochondria of all animals and all aerobic eukaryotes and the inner membranes of most bacteria. Mutations in Complex III cause exercise intolerance as well as multisystem disorders. The bc1 complex contains 11 subunits: 3 respiratory subunits (cytochrome b, cytochrome c1, Rieske protein), 2 core proteins, and 6 low-molecular-weight proteins.",
+                "extract_html": "<p>The <b>coenzyme Q : cytochrome <i>c</i> – oxidoreductase</b>, sometimes called the <b>cytochrome <i>bc</i><sub>1</sub> complex</b>, and at other times <b>complex III</b>, is the third complex in the electron transport chain (EC 1.10.2.2), playing a critical role in biochemical generation of ATP (oxidative phosphorylation). Complex III is a multisubunit transmembrane protein encoded by both the mitochondrial (cytochrome b) and the nuclear genomes (all other subunits). Complex III is present in the mitochondria of all animals and all aerobic eukaryotes and the inner membranes of most bacteria. Mutations in Complex III cause exercise intolerance as well as multisystem disorders. The bc1 complex contains 11 subunits: 3 respiratory subunits (cytochrome b, cytochrome c<sub>1</sub>, Rieske protein), 2 core proteins, and 6 low-molecular-weight proteins.</p>"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-26T11:04:00.010Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ftm-structure"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/zNpeuA4gtq0",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=112.6,140"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "webpage",
+            "format": "text/html",
+            "value": "https://pdb101.rcsb.org/motm/137",
+            "frametrail:name": "Complex III (cytochrome bc1), as a structure",
+            "frametrail:thumb": "https://cdn.rcsb.org/pdb101/motm/137/137-Cytochromebc1_3h1j.jpg",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "embed": "allowed",
+                "description": "A flow of electrons powers proton pumps in cellular respiration and photosynthesis"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-26T11:04:00.011Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ftm-molecule"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/zNpeuA4gtq0",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=116,168"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/Cytochrome_c",
+            "frametrail:name": "Cytochrome c",
+            "frametrail:thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Cytochrome_C.png/330px-Cytochrome_C.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "articleUrl": "https://en.wikipedia.org/wiki/Cytochrome_c",
+                "wikiLang": "en",
+                "dir": "ltr",
+                "description": "Protein found in humans",
+                "extract": "The cytochrome complex, or cyt c, is a small hemeprotein found loosely associated with the inner membrane of the mitochondrion, where it plays a critical role in cellular respiration. It transfers electrons between Complexes III (Coenzyme Q – Cyt c reductase) and IV (Cyt c oxidase). Cytochrome c is highly water-soluble, unlike other cytochromes. It is capable of undergoing oxidation and reduction as its iron atom converts between the ferrous and ferric forms, but does not bind oxygen. It also plays a major role in cell apoptosis. In humans, cytochrome c is encoded by the CYCS gene.",
+                "extract_html": "<p>The <b>cytochrome complex</b>, or <b>cyt c</b>, is a small hemeprotein found loosely associated with the inner membrane of the mitochondrion, where it plays a critical role in cellular respiration. It transfers electrons between Complexes III (Coenzyme Q – Cyt c reductase) and IV (Cyt c oxidase). Cytochrome c is highly water-soluble, unlike other cytochromes. It is capable of undergoing oxidation and reduction as its iron atom converts between the ferrous and ferric forms, but does not bind oxygen. It also plays a major role in cell apoptosis. In humans, cytochrome c is encoded by the <i>CYCS</i> gene.</p>"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-26T11:04:00.012Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ftm-enzyme"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/zNpeuA4gtq0",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=145,211.5"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/Cytochrome_c_oxidase",
+            "frametrail:name": "Complex IV",
+            "frametrail:thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Cytochrome_C_Oxidase_1OCC_in_Membrane_2.png/330px-Cytochrome_C_Oxidase_1OCC_in_Membrane_2.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "articleUrl": "https://en.wikipedia.org/wiki/Cytochrome_c_oxidase",
+                "wikiLang": "en",
+                "dir": "ltr",
+                "description": "Aerobic respiration enzyme",
+                "extract": "The enzyme cytochrome c oxidase or Complex IV (was EC 1.9.3.1, now reclassified as a translocase EC 7.1.1.9) is a large transmembrane protein complex found in bacteria, archaea, and the mitochondria of eukaryotes, including humans. It is the last enzyme in the respiratory electron transport chain of cells located in the membrane. It receives an electron from each of four cytochrome c proteins and transfers them to one oxygen molecule and four protons, producing two molecules of water. In addition to binding the four protons from the inner aqueous phase, it transports another four protons across the membrane, increasing the transmembrane difference of proton electrochemical potential, which the ATP synthase then uses to synthesize ATP.",
+                "extract_html": "<p>The enzyme <b>cytochrome c oxidase</b> or <b>Complex IV</b> (was EC 1.9.3.1, now reclassified as a translocase EC 7.1.1.9) is a large transmembrane protein complex found in bacteria, archaea, and the mitochondria of eukaryotes, including humans.</p><p>It is the last enzyme in the respiratory electron transport chain of cells located in the membrane. It receives an electron from each of four cytochrome c proteins and transfers them to one oxygen molecule and four protons, producing two molecules of water. In addition to binding the four protons from the inner aqueous phase, it transports another four protons across the membrane, increasing the transmembrane difference of proton electrochemical potential, which the ATP synthase then uses to synthesize ATP.</p>"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-26T11:04:00.013Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ftm-structure"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/zNpeuA4gtq0",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=159.1,190"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "webpage",
+            "format": "text/html",
+            "value": "https://pdb101.rcsb.org/motm/5",
+            "frametrail:name": "Complex IV (cytochrome c oxidase), as a structure",
+            "frametrail:thumb": "https://cdn.rcsb.org/pdb101/motm/5/1oco.gif",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "embed": "allowed",
+                "description": "Cytochrome oxidase extracts energy from food using oxygen"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-26T11:04:00.014Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ftm-molecule"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/zNpeuA4gtq0",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=172,211.5"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/Oxygen",
+            "frametrail:name": "Oxygen",
+            "frametrail:thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Liquid_oxygen_in_a_beaker_%28cropped_and_retouched%29.jpg/330px-Liquid_oxygen_in_a_beaker_%28cropped_and_retouched%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "articleUrl": "https://en.wikipedia.org/wiki/Oxygen",
+                "wikiLang": "en",
+                "dir": "ltr",
+                "description": "Chemical element with atomic number 8 (O)",
+                "extract": "Oxygen is a chemical element; it has the symbol O and its atomic number is 8. It is a member of the chalcogen group in the periodic table. It is highly reactive, a nonmetal, and a potent oxidizing agent that readily forms oxides with most elements as well as with other compounds. Oxygen is the most abundant element in Earth's crust, making up almost half of the Earth's crust in the form of various oxides such as water, carbon dioxide, iron oxides, and silicates. It is also the third-most abundant element in the universe after hydrogen and helium.",
+                "extract_html": "<p><b>Oxygen</b> is a chemical element; it has the symbol <b>O</b> and its atomic number is 8. It is a member of the chalcogen group in the periodic table. It is highly reactive, a nonmetal, and a potent oxidizing agent that readily forms oxides with most elements as well as with other compounds. Oxygen is the most abundant element in Earth's crust, making up almost half of the Earth's crust in the form of various oxides such as water, carbon dioxide, iron oxides, and silicates. It is also the third-most abundant element in the universe after hydrogen and helium.</p>"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-26T11:04:00.015Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ftm-molecule"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/zNpeuA4gtq0",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=211.5,224"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/Nicotinamide_adenine_dinucleotide",
+            "frametrail:name": "NADH",
+            "frametrail:thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/NAD%2B.svg/330px-NAD%2B.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "articleUrl": "https://en.wikipedia.org/wiki/Nicotinamide_adenine_dinucleotide",
+                "wikiLang": "en",
+                "dir": "ltr",
+                "description": "Coenzyme",
+                "extract": "Nicotinamide adenine dinucleotide (NAD+) is a coenzyme central to metabolism. Found in all living cells, NAD is called a dinucleotide because it consists of two nucleotides joined through their phosphate groups. One nucleotide contains an adenine nucleobase and the other, nicotinamide. NAD exists in two forms: an oxidized and reduced form, abbreviated as NAD+ and NADH (H for hydrogen), respectively.",
+                "extract_html": "<p><b>Nicotinamide adenine dinucleotide</b> (<b>NAD+</b>) is a coenzyme central to metabolism. Found in all living cells, NAD is called a dinucleotide because it consists of two nucleotides joined through their phosphate groups. One nucleotide contains an adenine nucleobase and the other, nicotinamide. NAD exists in two forms: an oxidized and reduced form, abbreviated as <b>NAD<sup>+</sup></b> and <b>NADH</b> (H for hydrogen), respectively.</p>"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-26T11:04:00.016Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ftm-enzyme"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/zNpeuA4gtq0",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=222,253.37"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/Succinate_dehydrogenase",
+            "frametrail:name": "Complex II",
+            "frametrail:thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Succinate_Dehydrogenase_1YQ3_and_Membrane.png/330px-Succinate_Dehydrogenase_1YQ3_and_Membrane.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "articleUrl": "https://en.wikipedia.org/wiki/Succinate_dehydrogenase",
+                "wikiLang": "en",
+                "dir": "ltr",
+                "description": "Enzyme",
+                "extract": "Succinate dehydrogenase (SDH) - succinate-coenzyme Q reductase (SQR) - respiratory complex II is an enzyme complex, found in many bacterial cells and in the inner mitochondrial membrane of eukaryotes. It is the only enzyme that participates in both the citric acid cycle and oxidative phosphorylation. Histochemical analysis showing high succinate dehydrogenase in muscle demonstrates high mitochondrial content and high oxidative potential.",
+                "extract_html": "<p><b>Succinate dehydrogenase</b> (<b>SDH</b>) - <b>succinate-coenzyme Q reductase</b> (<b>SQR</b>) - <b>respiratory complex II</b> is an enzyme complex, found in many bacterial cells and in the inner mitochondrial membrane of eukaryotes. It is the only enzyme that participates in both the citric acid cycle and oxidative phosphorylation. Histochemical analysis showing high succinate dehydrogenase in muscle demonstrates high mitochondrial content and high oxidative potential.</p>"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-26T11:04:00.017Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ftm-molecule"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/zNpeuA4gtq0",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=234,253.37"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/Succinic_acid",
+            "frametrail:name": "Succinate",
+            "frametrail:thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Kwas_bursztynowy007.svg/330px-Kwas_bursztynowy007.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "articleUrl": "https://en.wikipedia.org/wiki/Succinic_acid",
+                "wikiLang": "en",
+                "dir": "ltr",
+                "description": "Dicarboxylic acid",
+                "extract": "Succinic acid () is a dicarboxylic acid with the chemical formula (CH2)2(CO2H)2. In living organisms, succinic acid takes the form of an anion, succinate, which has multiple biological roles as a metabolic intermediate being converted into fumarate by the enzyme succinate dehydrogenase in complex 2 of the electron transport chain which is involved in making ATP, and as a signaling molecule reflecting the cellular metabolic state.",
+                "extract_html": "<p><b>Succinic acid</b> () is a dicarboxylic acid with the chemical formula (CH<sub class=\"template-chem2-sub\">2</sub>)<sub class=\"template-chem2-sub\">2</sub>(CO<sub class=\"template-chem2-sub\">2</sub>H)<sub class=\"template-chem2-sub\">2</sub>. In living organisms, succinic acid takes the form of an anion, <b>succinate</b>, which has multiple biological roles as a metabolic intermediate being converted into fumarate by the enzyme succinate dehydrogenase in complex 2 of the electron transport chain which is involved in making ATP, and as a signaling molecule reflecting the cellular metabolic state.</p>"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-26T11:04:00.018Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ftm-process"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/zNpeuA4gtq0",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=253.37,260.6"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/Oxidative_phosphorylation",
+            "frametrail:name": "Oxidative phosphorylation",
+            "frametrail:thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Mitochondrial_electron_transport_chain%E2%80%94Etc4.svg/330px-Mitochondrial_electron_transport_chain%E2%80%94Etc4.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "articleUrl": "https://en.wikipedia.org/wiki/Oxidative_phosphorylation",
+                "wikiLang": "en",
+                "dir": "ltr",
+                "description": "Metabolic pathway",
+                "extract": "Oxidative phosphorylation or electron transport-linked phosphorylation or terminal oxidation, is the metabolic pathway in which cells use enzymes to oxidize nutrients, thereby releasing chemical energy in order to produce adenosine triphosphate (ATP). In eukaryotes, this takes place inside mitochondria. Almost all aerobic organisms carry out oxidative phosphorylation. This pathway is so pervasive because it releases more energy than fermentation.",
+                "extract_html": "<p><b>Oxidative phosphorylation</b> or <b>electron transport-linked phosphorylation</b> or <b>terminal oxidation</b>, is the metabolic pathway in which cells use enzymes to oxidize nutrients, thereby releasing chemical energy in order to produce adenosine triphosphate (ATP). In eukaryotes, this takes place inside mitochondria. Almost all aerobic organisms carry out oxidative phosphorylation. This pathway is so pervasive because it releases more energy than fermentation.</p>"
+            }
+        }
+    }
+]

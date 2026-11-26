@@ -1,0 +1,313 @@
+[
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-26T11:05:00.001Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ftm-molecule"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/CSrtewCJbpg",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=0,16"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/Adenosine_triphosphate",
+            "frametrail:name": "ATP",
+            "frametrail:thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Adenosintriphosphat_protoniert.svg/330px-Adenosintriphosphat_protoniert.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "articleUrl": "https://en.wikipedia.org/wiki/Adenosine_triphosphate",
+                "wikiLang": "en",
+                "dir": "ltr",
+                "description": "Energy-carrying molecule in living cells",
+                "extract": "Adenosine triphosphate (ATP) is a purine nucleoside triphosphate that provides free energy of approximately 58 kJ/mol (0.6 eV) to drive and support many processes in living cells, such as muscle contraction, nerve impulse propagation, and chemical synthesis. Found in all known forms of life, it is often referred to as the \"molecular unit of currency\" for intracellular energy transfer.",
+                "extract_html": "<p><b>Adenosine triphosphate</b> (<b>ATP</b>) is a purine nucleoside triphosphate that provides free energy of approximately 58 kJ/mol (0.6 eV) to drive and support many processes in living cells, such as muscle contraction, nerve impulse propagation, and chemical synthesis. Found in all known forms of life, it is often referred to as the \"molecular unit of currency\" for intracellular energy transfer.</p>"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-26T11:05:00.002Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ftm-place"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/CSrtewCJbpg",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=16,40"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/Mitochondria",
+            "frametrail:name": "Mitochondrion",
+            "frametrail:thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Animal_mitochondrion_diagram_en.svg/330px-Animal_mitochondrion_diagram_en.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "articleUrl": "https://en.wikipedia.org/wiki/Mitochondria",
+                "wikiLang": "en",
+                "dir": "ltr",
+                "description": "Organelle in eukaryotic cells responsible for respiration",
+                "extract": "A mitochondrion (pl. mitochondria) is an organelle found in the cells of most eukaryotes, such as animals, plants and fungi. Mitochondria have a double membrane structure and use aerobic respiration to generate adenosine triphosphate (ATP), which is used throughout the cell as a source of chemical energy. They were discovered by Albert von Kölliker in 1857 in the voluntary muscles of insects. The term mitochondrion, meaning \"a thread-like granule\", was coined by Carl Benda in 1898. The mitochondrion is popularly nicknamed the \"powerhouse of the cell\", a phrase popularized by Philip Siekevitz in a 1957 Scientific American article of the same name.",
+                "extract_html": "<p>A <b>mitochondrion</b> (pl. <b>mitochondria</b>) is an organelle found in the cells of most eukaryotes, such as animals, plants and fungi. Mitochondria have a double membrane structure and use aerobic respiration to generate adenosine triphosphate (ATP), which is used throughout the cell as a source of chemical energy. They were discovered by Albert von Kölliker in 1857 in the voluntary muscles of insects. The term <i>mitochondrion</i>, meaning \"a thread-like granule\", was coined by Carl Benda in 1898. The mitochondrion is popularly nicknamed the \"powerhouse of the cell\", a phrase popularized by Philip Siekevitz in a 1957 <i>Scientific American</i> article of the same name.</p>"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-26T11:05:00.003Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ftm-enzyme"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/CSrtewCJbpg",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=38.2,127.4"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/ATP_synthase",
+            "frametrail:name": "ATP synthase",
+            "frametrail:thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Atp_synthase.PNG/330px-Atp_synthase.PNG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "articleUrl": "https://en.wikipedia.org/wiki/ATP_synthase",
+                "wikiLang": "en",
+                "dir": "ltr",
+                "description": "Enzyme",
+                "extract": "ATP synthase is an enzyme that catalyzes the formation of the energy storage molecule adenosine triphosphate (ATP) using adenosine diphosphate (ADP) and inorganic phosphate (Pi). ATP synthase is a molecular machine. The overall reaction catalyzed by ATP synthase is: ATP synthase lies across a cellular membrane and forms an aperture that protons can cross from areas of high concentration to areas of low concentration, imparting energy for the synthesis of ATP. This electrochemical gradient is generated by the electron transport chain and allows cells to store energy in ATP for later use. In prokaryotic cells ATP synthase lies across the plasma membrane, while in eukaryotic cells it lies across the inner mitochondrial membrane. Organisms capable of photosynthesis also have ATP synthase across the thylakoid membrane, which in plants is located in the chloroplast and in cyanobacteria is located in the cytoplasm. ATP synthase is present in all organisms studied.",
+                "extract_html": "<p><b>ATP synthase</b> is an enzyme that catalyzes the formation of the energy storage molecule adenosine triphosphate (ATP) using adenosine diphosphate (ADP) and inorganic phosphate (P<sub>i</sub>). ATP synthase is a molecular machine. The overall reaction catalyzed by ATP synthase is:</p><p>ATP synthase lies across a cellular membrane and forms an aperture that protons can cross from areas of high concentration to areas of low concentration, imparting energy for the synthesis of ATP. This electrochemical gradient is generated by the electron transport chain and allows cells to store energy in ATP for later use. In prokaryotic cells ATP synthase lies across the plasma membrane, while in eukaryotic cells it lies across the inner mitochondrial membrane. Organisms capable of photosynthesis also have ATP synthase across the thylakoid membrane, which in plants is located in the chloroplast and in cyanobacteria is located in the cytoplasm. ATP synthase is present in all organisms studied.</p>"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-26T11:05:00.004Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ftm-structure"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/CSrtewCJbpg",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=48,80"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "webpage",
+            "format": "text/html",
+            "value": "https://pdb101.rcsb.org/motm/72",
+            "frametrail:name": "ATP synthase, as a structure",
+            "frametrail:thumb": "https://cdn.rcsb.org/pdb101/motm/72/ATPsynthase.gif",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "embed": "allowed",
+                "description": "ATP synthase links two rotary motors to generate ATP"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-26T11:05:00.005Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ftm-molecule"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/CSrtewCJbpg",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=54,70"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/Adenosine_diphosphate",
+            "frametrail:name": "ADP",
+            "frametrail:thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Adenosindiphosphat_protoniert.svg/330px-Adenosindiphosphat_protoniert.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "articleUrl": "https://en.wikipedia.org/wiki/Adenosine_diphosphate",
+                "wikiLang": "en",
+                "dir": "ltr",
+                "description": "Chemical compound",
+                "extract": "Adenosine diphosphate (ADP), also known as adenosine pyrophosphate (APP), is an important organic compound in metametabolism and is essential to the flow of energy in living cells. ADP consists of three important structural components: a sugar backbone attached to adenine and two phosphate groups bonded to the 5-carbon atom of ribose. The diphosphate group of ADP is attached to the 5' carbon of the sugar backbone, while the adenine attaches to the 1' carbon.",
+                "extract_html": "<p><b>Adenosine diphosphate</b> (<b>ADP</b>), also known as <b>adenosine pyrophosphate</b> (<b>APP</b>), is an important organic compound in metametabolism and is essential to the flow of energy in living cells. ADP consists of three important structural components: a sugar backbone attached to adenine and two phosphate groups bonded to the 5-carbon atom of ribose. The diphosphate group of ADP is attached to the 5' carbon of the sugar backbone, while the adenine attaches to the 1' carbon.</p>"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-26T11:05:00.006Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ftm-process"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/CSrtewCJbpg",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=83,110"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/Chemiosmosis",
+            "frametrail:name": "Chemiosmosis",
+            "frametrail:thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Chemiosmosis.svg/330px-Chemiosmosis.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "articleUrl": "https://en.wikipedia.org/wiki/Chemiosmosis",
+                "wikiLang": "en",
+                "dir": "ltr",
+                "description": "Electrochemical principle that enables cellular respiration",
+                "extract": "Chemiosmosis is the movement of ions across a semipermeable membrane through an integral membrane protein, down their electrochemical gradient. An important example is the formation of adenosine triphosphate (ATP) by the movement of hydrogen ions (H+) through ATP synthase during cellular respiration or photophosphorylation.",
+                "extract_html": "<p><b>Chemiosmosis</b> is the movement of ions across a semipermeable membrane through an integral membrane protein, down their electrochemical gradient. An important example is the formation of adenosine triphosphate (ATP) by the movement of hydrogen ions (H<sup>+</sup>) through ATP synthase during cellular respiration or photophosphorylation.</p>"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-26T11:05:00.007Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ftm-place"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/CSrtewCJbpg",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=92,108"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/Inner_mitochondrial_membrane",
+            "frametrail:name": "Inner mitochondrial membrane",
+            "frametrail:thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Mitochondrion_mini.svg/330px-Mitochondrion_mini.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "articleUrl": "https://en.wikipedia.org/wiki/Inner_mitochondrial_membrane",
+                "wikiLang": "en",
+                "dir": "ltr",
+                "description": "Cell structure",
+                "extract": "The inner mitochondrial membrane (IMM) is the mitochondrial membrane which separates the mitochondrial matrix from the intermembrane space.",
+                "extract_html": "<p>The <b>inner mitochondrial membrane</b> (<b>IMM</b>) is the mitochondrial membrane which separates the mitochondrial matrix from the intermembrane space.</p>"
+            }
+        }
+    }
+]

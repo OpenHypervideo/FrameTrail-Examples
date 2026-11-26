@@ -1,0 +1,213 @@
+WEBVTT
+
+NOTE
+Captions of "Glycolysis" by Drew Berry, wehi.tv, for HHMI BioInteractive, from the film's page on YouTube (youtu.be/BO0zL03CtDs).
+Each cue is one line here, and mishearings in the captions are put right (plans/follow-the-molecule/captions.py lists them).
+
+1
+00:00:00.870 --> 00:00:04.290
+The sweet, energetic glucose molecule
+
+2
+00:00:04.290 --> 00:00:09.540
+is the energy source providing power for your living cells.
+
+3
+00:00:09.540 --> 00:00:12.750
+Glucose, from the food you eat, is slowly
+
+4
+00:00:12.750 --> 00:00:16.680
+broken down into two pyruvate molecules,
+
+5
+00:00:16.680 --> 00:00:22.380
+extracting energy in a sequence of enzyme reactions called
+
+6
+00:00:22.380 --> 00:00:23.120
+glycolysis.
+
+7
+00:00:26.340 --> 00:00:29.520
+The glycolysis pathway requires energy
+
+8
+00:00:29.520 --> 00:00:33.510
+to begin, delivered by chemical fuel, ATP.
+
+9
+00:00:38.240 --> 00:00:42.350
+The primary source of ATP in your cells
+
+10
+00:00:42.350 --> 00:00:44.630
+are mitochondria organelles.
+
+11
+00:00:47.670 --> 00:00:51.570
+Deep inside mitochondria, chemical reactions
+
+12
+00:00:51.570 --> 00:00:55.440
+of aerobic respiration consume oxygen
+
+13
+00:00:55.440 --> 00:01:03.080
+from the air you breathe to generate vast amounts of ATP.
+
+14
+00:01:03.080 --> 00:01:07.520
+Sitting on this abundant supply of ATP
+
+15
+00:01:07.520 --> 00:01:12.900
+is the first enzyme of the glycolysis pathway.
+
+16
+00:01:12.900 --> 00:01:18.240
+The reaction of the first enzyme transfers a phosphate group
+
+17
+00:01:18.240 --> 00:01:23.940
+from ATP to glucose, creating glucose 6-phosphate.
+
+18
+00:01:37.370 --> 00:01:42.220
+The second enzyme rearranges glucose 6-phosphate
+
+19
+00:01:42.220 --> 00:01:45.760
+into its isomer, fructose 6-phosphate.
+
+20
+00:01:56.940 --> 00:02:02.490
+The third enzyme uses a second molecule of ATP,
+
+21
+00:02:02.490 --> 00:02:07.500
+creating fructose 1, 6-bisphosphate.
+
+22
+00:02:07.500 --> 00:02:11.310
+The six-carbon sugar is now ready to be broken apart.
+
+23
+00:02:21.200 --> 00:02:25.040
+The fourth enzyme cuts the molecule in half,
+
+24
+00:02:25.040 --> 00:02:28.160
+creating two three-carbons sugars,
+
+25
+00:02:28.160 --> 00:02:32.840
+each with a single phosphate attached.
+
+26
+00:02:32.840 --> 00:02:36.170
+The sugar products are isomers of each other.
+
+27
+00:02:36.170 --> 00:02:39.230
+But only glyceraldehyde 3-phosphate
+
+28
+00:02:39.230 --> 00:02:41.870
+is ready to continue with glycolysis.
+
+29
+00:02:51.300 --> 00:02:56.280
+The sugar isomer, dihydroxyacetone phosphate
+
+30
+00:02:56.280 --> 00:03:00.570
+must first be converted through isomerization
+
+31
+00:03:00.570 --> 00:03:02.940
+before continuing to the sixth enzyme.
+
+32
+00:03:13.150 --> 00:03:17.200
+The sixth enzyme adds a second phosphate
+
+33
+00:03:17.200 --> 00:03:21.340
+to glyceraldehyde 3-phosphate, creating 1,
+
+34
+00:03:21.340 --> 00:03:26.140
+3 bisphosphoglycerate, while two electrons
+
+35
+00:03:26.140 --> 00:03:31.350
+are transferred to NAD plus, which is reduced to NADH.
+
+36
+00:03:34.960 --> 00:03:37.720
+Halfway through glycolysis, the cell
+
+37
+00:03:37.720 --> 00:03:43.210
+has consumed two ATP molecules, breaking down glucose,
+
+38
+00:03:43.210 --> 00:03:46.630
+and is now ready to capture energy in return.
+
+39
+00:03:57.860 --> 00:04:02.030
+The seventh enzyme transfers a phosphate group
+
+40
+00:04:02.030 --> 00:04:07.070
+from 1, 3-bisphosphoglycerate to ADP,
+
+41
+00:04:07.070 --> 00:04:09.830
+creating chemical fuel, ATP.
+
+42
+00:04:21.779 --> 00:04:25.380
+The eighth enzyme rearranges the phosphate
+
+43
+00:04:25.380 --> 00:04:27.960
+from the end of the molecule to the middle.
+
+44
+00:04:40.920 --> 00:04:44.730
+The ninth enzyme catalyzes dehydration,
+
+45
+00:04:44.730 --> 00:04:48.540
+increasing the potential energy in preparation
+
+46
+00:04:48.540 --> 00:04:50.410
+for the final glycolysis reaction.
+
+47
+00:05:01.860 --> 00:05:05.970
+The 10th enzyme transfers the remaining phosphate group
+
+48
+00:05:05.970 --> 00:05:14.900
+to ADP, producing ATP and the three-carbon sugar, pyruvate.
+
+49
+00:05:14.900 --> 00:05:19.940
+Glycolysis finally produces a net gain in ATP.
+
+50
+00:05:24.250 --> 00:05:27.670
+The glycolysis pathway breaks down glucose
+
+51
+00:05:27.670 --> 00:05:35.620
+into two molecules of pyruvate, gaining two ATP and two NADH
+
+52
+00:05:35.620 --> 00:05:37.530
+in the process.

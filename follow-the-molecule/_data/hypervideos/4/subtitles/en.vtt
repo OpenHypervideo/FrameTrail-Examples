@@ -1,0 +1,205 @@
+WEBVTT
+
+NOTE
+Captions of "Electron Transport Chain" by Drew Berry, wehi.tv, for HHMI BioInteractive, from the film's page on YouTube (youtu.be/zNpeuA4gtq0).
+Each cue is one line here, and mishearings in the captions are put right (plans/follow-the-molecule/captions.py lists them).
+
+1
+00:00:00.500 --> 00:00:04.290
+The center of activity that brings your cells to life
+
+2
+00:00:04.290 --> 00:00:10.180
+is found inside the dynamic mitochondria organelle.
+
+3
+00:00:10.180 --> 00:00:12.580
+The inner mitochondrial membrane is
+
+4
+00:00:12.580 --> 00:00:16.720
+coated with enzymes that catalyze the chemical reactions
+
+5
+00:00:16.720 --> 00:00:20.950
+of respiration, working in sequence to generate
+
+6
+00:00:20.950 --> 00:00:22.850
+the electron transport chain.
+
+7
+00:00:25.800 --> 00:00:29.100
+The first step in the electron transport chain
+
+8
+00:00:29.100 --> 00:00:32.820
+is performed by enzyme complex 1.
+
+9
+00:00:32.820 --> 00:00:38.570
+Complex 1 receives electrons from coenzyme NADH,
+
+10
+00:00:38.570 --> 00:00:43.520
+a substrate produced by the citric acid cycle.
+
+11
+00:00:43.520 --> 00:00:47.380
+The catalytic mechanism of enzyme complex 1
+
+12
+00:00:47.380 --> 00:00:51.710
+connects two different kinds of reaction.
+
+13
+00:00:51.710 --> 00:00:57.410
+Coenzyme NADH is oxidized at one end of the enzyme,
+
+14
+00:00:57.410 --> 00:01:01.280
+releasing two electrons that hop through the interior
+
+15
+00:01:01.280 --> 00:01:03.724
+to coenzyme Q, which is reduced.
+
+16
+00:01:07.820 --> 00:01:10.340
+Traveling amongst membrane lipids,
+
+17
+00:01:10.340 --> 00:01:15.140
+coenzyme Q carries electrons to the next step in the electron
+
+18
+00:01:15.140 --> 00:01:16.100
+transport chain.
+
+19
+00:01:21.260 --> 00:01:24.820
+The movement of charged electrons through complex 1
+
+20
+00:01:24.820 --> 00:01:28.360
+makes it bend in shape, transmitting energy
+
+21
+00:01:28.360 --> 00:01:30.985
+for pumping four protons across the membrane.
+
+22
+00:01:43.350 --> 00:01:46.880
+The second step of the electron transport chain
+
+23
+00:01:46.880 --> 00:01:51.230
+is performed by enzyme complex 3.
+
+24
+00:01:51.230 --> 00:01:54.800
+The mechanism of complex 3 separates electrons
+
+25
+00:01:54.800 --> 00:01:58.550
+from coenzyme Q, passing one electron
+
+26
+00:01:58.550 --> 00:02:00.980
+to cytochrome c, which is reduced.
+
+27
+00:02:10.090 --> 00:02:13.850
+A complete reaction cycle of enzyme complex 3
+
+28
+00:02:13.850 --> 00:02:18.500
+transports four protons across the membrane.
+
+29
+00:02:18.500 --> 00:02:21.640
+Traveling within the intermembrane space,
+
+30
+00:02:21.640 --> 00:02:24.980
+reduced cytochrome c carries the electron
+
+31
+00:02:24.980 --> 00:02:30.240
+to the final step in the electron transport chain.
+
+32
+00:02:30.240 --> 00:02:32.780
+The destination for electron transport
+
+33
+00:02:32.780 --> 00:02:37.070
+is a molecule of oxygen held inside enzyme complex four.
+
+34
+00:02:41.290 --> 00:02:44.620
+Reduced cytochrome c delivers electrons
+
+35
+00:02:44.620 --> 00:02:48.970
+that transfer to the reaction center of enzyme complex four.
+
+36
+00:02:52.060 --> 00:02:55.090
+A molecule of oxygen from the air you breathe
+
+37
+00:02:55.090 --> 00:02:57.355
+is captured, split, and reduced.
+
+38
+00:03:00.170 --> 00:03:03.690
+The separated oxygen atoms accept electrons
+
+39
+00:03:03.690 --> 00:03:07.680
+and pick up protons, creating two molecules of water.
+
+40
+00:03:31.400 --> 00:03:36.050
+The substrate providing electrons to enzyme complex 1
+
+41
+00:03:36.050 --> 00:03:42.700
+is coenzyme NADH, a product of the citric acid cycle.
+
+42
+00:03:42.700 --> 00:03:46.700
+A second supply of electrons for the electron transport chain
+
+43
+00:03:46.700 --> 00:03:51.650
+is from step 6 of the citric acid cycle, performed by enzyme
+
+44
+00:03:51.650 --> 00:03:54.620
+complex 2.
+
+45
+00:03:54.620 --> 00:03:59.690
+Enzyme complex 2 catalyzes oxidation of succinate,
+
+46
+00:03:59.690 --> 00:04:02.930
+releasing two electrons which hop through the enzyme
+
+47
+00:04:02.930 --> 00:04:05.480
+to coenzyme Q, which is reduced.
+
+48
+00:04:10.420 --> 00:04:13.570
+Traveling through the membrane, coenzyme Q
+
+49
+00:04:13.570 --> 00:04:17.860
+carries the electron to enzyme complex 3 of the electron
+
+50
+00:04:17.860 --> 00:04:20.040
+transport chain.

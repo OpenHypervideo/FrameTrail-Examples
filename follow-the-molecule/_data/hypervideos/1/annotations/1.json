@@ -1,0 +1,1348 @@
+[
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-26T11:01:00.001Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ftm-molecule"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/BO0zL03CtDs",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=0,26"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/Glucose",
+            "frametrail:name": "Glucose",
+            "frametrail:thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Alpha-D-Glucopyranose.svg/330px-Alpha-D-Glucopyranose.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "articleUrl": "https://en.wikipedia.org/wiki/Glucose",
+                "wikiLang": "en",
+                "dir": "ltr",
+                "description": "Naturally produced monosaccharide",
+                "extract": "Glucose is a sugar with the molecular formula C6H12O6. It is the most abundant sugar monomer (or monosaccharide) in the biosphere. The primary source of new glucose from inorganic sources is through photosynthesis by plants and most algae, which synthesize glucose from water and carbon dioxide using the energy from sunlight. Glucose is used by plants to make the glucose polysaccharide cellulose, the most abundant carbohydrate in the world, for use in cell walls, and by all living organisms to replenish adenosine triphosphate (ATP) inside cells, which is used by cells to store energy for phosphorylation. It is also used in the synthesis of complex sugar chains called glycans, to be attached to other macromolecules through glycosylation. Glucose is often abbreviated as Glc.",
+                "extract_html": "<p><b>Glucose</b> is a sugar with the molecular formula C<sub class=\"template-chem2-sub\">6</sub>H<sub class=\"template-chem2-sub\">12</sub>O<sub class=\"template-chem2-sub\">6</sub>. It is the most abundant sugar monomer (or <i>monosaccharide</i>) in the biosphere. The primary source of new glucose from inorganic sources is through photosynthesis by plants and most algae, which synthesize glucose from water and carbon dioxide using the energy from sunlight. Glucose is used by plants to make the glucose polysaccharide cellulose, the most abundant carbohydrate in the world, for use in cell walls, and by all living organisms to replenish adenosine triphosphate (ATP) inside cells, which is used by cells to store energy for phosphorylation. It is also used in the synthesis of complex sugar chains called glycans, to be attached to other macromolecules through glycosylation. Glucose is often abbreviated as <b>Glc</b>.</p>"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-26T11:01:00.002Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ftm-molecule"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/BO0zL03CtDs",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=9,26"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/Pyruvic_acid",
+            "frametrail:name": "Pyruvate",
+            "frametrail:thumb": null,
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "articleUrl": "https://en.wikipedia.org/wiki/Pyruvic_acid",
+                "wikiLang": "en",
+                "dir": "ltr",
+                "description": "Simplest of the alpha-keto acids",
+                "extract": "Pyruvic acid (CH3COCOOH or CH3COCO2H) is the simplest of the alpha-keto acids, with a carboxylic acid and a ketone functional group. Pyruvate (CH3COCOO− or CH3COCO2−), the conjugate base, is an intermediate in several metabolic pathways throughout the cell. Pyruvic acid can be made from glucose through glycolysis, converted back to carbohydrates (such as glucose) via gluconeogenesis, or converted to fatty acids through a reaction via acetyl-CoA. It can also be used to construct the amino acid alanine and can be converted into ethanol or lactic acid via fermentation.",
+                "extract_html": "<p><b>Pyruvic acid</b> (CH<sub class=\"template-chem2-sub\">3</sub>COCOOH or CH<sub class=\"template-chem2-sub\">3</sub>COCO<sub class=\"template-chem2-sub\">2</sub>H) is the simplest of the alpha-keto acids, with a carboxylic acid and a ketone functional group. <b>Pyruvate</b> (CH<sub class=\"template-chem2-sub\">3</sub>COCOO<sup class=\"template-chem2-sup\">−</sup> or CH<sub class=\"template-chem2-sub\">3</sub>COCO<sub class=\"template-chem2-sub\">2</sub><sup class=\"template-chem2-sup\">−</sup>), the conjugate base, is an intermediate in several metabolic pathways throughout the cell.</p><p>Pyruvic acid can be made from glucose through glycolysis, converted back to carbohydrates (such as glucose) via gluconeogenesis, or converted to fatty acids through a reaction via acetyl-CoA. It can also be used to construct the amino acid alanine and can be converted into ethanol or lactic acid via fermentation.</p>"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-26T11:01:00.003Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ftm-process"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/BO0zL03CtDs",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=16,36"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/Glycolysis",
+            "frametrail:name": "Glycolysis",
+            "frametrail:thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Glycolysis_metabolic_pathway_3.svg/330px-Glycolysis_metabolic_pathway_3.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "articleUrl": "https://en.wikipedia.org/wiki/Glycolysis",
+                "wikiLang": "en",
+                "dir": "ltr",
+                "description": "Series of interconnected biochemical reactions",
+                "extract": "Glycolysis is the metabolic pathway that converts glucose (C6H12O6) into pyruvate and, in most organisms, occurs in the liquid part of cells (the cytosol). The free energy released in this process is used to form the high-energy molecules adenosine triphosphate (ATP) and reduced nicotinamide adenine dinucleotide (NADH). Glycolysis is a sequence of ten reactions catalyzed by enzymes.",
+                "extract_html": "<p><b>Glycolysis</b> is the metabolic pathway that converts glucose (C<sub class=\"template-chem2-sub\">6</sub>H<sub class=\"template-chem2-sub\">12</sub>O<sub class=\"template-chem2-sub\">6</sub>) into pyruvate and, in most organisms, occurs in the liquid part of cells (the cytosol). The free energy released in this process is used to form the high-energy molecules adenosine triphosphate (ATP) and reduced nicotinamide adenine dinucleotide (NADH). Glycolysis is a sequence of ten reactions catalyzed by enzymes.</p>"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-26T11:01:00.004Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ftm-molecule"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/BO0zL03CtDs",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=26,36"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/Adenosine_triphosphate",
+            "frametrail:name": "ATP",
+            "frametrail:thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Adenosintriphosphat_protoniert.svg/330px-Adenosintriphosphat_protoniert.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "articleUrl": "https://en.wikipedia.org/wiki/Adenosine_triphosphate",
+                "wikiLang": "en",
+                "dir": "ltr",
+                "description": "Energy-carrying molecule in living cells",
+                "extract": "Adenosine triphosphate (ATP) is a purine nucleoside triphosphate that provides free energy of approximately 58 kJ/mol (0.6 eV) to drive and support many processes in living cells, such as muscle contraction, nerve impulse propagation, and chemical synthesis. Found in all known forms of life, it is often referred to as the \"molecular unit of currency\" for intracellular energy transfer.",
+                "extract_html": "<p><b>Adenosine triphosphate</b> (<b>ATP</b>) is a purine nucleoside triphosphate that provides free energy of approximately 58 kJ/mol (0.6 eV) to drive and support many processes in living cells, such as muscle contraction, nerve impulse propagation, and chemical synthesis. Found in all known forms of life, it is often referred to as the \"molecular unit of currency\" for intracellular energy transfer.</p>"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-26T11:01:00.005Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ftm-place"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/BO0zL03CtDs",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=36,60"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/Mitochondria",
+            "frametrail:name": "Mitochondrion",
+            "frametrail:thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Animal_mitochondrion_diagram_en.svg/330px-Animal_mitochondrion_diagram_en.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "articleUrl": "https://en.wikipedia.org/wiki/Mitochondria",
+                "wikiLang": "en",
+                "dir": "ltr",
+                "description": "Organelle in eukaryotic cells responsible for respiration",
+                "extract": "A mitochondrion (pl. mitochondria) is an organelle found in the cells of most eukaryotes, such as animals, plants and fungi. Mitochondria have a double membrane structure and use aerobic respiration to generate adenosine triphosphate (ATP), which is used throughout the cell as a source of chemical energy. They were discovered by Albert von Kölliker in 1857 in the voluntary muscles of insects. The term mitochondrion, meaning \"a thread-like granule\", was coined by Carl Benda in 1898. The mitochondrion is popularly nicknamed the \"powerhouse of the cell\", a phrase popularized by Philip Siekevitz in a 1957 Scientific American article of the same name.",
+                "extract_html": "<p>A <b>mitochondrion</b> (pl. <b>mitochondria</b>) is an organelle found in the cells of most eukaryotes, such as animals, plants and fungi. Mitochondria have a double membrane structure and use aerobic respiration to generate adenosine triphosphate (ATP), which is used throughout the cell as a source of chemical energy. They were discovered by Albert von Kölliker in 1857 in the voluntary muscles of insects. The term <i>mitochondrion</i>, meaning \"a thread-like granule\", was coined by Carl Benda in 1898. The mitochondrion is popularly nicknamed the \"powerhouse of the cell\", a phrase popularized by Philip Siekevitz in a 1957 <i>Scientific American</i> article of the same name.</p>"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-26T11:01:00.006Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ftm-process"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/BO0zL03CtDs",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=47,66"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/Cellular_respiration",
+            "frametrail:name": "Cellular respiration",
+            "frametrail:thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/CellRespiration.svg/330px-CellRespiration.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "articleUrl": "https://en.wikipedia.org/wiki/Cellular_respiration",
+                "wikiLang": "en",
+                "dir": "ltr",
+                "description": "Process of releasing energy from nutrients using inorganic electron acceptors",
+                "extract": "Cellular respiration is the process of oxidizing biological fuels using an inorganic electron acceptor, such as oxygen, to drive production of adenosine triphosphate (ATP), which stores chemical energy in a biologically accessible form. Cellular respiration may be described as a set of metabolic reactions and processes that take place in the cells to transfer chemical energy from nutrients to ATP, with the flow of electrons to an electron acceptor, and then release waste products.",
+                "extract_html": "<p><b>Cellular respiration</b> is the process of oxidizing biological fuels using an inorganic electron acceptor, such as oxygen, to drive production of adenosine triphosphate (ATP), which stores chemical energy in a biologically accessible form. Cellular respiration may be described as a set of metabolic reactions and processes that take place in the cells to transfer chemical energy from nutrients to ATP, with the flow of electrons to an electron acceptor, and then release waste products.</p>"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-26T11:01:00.007Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ftm-enzyme"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/BO0zL03CtDs",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=72.97,86.8"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/Hexokinase",
+            "frametrail:name": "Hexokinase",
+            "frametrail:thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Hexokinase_3O08_structure.png/330px-Hexokinase_3O08_structure.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "articleUrl": "https://en.wikipedia.org/wiki/Hexokinase",
+                "wikiLang": "en",
+                "dir": "ltr",
+                "description": "Class of enzymes",
+                "extract": "A hexokinase is an enzyme that irreversibly phosphorylates hexoses (six-carbon sugars), forming hexose phosphate. In most organisms, glucose is the most important substrate for hexokinases, and glucose-6-phosphate is the most important product. Hexokinase possesses the ability to transfer an inorganic phosphate group from ATP to a substrate.",
+                "extract_html": "<p>A <b>hexokinase</b> is an enzyme that irreversibly phosphorylates hexoses (six-carbon sugars), forming hexose phosphate. In most organisms, glucose is the most important substrate for hexokinases, and glucose-6-phosphate is the most important product. Hexokinase possesses the ability to transfer an inorganic phosphate group from ATP to a substrate.</p>"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-26T11:01:00.008Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ftm-molecule"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/BO0zL03CtDs",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=78,95"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/Glucose_6-phosphate",
+            "frametrail:name": "Glucose 6-phosphate",
+            "frametrail:thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Glucose-6-phosphate-skeletal.png/330px-Glucose-6-phosphate-skeletal.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "articleUrl": "https://en.wikipedia.org/wiki/Glucose_6-phosphate",
+                "wikiLang": "en",
+                "dir": "ltr",
+                "description": "Chemical compound",
+                "extract": "Glucose 6-phosphate (G6P, sometimes called the Robison ester) is a glucose sugar phosphorylated at the hydroxy group on carbon 6. This dianion is very common in cells as the majority of glucose entering a cell will become phosphorylated in this way. Because of its prominent position in cellular chemistry, glucose 6-phosphate has many possible fates within the cell. It lies at the start of two major metabolic pathways: glycolysis and the pentose phosphate pathway.",
+                "extract_html": "<p><b>Glucose 6-phosphate</b> (<b>G6P</b>, sometimes called the <b>Robison ester</b>) is a glucose sugar phosphorylated at the hydroxy group on carbon 6. This dianion is very common in cells as the majority of glucose entering a cell will become phosphorylated in this way.</p><p>Because of its prominent position in cellular chemistry, glucose 6-phosphate has many possible fates within the cell. It lies at the start of two major metabolic pathways: glycolysis and the pentose phosphate pathway.</p>"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-26T11:01:00.009Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ftm-enzyme"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/BO0zL03CtDs",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=86.8,110.2"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/Glucose-6-phosphate_isomerase",
+            "frametrail:name": "Phosphoglucose isomerase",
+            "frametrail:thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/1hox.jpg/330px-1hox.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "articleUrl": "https://en.wikipedia.org/wiki/Glucose-6-phosphate_isomerase",
+                "wikiLang": "en",
+                "dir": "ltr",
+                "description": "Mammalian protein found in Homo sapiens",
+                "extract": "Glucose-6-phosphate isomerase (GPI), alternatively known as phosphoglucose isomerase/phosphoglucoisomerase (PGI) or phosphohexose isomerase (PHI), is an enzyme ( EC 5.3.1.9) that in humans is encoded by the GPI gene on chromosome 19. This gene encodes a member of the glucose phosphate isomerase protein family. The encoded protein has been identified as a moonlighting protein based on its ability to perform mechanistically distinct functions. In the cytoplasm, the gene product functions as a glycolytic enzyme (glucose-6-phosphate isomerase) that interconverts glucose-6-phosphate (G6P) and fructose-6-phosphate (F6P). Extracellularly, the encoded protein (also referred to as neuroleukin) functions as a neurotrophic factor that promotes survival of skeletal motor neurons and sensory neurons, and as a lymphokine that induces immunoglobulin secretion. The encoded protein is also referred to as autocrine motility factor (AMF) based on an additional function as a tumor-secreted cytokine and angiogenic factor. Defects in this gene are the cause of nonspherocytic hemolytic anemia, and a severe enzyme deficiency can be associated with hydrops fetalis, immediate neonatal death and neurological impairment. Alternative splicing results in multiple transcript variants. [provided by RefSeq, Jan 2014]",
+                "extract_html": "<p><b>Glucose-6-phosphate isomerase</b> (<b>GPI</b>), alternatively known as <b>phosphoglucose isomerase/phosphoglucoisomerase</b> (<b>PGI</b>) or <b>phosphohexose isomerase</b> (<b>PHI</b>), is an enzyme ( EC 5.3.1.9) that in humans is encoded by the <i>GPI</i> gene on chromosome 19. This gene encodes a member of the glucose phosphate isomerase protein family. The encoded protein has been identified as a moonlighting protein based on its ability to perform mechanistically distinct functions. In the cytoplasm, the gene product functions as a glycolytic enzyme (glucose-6-phosphate isomerase) that interconverts glucose-6-phosphate (G6P) and fructose-6-phosphate (F6P). Extracellularly, the encoded protein (also referred to as neuroleukin) functions as a neurotrophic factor that promotes survival of skeletal motor neurons and sensory neurons, and as a lymphokine that induces immunoglobulin secretion. The encoded protein is also referred to as autocrine motility factor (AMF) based on an additional function as a tumor-secreted cytokine and angiogenic factor. Defects in this gene are the cause of nonspherocytic hemolytic anemia, and a severe enzyme deficiency can be associated with hydrops fetalis, immediate neonatal death and neurological impairment. Alternative splicing results in multiple transcript variants. [provided by RefSeq, Jan 2014]</p>"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-26T11:01:00.010Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ftm-molecule"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/BO0zL03CtDs",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=97,115.5"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/Fructose_6-phosphate",
+            "frametrail:name": "Fructose 6-phosphate",
+            "frametrail:thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Beta-D-Fructose-6-phosphat2.svg/330px-Beta-D-Fructose-6-phosphat2.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "articleUrl": "https://en.wikipedia.org/wiki/Fructose_6-phosphate",
+                "wikiLang": "en",
+                "dir": "ltr",
+                "description": "Chemical compound",
+                "extract": "Fructose 6-phosphate (sometimes called the Neuberg ester) is a derivative of fructose, which has been phosphorylated at the 6-hydroxy group. It is one of several possible fructosephosphates. The β-D-form of this compound is very common in cells. The great majority of glucose is converted to fructose 6-phosphate upon entering a cell. Fructose is predominantly converted to fructose 1-phosphate by fructokinase following cellular import.",
+                "extract_html": "<p><b>Fructose 6-phosphate</b> (sometimes called the <b>Neuberg ester</b>) is a derivative of fructose, which has been phosphorylated at the 6-hydroxy group. It is one of several possible fructosephosphates. The β-D-form of this compound is very common in cells. The great majority of glucose is converted to fructose 6-phosphate upon entering a cell. Fructose is predominantly converted to fructose 1-phosphate by fructokinase following cellular import.</p>"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-26T11:01:00.011Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ftm-enzyme"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/BO0zL03CtDs",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=110.2,133.4"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/Phosphofructokinase_1",
+            "frametrail:name": "Phosphofructokinase",
+            "frametrail:thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Phosphofructokinase_6PFK_wpmp.png/330px-Phosphofructokinase_6PFK_wpmp.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "articleUrl": "https://en.wikipedia.org/wiki/Phosphofructokinase_1",
+                "wikiLang": "en",
+                "dir": "ltr",
+                "description": "Class of enzymes",
+                "extract": "Phosphofructokinase-1 (PFK-1) is one of the most important regulatory enzymes (EC 2.7.1.11) of glycolysis. It is an allosteric enzyme made of 4 subunits and controlled by many activators and inhibitors. PFK-1 catalyzes the important \"committed\" step of glycolysis, the conversion of fructose 6-phosphate and ATP to fructose 1,6-bisphosphate and ADP. Glycolysis is the foundation for respiration, both anaerobic and aerobic. Because phosphofructokinase (PFK) catalyzes the ATP-dependent phosphorylation to convert fructose-6-phosphate into fructose 1,6-bisphosphate and ADP, it is one of the key regulatory steps of glycolysis. PFK is able to regulate glycolysis through allosteric inhibition, and in this way, the cell can increase or decrease the rate of glycolysis in response to the cell's energy requirements. For example, a high ratio of ATP to ADP will inhibit PFK and glycolysis. The key difference between the regulation of PFK in eukaryotes and prokaryotes is that in eukaryotes PFK is activated by fructose 2,6-bisphosphate. The purpose of fructose 2,6-bisphosphate is to supersede ATP inhibition, thus allowing eukaryotes to have greater sensitivity to regulation by hormones like glucagon and insulin.",
+                "extract_html": "<p><b>Phosphofructokinase-1</b> (<b>PFK-1</b>) is one of the most important regulatory enzymes (EC 2.7.1.11) of glycolysis. It is an allosteric enzyme made of 4 subunits and controlled by many activators and inhibitors. PFK-1 catalyzes the important \"committed\" step of glycolysis, the conversion of fructose 6-phosphate and ATP to fructose 1,6-bisphosphate and ADP. Glycolysis is the foundation for respiration, both anaerobic and aerobic. Because phosphofructokinase (PFK) catalyzes the ATP-dependent phosphorylation to convert fructose-6-phosphate into fructose 1,6-bisphosphate and ADP, it is one of the key regulatory steps of glycolysis. PFK is able to regulate glycolysis through allosteric inhibition, and in this way, the cell can increase or decrease the rate of glycolysis in response to the cell's energy requirements. For example, a high ratio of ATP to ADP will inhibit PFK and glycolysis. The key difference between the regulation of PFK in eukaryotes and prokaryotes is that in eukaryotes PFK is activated by fructose 2,6-bisphosphate. The purpose of fructose 2,6-bisphosphate is to supersede ATP inhibition, thus allowing eukaryotes to have greater sensitivity to regulation by hormones like glucagon and insulin.</p>"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-26T11:01:00.012Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ftm-molecule"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/BO0zL03CtDs",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=117,140"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/Fructose_1,6-bisphosphate",
+            "frametrail:name": "Fructose 1,6-bisphosphate",
+            "frametrail:thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Beta-D-Fructose-1%2C6-bisphosphat2.svg/330px-Beta-D-Fructose-1%2C6-bisphosphat2.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "articleUrl": "https://en.wikipedia.org/wiki/Fructose_1,6-bisphosphate",
+                "wikiLang": "en",
+                "dir": "ltr",
+                "description": "Chemical compound",
+                "extract": "Fructose 1,6-bisphosphate, known in older publications as Harden-Young ester, is fructose sugar phosphorylated on carbons 1 and 6 (i.e., is a fructosephosphate). The β-D-form of this compound is common in cells. Upon entering the cell, most glucose and fructose is converted to fructose 1,6-bisphosphate.",
+                "extract_html": "<p><b>Fructose 1,6-bisphosphate</b>, known in older publications as <b>Harden-Young ester</b>, is fructose sugar phosphorylated on carbons 1 and 6 (i.e., is a fructosephosphate). The β-D-form of this compound is common in cells. Upon entering the cell, most glucose and fructose is converted to fructose 1,6-bisphosphate.</p>"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-26T11:01:00.013Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ftm-enzyme"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/BO0zL03CtDs",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=133.4,164.2"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/Fructose-bisphosphate_aldolase",
+            "frametrail:name": "Aldolase",
+            "frametrail:thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/1qo5.jpg/330px-1qo5.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "articleUrl": "https://en.wikipedia.org/wiki/Fructose-bisphosphate_aldolase",
+                "wikiLang": "en",
+                "dir": "ltr",
+                "description": "Protein family",
+                "extract": "Fructose-bisphosphate aldolase (EC 4.1.2.13), often just aldolase, is an enzyme catalyzing a reversible reaction that splits the open-chained ketol fructose 1,6-bisphosphate into the triose phosphates dihydroxyacetone phosphate (DHAP) and glyceraldehyde 3-phosphate (G3P). Aldolase can also produce DHAP from other (3S,4R)-ketose 1-phosphates such as fructose 1-phosphate and sedoheptulose 1,7-bisphosphate. Gluconeogenesis and the Calvin cycle, which are anabolic pathways, use the reverse reaction. Glycolysis, a catabolic pathway, uses the forward reaction. Aldolase is divided into two classes by mechanism.",
+                "extract_html": "<p><b>Fructose-bisphosphate aldolase</b> (EC 4.1.2.13), often just <b>aldolase</b>, is an enzyme catalyzing a reversible reaction that splits the open-chained ketol fructose 1,6-bisphosphate into the triose phosphates dihydroxyacetone phosphate (DHAP) and glyceraldehyde 3-phosphate (G3P). Aldolase can also produce DHAP from other (3S,4R)-ketose 1-phosphates such as fructose 1-phosphate and sedoheptulose 1,7-bisphosphate. Gluconeogenesis and the Calvin cycle, which are anabolic pathways, use the reverse reaction. Glycolysis, a catabolic pathway, uses the forward reaction. Aldolase is divided into two classes by mechanism.</p>"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-26T11:01:00.014Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ftm-molecule"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/BO0zL03CtDs",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=141,170"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/Dihydroxyacetone_phosphate",
+            "frametrail:name": "Dihydroxyacetone phosphate",
+            "frametrail:thumb": null,
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "articleUrl": "https://en.wikipedia.org/wiki/Dihydroxyacetone_phosphate",
+                "wikiLang": "en",
+                "dir": "ltr",
+                "description": "Chemical compound",
+                "extract": "Dihydroxyacetone phosphate (DHAP, also glycerone phosphate in older texts) is the anion with the formula HOCH2C(O)CH2OPO32-. This anion is involved in many metabolic pathways, including the Calvin cycle in plants and glycolysis. It is the phosphate ester of dihydroxyacetone.",
+                "extract_html": "<p><b>Dihydroxyacetone phosphate</b> (<b>DHAP</b>, also <b>glycerone phosphate</b> in older texts) is the anion with the formula HOCH<sub>2</sub>C(O)CH<sub>2</sub>OPO<sub>3</sub><sup>2-</sup>. This anion is involved in many metabolic pathways, including the Calvin cycle in plants and glycolysis. It is the phosphate ester of dihydroxyacetone.</p>"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-26T11:01:00.015Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ftm-molecule"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/BO0zL03CtDs",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=141,191"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/Glyceraldehyde_3-phosphate",
+            "frametrail:name": "Glyceraldehyde 3-phosphate",
+            "frametrail:thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/D-Glycerinaldehyde_3-phosphate_deprotonated_V1.svg/330px-D-Glycerinaldehyde_3-phosphate_deprotonated_V1.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "articleUrl": "https://en.wikipedia.org/wiki/Glyceraldehyde_3-phosphate",
+                "wikiLang": "en",
+                "dir": "ltr",
+                "description": "Chemical compound",
+                "extract": "Glyceraldehyde 3-phosphate, also known as triose phosphate or 3-phosphoglyceraldehyde and abbreviated as G3P, GA3P, GADP, GAP, TP, GALP or PGAL, is a metabolite that occurs as an intermediate in several central pathways of all organisms. With the chemical formula H(O)CCH(OH)CH2OPO32-, this anion is a monophosphate ester of glyceraldehyde.",
+                "extract_html": "<p><b>Glyceraldehyde 3-phosphate</b>, also known as <b>triose phosphate</b> or <b>3-phosphoglyceraldehyde</b> and abbreviated as <b>G3P</b>, <b>GA3P</b>, <b>GADP</b>, <b>GAP</b>, <b>TP</b>, <b>GALP</b> or <b>PGAL</b>, is a metabolite that occurs as an intermediate in several central pathways of all organisms. With the chemical formula H(O)CCH(OH)CH<sub>2</sub>OPO<sub>3</sub><sup><sup>2-</sup></sup>, this anion is a monophosphate ester of glyceraldehyde.</p>"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-26T11:01:00.016Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ftm-enzyme"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/BO0zL03CtDs",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=164.2,185.3"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/Triosephosphate_isomerase",
+            "frametrail:name": "Triosephosphate isomerase",
+            "frametrail:thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/TriosePhosphateIsomerase_Ribbon_pastel_trans.png/330px-TriosePhosphateIsomerase_Ribbon_pastel_trans.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "articleUrl": "https://en.wikipedia.org/wiki/Triosephosphate_isomerase",
+                "wikiLang": "en",
+                "dir": "ltr",
+                "description": "Enzyme involved in glycolysis",
+                "extract": "Triose-phosphate isomerase (TPI or TIM) is an enzyme (EC 5.3.1.1) that catalyzes the reversible interconversion of the triose phosphate isomers dihydroxyacetone phosphate and D-glyceraldehyde 3-phosphate. Compound C00111 at KEGG Pathway Database.Enzyme 5.3.1.1 at KEGG Pathway Database.Compound C00118 at KEGG Pathway Database.",
+                "extract_html": "<p><b>Triose-phosphate isomerase</b> (<b>TPI</b> or <b>TIM</b>) is an enzyme (EC 5.3.1.1) that catalyzes the reversible interconversion of the triose phosphate isomers dihydroxyacetone phosphate and D-glyceraldehyde 3-phosphate.</p><p>Compound C00111 at KEGG Pathway Database.Enzyme 5.3.1.1 at KEGG Pathway Database.Compound C00118 at KEGG Pathway Database.</p>"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-26T11:01:00.017Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ftm-enzyme"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/BO0zL03CtDs",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=185.3,213.2"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/Glyceraldehyde_3-phosphate_dehydrogenase",
+            "frametrail:name": "Glyceraldehyde 3-phosphate dehydrogenase",
+            "frametrail:thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/GAPDH_with_labels.png/330px-GAPDH_with_labels.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "articleUrl": "https://en.wikipedia.org/wiki/Glyceraldehyde_3-phosphate_dehydrogenase",
+                "wikiLang": "en",
+                "dir": "ltr",
+                "description": "Enzyme of the glycolysis metabolic pathway",
+                "extract": "Glyceraldehyde 3-phosphate dehydrogenase (abbreviated GAPDH) (EC 1.2.1.12) is an enzyme of about 37 kDaTooltip kilodaltons that catalyzes the sixth step of glycolysis and thus serves to break down glucose for energy and carbon molecules. In addition to this long established metabolic function, GAPDH has recently been implicated in several non-metabolic processes, including transcription activation, initiation of apoptosis, ER-to-Golgi vesicle shuttling, and fast axonal, or axoplasmic transport. In sperm, a testis-specific isoenzyme GAPDHS is expressed.",
+                "extract_html": "<p><b>Glyceraldehyde 3-phosphate dehydrogenase</b> (abbreviated <b>GAPDH</b>) (EC 1.2.1.12) is an enzyme of about 37 kDaTooltip kilodaltons that catalyzes the sixth step of glycolysis and thus serves to break down glucose for energy and carbon molecules. In addition to this long established metabolic function, GAPDH has recently been implicated in several non-metabolic processes, including transcription activation, initiation of apoptosis, ER-to-Golgi vesicle shuttling, and fast axonal, or axoplasmic transport. In sperm, a testis-specific isoenzyme GAPDHS is expressed.</p>"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-26T11:01:00.018Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ftm-molecule"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/BO0zL03CtDs",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=193,213.2"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/Nicotinamide_adenine_dinucleotide",
+            "frametrail:name": "NADH",
+            "frametrail:thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/NAD%2B.svg/330px-NAD%2B.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "articleUrl": "https://en.wikipedia.org/wiki/Nicotinamide_adenine_dinucleotide",
+                "wikiLang": "en",
+                "dir": "ltr",
+                "description": "Coenzyme",
+                "extract": "Nicotinamide adenine dinucleotide (NAD+) is a coenzyme central to metabolism. Found in all living cells, NAD is called a dinucleotide because it consists of two nucleotides joined through their phosphate groups. One nucleotide contains an adenine nucleobase and the other, nicotinamide. NAD exists in two forms: an oxidized and reduced form, abbreviated as NAD+ and NADH (H for hydrogen), respectively.",
+                "extract_html": "<p><b>Nicotinamide adenine dinucleotide</b> (<b>NAD+</b>) is a coenzyme central to metabolism. Found in all living cells, NAD is called a dinucleotide because it consists of two nucleotides joined through their phosphate groups. One nucleotide contains an adenine nucleobase and the other, nicotinamide. NAD exists in two forms: an oxidized and reduced form, abbreviated as <b>NAD<sup>+</sup></b> and <b>NADH</b> (H for hydrogen), respectively.</p>"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-26T11:01:00.019Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ftm-molecule"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/BO0zL03CtDs",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=193,235"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/1,3-Bisphosphoglyceric_acid",
+            "frametrail:name": "1,3-Bisphosphoglycerate",
+            "frametrail:thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/1%2C3-Bisphosphoglyceric-acid-3D-balls.png/330px-1%2C3-Bisphosphoglyceric-acid-3D-balls.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "articleUrl": "https://en.wikipedia.org/wiki/1,3-Bisphosphoglyceric_acid",
+                "wikiLang": "en",
+                "dir": "ltr",
+                "description": "Chemical compound",
+                "extract": "1,3-Bisphosphoglyceric acid (1,3-Bisphosphoglycerate or 1,3BPG) is a three-carbon organic molecule present in most, if not all, living organisms. It primarily exists as a metabolic intermediate in both glycolysis during respiration and the Calvin cycle during photosynthesis. 1,3BPG is a transitional stage between glycerate 3-phosphate and glyceraldehyde 3-phosphate during the fixation/reduction of CO2. 1,3BPG is also a precursor to 2,3-bisphosphoglycerate which is formed in the Luebering–Rapoport shunt of glycolysis in red blood cells.",
+                "extract_html": "<p><b>1,3-Bisphosphoglyceric acid</b> (<b>1,3-Bisphosphoglycerate</b> or <b>1,3BPG</b>) is a three-carbon organic molecule present in most, if not all, living organisms. It primarily exists as a metabolic intermediate in both glycolysis during respiration and the Calvin cycle during photosynthesis. 1,3BPG is a transitional stage between glycerate 3-phosphate and glyceraldehyde 3-phosphate during the fixation/reduction of CO<sub>2</sub>. 1,3BPG is also a precursor to 2,3-bisphosphoglycerate which is formed in the Luebering–Rapoport shunt of glycolysis in red blood cells.</p>"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-26T11:01:00.020Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ftm-structure"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/BO0zL03CtDs",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=213.2,229.1"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "webpage",
+            "format": "text/html",
+            "value": "https://pdb101.rcsb.org/motm/50",
+            "frametrail:name": "The ten enzymes of glycolysis, as structures",
+            "frametrail:thumb": "https://cdn.rcsb.org/pdb101/motm/50/glycolysis.gif",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "embed": "allowed",
+                "description": "The ten enzymes of glycolysis break down sugar in our diet"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-26T11:01:00.021Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ftm-enzyme"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/BO0zL03CtDs",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=229.1,252.4"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/Phosphoglycerate_kinase",
+            "frametrail:name": "Phosphoglycerate kinase",
+            "frametrail:thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Phosphoglycerate_kinase_3PGK.png/330px-Phosphoglycerate_kinase_3PGK.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "articleUrl": "https://en.wikipedia.org/wiki/Phosphoglycerate_kinase",
+                "wikiLang": "en",
+                "dir": "ltr",
+                "description": "Enzyme",
+                "extract": "Phosphoglycerate kinase (EC 2.7.2.3) (PGK 1) is an enzyme that catalyzes the reversible transfer of a phosphate group from 1,3-bisphosphoglyceric acid (1,3-BPG) to adenosine diphosphate (ADP) producing 3-phosphoglyceric acid (3-PG) and adenosine triphosphate (ATP): Like all kinases it is a transferase. PGK is a major enzyme used in glycolysis, in the first ATP-generating step of the glycolytic pathway. In gluconeogenesis, the reaction catalyzed by PGK proceeds in the opposite direction, generating ADP and 1,3-BPG.",
+                "extract_html": "<p><b>Phosphoglycerate kinase</b> (EC 2.7.2.3) (PGK 1) is an enzyme that catalyzes the reversible transfer of a phosphate group from 1,3-bisphosphoglyceric acid (1,3-BPG) to adenosine diphosphate (ADP) producing 3-phosphoglyceric acid (3-PG) and adenosine triphosphate (ATP):</p><p>Like all kinases it is a transferase. PGK is a major enzyme used in glycolysis, in the first ATP-generating step of the glycolytic pathway. In gluconeogenesis, the reaction catalyzed by PGK proceeds in the opposite direction, generating ADP and 1,3-BPG.</p>"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-26T11:01:00.022Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ftm-molecule"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/BO0zL03CtDs",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=237,259.5"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/3-Phosphoglyceric_acid",
+            "frametrail:name": "3-Phosphoglycerate",
+            "frametrail:thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/D-3-Phosphoglycerins%C3%A4ure.svg/330px-D-3-Phosphoglycerins%C3%A4ure.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "articleUrl": "https://en.wikipedia.org/wiki/3-Phosphoglyceric_acid",
+                "wikiLang": "en",
+                "dir": "ltr",
+                "description": "Chemical compound",
+                "extract": "3-Phosphoglyceric acid (3PG, 3-PGA, or PGA) is the conjugate acid of 3-phosphoglycerate or glycerate 3-phosphate (GP or G3P). This glycerate is a biochemically significant metabolic intermediate in both glycolysis and the Calvin-Benson cycle. The anion is often termed as PGA when referring to the Calvin-Benson cycle. In the Calvin-Benson cycle, 3-phosphoglycerate is typically the product of the spontaneous scission of an unstable 6-carbon intermediate formed upon CO2 fixation. Thus, two equivalents of 3-phosphoglycerate are produced for each molecule of CO2 that is fixed. In glycolysis, 3-phosphoglycerate is an intermediate following the dephosphorylation (reduction) of 1,3-bisphosphoglycerate.",
+                "extract_html": "<p><b>3-Phosphoglyceric acid</b> (<b>3PG</b>, <b>3-PGA</b>, or <b>PGA</b>) is the conjugate acid of <b>3-phosphoglycerate</b> or <b>glycerate 3-phosphate</b> (<b>GP</b> or <b>G3P</b>). This glycerate is a biochemically significant metabolic intermediate in both glycolysis and the Calvin-Benson cycle. The anion is often termed as <b>PGA</b> when referring to the Calvin-Benson cycle. In the Calvin-Benson cycle, 3-phosphoglycerate is typically the product of the spontaneous scission of an unstable 6-carbon intermediate formed upon CO<sub>2</sub> fixation. Thus, two equivalents of 3-phosphoglycerate are produced for each molecule of CO<sub>2</sub> that is fixed. In glycolysis, 3-phosphoglycerate is an intermediate following the dephosphorylation (reduction) of 1,3-bisphosphoglycerate.</p>"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-26T11:01:00.023Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ftm-enzyme"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/BO0zL03CtDs",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=252.4,272.67"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/Phosphoglycerate_mutase",
+            "frametrail:name": "Phosphoglycerate mutase",
+            "frametrail:thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Proximal_Residues_Bound_To_Citrate_in_Active_Site_of_PGM.png/330px-Proximal_Residues_Bound_To_Citrate_in_Active_Site_of_PGM.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "articleUrl": "https://en.wikipedia.org/wiki/Phosphoglycerate_mutase",
+                "wikiLang": "en",
+                "dir": "ltr",
+                "description": "Class of enzymes",
+                "extract": "Phosphoglycerate mutase (PGM) is any enzyme that catalyzes step 8 of glycolysis – the internal transfer of a phosphate group from C-3 to C-2 which results in the conversion of 3-phosphoglycerate (3PG) to 2-phosphoglycerate (2PG) through a 2,3-bisphosphoglycerate intermediate. These enzymes are categorized into the two distinct classes of either cofactor-dependent (dPGM) or cofactor-independent (iPGM). The dPGM enzyme (EC 5.4.2.11) is composed of approximately 250 amino acids and is found in all vertebrates as well as in some invertebrates, fungi, and bacteria. The iPGM (EC 5.4.2.12) class is found in all plants and algae as well as in some invertebrate, fungi, and Gram-positive bacteria. This class of PGM enzyme shares the same superfamily as alkaline phosphatase.",
+                "extract_html": "<p><b>Phosphoglycerate mutase</b> (PGM) is any enzyme that catalyzes step 8 of glycolysis – the internal transfer of a phosphate group from C-3 to C-2 which results in the conversion of 3-phosphoglycerate (3PG) to 2-phosphoglycerate (2PG) through a 2,3-bisphosphoglycerate intermediate. These enzymes are categorized into the two distinct classes of either cofactor-dependent (dPGM) or cofactor-independent (iPGM). The dPGM enzyme (EC 5.4.2.11) is composed of approximately 250 amino acids and is found in all vertebrates as well as in some invertebrates, fungi, and bacteria. The iPGM (EC 5.4.2.12) class is found in all plants and algae as well as in some invertebrate, fungi, and Gram-positive bacteria. This class of PGM enzyme shares the same superfamily as alkaline phosphatase.</p>"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-26T11:01:00.024Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ftm-molecule"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/BO0zL03CtDs",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=260,279.3"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/2-Phosphoglyceric_acid",
+            "frametrail:name": "2-Phosphoglycerate",
+            "frametrail:thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/2-Phosphoglycerate.png/330px-2-Phosphoglycerate.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "articleUrl": "https://en.wikipedia.org/wiki/2-Phosphoglyceric_acid",
+                "wikiLang": "en",
+                "dir": "ltr",
+                "description": "Chemical compound",
+                "extract": "2-Phosphoglyceric acid (2PG), or 2-phosphoglycerate, is a glyceric acid which serves as the substrate in the ninth step of glycolysis. It is catalyzed by enolase into phosphoenolpyruvate (PEP), the penultimate step in the conversion of glucose to pyruvate. 2-Phosphoglyceric acid is an intermediate that is part of the glycolysis pathway, and it is converted into phosphoenolpyruvate (PEP) by an enolase. There are three types of enolase enzymes that are able to catalyze the conversion of 2-phosphoglyceric acid into PEP, which are alpha-enolase, beta-enolase, and gamma-enolase. Studies have found that alpha-enolase is the most common enolase, so it is often the specific enolase used to convert 2-phosphoglyceric acid into PEP. Alpha-enolase catalyzes this conversion process by acting as a hydrolase, which means that alpha-enolase removes a water molecule from the 2-phosphoglyceric acid in order to form PEP.",
+                "extract_html": "<p><b>2-Phosphoglyceric acid</b> (<b>2PG</b>), or <b>2-phosphoglycerate</b>, is a glyceric acid which serves as the substrate in the ninth step of glycolysis. It is catalyzed by enolase into phosphoenolpyruvate (PEP), the penultimate step in the conversion of glucose to pyruvate.</p><p>2-Phosphoglyceric acid is an intermediate that is part of the glycolysis pathway, and it is converted into phosphoenolpyruvate (PEP) by an enolase. There are three types of enolase enzymes that are able to catalyze the conversion of 2-phosphoglyceric acid into PEP, which are alpha-enolase, beta-enolase, and gamma-enolase. Studies have found that alpha-enolase is the most common enolase, so it is often the specific enolase used to convert 2-phosphoglyceric acid into PEP. Alpha-enolase catalyzes this conversion process by acting as a hydrolase, which means that alpha-enolase removes a water molecule from the 2-phosphoglyceric acid in order to form PEP.</p>"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-26T11:01:00.025Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ftm-enzyme"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/BO0zL03CtDs",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=272.67,294.9"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/Enolase",
+            "frametrail:name": "Enolase",
+            "frametrail:thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Enolase_2ONE_wpmp.png/330px-Enolase_2ONE_wpmp.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "articleUrl": "https://en.wikipedia.org/wiki/Enolase",
+                "wikiLang": "en",
+                "dir": "ltr",
+                "description": "Enzyme involved in glycolysis",
+                "extract": "Phosphopyruvate hydratase, usually known as enolase, is a metalloenzyme (EC 4.2.1.11) that catalyses the conversion of 2-phosphoglycerate (2-PG) to phosphoenolpyruvate (PEP), the ninth and penultimate step of glycolysis. The chemical reaction is: Phosphopyruvate hydratase belongs to the family of lyases, specifically the hydro-lyases, which cleave carbon-oxygen bonds. The systematic name of this enzyme is 2-phospho-D-glycerate hydro-lyase (phosphoenolpyruvate-forming).",
+                "extract_html": "<p><b>Phosphopyruvate hydratase</b>, usually known as <b>enolase</b>, is a metalloenzyme (EC 4.2.1.11) that catalyses the conversion of 2-phosphoglycerate (2-PG) to phosphoenolpyruvate (PEP), the ninth and penultimate step of glycolysis. The chemical reaction is:</p><p>Phosphopyruvate hydratase belongs to the family of lyases, specifically the hydro-lyases, which cleave carbon-oxygen bonds. The systematic name of this enzyme is <b>2-phospho-D-glycerate hydro-lyase (phosphoenolpyruvate-forming)</b>.</p>"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-26T11:01:00.026Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ftm-molecule"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/BO0zL03CtDs",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=280,300.1"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/Phosphoenolpyruvic_acid",
+            "frametrail:name": "Phosphoenolpyruvate",
+            "frametrail:thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Phosphoenolpyruvic_acid.svg/330px-Phosphoenolpyruvic_acid.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "articleUrl": "https://en.wikipedia.org/wiki/Phosphoenolpyruvic_acid",
+                "wikiLang": "en",
+                "dir": "ltr",
+                "description": "Chemical compound",
+                "extract": "Phosphoenolpyruvate (2-phosphoenolpyruvate, PEP) is the carboxylic acid derived from the enol of pyruvate and a phosphate anion. It exists as an anion. PEP is an important intermediate in biochemistry. It has the highest-energy phosphate bond found (−61.9 kJ/mol) in organisms, and is involved in glycolysis and gluconeogenesis. In plants, it is also involved in the biosynthesis of various aromatic compounds, and in carbon fixation; in bacteria, it is also used as the source of energy for the phosphotransferase system.",
+                "extract_html": "<p><b>Phosphoenolpyruvate</b> (<b>2-phosphoenolpyruvate</b>, <b>PEP</b>) is the carboxylic acid derived from the enol of pyruvate and a phosphate anion. It exists as an anion. PEP is an important intermediate in biochemistry. It has the highest-energy phosphate bond found (−61.9 kJ/mol) in organisms, and is involved in glycolysis and gluconeogenesis. In plants, it is also involved in the biosynthesis of various aromatic compounds, and in carbon fixation; in bacteria, it is also used as the source of energy for the phosphotransferase system.</p>"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-26T11:01:00.027Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ftm-enzyme"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/BO0zL03CtDs",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=294.9,323.5"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/Pyruvate_kinase",
+            "frametrail:name": "Pyruvate kinase",
+            "frametrail:thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Pyruvate_kinase_protein_domains.png/330px-Pyruvate_kinase_protein_domains.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "articleUrl": "https://en.wikipedia.org/wiki/Pyruvate_kinase",
+                "wikiLang": "en",
+                "dir": "ltr",
+                "description": "Class of enzymes",
+                "extract": "Pyruvate kinase is the enzyme involved in the last step of glycolysis. It catalyzes the transfer of a phosphate group from phosphoenolpyruvic acid (PEP) to adenosine diphosphate (ADP), yielding one molecule of pyruvic acid and one molecule of adenosine triphosphate (ATP). Pyruvate kinase was inappropriately named (inconsistently with a conventional kinase) before it was recognized that it did not directly catalyze phosphorylation of pyruvic acid, which does not occur under physiological conditions. Pyruvate kinase is present in four distinct, tissue-specific isozymes in animals, each consisting of particular kinetic properties necessary to accommodate the variations in metabolic requirements of diverse tissues.",
+                "extract_html": "<p><b>Pyruvate kinase</b> is the enzyme involved in the last step of glycolysis. It catalyzes the transfer of a phosphate group from phosphoenolpyruvic acid (PEP) to adenosine diphosphate (ADP), yielding one molecule of pyruvic acid and one molecule of adenosine triphosphate (ATP).</p><p>Pyruvate kinase was inappropriately named (inconsistently with a conventional kinase) before it was recognized that it did not directly catalyze phosphorylation of pyruvic acid, which does not occur under physiological conditions. Pyruvate kinase is present in four distinct, tissue-specific isozymes in animals, each consisting of particular kinetic properties necessary to accommodate the variations in metabolic requirements of diverse tissues.</p>"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-26T11:01:00.028Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ftm-molecule"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/BO0zL03CtDs",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=301,340.3"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/Pyruvic_acid",
+            "frametrail:name": "Pyruvate",
+            "frametrail:thumb": null,
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "articleUrl": "https://en.wikipedia.org/wiki/Pyruvic_acid",
+                "wikiLang": "en",
+                "dir": "ltr",
+                "description": "Simplest of the alpha-keto acids",
+                "extract": "Pyruvic acid (CH3COCOOH or CH3COCO2H) is the simplest of the alpha-keto acids, with a carboxylic acid and a ketone functional group. Pyruvate (CH3COCOO− or CH3COCO2−), the conjugate base, is an intermediate in several metabolic pathways throughout the cell. Pyruvic acid can be made from glucose through glycolysis, converted back to carbohydrates (such as glucose) via gluconeogenesis, or converted to fatty acids through a reaction via acetyl-CoA. It can also be used to construct the amino acid alanine and can be converted into ethanol or lactic acid via fermentation.",
+                "extract_html": "<p><b>Pyruvic acid</b> (CH<sub class=\"template-chem2-sub\">3</sub>COCOOH or CH<sub class=\"template-chem2-sub\">3</sub>COCO<sub class=\"template-chem2-sub\">2</sub>H) is the simplest of the alpha-keto acids, with a carboxylic acid and a ketone functional group. <b>Pyruvate</b> (CH<sub class=\"template-chem2-sub\">3</sub>COCOO<sup class=\"template-chem2-sup\">−</sup> or CH<sub class=\"template-chem2-sub\">3</sub>COCO<sub class=\"template-chem2-sub\">2</sub><sup class=\"template-chem2-sup\">−</sup>), the conjugate base, is an intermediate in several metabolic pathways throughout the cell.</p><p>Pyruvic acid can be made from glucose through glycolysis, converted back to carbohydrates (such as glucose) via gluconeogenesis, or converted to fatty acids through a reaction via acetyl-CoA. It can also be used to construct the amino acid alanine and can be converted into ethanol or lactic acid via fermentation.</p>"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-26T11:01:00.029Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ftm-molecule"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/BO0zL03CtDs",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=323.5,340.3"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/Adenosine_triphosphate",
+            "frametrail:name": "ATP",
+            "frametrail:thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Adenosintriphosphat_protoniert.svg/330px-Adenosintriphosphat_protoniert.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "articleUrl": "https://en.wikipedia.org/wiki/Adenosine_triphosphate",
+                "wikiLang": "en",
+                "dir": "ltr",
+                "description": "Energy-carrying molecule in living cells",
+                "extract": "Adenosine triphosphate (ATP) is a purine nucleoside triphosphate that provides free energy of approximately 58 kJ/mol (0.6 eV) to drive and support many processes in living cells, such as muscle contraction, nerve impulse propagation, and chemical synthesis. Found in all known forms of life, it is often referred to as the \"molecular unit of currency\" for intracellular energy transfer.",
+                "extract_html": "<p><b>Adenosine triphosphate</b> (<b>ATP</b>) is a purine nucleoside triphosphate that provides free energy of approximately 58 kJ/mol (0.6 eV) to drive and support many processes in living cells, such as muscle contraction, nerve impulse propagation, and chemical synthesis. Found in all known forms of life, it is often referred to as the \"molecular unit of currency\" for intracellular energy transfer.</p>"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-26T11:01:00.030Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ftm-molecule"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/BO0zL03CtDs",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=334,340.3"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/Nicotinamide_adenine_dinucleotide",
+            "frametrail:name": "NADH",
+            "frametrail:thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/NAD%2B.svg/330px-NAD%2B.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "articleUrl": "https://en.wikipedia.org/wiki/Nicotinamide_adenine_dinucleotide",
+                "wikiLang": "en",
+                "dir": "ltr",
+                "description": "Coenzyme",
+                "extract": "Nicotinamide adenine dinucleotide (NAD+) is a coenzyme central to metabolism. Found in all living cells, NAD is called a dinucleotide because it consists of two nucleotides joined through their phosphate groups. One nucleotide contains an adenine nucleobase and the other, nicotinamide. NAD exists in two forms: an oxidized and reduced form, abbreviated as NAD+ and NADH (H for hydrogen), respectively.",
+                "extract_html": "<p><b>Nicotinamide adenine dinucleotide</b> (<b>NAD+</b>) is a coenzyme central to metabolism. Found in all living cells, NAD is called a dinucleotide because it consists of two nucleotides joined through their phosphate groups. One nucleotide contains an adenine nucleobase and the other, nicotinamide. NAD exists in two forms: an oxidized and reduced form, abbreviated as <b>NAD<sup>+</sup></b> and <b>NADH</b> (H for hydrogen), respectively.</p>"
+            }
+        }
+    }
+]

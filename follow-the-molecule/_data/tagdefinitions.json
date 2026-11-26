@@ -1,0 +1,22 @@
+{
+    "ftm-molecule": {
+        "label": "Molecule",
+        "description": "A small molecule the film follows: a sugar, a carrier, a fuel."
+    },
+    "ftm-enzyme": {
+        "label": "Enzyme",
+        "description": "A protein that does one step of the pathway."
+    },
+    "ftm-place": {
+        "label": "Place",
+        "description": "Where in the cell this happens."
+    },
+    "ftm-process": {
+        "label": "Process",
+        "description": "The pathway or reaction being told."
+    },
+    "ftm-structure": {
+        "label": "Structure",
+        "description": "The atomic structure the animation is drawn from, at the Protein Data Bank."
+    }
+}

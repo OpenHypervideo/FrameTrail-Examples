@@ -1,0 +1,14 @@
+{
+    "mainAnnotation": "1",
+    "annotationfiles": {
+        "1": {
+            "name": "Materials",
+            "description": "What is on screen: the molecules and the enzymes",
+            "created": 1795650000,
+            "lastchanged": 1795650100000,
+            "hidden": false,
+            "owner": "demo",
+            "ownerId": 1
+        }
+    }
+}

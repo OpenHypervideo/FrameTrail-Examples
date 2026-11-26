@@ -1,0 +1,39 @@
+Follow the Molecule
+===================
+
+Films
+    The cellular respiration series by Drew Berry (wehi.tv, the Walter and Eliza Hall Institute of Medical Research) for HHMI BioInteractive. The films are streamed from HHMI BioInteractive's channel on YouTube; nothing of them is stored here.
+        Glycolysis                  https://www.youtube.com/watch?v=BO0zL03CtDs
+        Pyruvate Dehydrogenase      https://www.youtube.com/watch?v=rSPUYA3gWK8
+        Citric Acid Cycle           https://www.youtube.com/watch?v=IlSFn0gRyC4
+        Electron Transport Chain    https://www.youtube.com/watch?v=zNpeuA4gtq0
+        ATP Synthesis               https://www.youtube.com/watch?v=CSrtewCJbpg
+        ATP in Use                  https://www.youtube.com/watch?v=vUC5njkOq7o
+    Licence: on biointeractive.org the series is published under CC BY-NC-SA 4.0. On YouTube four of the films carry the licence "Creative Commons Attribution"; "Citric Acid Cycle" and "ATP Synthesis" carry the Standard YouTube Licence (as read on 25 November 2026).
+
+    Each hypervideo ends on the film's last picture, before its credit roll. The credits the films give:
+        Animation     Drew Berry (all six)
+        Narration     Drew Berry (named in ATP Synthesis)
+        Sound         Franc Tétaz (all six)
+        Programming   Justin Muir, the Walter and Eliza Hall Institute (all six)
+        Simulation    Mike Kuiper, Data61 CSIRO (all but Electron Transport Chain)
+        Microscopy    Daniel Jans, Peter Ilgen and Stefan Jakobs, Max Planck Institute for Biophysical Chemistry (Glycolysis)
+                      Kate McArthur, the Walter and Eliza Hall Institute (Citric Acid Cycle)
+                      Dylan Burnette, Vanderbilt University (Electron Transport Chain, ATP Synthesis)
+                      Stefan Jakobs, Max Planck Institute for Biophysical Chemistry (ATP Synthesis)
+        Advisors      Fabian de Kok-Mercado and Satoshi Amagai, HHMI BioInteractive (all six)
+                      Peter Brzezinski, Stockholm University (Electron Transport Chain)
+        Thanks        Alastair Stewart, Victor Chang Cardiac Research Institute (ATP Synthesis)
+                      David Julian and Stephanie E Wohlgemuth, University of Florida (ATP Synthesis)
+                      Julie Harris-Wetherbee and Martin Arnold, Carey Baptist Grammar School (ATP Synthesis)
+
+Subtitles
+    The films' own captions from their pages on YouTube, each cue as one line, with four mishearings put right ("into its isomer", "acetyl group", "ADP", "nucleobase"). They come with the films and under their licence.
+
+Annotations
+    Summaries and pictures from the English Wikipedia (CC BY-SA 4.0). Each item links to its article, where the authors and the picture's own licence are named.
+    Structure pages: the "Molecule of the Month" of RCSB PDB-101, shown from pdb101.rcsb.org in a frame. The site states CC BY 4.0 for its content; this was not checked page by page.
+
+Map of the cell, hotspots, labels and texts
+    Made for this example. Public domain (CC0).
+    The positions of the hotspots were measured in the films by a script, from each enzyme's and each molecule's colour.

@@ -1,0 +1,673 @@
+[
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-26T11:02:00.001Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ftm-place"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/rSPUYA3gWK8",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=0,20"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/Mitochondria",
+            "frametrail:name": "Mitochondrion",
+            "frametrail:thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Animal_mitochondrion_diagram_en.svg/330px-Animal_mitochondrion_diagram_en.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "articleUrl": "https://en.wikipedia.org/wiki/Mitochondria",
+                "wikiLang": "en",
+                "dir": "ltr",
+                "description": "Organelle in eukaryotic cells responsible for respiration",
+                "extract": "A mitochondrion (pl. mitochondria) is an organelle found in the cells of most eukaryotes, such as animals, plants and fungi. Mitochondria have a double membrane structure and use aerobic respiration to generate adenosine triphosphate (ATP), which is used throughout the cell as a source of chemical energy. They were discovered by Albert von Kölliker in 1857 in the voluntary muscles of insects. The term mitochondrion, meaning \"a thread-like granule\", was coined by Carl Benda in 1898. The mitochondrion is popularly nicknamed the \"powerhouse of the cell\", a phrase popularized by Philip Siekevitz in a 1957 Scientific American article of the same name.",
+                "extract_html": "<p>A <b>mitochondrion</b> (pl. <b>mitochondria</b>) is an organelle found in the cells of most eukaryotes, such as animals, plants and fungi. Mitochondria have a double membrane structure and use aerobic respiration to generate adenosine triphosphate (ATP), which is used throughout the cell as a source of chemical energy. They were discovered by Albert von Kölliker in 1857 in the voluntary muscles of insects. The term <i>mitochondrion</i>, meaning \"a thread-like granule\", was coined by Carl Benda in 1898. The mitochondrion is popularly nicknamed the \"powerhouse of the cell\", a phrase popularized by Philip Siekevitz in a 1957 <i>Scientific American</i> article of the same name.</p>"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-26T11:02:00.002Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ftm-molecule"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/rSPUYA3gWK8",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=0,31"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/Pyruvic_acid",
+            "frametrail:name": "Pyruvate",
+            "frametrail:thumb": null,
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "articleUrl": "https://en.wikipedia.org/wiki/Pyruvic_acid",
+                "wikiLang": "en",
+                "dir": "ltr",
+                "description": "Simplest of the alpha-keto acids",
+                "extract": "Pyruvic acid (CH3COCOOH or CH3COCO2H) is the simplest of the alpha-keto acids, with a carboxylic acid and a ketone functional group. Pyruvate (CH3COCOO− or CH3COCO2−), the conjugate base, is an intermediate in several metabolic pathways throughout the cell. Pyruvic acid can be made from glucose through glycolysis, converted back to carbohydrates (such as glucose) via gluconeogenesis, or converted to fatty acids through a reaction via acetyl-CoA. It can also be used to construct the amino acid alanine and can be converted into ethanol or lactic acid via fermentation.",
+                "extract_html": "<p><b>Pyruvic acid</b> (CH<sub class=\"template-chem2-sub\">3</sub>COCOOH or CH<sub class=\"template-chem2-sub\">3</sub>COCO<sub class=\"template-chem2-sub\">2</sub>H) is the simplest of the alpha-keto acids, with a carboxylic acid and a ketone functional group. <b>Pyruvate</b> (CH<sub class=\"template-chem2-sub\">3</sub>COCOO<sup class=\"template-chem2-sup\">−</sup> or CH<sub class=\"template-chem2-sub\">3</sub>COCO<sub class=\"template-chem2-sub\">2</sub><sup class=\"template-chem2-sup\">−</sup>), the conjugate base, is an intermediate in several metabolic pathways throughout the cell.</p><p>Pyruvic acid can be made from glucose through glycolysis, converted back to carbohydrates (such as glucose) via gluconeogenesis, or converted to fatty acids through a reaction via acetyl-CoA. It can also be used to construct the amino acid alanine and can be converted into ethanol or lactic acid via fermentation.</p>"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-26T11:02:00.003Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ftm-place"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/rSPUYA3gWK8",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=22,28"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/Inner_mitochondrial_membrane",
+            "frametrail:name": "Inner mitochondrial membrane",
+            "frametrail:thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Mitochondrion_mini.svg/330px-Mitochondrion_mini.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "articleUrl": "https://en.wikipedia.org/wiki/Inner_mitochondrial_membrane",
+                "wikiLang": "en",
+                "dir": "ltr",
+                "description": "Cell structure",
+                "extract": "The inner mitochondrial membrane (IMM) is the mitochondrial membrane which separates the mitochondrial matrix from the intermembrane space.",
+                "extract_html": "<p>The <b>inner mitochondrial membrane</b> (<b>IMM</b>) is the mitochondrial membrane which separates the mitochondrial matrix from the intermembrane space.</p>"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-26T11:02:00.004Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ftm-place"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/rSPUYA3gWK8",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=26,34"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/Mitochondrial_matrix",
+            "frametrail:name": "Mitochondrial matrix",
+            "frametrail:thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Mitochondrion_mini.svg/330px-Mitochondrion_mini.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "articleUrl": "https://en.wikipedia.org/wiki/Mitochondrial_matrix",
+                "wikiLang": "en",
+                "dir": "ltr",
+                "description": "Space within the inner membrane of the mitochondrion",
+                "extract": "In a mitochondrion, the matrix is the space within the inner membrane. It can also be referred as the mitochondrial fluid. The word \"matrix\" stems from the fact that this space is viscous, compared to the relatively aqueous cytoplasm. The mitochondrial matrix contains the mitochondrial DNA, ribosomes, soluble enzymes, small organic molecules, nucleotide cofactors, and inorganic ions.[1] The enzymes in the matrix facilitate reactions responsible for the production of ATP, such as the citric acid cycle, oxidative phosphorylation, oxidation of pyruvate, and the beta oxidation of fatty acids.",
+                "extract_html": "<p>In a mitochondrion, the <b>matrix</b> is the space within the inner membrane. It can also be referred as the mitochondrial fluid. The word \"matrix\" stems from the fact that this space is viscous, compared to the relatively aqueous cytoplasm. The mitochondrial matrix contains the mitochondrial DNA, ribosomes, soluble enzymes, small organic molecules, nucleotide cofactors, and inorganic ions.<sup>[1]</sup> The enzymes in the matrix facilitate reactions responsible for the production of ATP, such as the citric acid cycle, oxidative phosphorylation, oxidation of pyruvate, and the beta oxidation of fatty acids.</p>"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-26T11:02:00.005Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ftm-enzyme"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/rSPUYA3gWK8",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=31.4,48"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/Pyruvate_dehydrogenase_complex",
+            "frametrail:name": "Pyruvate dehydrogenase complex",
+            "frametrail:thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/153-PyruvateDehydrogenaseComplex_pyruvatedehydrogenase.tif/lossy-page1-330px-153-PyruvateDehydrogenaseComplex_pyruvatedehydrogenase.tif.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "articleUrl": "https://en.wikipedia.org/wiki/Pyruvate_dehydrogenase_complex",
+                "wikiLang": "en",
+                "dir": "ltr",
+                "description": "Multienzyme complex",
+                "extract": "Pyruvate dehydrogenase complex (PDC) is a complex of three enzymes that converts pyruvate into acetyl-CoA by a process called pyruvate decarboxylation. Acetyl-CoA may then be used in the citric acid cycle to carry out cellular respiration, and this complex links the glycolysis metabolic pathway to the citric acid cycle. Pyruvate decarboxylation is also known as the \"pyruvate dehydrogenase reaction\" because it also involves the oxidation of pyruvate. The levels of pyruvate dehydrogenase enzymes play a major role in regulating the rate of carbohydrate metabolism and are strongly stimulated by the evolutionarily ancient hormone insulin. The PDC is opposed by the activity of pyruvate dehydrogenase kinase, and this mechanism plays a pivotal role in regulating rates of carbohydrate and lipid metabolism in many physiological states across taxa, including feeding, starvation, diabetes mellitus, hyperthyroidism, and hibernation.",
+                "extract_html": "<p><b>Pyruvate dehydrogenase complex</b> (<b>PDC</b>) is a complex of three enzymes that converts pyruvate into acetyl-CoA by a process called pyruvate decarboxylation. Acetyl-CoA may then be used in the citric acid cycle to carry out cellular respiration, and this complex links the glycolysis metabolic pathway to the citric acid cycle. Pyruvate decarboxylation is also known as the \"pyruvate dehydrogenase reaction\" because it also involves the oxidation of pyruvate. The levels of pyruvate dehydrogenase enzymes play a major role in regulating the rate of carbohydrate metabolism and are strongly stimulated by the evolutionarily ancient hormone insulin. The PDC is opposed by the activity of pyruvate dehydrogenase kinase, and this mechanism plays a pivotal role in regulating rates of carbohydrate and lipid metabolism in many physiological states across taxa, including feeding, starvation, diabetes mellitus, hyperthyroidism, and hibernation.</p>"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-26T11:02:00.006Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ftm-structure"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/rSPUYA3gWK8",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=34,52"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "webpage",
+            "format": "text/html",
+            "value": "https://pdb101.rcsb.org/motm/153",
+            "frametrail:name": "The pyruvate dehydrogenase complex, as a structure",
+            "frametrail:thumb": "https://cdn.rcsb.org/pdb101/motm/153/153-PyruvateDehydrogenaseComplex_pyruvatedehydrogenase.jpg",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "embed": "allowed",
+                "description": "A huge molecular complex links three sequential reactions for energy production"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-26T11:02:00.007Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ftm-enzyme"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/rSPUYA3gWK8",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=48,69.8"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/Pyruvate_dehydrogenase",
+            "frametrail:name": "Pyruvate dehydrogenase",
+            "frametrail:thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/PDwhole1.jpg/330px-PDwhole1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "articleUrl": "https://en.wikipedia.org/wiki/Pyruvate_dehydrogenase",
+                "wikiLang": "en",
+                "dir": "ltr",
+                "description": "Class of enzymes",
+                "extract": "Pyruvate dehydrogenase is an enzyme that catalyzes the reaction of pyruvate and a lipoamide to give the acetylated dihydrolipoamide and carbon dioxide. The conversion requires the coenzyme thiamine pyrophosphate. Pyruvate dehydrogenase is usually encountered as a component, referred to as E1, of the pyruvate dehydrogenase complex (PDC). PDC consists of other enzymes, referred to as E2 and E3. Collectively E1-E3 transform pyruvate, NAD+, coenzyme A into acetyl-CoA, CO2, and NADH. The conversion is crucial because acetyl-CoA may then be used in the citric acid cycle to carry out cellular respiration. To distinguish between this enzyme and the PDC, it is systematically called pyruvate dehydrogenase (acetyl-transferring).",
+                "extract_html": "<p><b>Pyruvate dehydrogenase</b> is an enzyme that catalyzes the reaction of pyruvate and a lipoamide to give the acetylated dihydrolipoamide and carbon dioxide. The conversion requires the coenzyme thiamine pyrophosphate.</p><p>Pyruvate dehydrogenase is usually encountered as a component, referred to as E1, of the pyruvate dehydrogenase complex (PDC). PDC consists of other enzymes, referred to as E2 and E3. Collectively E1-E3 transform pyruvate, NAD<sup>+</sup>, coenzyme A into acetyl-CoA, CO<sub>2</sub>, and NADH. The conversion is crucial because acetyl-CoA may then be used in the citric acid cycle to carry out cellular respiration. To distinguish between this enzyme and the PDC, it is systematically called <b>pyruvate dehydrogenase (acetyl-transferring)</b>.</p>"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-26T11:02:00.008Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ftm-process"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/rSPUYA3gWK8",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=52,66"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/Decarboxylation",
+            "frametrail:name": "Decarboxylation",
+            "frametrail:thumb": null,
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "articleUrl": "https://en.wikipedia.org/wiki/Decarboxylation",
+                "wikiLang": "en",
+                "dir": "ltr",
+                "description": "Chemical reaction that removes a carboxyl group and releases carbon dioxide",
+                "extract": "Decarboxylation is a chemical reaction that removes a carboxyl group and releases carbon dioxide (CO2). Usually the term refers to a reaction of carboxylic acids, removing a carbon atom from a carbon chain. The reverse process, which is the first chemical step in photosynthesis, is called carboxylation, the addition of CO2 to a compound. Enzymes that catalyze decarboxylations are called decarboxylases or, more formally, carboxy-lyases (EC number 4.1.1).",
+                "extract_html": "<p><b>Decarboxylation</b> is a chemical reaction that removes a carboxyl group and releases carbon dioxide (CO<sub>2</sub>). Usually the term refers to a reaction of carboxylic acids, removing a carbon atom from a carbon chain. The reverse process, which is the first chemical step in photosynthesis, is called carboxylation, the addition of CO<sub>2</sub> to a compound. Enzymes that catalyze decarboxylations are called <i>decarboxylases</i> or, more formally, <i>carboxy-lyases</i> (EC number 4.1.1).</p>"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-26T11:02:00.009Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ftm-enzyme"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/rSPUYA3gWK8",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=69.8,98.93"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/Dihydrolipoyl_transacetylase",
+            "frametrail:name": "Dihydrolipoyl transacetylase",
+            "frametrail:thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/PDB_1y8o_EBI.jpg/330px-PDB_1y8o_EBI.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "articleUrl": "https://en.wikipedia.org/wiki/Dihydrolipoyl_transacetylase",
+                "wikiLang": "en",
+                "dir": "ltr",
+                "description": "Enzyme",
+                "extract": "Dihydrolipoyl transacetylase (or dihydrolipoamide acetyltransferase) is an enzyme component of the multienzyme pyruvate dehydrogenase complex. The pyruvate dehydrogenase complex is responsible for the pyruvate decarboxylation step that links glycolysis to the citric acid cycle. This involves the transformation of pyruvate from glycolysis into acetyl-CoA which is then used in the citric acid cycle to carry out cellular respiration.",
+                "extract_html": "<p><b>Dihydrolipoyl transacetylase</b> (or <b>dihydrolipoamide acetyltransferase</b>) is an enzyme component of the multienzyme pyruvate dehydrogenase complex. The pyruvate dehydrogenase complex is responsible for the pyruvate decarboxylation step that links glycolysis to the citric acid cycle. This involves the transformation of pyruvate from glycolysis into acetyl-CoA which is then used in the citric acid cycle to carry out cellular respiration.</p>"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-26T11:02:00.010Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ftm-molecule"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/rSPUYA3gWK8",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=85,98.93"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/Coenzyme_A",
+            "frametrail:name": "Coenzyme A",
+            "frametrail:thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Coenzym_A.svg/330px-Coenzym_A.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "articleUrl": "https://en.wikipedia.org/wiki/Coenzyme_A",
+                "wikiLang": "en",
+                "dir": "ltr",
+                "description": "Coenzyme, notable for its synthesis and oxidation role",
+                "extract": "Coenzyme A (CoA, SHCoA, CoASH) is a coenzyme, notable for its role in the synthesis and oxidation of fatty acids, and the oxidation of pyruvate in the citric acid cycle. Every genome sequenced to date encodes enzymes that use coenzyme A as a substrate, and around 4% of cellular enzymes use it (or a thioester) as a substrate. In humans, CoA biosynthesis requires cysteine, pantothenate (vitamin B5), and adenosine triphosphate (ATP).",
+                "extract_html": "<p><b>Coenzyme A</b> (<b>CoA</b>, <b>SHCoA</b>, <b>CoASH</b>) is a coenzyme, notable for its role in the synthesis and oxidation of fatty acids, and the oxidation of pyruvate in the citric acid cycle. Every genome sequenced to date encodes enzymes that use coenzyme A as a substrate, and around 4% of cellular enzymes use it (or a thioester) as a substrate. In humans, CoA biosynthesis requires cysteine, pantothenate (vitamin B<sub>5</sub>), and adenosine triphosphate (ATP).</p>"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-26T11:02:00.011Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ftm-molecule"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/rSPUYA3gWK8",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=91,103"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/Acetyl-CoA",
+            "frametrail:name": "Acetyl-CoA",
+            "frametrail:thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Acetyl-CoA-2D_colored.svg/330px-Acetyl-CoA-2D_colored.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "articleUrl": "https://en.wikipedia.org/wiki/Acetyl-CoA",
+                "wikiLang": "en",
+                "dir": "ltr",
+                "description": "Chemical compound",
+                "extract": "Acetyl-CoA (acetyl coenzyme A) is a molecule that participates in many biochemical reactions in protein, carbohydrate and lipid metabolism. Its main function is to deliver the acetyl group to the citric acid cycle (Krebs cycle) to be oxidized for energy production. Coenzyme A (CoASH or CoA) consists of a β-mercaptoethylamine group linked to pantothenic acid (vitamin B5) through an amide linkage and 3', 5'-phosphorylated ADP. The acetyl group (indicated in blue in the structural diagram on the right) of acetyl-CoA is linked to the sulfhydryl substituent of the β-mercaptoethylamine group. This thioester linkage is a \"high energy\" bond, which is particularly reactive. Hydrolysis of the thioester bond is exergonic (−31.5 kJ/mol).",
+                "extract_html": "<p><b>Acetyl-CoA</b> (<b>acetyl coenzyme A</b>) is a molecule that participates in many biochemical reactions in protein, carbohydrate and lipid metabolism. Its main function is to deliver the acetyl group to the citric acid cycle (Krebs cycle) to be oxidized for energy production.</p><p>Coenzyme A (CoASH or CoA) consists of a β-mercaptoethylamine group linked to pantothenic acid (vitamin B5) through an amide linkage and 3', 5'-phosphorylated ADP. The acetyl group (indicated in blue in the structural diagram on the right) of acetyl-CoA is linked to the sulfhydryl substituent of the β-mercaptoethylamine group. This thioester linkage is a \"high energy\" bond, which is particularly reactive. Hydrolysis of the thioester bond is exergonic (−31.5 kJ/mol).</p>"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-26T11:02:00.012Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ftm-enzyme"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/rSPUYA3gWK8",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=98.93,146.5"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/Dihydrolipoamide_dehydrogenase",
+            "frametrail:name": "Dihydrolipoyl dehydrogenase",
+            "frametrail:thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/PDB_1zy8_EBI.png/330px-PDB_1zy8_EBI.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "articleUrl": "https://en.wikipedia.org/wiki/Dihydrolipoamide_dehydrogenase",
+                "wikiLang": "en",
+                "dir": "ltr",
+                "description": "Protein-coding gene in the species Homo sapiens",
+                "extract": "Dihydrolipoamide dehydrogenase (DLD), also known as dihydrolipoyl dehydrogenase, mitochondrial, is an enzyme that in humans is encoded by the DLD gene. DLD is a flavoprotein enzyme that oxidizes dihydrolipoamide to lipoamide. Dihydrolipoamide dehydrogenase (DLD) is a mitochondrial enzyme that plays a vital role in energy metabolism in eukaryotes. This enzyme is required for the complete reaction of at least five different multi-enzyme complexes. Additionally, DLD is a flavoenzyme oxidoreductase that contains a reactive disulfide bridge and a FAD cofactor that are directly involved in catalysis. The enzyme associates into tightly bound homodimers required for its enzymatic activity.",
+                "extract_html": "<p><b>Dihydrolipoamide dehydrogenase</b> (<b>DLD</b>), also known as <b>dihydrolipoyl dehydrogenase, mitochondrial</b>, is an enzyme that in humans is encoded by the <i>DLD</i> gene. DLD is a flavoprotein enzyme that oxidizes dihydrolipoamide to lipoamide.</p><p>Dihydrolipoamide dehydrogenase (DLD) is a mitochondrial enzyme that plays a vital role in energy metabolism in eukaryotes. This enzyme is required for the complete reaction of at least five different multi-enzyme complexes. Additionally, DLD is a flavoenzyme oxidoreductase that contains a reactive disulfide bridge and a FAD cofactor that are directly involved in catalysis. The enzyme associates into tightly bound homodimers required for its enzymatic activity.</p>"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-26T11:02:00.013Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ftm-molecule"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/rSPUYA3gWK8",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=110,144"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/Nicotinamide_adenine_dinucleotide",
+            "frametrail:name": "NADH",
+            "frametrail:thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/NAD%2B.svg/330px-NAD%2B.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "articleUrl": "https://en.wikipedia.org/wiki/Nicotinamide_adenine_dinucleotide",
+                "wikiLang": "en",
+                "dir": "ltr",
+                "description": "Coenzyme",
+                "extract": "Nicotinamide adenine dinucleotide (NAD+) is a coenzyme central to metabolism. Found in all living cells, NAD is called a dinucleotide because it consists of two nucleotides joined through their phosphate groups. One nucleotide contains an adenine nucleobase and the other, nicotinamide. NAD exists in two forms: an oxidized and reduced form, abbreviated as NAD+ and NADH (H for hydrogen), respectively.",
+                "extract_html": "<p><b>Nicotinamide adenine dinucleotide</b> (<b>NAD+</b>) is a coenzyme central to metabolism. Found in all living cells, NAD is called a dinucleotide because it consists of two nucleotides joined through their phosphate groups. One nucleotide contains an adenine nucleobase and the other, nicotinamide. NAD exists in two forms: an oxidized and reduced form, abbreviated as <b>NAD<sup>+</sup></b> and <b>NADH</b> (H for hydrogen), respectively.</p>"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-26T11:02:00.014Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ftm-process"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/rSPUYA3gWK8",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=118,146.5"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/Electron_transport_chain",
+            "frametrail:name": "Electron transport chain",
+            "frametrail:thumb": null,
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "articleUrl": "https://en.wikipedia.org/wiki/Electron_transport_chain",
+                "wikiLang": "en",
+                "dir": "ltr",
+                "description": "Energy-producing metabolic pathway",
+                "extract": "An electron transport chain (ETC) is a series of protein complexes and other molecules which transfer electrons from electron donors to electron acceptors via redox reactions (both reduction and oxidation occurring simultaneously) and couples this electron transfer with the transfer of protons (H+ ions) across a membrane. Many of the enzymes in the electron transport chain are embedded within the membrane.",
+                "extract_html": "<p>An <b>electron transport chain</b> (<b>ETC</b>) is a series of protein complexes and other molecules which transfer electrons from electron donors to electron acceptors via redox reactions (both reduction and oxidation occurring simultaneously) and couples this electron transfer with the transfer of protons (H<sup>+</sup> ions) across a membrane. Many of the enzymes in the electron transport chain are embedded within the membrane.</p>"
+            }
+        }
+    },
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-26T11:02:00.015Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "ftm-process"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "https://www.youtube.com/embed/rSPUYA3gWK8",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=146.5,158.6"
+            }
+        },
+        "body": {
+            "type": "Text",
+            "frametrail:type": "wikipedia",
+            "format": "text/html",
+            "value": "https://en.wikipedia.org/wiki/Citric_acid_cycle",
+            "frametrail:name": "Citric acid cycle",
+            "frametrail:thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Citric_acid_cycle_with_aconitate_2.svg/330px-Citric_acid_cycle_with_aconitate_2.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "frametrail:licenseType": null,
+            "frametrail:licenseAttribution": null,
+            "frametrail:attributes": {
+                "articleUrl": "https://en.wikipedia.org/wiki/Citric_acid_cycle",
+                "wikiLang": "en",
+                "dir": "ltr",
+                "description": "Interconnected biochemical reactions releasing energy",
+                "extract": "The citric acid cycle—also known as the Krebs cycle, Szent-Györgyi–Krebs cycle, or TCA cycle (tricarboxylic acid cycle)—is a series of biochemical reactions that release the energy stored in nutrients through acetyl-CoA oxidation. The energy released is available in the form of ATP. The Krebs cycle is used by organisms that generate energy via respiration, either anaerobically or aerobically (organisms that ferment use different pathways). In addition, the cycle provides precursors of certain amino acids, as well as the reducing agent NADH, which are used in other reactions. Its central importance to many biochemical pathways suggests that it was one of the earliest metabolic components. Even though it is branded as a \"cycle\", it is not necessary for metabolites to follow a specific route; at least three alternative pathways of the citric acid cycle are recognized.",
+                "extract_html": "<p>The <b>citric acid cycle</b>—also known as the <b>Krebs cycle</b>, <b>Szent-Györgyi–Krebs cycle</b>, or <b>TCA cycle</b> (<b>tricarboxylic acid cycle</b>)—is a series of biochemical reactions that release the energy stored in nutrients through acetyl-CoA oxidation. The energy released is available in the form of ATP. The Krebs cycle is used by organisms that generate energy via respiration, either anaerobically or aerobically (organisms that ferment use different pathways). In addition, the cycle provides precursors of certain amino acids, as well as the reducing agent NADH, which are used in other reactions. Its central importance to many biochemical pathways suggests that it was one of the earliest metabolic components. Even though it is branded as a \"cycle\", it is not necessary for metabolites to follow a specific route; at least three alternative pathways of the citric acid cycle are recognized.</p>"
+            }
+        }
+    }
+]
