@@ -153,48 +153,6 @@
             "type": "Person",
             "id": "1"
         },
-        "created": "2026-11-18T16:29:11.734Z",
-        "generator": {
-            "type": "Software",
-            "name": "FrameTrail-Skills"
-        },
-        "type": "Annotation",
-        "frametrail:type": "Annotation",
-        "frametrail:tags": [],
-        "frametrail:uri": null,
-        "target": {
-            "type": "Video",
-            "source": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Solar_System_explained_by_simpleshow_foundation.webm",
-            "selector": {
-                "conformsTo": "http://www.w3.org/TR/media-frags/",
-                "type": "FragmentSelector",
-                "value": "t=44.2,50"
-            }
-        },
-        "body": {
-            "type": "TextualBody",
-            "frametrail:type": "text",
-            "format": "text/html",
-            "value": "",
-            "frametrail:name": "Fact check: 98 %?",
-            "frametrail:thumb": null,
-            "frametrail:licenseType": null,
-            "frametrail:licenseAttribution": null,
-            "frametrail:attributes": {
-                "text": "&lt;p&gt;&lt;strong style=\"color: #8a1078;\"&gt;Fact check.&lt;/strong&gt; The video says the Sun makes up 98 % of all matter in the Solar System. Measured by mass it is even more: about 99.86 %.&lt;/p&gt;"
-            }
-        }
-    },
-    {
-        "@context": [
-            "http://www.w3.org/ns/anno.jsonld",
-            "https://frametrail.org/ns/context.jsonld"
-        ],
-        "creator": {
-            "nickname": "demo",
-            "type": "Person",
-            "id": "1"
-        },
         "created": "2026-11-18T16:29:11.735Z",
         "generator": {
             "type": "Software",
@@ -470,48 +428,6 @@
                 "articleUrl": "https://en.wikipedia.org/wiki/Nuclear_fusion",
                 "wikiLang": "en",
                 "dir": "ltr"
-            }
-        }
-    },
-    {
-        "@context": [
-            "http://www.w3.org/ns/anno.jsonld",
-            "https://frametrail.org/ns/context.jsonld"
-        ],
-        "creator": {
-            "nickname": "demo",
-            "type": "Person",
-            "id": "1"
-        },
-        "created": "2026-11-18T16:29:11.741Z",
-        "generator": {
-            "type": "Software",
-            "name": "FrameTrail-Skills"
-        },
-        "type": "Annotation",
-        "frametrail:type": "Annotation",
-        "frametrail:tags": [],
-        "frametrail:uri": null,
-        "target": {
-            "type": "Video",
-            "source": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Solar_System_explained_by_simpleshow_foundation.webm",
-            "selector": {
-                "conformsTo": "http://www.w3.org/TR/media-frags/",
-                "type": "FragmentSelector",
-                "value": "t=103.6,110"
-            }
-        },
-        "body": {
-            "type": "TextualBody",
-            "frametrail:type": "text",
-            "format": "text/html",
-            "value": "",
-            "frametrail:name": "Fact check: fusion, not fission",
-            "frametrail:thumb": null,
-            "frametrail:licenseType": null,
-            "frametrail:licenseAttribution": null,
-            "frametrail:attributes": {
-                "text": "&lt;p&gt;&lt;strong style=\"color: #8a1078;\"&gt;Fact check.&lt;/strong&gt; The video says “nuclear fission” and draws a nuclear power plant. The Sun runs on nuclear &lt;strong&gt;fusion&lt;/strong&gt;: in its core, hydrogen nuclei merge into helium.&lt;/p&gt;"
             }
         }
     },

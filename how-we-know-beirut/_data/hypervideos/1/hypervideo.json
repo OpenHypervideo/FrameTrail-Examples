@@ -32,7 +32,24 @@
                     }
                 }
             ],
-            "areaLeft": [],
+            "areaLeft": [
+                {
+                    "type": "TimedContent",
+                    "name": "",
+                    "description": "",
+                    "icon": "",
+                    "cssClass": "dossierView",
+                    "contentSize": "medium",
+                    "initClosed": false,
+                    "collectionFilter": {
+                        "tags": [],
+                        "types": [],
+                        "users": [],
+                        "text": ""
+                    },
+                    "onClickContentItem": "if (this.data.type === 'text') { window.event.stopImmediatePropagation(); } else { hypervideo.pause(); }"
+                }
+            ],
             "areaBottom": [
                 {
                     "type": "Transcript",
@@ -51,24 +68,7 @@
                     }
                 }
             ],
-            "areaRight": [
-                {
-                    "type": "TimedContent",
-                    "name": "",
-                    "description": "",
-                    "icon": "",
-                    "cssClass": "dossierView",
-                    "contentSize": "medium",
-                    "initClosed": false,
-                    "collectionFilter": {
-                        "tags": [],
-                        "types": [],
-                        "users": [],
-                        "text": ""
-                    },
-                    "onClickContentItem": "if (this.data.type === 'text') { window.event.stopImmediatePropagation(); } else { hypervideo.pause(); }"
-                }
-            ]
+            "areaRight": []
         }
     },
     "clips": [

@@ -12,6 +12,6 @@
     "videoFit": "contain",
     "defaultLanguage": "en",
     "overviewTitle": "Follow the Molecule",
-    "overviewMode": "map",
+    "overviewMode": "grid",
     "hypervideoTransition": "fade"
 }

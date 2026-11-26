@@ -78,19 +78,6 @@
             "licenseType": "CC-BY",
             "licenseAttribution": "Drew Berry, wehi.tv, for HHMI BioInteractive: “ATP in Use”, on HHMI BioInteractive’s YouTube channel",
             "attributes": {}
-        },
-        "7": {
-            "name": "Where the six films take place",
-            "type": "image",
-            "src": "1_1795650007_cell.svg",
-            "thumb": "1_1795650007_thumb_cell.png",
-            "description": null,
-            "creator": "demo",
-            "creatorId": "1",
-            "created": 1795650007,
-            "licenseType": "CC0",
-            "licenseAttribution": "Drawn for this example",
-            "attributes": {}
         }
     }
 }

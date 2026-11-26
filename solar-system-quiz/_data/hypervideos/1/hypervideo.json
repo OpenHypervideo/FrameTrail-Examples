@@ -41,7 +41,7 @@
             "areaRight": [
                 {
                     "name": "Transcript",
-                    "icon": "",
+                    "icon": "icon-doc-text-1",
                     "type": "Transcript",
                     "contentSize": "large",
                     "cssClass": "",
@@ -61,7 +61,7 @@
                 },
                 {
                     "name": "Learning path",
-                    "icon": "",
+                    "icon": "icon-ok-circled",
                     "type": "QuizResults",
                     "contentSize": "large",
                     "cssClass": "",
@@ -494,67 +494,6 @@
             },
             "frametrail:events": {},
             "frametrail:pause": true
-        },
-        {
-            "@context": [
-                "http://www.w3.org/ns/anno.jsonld",
-                "https://frametrail.org/ns/context.jsonld"
-            ],
-            "creator": {
-                "nickname": "demo",
-                "type": "Person",
-                "id": "1"
-            },
-            "created": "2026-11-18T16:29:11.730Z",
-            "generator": {
-                "type": "Software",
-                "name": "FrameTrail-Skills"
-            },
-            "type": "Annotation",
-            "frametrail:type": "Overlay",
-            "frametrail:tags": [],
-            "target": {
-                "type": "Video",
-                "source": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Solar_System_explained_by_simpleshow_foundation.webm",
-                "selector": {
-                    "conformsTo": "http://www.w3.org/TR/media-frags/",
-                    "type": "FragmentSelector",
-                    "value": "t=104.5,109.5&xywh=percent:60,76,37,18"
-                }
-            },
-            "body": {
-                "type": "TextualBody",
-                "frametrail:type": "text",
-                "format": "text/html",
-                "value": "",
-                "frametrail:name": "Fact check: fusion",
-                "frametrail:thumb": null,
-                "frametrail:licenseType": null,
-                "frametrail:licenseAttribution": null,
-                "frametrail:attributes": {
-                    "text": "&lt;p&gt;&lt;span style=\"font-size: 1.3em;\"&gt;&lt;strong style=\"color: #8a1078;\"&gt;Fact check:&lt;/strong&gt; the Sun runs on nuclear &lt;strong&gt;fusion&lt;/strong&gt;, not fission.&lt;/span&gt;&lt;/p&gt;",
-                    "box": {
-                        "shape": "rounded",
-                        "background": "#ffffff",
-                        "textColor": "#1d1d1f",
-                        "padding": 14,
-                        "radius": 10,
-                        "borderWidth": 2,
-                        "borderColor": "#8a1078",
-                        "shadow": true
-                    },
-                    "autoSize": "height",
-                    "animation": {
-                        "in": {
-                            "preset": "slideFromRight"
-                        },
-                        "out": {
-                            "preset": "fadeOut"
-                        }
-                    }
-                }
-            },
-            "frametrail:events": {}
         }
     ],
     "chapters": [

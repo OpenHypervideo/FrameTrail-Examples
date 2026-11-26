@@ -79,7 +79,9 @@
                     "transcriptSource": "",
                     "initClosed": false,
                     "filterAspect": "creatorId",
-                    "zoomControls": false
+                    "zoomControls": false,
+                    "openWhenActive": true,
+                    "openGap": 5
                 }
             ],
             "areaCompanion": [

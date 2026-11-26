@@ -77,7 +77,8 @@
                     },
                     "onClickContentItem": "",
                     "html": "",
-                    "transcriptSource": "en"
+                    "transcriptSource": "en",
+                    "showTranscriptSearch": true
                 }
             ]
         }

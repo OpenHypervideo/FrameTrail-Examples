@@ -34,6 +34,6 @@ Annotations
     Summaries and pictures from the English Wikipedia (CC BY-SA 4.0). Each item links to its article, where the authors and the picture's own licence are named.
     Structure pages: the "Molecule of the Month" of RCSB PDB-101, shown from pdb101.rcsb.org in a frame. The site states CC BY 4.0 for its content; this was not checked page by page.
 
-Map of the cell, hotspots, labels and texts
+Hotspots, labels and texts
     Made for this example. Public domain (CC0).
     The positions of the hotspots were measured in the films by a script, from each enzyme's and each molecule's colour.

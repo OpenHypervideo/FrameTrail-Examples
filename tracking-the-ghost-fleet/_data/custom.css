@@ -41,8 +41,7 @@
     margin-bottom: 6px;
     border: 0;
     border-left: 3px solid transparent;
-    background: var(--dv-card);
-    opacity: .45;
+    opacity: .3;
     transition: opacity 250ms, background-color 250ms, border-color 250ms;
 }
 .layoutArea .contentViewContainer.dossierView[data-size="medium"] .collectionElement:hover {
@@ -50,8 +49,7 @@
 }
 .layoutArea .contentViewContainer.dossierView[data-size="medium"] .collectionElement.active {
     opacity: 1;
-    background: var(--dv-card-on);
-    border-left-color: var(--dv-ink);
+    border-left-color: var(--accent-color);
 }
 
 /* ---------- Materials: picture and title, one height ---------- */

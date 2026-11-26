@@ -16,14 +16,12 @@
         "clipTimeVisible": false,
         "layoutArea": {
             "areaTop": [],
-            "areaBottom": [],
-            "areaLeft": [],
-            "areaRight": [
+            "areaBottom": [
                 {
                     "type": "Chapters",
-                    "name": "Steps",
+                    "name": "",
                     "description": "",
-                    "icon": "icon-list-bullet",
+                    "icon": "",
                     "cssClass": "stepsView",
                     "contentSize": "medium",
                     "initClosed": false,
@@ -32,9 +30,12 @@
                         "types": [],
                         "users": [],
                         "text": ""
-                    }
+                    },
+                    "chapterStyle": "steps"
                 }
             ],
+            "areaLeft": [],
+            "areaRight": [],
             "areaCompanion": [
                 {
                     "type": "Chapters",
