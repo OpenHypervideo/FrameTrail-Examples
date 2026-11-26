@@ -16,7 +16,27 @@
         "captionsVisible": false,
         "clipTimeVisible": false,
         "layoutArea": {
-            "areaTop": [],
+            "areaTop": [
+                {
+                    "name": "",
+                    "icon": "",
+                    "type": "Chapters",
+                    "contentSize": "small",
+                    "cssClass": "",
+                    "collectionFilter": {
+                        "tags": [],
+                        "types": [],
+                        "users": [],
+                        "text": ""
+                    },
+                    "onClickContentItem": "",
+                    "html": "",
+                    "transcriptSource": "",
+                    "initClosed": false,
+                    "chapterStyle": "steps",
+                    "showChapterTime": false
+                }
+            ],
             "areaBottom": [
                 {
                     "name": "",
@@ -36,7 +56,8 @@
                     "initClosed": false,
                     "filterAspect": "creatorId",
                     "zoomControls": false,
-                    "showQuizRestart": true
+                    "showQuizRestart": true,
+                    "quizRows": "questions"
                 }
             ],
             "areaLeft": [],
@@ -79,7 +100,8 @@
                     "transcriptSource": "",
                     "initClosed": false,
                     "filterAspect": "creatorId",
-                    "zoomControls": false
+                    "zoomControls": false,
+                    "quizRows": "questions"
                 },
                 {
                     "name": "Background",

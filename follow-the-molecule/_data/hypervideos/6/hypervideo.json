@@ -31,7 +31,7 @@
                         "users": [],
                         "text": ""
                     },
-                    "html": "<nav class=\"pathStrip\" data-film=\"6\"><a class=\"pathMap\" href=\"#overview\">The cell</a><a class=\"pathStep\" href=\"#hypervideo=1\"><b>1</b><span>Glycolysis</span></a><a class=\"pathStep\" href=\"#hypervideo=2\"><b>2</b><span>Pyruvate Dehydrogenase</span></a><a class=\"pathStep\" href=\"#hypervideo=3\"><b>3</b><span>Citric Acid Cycle</span></a><a class=\"pathStep\" href=\"#hypervideo=4\"><b>4</b><span>Electron Transport Chain</span></a><a class=\"pathStep\" href=\"#hypervideo=5\"><b>5</b><span>ATP Synthesis</span></a><a class=\"pathStep current\" href=\"#hypervideo=6\"><b>6</b><span>ATP in Use</span></a><span class=\"pathCredit\">Films: Drew Berry, wehi.tv, for HHMI BioInteractive</span></nav>"
+                    "html": "<nav class=\"pathStrip\" data-film=\"6\"><a class=\"pathStep\" href=\"#hypervideo=1\"><b>1</b><span>Glycolysis</span></a><a class=\"pathStep\" href=\"#hypervideo=2\"><b>2</b><span>Pyruvate Dehydrogenase</span></a><a class=\"pathStep\" href=\"#hypervideo=3\"><b>3</b><span>Citric Acid Cycle</span></a><a class=\"pathStep\" href=\"#hypervideo=4\"><b>4</b><span>Electron Transport Chain</span></a><a class=\"pathStep\" href=\"#hypervideo=5\"><b>5</b><span>ATP Synthesis</span></a><a class=\"pathStep current\" href=\"#hypervideo=6\"><b>6</b><span>ATP in Use</span></a><span class=\"pathCredit\">Films: Drew Berry, wehi.tv, for HHMI BioInteractive</span></nav>"
                 }
             ],
             "areaBottom": [
