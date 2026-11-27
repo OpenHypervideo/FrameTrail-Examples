@@ -1,0 +1,159 @@
+name: Update
+
+# Daily and by hand: when FrameTrail has a release newer than the one the examples' pages load from jsDelivr (or for the tag given by hand), rewrites the pin in every tracked HTML file, validates every _data folder against that release with FrameTrail's own tests, and opens a pull request "Upgrade FrameTrail to vX.Y.Z" with the result. Nothing is merged: convert what the release made legacy and check what reaches into FrameTrail's internals on the branch, then merge, which publishes through GitHub Pages.
+#
+# - The latest release is npm's: FrameTrail publishes to npm last. The job also waits until jsDelivr serves the files. Prereleases are left to a run by hand.
+# - Each FrameTrail version gets its own branch, frametrail/<tag>. A run finds it there and stops, so it never overwrites fixes pushed to the branch, nor reopens a pull request that was closed.
+# - The pull request is opened with GITHUB_TOKEN, which starts no workflows.
+
+on:
+  schedule:
+    - cron: '47 5 * * *'
+  workflow_dispatch:
+    inputs:
+      ref:
+        description: FrameTrail release tag, e.g. v1.5.0 (empty for the latest release)
+        required: false
+        default: ''
+
+permissions:
+  contents: write
+  pull-requests: write
+
+concurrency:
+  group: frametrail-update
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Find the FrameTrail release
+        id: release
+        env:
+          REF: ${{ inputs.ref }}
+        run: |
+          if [ -z "$REF" ]; then
+            version=$(npm view @frametrail/frametrail dist-tags.latest)
+            case "$version" in
+              *-*) echo "The latest release, $version, is a prerelease: run this workflow by hand with its tag to move to it."; exit 0 ;;
+            esac
+            REF="v$version"
+          fi
+          case "$REF" in
+            v[0-9]*) ;;
+            *) echo "The pages load a release from jsDelivr: $REF is not a release tag."; exit 1 ;;
+          esac
+          pins=$(git ls-files -z '*.html' | xargs -0 grep -ohE '@frametrail/frametrail@v[0-9][^/"]*' | sed 's#.*@##' | sort -u || true)
+          if [ "$(printf '%s\n' "$pins" | wc -l)" -ne 1 ] || [ -z "$pins" ]; then
+            echo "The pages pin more than one FrameTrail, or none: $(echo $pins)"; exit 1
+          fi
+          if [ "$REF" = "$pins" ]; then
+            echo "The examples load FrameTrail $REF already: nothing to do." >> "$GITHUB_STEP_SUMMARY"
+            exit 0
+          fi
+          branch="frametrail/$REF"
+          if git ls-remote --exit-code --heads origin "$branch" > /dev/null; then
+            echo "The branch $branch exists already (its pull request is open or was closed): nothing to do." >> "$GITHUB_STEP_SUMMARY"
+            exit 0
+          fi
+          for file in frametrail.min.js frametrail.min.css; do
+            if ! curl -fsSI -o /dev/null "https://cdn.jsdelivr.net/npm/@frametrail/frametrail@$REF/$file"; then
+              echo "jsDelivr does not serve $file of FrameTrail $REF (yet): nothing changed, the next run tries again."; exit 1
+            fi
+          done
+          echo "FrameTrail $pins → $REF"
+          echo "ref=$REF" >> "$GITHUB_OUTPUT"
+          echo "current=$pins" >> "$GITHUB_OUTPUT"
+          echo "branch=$branch" >> "$GITHUB_OUTPUT"
+
+      - name: Checkout FrameTrail
+        if: steps.release.outputs.branch
+        uses: actions/checkout@v4
+        with:
+          repository: OpenHypervideo/FrameTrail
+          ref: ${{ steps.release.outputs.ref }}
+          path: _frametrail
+
+      - name: Rewrite the pin
+        if: steps.release.outputs.branch
+        env:
+          REF: ${{ steps.release.outputs.ref }}
+          CURRENT: ${{ steps.release.outputs.current }}
+        run: |
+          count() { git ls-files -z '*.html' | xargs -0 grep -ohF "@frametrail/frametrail@$1/" | wc -l || true; }
+          before=$(count "$CURRENT")
+          git ls-files -z '*.html' | xargs -0 sed -i -E "s#(@frametrail/frametrail@)v[0-9][^/\"]*#\1$REF#g"
+          after=$(count "$REF")
+          echo "$after of $before pins now load $REF"
+          [ "$before" -eq "$after" ]
+
+      - name: Validate every example against it
+        id: validate
+        if: steps.release.outputs.branch
+        continue-on-error: true
+        run: |
+          args=()
+          for dir in */_data; do args+=("--data=$dir"); done
+          node --test-reporter=spec _frametrail/tests/run-js.mjs "${args[@]}" 2>&1 | tee "$RUNNER_TEMP/validate.log"
+
+      - name: Open the pull request
+        if: steps.release.outputs.branch
+        env:
+          GH_TOKEN: ${{ github.token }}
+          REF: ${{ steps.release.outputs.ref }}
+          CURRENT: ${{ steps.release.outputs.current }}
+          BRANCH: ${{ steps.release.outputs.branch }}
+          VALIDATE: ${{ steps.validate.outcome }}
+        run: |
+          title="Upgrade FrameTrail to $REF"
+
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git switch -c "$BRANCH"
+          git ls-files -z '*.html' | xargs -0 git add --
+          git commit -m "$title"
+          git push origin "HEAD:refs/heads/$BRANCH"
+
+          body="$RUNNER_TEMP/body.md"
+          {
+            echo "The examples load FrameTrail \`$REF\` instead of \`$CURRENT\` from jsDelivr, by the [Update workflow]($GITHUB_SERVER_URL/$GITHUB_REPOSITORY/actions/runs/$GITHUB_RUN_ID)."
+            echo
+            echo "[Release notes](https://github.com/OpenHypervideo/FrameTrail/releases/tag/$REF) · [Changes in FrameTrail](https://github.com/OpenHypervideo/FrameTrail/compare/$CURRENT...$REF)"
+            echo
+            if [ "$VALIDATE" = success ]; then
+              echo "**Validation:** every \`_data\` folder passes FrameTrail $REF's schemas (lint findings, if any, are in the run's log)."
+            else
+              echo "**Validation:** fails."
+              echo
+              echo '<details><summary>The end of the output</summary>'
+              echo
+              echo '```'
+              tail -n 120 "$RUNNER_TEMP/validate.log"
+              echo '```'
+              echo
+              echo '</details>'
+            fi
+            echo
+            echo '```'
+            git show --stat --format= HEAD | tail -n 1
+            echo '```'
+            echo
+            echo 'Before merging (merging publishes through GitHub Pages):'
+            echo
+            echo '- [ ] Convert what the release made legacy in the `_data` folders, on this branch.'
+            echo '- [ ] Check what reaches into FrameTrail'"'"'s internals: the four extensions (`wind`, `atlas`, `versions`, `lens`) and every `custom.css` that styles internal class names.'
+            echo '- [ ] Look at a few examples with the new release.'
+          } > "$body"
+
+          gh pr create --head "$BRANCH" --title "$title" --body-file "$body"
+          echo "Opened a pull request for $BRANCH (validation: $VALIDATE)." >> "$GITHUB_STEP_SUMMARY"
