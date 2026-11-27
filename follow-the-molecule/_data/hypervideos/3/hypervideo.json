@@ -68,8 +68,7 @@
                         "types": [],
                         "users": [],
                         "text": ""
-                    },
-                    "onClickContentItem": "hypervideo.pause();"
+                    }
                 }
             ]
         }
@@ -238,7 +237,7 @@
                 }
             },
             "frametrail:events": {
-                "onClick": "hypervideo.pause();\nvar title = \"Citrate synthase\";\nvar card = FrameTrail.module('HypervideoModel').annotations.filter(function (a) { return a.data.name === title; })[0];\nif (card) { card.resourceItem.openPreview(this.overlayElement); }"
+                "onClick": "var title = \"Citrate synthase\";\nvar card = FrameTrail.module('HypervideoModel').annotations.filter(function (a) { return a.data.name === title; })[0];\nif (card) { card.resourceItem.openPreview(this.overlayElement, { onVideo: true }); }"
             }
         },
         {
@@ -345,7 +344,7 @@
                 }
             },
             "frametrail:events": {
-                "onClick": "hypervideo.pause();\nvar title = \"Isocitrate dehydrogenase\";\nvar card = FrameTrail.module('HypervideoModel').annotations.filter(function (a) { return a.data.name === title; })[0];\nif (card) { card.resourceItem.openPreview(this.overlayElement); }"
+                "onClick": "var title = \"Isocitrate dehydrogenase\";\nvar card = FrameTrail.module('HypervideoModel').annotations.filter(function (a) { return a.data.name === title; })[0];\nif (card) { card.resourceItem.openPreview(this.overlayElement, { onVideo: true }); }"
             }
         },
         {
@@ -617,7 +616,7 @@
                 }
             },
             "frametrail:events": {
-                "onClick": "hypervideo.pause();\nvar title = \"Fumarase\";\nvar card = FrameTrail.module('HypervideoModel').annotations.filter(function (a) { return a.data.name === title; })[0];\nif (card) { card.resourceItem.openPreview(this.overlayElement); }"
+                "onClick": "var title = \"Fumarase\";\nvar card = FrameTrail.module('HypervideoModel').annotations.filter(function (a) { return a.data.name === title; })[0];\nif (card) { card.resourceItem.openPreview(this.overlayElement, { onVideo: true }); }"
             }
         },
         {
@@ -728,7 +727,7 @@
                 }
             },
             "frametrail:events": {
-                "onClick": "hypervideo.pause();\nvar title = \"Malate dehydrogenase\";\nvar card = FrameTrail.module('HypervideoModel').annotations.filter(function (a) { return a.data.name === title; })[0];\nif (card) { card.resourceItem.openPreview(this.overlayElement); }"
+                "onClick": "var title = \"Malate dehydrogenase\";\nvar card = FrameTrail.module('HypervideoModel').annotations.filter(function (a) { return a.data.name === title; })[0];\nif (card) { card.resourceItem.openPreview(this.overlayElement, { onVideo: true }); }"
             }
         },
         {

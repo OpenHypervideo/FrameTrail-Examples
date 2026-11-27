@@ -68,8 +68,7 @@
                         "types": [],
                         "users": [],
                         "text": ""
-                    },
-                    "onClickContentItem": "hypervideo.pause();"
+                    }
                 }
             ]
         }
@@ -213,7 +212,7 @@
                 }
             },
             "frametrail:events": {
-                "onClick": "hypervideo.pause();\nvar title = \"Pyruvate dehydrogenase complex\";\nvar card = FrameTrail.module('HypervideoModel').annotations.filter(function (a) { return a.data.name === title; })[0];\nif (card) { card.resourceItem.openPreview(this.overlayElement); }"
+                "onClick": "var title = \"Pyruvate dehydrogenase complex\";\nvar card = FrameTrail.module('HypervideoModel').annotations.filter(function (a) { return a.data.name === title; })[0];\nif (card) { card.resourceItem.openPreview(this.overlayElement, { onVideo: true }); }"
             }
         },
         {
@@ -276,7 +275,7 @@
                 }
             },
             "frametrail:events": {
-                "onClick": "hypervideo.pause();\nvar title = \"Pyruvate dehydrogenase\";\nvar card = FrameTrail.module('HypervideoModel').annotations.filter(function (a) { return a.data.name === title; })[0];\nif (card) { card.resourceItem.openPreview(this.overlayElement); }"
+                "onClick": "var title = \"Pyruvate dehydrogenase\";\nvar card = FrameTrail.module('HypervideoModel').annotations.filter(function (a) { return a.data.name === title; })[0];\nif (card) { card.resourceItem.openPreview(this.overlayElement, { onVideo: true }); }"
             }
         },
         {
@@ -339,7 +338,7 @@
                 }
             },
             "frametrail:events": {
-                "onClick": "hypervideo.pause();\nvar title = \"Dihydrolipoyl dehydrogenase\";\nvar card = FrameTrail.module('HypervideoModel').annotations.filter(function (a) { return a.data.name === title; })[0];\nif (card) { card.resourceItem.openPreview(this.overlayElement); }"
+                "onClick": "var title = \"Dihydrolipoyl dehydrogenase\";\nvar card = FrameTrail.module('HypervideoModel').annotations.filter(function (a) { return a.data.name === title; })[0];\nif (card) { card.resourceItem.openPreview(this.overlayElement, { onVideo: true }); }"
             }
         },
         {

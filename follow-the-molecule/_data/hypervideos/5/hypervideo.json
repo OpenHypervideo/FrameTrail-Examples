@@ -68,8 +68,7 @@
                         "types": [],
                         "users": [],
                         "text": ""
-                    },
-                    "onClickContentItem": "hypervideo.pause();"
+                    }
                 }
             ]
         }
@@ -221,7 +220,7 @@
                 }
             },
             "frametrail:events": {
-                "onClick": "hypervideo.pause();\nvar title = \"ATP synthase\";\nvar card = FrameTrail.module('HypervideoModel').annotations.filter(function (a) { return a.data.name === title; })[0];\nif (card) { card.resourceItem.openPreview(this.overlayElement); }"
+                "onClick": "var title = \"ATP synthase\";\nvar card = FrameTrail.module('HypervideoModel').annotations.filter(function (a) { return a.data.name === title; })[0];\nif (card) { card.resourceItem.openPreview(this.overlayElement, { onVideo: true }); }"
             }
         },
         {

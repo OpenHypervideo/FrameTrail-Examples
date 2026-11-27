@@ -68,8 +68,7 @@
                         "types": [],
                         "users": [],
                         "text": ""
-                    },
-                    "onClickContentItem": "hypervideo.pause();"
+                    }
                 }
             ]
         }
@@ -246,7 +245,7 @@
                 }
             },
             "frametrail:events": {
-                "onClick": "hypervideo.pause();\nvar title = \"Complex I\";\nvar card = FrameTrail.module('HypervideoModel').annotations.filter(function (a) { return a.data.name === title; })[0];\nif (card) { card.resourceItem.openPreview(this.overlayElement); }"
+                "onClick": "var title = \"Complex I\";\nvar card = FrameTrail.module('HypervideoModel').annotations.filter(function (a) { return a.data.name === title; })[0];\nif (card) { card.resourceItem.openPreview(this.overlayElement, { onVideo: true }); }"
             }
         },
         {
@@ -339,7 +338,7 @@
                 }
             },
             "frametrail:events": {
-                "onClick": "hypervideo.pause();\nvar title = \"Complex III\";\nvar card = FrameTrail.module('HypervideoModel').annotations.filter(function (a) { return a.data.name === title; })[0];\nif (card) { card.resourceItem.openPreview(this.overlayElement); }"
+                "onClick": "var title = \"Complex III\";\nvar card = FrameTrail.module('HypervideoModel').annotations.filter(function (a) { return a.data.name === title; })[0];\nif (card) { card.resourceItem.openPreview(this.overlayElement, { onVideo: true }); }"
             }
         },
         {
@@ -478,7 +477,7 @@
                 }
             },
             "frametrail:events": {
-                "onClick": "hypervideo.pause();\nvar title = \"Complex IV\";\nvar card = FrameTrail.module('HypervideoModel').annotations.filter(function (a) { return a.data.name === title; })[0];\nif (card) { card.resourceItem.openPreview(this.overlayElement); }"
+                "onClick": "var title = \"Complex IV\";\nvar card = FrameTrail.module('HypervideoModel').annotations.filter(function (a) { return a.data.name === title; })[0];\nif (card) { card.resourceItem.openPreview(this.overlayElement, { onVideo: true }); }"
             }
         },
         {

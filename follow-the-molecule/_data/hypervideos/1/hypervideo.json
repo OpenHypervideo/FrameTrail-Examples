@@ -68,8 +68,7 @@
                         "types": [],
                         "users": [],
                         "text": ""
-                    },
-                    "onClickContentItem": "hypervideo.pause();"
+                    }
                 }
             ]
         }
@@ -250,7 +249,7 @@
                 }
             },
             "frametrail:events": {
-                "onClick": "hypervideo.pause();\nvar title = \"Hexokinase\";\nvar card = FrameTrail.module('HypervideoModel').annotations.filter(function (a) { return a.data.name === title; })[0];\nif (card) { card.resourceItem.openPreview(this.overlayElement); }"
+                "onClick": "var title = \"Hexokinase\";\nvar card = FrameTrail.module('HypervideoModel').annotations.filter(function (a) { return a.data.name === title; })[0];\nif (card) { card.resourceItem.openPreview(this.overlayElement, { onVideo: true }); }"
             }
         },
         {
@@ -328,7 +327,7 @@
                 }
             },
             "frametrail:events": {
-                "onClick": "hypervideo.pause();\nvar title = \"Phosphoglucose isomerase\";\nvar card = FrameTrail.module('HypervideoModel').annotations.filter(function (a) { return a.data.name === title; })[0];\nif (card) { card.resourceItem.openPreview(this.overlayElement); }"
+                "onClick": "var title = \"Phosphoglucose isomerase\";\nvar card = FrameTrail.module('HypervideoModel').annotations.filter(function (a) { return a.data.name === title; })[0];\nif (card) { card.resourceItem.openPreview(this.overlayElement, { onVideo: true }); }"
             }
         },
         {
@@ -415,7 +414,7 @@
                 }
             },
             "frametrail:events": {
-                "onClick": "hypervideo.pause();\nvar title = \"Phosphofructokinase\";\nvar card = FrameTrail.module('HypervideoModel').annotations.filter(function (a) { return a.data.name === title; })[0];\nif (card) { card.resourceItem.openPreview(this.overlayElement); }"
+                "onClick": "var title = \"Phosphofructokinase\";\nvar card = FrameTrail.module('HypervideoModel').annotations.filter(function (a) { return a.data.name === title; })[0];\nif (card) { card.resourceItem.openPreview(this.overlayElement, { onVideo: true }); }"
             }
         },
         {
@@ -505,7 +504,7 @@
                 }
             },
             "frametrail:events": {
-                "onClick": "hypervideo.pause();\nvar title = \"Aldolase\";\nvar card = FrameTrail.module('HypervideoModel').annotations.filter(function (a) { return a.data.name === title; })[0];\nif (card) { card.resourceItem.openPreview(this.overlayElement); }"
+                "onClick": "var title = \"Aldolase\";\nvar card = FrameTrail.module('HypervideoModel').annotations.filter(function (a) { return a.data.name === title; })[0];\nif (card) { card.resourceItem.openPreview(this.overlayElement, { onVideo: true }); }"
             }
         },
         {
@@ -584,7 +583,7 @@
                 }
             },
             "frametrail:events": {
-                "onClick": "hypervideo.pause();\nvar title = \"Triosephosphate isomerase\";\nvar card = FrameTrail.module('HypervideoModel').annotations.filter(function (a) { return a.data.name === title; })[0];\nif (card) { card.resourceItem.openPreview(this.overlayElement); }"
+                "onClick": "var title = \"Triosephosphate isomerase\";\nvar card = FrameTrail.module('HypervideoModel').annotations.filter(function (a) { return a.data.name === title; })[0];\nif (card) { card.resourceItem.openPreview(this.overlayElement, { onVideo: true }); }"
             }
         },
         {
@@ -672,7 +671,7 @@
                 }
             },
             "frametrail:events": {
-                "onClick": "hypervideo.pause();\nvar title = \"Glyceraldehyde 3-phosphate dehydrogenase\";\nvar card = FrameTrail.module('HypervideoModel').annotations.filter(function (a) { return a.data.name === title; })[0];\nif (card) { card.resourceItem.openPreview(this.overlayElement); }"
+                "onClick": "var title = \"Glyceraldehyde 3-phosphate dehydrogenase\";\nvar card = FrameTrail.module('HypervideoModel').annotations.filter(function (a) { return a.data.name === title; })[0];\nif (card) { card.resourceItem.openPreview(this.overlayElement, { onVideo: true }); }"
             }
         },
         {
@@ -761,7 +760,7 @@
                 }
             },
             "frametrail:events": {
-                "onClick": "hypervideo.pause();\nvar title = \"Phosphoglycerate kinase\";\nvar card = FrameTrail.module('HypervideoModel').annotations.filter(function (a) { return a.data.name === title; })[0];\nif (card) { card.resourceItem.openPreview(this.overlayElement); }"
+                "onClick": "var title = \"Phosphoglycerate kinase\";\nvar card = FrameTrail.module('HypervideoModel').annotations.filter(function (a) { return a.data.name === title; })[0];\nif (card) { card.resourceItem.openPreview(this.overlayElement, { onVideo: true }); }"
             }
         },
         {
@@ -840,7 +839,7 @@
                 }
             },
             "frametrail:events": {
-                "onClick": "hypervideo.pause();\nvar title = \"Phosphoglycerate mutase\";\nvar card = FrameTrail.module('HypervideoModel').annotations.filter(function (a) { return a.data.name === title; })[0];\nif (card) { card.resourceItem.openPreview(this.overlayElement); }"
+                "onClick": "var title = \"Phosphoglycerate mutase\";\nvar card = FrameTrail.module('HypervideoModel').annotations.filter(function (a) { return a.data.name === title; })[0];\nif (card) { card.resourceItem.openPreview(this.overlayElement, { onVideo: true }); }"
             }
         },
         {
@@ -917,7 +916,7 @@
                 }
             },
             "frametrail:events": {
-                "onClick": "hypervideo.pause();\nvar title = \"Enolase\";\nvar card = FrameTrail.module('HypervideoModel').annotations.filter(function (a) { return a.data.name === title; })[0];\nif (card) { card.resourceItem.openPreview(this.overlayElement); }"
+                "onClick": "var title = \"Enolase\";\nvar card = FrameTrail.module('HypervideoModel').annotations.filter(function (a) { return a.data.name === title; })[0];\nif (card) { card.resourceItem.openPreview(this.overlayElement, { onVideo: true }); }"
             }
         },
         {
@@ -1012,7 +1011,7 @@
                 }
             },
             "frametrail:events": {
-                "onClick": "hypervideo.pause();\nvar title = \"Pyruvate kinase\";\nvar card = FrameTrail.module('HypervideoModel').annotations.filter(function (a) { return a.data.name === title; })[0];\nif (card) { card.resourceItem.openPreview(this.overlayElement); }"
+                "onClick": "var title = \"Pyruvate kinase\";\nvar card = FrameTrail.module('HypervideoModel').annotations.filter(function (a) { return a.data.name === title; })[0];\nif (card) { card.resourceItem.openPreview(this.overlayElement, { onVideo: true }); }"
             }
         },
         {
