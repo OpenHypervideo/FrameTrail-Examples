@@ -1,4 +1,16 @@
 {
+    "ft-method": {
+        "label": "The investigators",
+        "description": "A note of the layer “The investigators”."
+    },
+    "ft-sources": {
+        "label": "Open sources",
+        "description": "A note of the layer “Open sources”."
+    },
+    "ft-findings": {
+        "label": "17 July 2014",
+        "description": "A note of the layer “17 July 2014”."
+    },
     "ft-source": {
         "label": "Source",
         "description": "Material the investigation used, shows or cites: footage, posts, documents, articles, data."

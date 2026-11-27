@@ -12,7 +12,9 @@
         "created": "2026-11-22T18:00:00.031Z",
         "type": "Annotation",
         "frametrail:type": "Annotation",
-        "frametrail:tags": [],
+        "frametrail:tags": [
+            "ft-findings"
+        ],
         "frametrail:uri": null,
         "target": {
             "type": "Video",
@@ -30,7 +32,8 @@
             "value": "",
             "frametrail:name": "About 08:00 · Yenakiieve",
             "frametrail:attributes": {
-                "text": "&lt;div class=&quot;dossierNote&quot; data-layer=&quot;4&quot;&gt;&lt;p class=&quot;dossierLayer&quot;&gt;17 July 2014&lt;/p&gt;&lt;p class=&quot;dossierTitle&quot;&gt;About 08:00 · Yenakiieve&lt;/p&gt;&lt;p&gt;A witness sees the convoy. It has come from the Russian border during the previous hours.&lt;/p&gt;&lt;/div&gt;"
+                "title": "About 08:00 · Yenakiieve",
+                "text": "&lt;p&gt;A witness sees the convoy. It has come from the Russian border during the previous hours.&lt;/p&gt;"
             }
         }
     },
@@ -47,7 +50,9 @@
         "created": "2026-11-22T18:00:00.032Z",
         "type": "Annotation",
         "frametrail:type": "Annotation",
-        "frametrail:tags": [],
+        "frametrail:tags": [
+            "ft-findings"
+        ],
         "frametrail:uri": null,
         "target": {
             "type": "Video",
@@ -65,7 +70,8 @@
             "value": "",
             "frametrail:name": "Morning · Donetsk",
             "frametrail:attributes": {
-                "text": "&lt;div class=&quot;dossierNote&quot; data-layer=&quot;4&quot;&gt;&lt;p class=&quot;dossierLayer&quot;&gt;17 July 2014&lt;/p&gt;&lt;p class=&quot;dossierTitle&quot;&gt;Morning · Donetsk&lt;/p&gt;&lt;p&gt;The convoy stops twice: at a crossing, and at the side of the Makiivka highway.&lt;/p&gt;&lt;/div&gt;"
+                "title": "Morning · Donetsk",
+                "text": "&lt;p&gt;The convoy stops twice: at a crossing, and at the side of the Makiivka highway.&lt;/p&gt;"
             }
         }
     },
@@ -82,7 +88,9 @@
         "created": "2026-11-22T18:00:00.033Z",
         "type": "Annotation",
         "frametrail:type": "Annotation",
-        "frametrail:tags": [],
+        "frametrail:tags": [
+            "ft-findings"
+        ],
         "frametrail:uri": null,
         "target": {
             "type": "Video",
@@ -100,7 +108,8 @@
             "value": "",
             "frametrail:name": "11:00 · Road 21",
             "frametrail:attributes": {
-                "text": "&lt;div class=&quot;dossierNote&quot; data-layer=&quot;4&quot;&gt;&lt;p class=&quot;dossierLayer&quot;&gt;17 July 2014&lt;/p&gt;&lt;p class=&quot;dossierTitle&quot;&gt;11:00 · Road 21&lt;/p&gt;&lt;p&gt;The convoy leaves Donetsk eastwards: Makiivka, Zuhres, Torez.&lt;/p&gt;&lt;/div&gt;"
+                "title": "11:00 · Road 21",
+                "text": "&lt;p&gt;The convoy leaves Donetsk eastwards: Makiivka, Zuhres, Torez.&lt;/p&gt;"
             }
         }
     },
@@ -117,7 +126,9 @@
         "created": "2026-11-22T18:00:00.034Z",
         "type": "Annotation",
         "frametrail:type": "Annotation",
-        "frametrail:tags": [],
+        "frametrail:tags": [
+            "ft-findings"
+        ],
         "frametrail:uri": null,
         "target": {
             "type": "Video",
@@ -135,7 +146,8 @@
             "value": "",
             "frametrail:name": "Around midday · Snizhne",
             "frametrail:attributes": {
-                "text": "&lt;div class=&quot;dossierNote&quot; data-layer=&quot;4&quot;&gt;&lt;p class=&quot;dossierLayer&quot;&gt;17 July 2014&lt;/p&gt;&lt;p class=&quot;dossierTitle&quot;&gt;Around midday · Snizhne&lt;/p&gt;&lt;p&gt;The launcher is unloaded near the Furshet supermarket and drives on by itself.&lt;/p&gt;&lt;/div&gt;"
+                "title": "Around midday · Snizhne",
+                "text": "&lt;p&gt;The launcher is unloaded near the Furshet supermarket and drives on by itself.&lt;/p&gt;"
             }
         }
     },
@@ -152,7 +164,9 @@
         "created": "2026-11-22T18:00:00.035Z",
         "type": "Annotation",
         "frametrail:type": "Annotation",
-        "frametrail:tags": [],
+        "frametrail:tags": [
+            "ft-findings"
+        ],
         "frametrail:uri": null,
         "target": {
             "type": "Video",
@@ -170,7 +184,8 @@
             "value": "",
             "frametrail:name": "16:20 · Pervomaiskyi",
             "frametrail:attributes": {
-                "text": "&lt;div class=&quot;dossierNote&quot; data-layer=&quot;4&quot;&gt;&lt;p class=&quot;dossierLayer&quot;&gt;17 July 2014&lt;/p&gt;&lt;p class=&quot;dossierTitle&quot;&gt;16:20 · Pervomaiskyi&lt;/p&gt;&lt;p&gt;Flight MH17 is shot down. 298 people are killed.&lt;/p&gt;&lt;/div&gt;"
+                "title": "16:20 · Pervomaiskyi",
+                "text": "&lt;p&gt;Flight MH17 is shot down. 298 people are killed.&lt;/p&gt;"
             }
         }
     },
@@ -187,7 +202,9 @@
         "created": "2026-11-22T18:00:00.036Z",
         "type": "Annotation",
         "frametrail:type": "Annotation",
-        "frametrail:tags": [],
+        "frametrail:tags": [
+            "ft-findings"
+        ],
         "frametrail:uri": null,
         "target": {
             "type": "Video",
@@ -205,7 +222,8 @@
             "value": "",
             "frametrail:name": "Late evening · Snizhne",
             "frametrail:attributes": {
-                "text": "&lt;div class=&quot;dossierNote&quot; data-layer=&quot;4&quot;&gt;&lt;p class=&quot;dossierLayer&quot;&gt;17 July 2014&lt;/p&gt;&lt;p class=&quot;dossierTitle&quot;&gt;Late evening · Snizhne&lt;/p&gt;&lt;p&gt;The launcher is loaded onto the low-loader again.&lt;/p&gt;&lt;/div&gt;"
+                "title": "Late evening · Snizhne",
+                "text": "&lt;p&gt;The launcher is loaded onto the low-loader again.&lt;/p&gt;"
             }
         }
     },
@@ -222,7 +240,9 @@
         "created": "2026-11-22T18:00:00.037Z",
         "type": "Annotation",
         "frametrail:type": "Annotation",
-        "frametrail:tags": [],
+        "frametrail:tags": [
+            "ft-findings"
+        ],
         "frametrail:uri": null,
         "target": {
             "type": "Video",
@@ -240,7 +260,8 @@
             "value": "",
             "frametrail:name": "18 July, early morning · Luhansk",
             "frametrail:attributes": {
-                "text": "&lt;div class=&quot;dossierNote&quot; data-layer=&quot;4&quot;&gt;&lt;p class=&quot;dossierLayer&quot;&gt;17 July 2014&lt;/p&gt;&lt;p class=&quot;dossierTitle&quot;&gt;18 July, early morning · Luhansk&lt;/p&gt;&lt;p&gt;Via Krasnyi Luch and Debaltseve to Luhansk, and on to the border.&lt;/p&gt;&lt;/div&gt;"
+                "title": "18 July, early morning · Luhansk",
+                "text": "&lt;p&gt;Via Krasnyi Luch and Debaltseve to Luhansk, and on to the border.&lt;/p&gt;"
             }
         }
     }

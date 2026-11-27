@@ -43,13 +43,13 @@
                     "cssClass": "dossierView",
                     "contentSize": "medium",
                     "initClosed": false,
+                    "showTags": true,
                     "collectionFilter": {
                         "tags": [],
                         "types": [],
                         "users": [],
                         "text": ""
-                    },
-                    "onClickContentItem": "if (this.data.type === 'text') { window.event.stopImmediatePropagation(); } else { hypervideo.pause(); }"
+                    }
                 }
             ]
         }

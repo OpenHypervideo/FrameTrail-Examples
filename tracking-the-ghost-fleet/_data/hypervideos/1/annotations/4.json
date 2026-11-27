@@ -12,7 +12,9 @@
         "created": "2026-11-22T19:00:00.026Z",
         "type": "Annotation",
         "frametrail:type": "Annotation",
-        "frametrail:tags": [],
+        "frametrail:tags": [
+            "ft-findings"
+        ],
         "frametrail:uri": null,
         "target": {
             "type": "Video",
@@ -30,7 +32,8 @@
             "value": "",
             "frametrail:name": "A system, not an incident",
             "frametrail:attributes": {
-                "text": "&lt;div class=&quot;dossierNote&quot; data-layer=&quot;4&quot;&gt;&lt;p class=&quot;dossierLayer&quot;&gt;Findings&lt;/p&gt;&lt;p class=&quot;dossierTitle&quot;&gt;A system, not an incident&lt;/p&gt;&lt;p&gt;The film calls it a systematic, years-long effort by Russia to profit from grain harvested in occupied Ukraine.&lt;/p&gt;&lt;/div&gt;"
+                "title": "A system, not an incident",
+                "text": "&lt;p&gt;The film calls it a systematic, years-long effort by Russia to profit from grain harvested in occupied Ukraine.&lt;/p&gt;"
             }
         }
     },
@@ -47,7 +50,9 @@
         "created": "2026-11-22T19:00:00.027Z",
         "type": "Annotation",
         "frametrail:type": "Annotation",
-        "frametrail:tags": [],
+        "frametrail:tags": [
+            "ft-findings"
+        ],
         "frametrail:uri": null,
         "target": {
             "type": "Video",
@@ -65,7 +70,8 @@
             "value": "",
             "frametrail:name": "Dozens of visits",
             "frametrail:attributes": {
-                "text": "&lt;div class=&quot;dossierNote&quot; data-layer=&quot;4&quot;&gt;&lt;p class=&quot;dossierLayer&quot;&gt;Findings&lt;/p&gt;&lt;p class=&quot;dossierTitle&quot;&gt;Dozens of visits&lt;/p&gt;&lt;p&gt;Suspect ships have taken grain from Sevastopol dozens of times since the invasion began.&lt;/p&gt;&lt;/div&gt;"
+                "title": "Dozens of visits",
+                "text": "&lt;p&gt;Suspect ships have taken grain from Sevastopol dozens of times since the invasion began.&lt;/p&gt;"
             }
         }
     },
@@ -82,7 +88,9 @@
         "created": "2026-11-22T19:00:00.028Z",
         "type": "Annotation",
         "frametrail:type": "Annotation",
-        "frametrail:tags": [],
+        "frametrail:tags": [
+            "ft-findings"
+        ],
         "frametrail:uri": null,
         "target": {
             "type": "Video",
@@ -100,7 +108,8 @@
             "value": "",
             "frametrail:name": "Three ways out",
             "frametrail:attributes": {
-                "text": "&lt;div class=&quot;dossierNote&quot; data-layer=&quot;4&quot;&gt;&lt;p class=&quot;dossierLayer&quot;&gt;Findings&lt;/p&gt;&lt;p class=&quot;dossierTitle&quot;&gt;Three ways out&lt;/p&gt;&lt;p&gt;Directly from Sevastopol to ports in countries such as Syria or Iran; or with one ship-to-ship transfer; or with several. The transfers happen in the Kerch Strait and mask where the grain came from.&lt;/p&gt;&lt;/div&gt;"
+                "title": "Three ways out",
+                "text": "&lt;p&gt;Directly from Sevastopol to ports in countries such as Syria or Iran; or with one ship-to-ship transfer; or with several. The transfers happen in the Kerch Strait and mask where the grain came from.&lt;/p&gt;"
             }
         }
     },
@@ -117,7 +126,9 @@
         "created": "2026-11-22T19:00:00.029Z",
         "type": "Annotation",
         "frametrail:type": "Annotation",
-        "frametrail:tags": [],
+        "frametrail:tags": [
+            "ft-findings"
+        ],
         "frametrail:uri": null,
         "target": {
             "type": "Video",
@@ -135,7 +146,8 @@
             "value": "",
             "frametrail:name": "The same ships under a new name",
             "frametrail:attributes": {
-                "text": "&lt;div class=&quot;dossierNote&quot; data-layer=&quot;4&quot;&gt;&lt;p class=&quot;dossierLayer&quot;&gt;Findings&lt;/p&gt;&lt;p class=&quot;dossierTitle&quot;&gt;The same ships under a new name&lt;/p&gt;&lt;p&gt;At least three tracked shipments were transferred to ships that used to belong to one company and now operate under another company&amp;#x27;s name.&lt;/p&gt;&lt;/div&gt;"
+                "title": "The same ships under a new name",
+                "text": "&lt;p&gt;At least three tracked shipments were transferred to ships that used to belong to one company and now operate under another company&amp;#x27;s name.&lt;/p&gt;"
             }
         }
     },
@@ -152,7 +164,9 @@
         "created": "2026-11-22T19:00:00.030Z",
         "type": "Annotation",
         "frametrail:type": "Annotation",
-        "frametrail:tags": [],
+        "frametrail:tags": [
+            "ft-findings"
+        ],
         "frametrail:uri": null,
         "target": {
             "type": "Video",
@@ -170,7 +184,8 @@
             "value": "",
             "frametrail:name": "New routes to Iran",
             "frametrail:attributes": {
-                "text": "&lt;div class=&quot;dossierNote&quot; data-layer=&quot;4&quot;&gt;&lt;p class=&quot;dossierLayer&quot;&gt;Findings&lt;/p&gt;&lt;p class=&quot;dossierTitle&quot;&gt;New routes to Iran&lt;/p&gt;&lt;p&gt;Two ships sailed directly to Iran. The film says these routes had not been reported before.&lt;/p&gt;&lt;/div&gt;"
+                "title": "New routes to Iran",
+                "text": "&lt;p&gt;Two ships sailed directly to Iran. The film says these routes had not been reported before.&lt;/p&gt;"
             }
         }
     },
@@ -187,7 +202,9 @@
         "created": "2026-11-22T19:00:00.031Z",
         "type": "Annotation",
         "frametrail:type": "Annotation",
-        "frametrail:tags": [],
+        "frametrail:tags": [
+            "ft-findings"
+        ],
         "frametrail:uri": null,
         "target": {
             "type": "Video",
@@ -205,7 +222,8 @@
             "value": "",
             "frametrail:name": "Also to Turkey and Egypt",
             "frametrail:attributes": {
-                "text": "&lt;div class=&quot;dossierNote&quot; data-layer=&quot;4&quot;&gt;&lt;p class=&quot;dossierLayer&quot;&gt;Findings&lt;/p&gt;&lt;p class=&quot;dossierTitle&quot;&gt;Also to Turkey and Egypt&lt;/p&gt;&lt;p&gt;Evidence of deliveries to other countries too. Trading shipments from occupied Crimea violates sanctions of the United States, the European Union and the United Kingdom.&lt;/p&gt;&lt;/div&gt;"
+                "title": "Also to Turkey and Egypt",
+                "text": "&lt;p&gt;Evidence of deliveries to other countries too. Trading shipments from occupied Crimea violates sanctions of the United States, the European Union and the United Kingdom.&lt;/p&gt;"
             }
         }
     },
@@ -222,7 +240,9 @@
         "created": "2026-11-22T19:00:00.032Z",
         "type": "Annotation",
         "frametrail:type": "Annotation",
-        "frametrail:tags": [],
+        "frametrail:tags": [
+            "ft-findings"
+        ],
         "frametrail:uri": null,
         "target": {
             "type": "Video",
@@ -240,7 +260,8 @@
             "value": "",
             "frametrail:name": "More transfers, more darkness",
             "frametrail:attributes": {
-                "text": "&lt;div class=&quot;dossierNote&quot; data-layer=&quot;4&quot;&gt;&lt;p class=&quot;dossierLayer&quot;&gt;Findings&lt;/p&gt;&lt;p class=&quot;dossierTitle&quot;&gt;More transfers, more darkness&lt;/p&gt;&lt;p&gt;Ship-to-ship transfers have increased, and more of them happen with the transponders off.&lt;/p&gt;&lt;/div&gt;"
+                "title": "More transfers, more darkness",
+                "text": "&lt;p&gt;Ship-to-ship transfers have increased, and more of them happen with the transponders off.&lt;/p&gt;"
             }
         }
     }

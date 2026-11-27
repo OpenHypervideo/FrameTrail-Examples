@@ -12,7 +12,9 @@
         "created": "2026-11-22T17:00:00.015Z",
         "type": "Annotation",
         "frametrail:type": "Annotation",
-        "frametrail:tags": [],
+        "frametrail:tags": [
+            "ft-sources"
+        ],
         "frametrail:uri": null,
         "target": {
             "type": "Video",
@@ -30,7 +32,8 @@
             "value": "",
             "frametrail:name": "St George Hospital",
             "frametrail:attributes": {
-                "text": "&lt;div class=&quot;dossierNote&quot; data-layer=&quot;3&quot;&gt;&lt;p class=&quot;dossierLayer&quot;&gt;Sources&lt;/p&gt;&lt;p class=&quot;dossierTitle&quot;&gt;St George Hospital&lt;/p&gt;&lt;p&gt;A video from the nearby hospital, starting at 5:58 pm: ten minutes of uninterrupted footage of the warehouse.&lt;/p&gt;&lt;/div&gt;"
+                "title": "St George Hospital",
+                "text": "&lt;p&gt;A video from the nearby hospital, starting at 5:58 pm: ten minutes of uninterrupted footage of the warehouse.&lt;/p&gt;"
             }
         }
     },
@@ -47,7 +50,9 @@
         "created": "2026-11-22T17:00:00.016Z",
         "type": "Annotation",
         "frametrail:type": "Annotation",
-        "frametrail:tags": [],
+        "frametrail:tags": [
+            "ft-sources"
+        ],
         "frametrail:uri": null,
         "target": {
             "type": "Video",
@@ -65,7 +70,8 @@
             "value": "",
             "frametrail:name": "The fire brigade",
             "frametrail:attributes": {
-                "text": "&lt;div class=&quot;dossierNote&quot; data-layer=&quot;3&quot;&gt;&lt;p class=&quot;dossierLayer&quot;&gt;Sources&lt;/p&gt;&lt;p class=&quot;dossierTitle&quot;&gt;The fire brigade&lt;/p&gt;&lt;p&gt;As reported by media outlets, the brigade arrived about four minutes after the call to the station at 5:54 pm. Its own footage records the sound of fireworks.&lt;/p&gt;&lt;/div&gt;"
+                "title": "The fire brigade",
+                "text": "&lt;p&gt;As reported by media outlets, the brigade arrived about four minutes after the call to the station at 5:54 pm. Its own footage records the sound of fireworks.&lt;/p&gt;"
             }
         }
     },
@@ -82,7 +88,9 @@
         "created": "2026-11-22T17:00:00.017Z",
         "type": "Annotation",
         "frametrail:type": "Annotation",
-        "frametrail:tags": [],
+        "frametrail:tags": [
+            "ft-sources"
+        ],
         "frametrail:uri": null,
         "target": {
             "type": "Video",
@@ -100,7 +108,8 @@
             "value": "",
             "frametrail:name": "Six years of warnings",
             "frametrail:attributes": {
-                "text": "&lt;div class=&quot;dossierNote&quot; data-layer=&quot;3&quot;&gt;&lt;p class=&quot;dossierLayer&quot;&gt;Sources&lt;/p&gt;&lt;p class=&quot;dossierTitle&quot;&gt;Six years of warnings&lt;/p&gt;&lt;p&gt;The ammonium nitrate was unloaded into this hangar in October 2014. Port and customs officials warned of the danger from December of that year. In February 2015 an expert commissioned by the Lebanese courts found 70 per cent of the sacks torn open. The chronology shown is by Legal Action Worldwide.&lt;/p&gt;&lt;/div&gt;"
+                "title": "Six years of warnings",
+                "text": "&lt;p&gt;The ammonium nitrate was unloaded into this hangar in October 2014. Port and customs officials warned of the danger from December of that year. In February 2015 an expert commissioned by the Lebanese courts found 70 per cent of the sacks torn open. The chronology shown is by Legal Action Worldwide.&lt;/p&gt;"
             }
         }
     },
@@ -117,7 +126,9 @@
         "created": "2026-11-22T17:00:00.018Z",
         "type": "Annotation",
         "frametrail:type": "Annotation",
-        "frametrail:tags": [],
+        "frametrail:tags": [
+            "ft-sources"
+        ],
         "frametrail:uri": null,
         "target": {
             "type": "Video",
@@ -135,7 +146,8 @@
             "value": "",
             "frametrail:name": "Leaked images, 2020",
             "frametrail:attributes": {
-                "text": "&lt;div class=&quot;dossierNote&quot; data-layer=&quot;3&quot;&gt;&lt;p class=&quot;dossierLayer&quot;&gt;Sources&lt;/p&gt;&lt;p class=&quot;dossierTitle&quot;&gt;Leaked images, 2020&lt;/p&gt;&lt;p&gt;They show the sacks still torn and spilling. The film shows them in an article of the New York Times.&lt;/p&gt;&lt;/div&gt;"
+                "title": "Leaked images, 2020",
+                "text": "&lt;p&gt;They show the sacks still torn and spilling. The film shows them in an article of the New York Times.&lt;/p&gt;"
             }
         }
     },
@@ -152,7 +164,9 @@
         "created": "2026-11-22T17:00:00.019Z",
         "type": "Annotation",
         "frametrail:type": "Annotation",
-        "frametrail:tags": [],
+        "frametrail:tags": [
+            "ft-sources"
+        ],
         "frametrail:uri": null,
         "target": {
             "type": "Video",
@@ -170,7 +184,8 @@
             "value": "",
             "frametrail:name": "Al Jadeed",
             "frametrail:attributes": {
-                "text": "&lt;div class=&quot;dossierNote&quot; data-layer=&quot;3&quot;&gt;&lt;p class=&quot;dossierLayer&quot;&gt;Sources&lt;/p&gt;&lt;p class=&quot;dossierTitle&quot;&gt;Al Jadeed&lt;/p&gt;&lt;p&gt;A video of 18 December released by the Lebanese broadcaster: bags stored at bay 6 and around door 9, blocking the entrance.&lt;/p&gt;&lt;/div&gt;"
+                "title": "Al Jadeed",
+                "text": "&lt;p&gt;A video of 18 December released by the Lebanese broadcaster: bags stored at bay 6 and around door 9, blocking the entrance.&lt;/p&gt;"
             }
         }
     },
@@ -187,7 +202,9 @@
         "created": "2026-11-22T17:00:00.020Z",
         "type": "Annotation",
         "frametrail:type": "Annotation",
-        "frametrail:tags": [],
+        "frametrail:tags": [
+            "ft-sources"
+        ],
         "frametrail:uri": null,
         "target": {
             "type": "Video",
@@ -205,7 +222,8 @@
             "value": "",
             "frametrail:name": "What news reports listed",
             "frametrail:attributes": {
-                "text": "&lt;div class=&quot;dossierNote&quot; data-layer=&quot;3&quot;&gt;&lt;p class=&quot;dossierLayer&quot;&gt;Sources&lt;/p&gt;&lt;p class=&quot;dossierTitle&quot;&gt;What news reports listed&lt;/p&gt;&lt;p&gt;Besides the ammonium nitrate: 23 tonnes of fireworks, 50 tonnes of ammonium phosphate, 5 tonnes of tea and coffee, 5 rolls of slow-burning detonating cord and 1,000 car tyres. The list on screen is from MTV Lebanon.&lt;/p&gt;&lt;/div&gt;"
+                "title": "What news reports listed",
+                "text": "&lt;p&gt;Besides the ammonium nitrate: 23 tonnes of fireworks, 50 tonnes of ammonium phosphate, 5 tonnes of tea and coffee, 5 rolls of slow-burning detonating cord and 1,000 car tyres. The list on screen is from MTV Lebanon.&lt;/p&gt;"
             }
         }
     },
@@ -222,7 +240,9 @@
         "created": "2026-11-22T17:00:00.021Z",
         "type": "Annotation",
         "frametrail:type": "Annotation",
-        "frametrail:tags": [],
+        "frametrail:tags": [
+            "ft-sources"
+        ],
         "frametrail:uri": null,
         "target": {
             "type": "Video",
@@ -240,7 +260,8 @@
             "value": "",
             "frametrail:name": "The expert's words",
             "frametrail:attributes": {
-                "text": "&lt;div class=&quot;dossierNote&quot; data-layer=&quot;3&quot;&gt;&lt;p class=&quot;dossierLayer&quot;&gt;Sources&lt;/p&gt;&lt;p class=&quot;dossierTitle&quot;&gt;The expert&amp;#x27;s words&lt;/p&gt;&lt;p&gt;“Ammonium nitrate is extremely difficult to detonate by fire alone. However, when confined and contaminated, this … can lead to catastrophic detonation.”&lt;/p&gt;&lt;/div&gt;"
+                "title": "The expert's words",
+                "text": "&lt;p&gt;“Ammonium nitrate is extremely difficult to detonate by fire alone. However, when confined and contaminated, this … can lead to catastrophic detonation.”&lt;/p&gt;"
             }
         }
     },
@@ -257,7 +278,9 @@
         "created": "2026-11-22T17:00:00.022Z",
         "type": "Annotation",
         "frametrail:type": "Annotation",
-        "frametrail:tags": [],
+        "frametrail:tags": [
+            "ft-sources"
+        ],
         "frametrail:uri": null,
         "target": {
             "type": "Video",
@@ -275,7 +298,8 @@
             "value": "",
             "frametrail:name": "The survivors",
             "frametrail:attributes": {
-                "text": "&lt;div class=&quot;dossierNote&quot; data-layer=&quot;3&quot;&gt;&lt;p class=&quot;dossierLayer&quot;&gt;Sources&lt;/p&gt;&lt;p class=&quot;dossierTitle&quot;&gt;The survivors&lt;/p&gt;&lt;p&gt;About a thousand survivors and victims&amp;#x27; families have called for an independent investigation and public access to all relevant documents. The statements shown are from the report by Legal Action Worldwide.&lt;/p&gt;&lt;/div&gt;"
+                "title": "The survivors",
+                "text": "&lt;p&gt;About a thousand survivors and victims&amp;#x27; families have called for an independent investigation and public access to all relevant documents. The statements shown are from the report by Legal Action Worldwide.&lt;/p&gt;"
             }
         }
     }

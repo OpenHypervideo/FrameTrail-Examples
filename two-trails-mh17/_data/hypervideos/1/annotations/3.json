@@ -12,7 +12,9 @@
         "created": "2026-11-22T18:00:00.019Z",
         "type": "Annotation",
         "frametrail:type": "Annotation",
-        "frametrail:tags": [],
+        "frametrail:tags": [
+            "ft-sources"
+        ],
         "frametrail:uri": null,
         "target": {
             "type": "Video",
@@ -30,7 +32,8 @@
             "value": "",
             "frametrail:name": "Shared online that day",
             "frametrail:attributes": {
-                "text": "&lt;div class=&quot;dossierNote&quot; data-layer=&quot;3&quot;&gt;&lt;p class=&quot;dossierLayer&quot;&gt;Open sources&lt;/p&gt;&lt;p class=&quot;dossierTitle&quot;&gt;Shared online that day&lt;/p&gt;&lt;p&gt;After MH17 came down, photographs and videos of a Buk on a red low-loader were shared online. For each, the place where it was taken could be confirmed.&lt;/p&gt;&lt;p class=&quot;dossierLink&quot;&gt;&lt;a href=&quot;https://www.bellingcat.com/news/uk-and-europe/2015/10/08/mh17-the-open-source-evidence/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Bellingcat: MH17 – The Open Source Evidence ↗&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;"
+                "title": "Shared online that day",
+                "text": "&lt;p&gt;After MH17 came down, photographs and videos of a Buk on a red low-loader were shared online. For each, the place where it was taken could be confirmed.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.bellingcat.com/news/uk-and-europe/2015/10/08/mh17-the-open-source-evidence/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Bellingcat: MH17 – The Open Source Evidence ↗&lt;/a&gt;&lt;/p&gt;"
             }
         }
     },
@@ -47,7 +50,9 @@
         "created": "2026-11-22T18:00:00.020Z",
         "type": "Annotation",
         "frametrail:type": "Annotation",
-        "frametrail:tags": [],
+        "frametrail:tags": [
+            "ft-sources"
+        ],
         "frametrail:uri": null,
         "target": {
             "type": "Video",
@@ -65,7 +70,8 @@
             "value": "",
             "frametrail:name": "Donetsk, after 9:40",
             "frametrail:attributes": {
-                "text": "&lt;div class=&quot;dossierNote&quot; data-layer=&quot;3&quot;&gt;&lt;p class=&quot;dossierLayer&quot;&gt;Open sources&lt;/p&gt;&lt;p class=&quot;dossierTitle&quot;&gt;Donetsk, after 9:40&lt;/p&gt;&lt;p&gt;Locals in Donetsk reported the launcher on social media, close to a separatist base known as the “Motel”.&lt;/p&gt;&lt;/div&gt;"
+                "title": "Donetsk, after 9:40",
+                "text": "&lt;p&gt;Locals in Donetsk reported the launcher on social media, close to a separatist base known as the “Motel”.&lt;/p&gt;"
             }
         }
     },
@@ -82,7 +88,9 @@
         "created": "2026-11-22T18:00:00.021Z",
         "type": "Annotation",
         "frametrail:type": "Annotation",
-        "frametrail:tags": [],
+        "frametrail:tags": [
+            "ft-sources"
+        ],
         "frametrail:uri": null,
         "target": {
             "type": "Video",
@@ -100,7 +108,8 @@
             "value": "",
             "frametrail:name": "Dating the Paris Match picture",
             "frametrail:attributes": {
-                "text": "&lt;div class=&quot;dossierNote&quot; data-layer=&quot;3&quot;&gt;&lt;p class=&quot;dossierLayer&quot;&gt;Open sources&lt;/p&gt;&lt;p class=&quot;dossierTitle&quot;&gt;Dating the Paris Match picture&lt;/p&gt;&lt;p&gt;Paris Match gave the time as about 11 am. An analysis of the shadows by the Ukraine@War blog put it at about 10 to 10:15 am.&lt;/p&gt;&lt;/div&gt;"
+                "title": "Dating the Paris Match picture",
+                "text": "&lt;p&gt;Paris Match gave the time as about 11 am. An analysis of the shadows by the Ukraine@War blog put it at about 10 to 10:15 am.&lt;/p&gt;"
             }
         }
     },
@@ -117,7 +126,9 @@
         "created": "2026-11-22T18:00:00.022Z",
         "type": "Annotation",
         "frametrail:type": "Annotation",
-        "frametrail:tags": [],
+        "frametrail:tags": [
+            "ft-sources"
+        ],
         "frametrail:uri": null,
         "target": {
             "type": "Video",
@@ -135,7 +146,8 @@
             "value": "",
             "frametrail:name": "The Zuhres video",
             "frametrail:attributes": {
-                "text": "&lt;div class=&quot;dossierNote&quot; data-layer=&quot;3&quot;&gt;&lt;p class=&quot;dossierLayer&quot;&gt;Open sources&lt;/p&gt;&lt;p class=&quot;dossierTitle&quot;&gt;The Zuhres video&lt;/p&gt;&lt;p&gt;Posted with the time and the coordinates. The coordinates were confirmed, and teams from ARD, Correctiv and 60 Minutes Australia later visited the spot.&lt;/p&gt;&lt;/div&gt;"
+                "title": "The Zuhres video",
+                "text": "&lt;p&gt;Posted with the time and the coordinates. The coordinates were confirmed, and teams from ARD, Correctiv and 60 Minutes Australia later visited the spot.&lt;/p&gt;"
             }
         }
     },
@@ -152,7 +164,9 @@
         "created": "2026-11-22T18:00:00.023Z",
         "type": "Annotation",
         "frametrail:type": "Annotation",
-        "frametrail:tags": [],
+        "frametrail:tags": [
+            "ft-sources"
+        ],
         "frametrail:uri": null,
         "target": {
             "type": "Video",
@@ -170,7 +184,8 @@
             "value": "",
             "frametrail:name": "The Torez photograph",
             "frametrail:attributes": {
-                "text": "&lt;div class=&quot;dossierNote&quot; data-layer=&quot;3&quot;&gt;&lt;p class=&quot;dossierLayer&quot;&gt;Open sources&lt;/p&gt;&lt;p class=&quot;dossierTitle&quot;&gt;The Torez photograph&lt;/p&gt;&lt;p&gt;Geolocated in Torez; the shadows put it at about 12:30. Reporters from the Guardian and BuzzFeed confirmed the time with residents a few days later.&lt;/p&gt;&lt;/div&gt;"
+                "title": "The Torez photograph",
+                "text": "&lt;p&gt;Geolocated in Torez; the shadows put it at about 12:30. Reporters from the Guardian and BuzzFeed confirmed the time with residents a few days later.&lt;/p&gt;"
             }
         }
     },
@@ -187,7 +202,9 @@
         "created": "2026-11-22T18:00:00.024Z",
         "type": "Annotation",
         "frametrail:type": "Annotation",
-        "frametrail:tags": [],
+        "frametrail:tags": [
+            "ft-sources"
+        ],
         "frametrail:uri": null,
         "target": {
             "type": "Video",
@@ -205,7 +222,8 @@
             "value": "",
             "frametrail:name": "Snizhne, before the crash",
             "frametrail:attributes": {
-                "text": "&lt;div class=&quot;dossierNote&quot; data-layer=&quot;3&quot;&gt;&lt;p class=&quot;dossierLayer&quot;&gt;Open sources&lt;/p&gt;&lt;p class=&quot;dossierTitle&quot;&gt;Snizhne, before the crash&lt;/p&gt;&lt;p&gt;One photograph and one video show the launcher unloaded and driving under its own power. An AP reporter had described a Buk in the town in a report published before MH17 was shot down.&lt;/p&gt;&lt;/div&gt;"
+                "title": "Snizhne, before the crash",
+                "text": "&lt;p&gt;One photograph and one video show the launcher unloaded and driving under its own power. An AP reporter had described a Buk in the town in a report published before MH17 was shot down.&lt;/p&gt;"
             }
         }
     },
@@ -222,7 +240,9 @@
         "created": "2026-11-22T18:00:00.025Z",
         "type": "Annotation",
         "frametrail:type": "Annotation",
-        "frametrail:tags": [],
+        "frametrail:tags": [
+            "ft-sources"
+        ],
         "frametrail:uri": null,
         "target": {
             "type": "Video",
@@ -240,7 +260,8 @@
             "value": "",
             "frametrail:name": "The last sighting",
             "frametrail:attributes": {
-                "text": "&lt;div class=&quot;dossierNote&quot; data-layer=&quot;3&quot;&gt;&lt;p class=&quot;dossierLayer&quot;&gt;Open sources&lt;/p&gt;&lt;p class=&quot;dossierTitle&quot;&gt;The last sighting&lt;/p&gt;&lt;p&gt;The Snizhne video is the last publicly known sighting on 17 July: the launcher heads south out of the town, towards farmland.&lt;/p&gt;&lt;/div&gt;"
+                "title": "The last sighting",
+                "text": "&lt;p&gt;The Snizhne video is the last publicly known sighting on 17 July: the launcher heads south out of the town, towards farmland.&lt;/p&gt;"
             }
         }
     },
@@ -257,7 +278,9 @@
         "created": "2026-11-22T18:00:00.026Z",
         "type": "Annotation",
         "frametrail:type": "Annotation",
-        "frametrail:tags": [],
+        "frametrail:tags": [
+            "ft-sources"
+        ],
         "frametrail:uri": null,
         "target": {
             "type": "Video",
@@ -275,7 +298,8 @@
             "value": "",
             "frametrail:name": "The smoke trail on Twitter",
             "frametrail:attributes": {
-                "text": "&lt;div class=&quot;dossierNote&quot; data-layer=&quot;3&quot;&gt;&lt;p class=&quot;dossierLayer&quot;&gt;Open sources&lt;/p&gt;&lt;p class=&quot;dossierTitle&quot;&gt;The smoke trail on Twitter&lt;/p&gt;&lt;p&gt;Shared a few hours after the crash. RTL Nieuws interviewed the photographer; Fox-IT and NIDF verified the pictures; NEO, TU Delft, Bellingcat and others geolocated them and the direction of the smoke.&lt;/p&gt;&lt;/div&gt;"
+                "title": "The smoke trail on Twitter",
+                "text": "&lt;p&gt;Shared a few hours after the crash. RTL Nieuws interviewed the photographer; Fox-IT and NIDF verified the pictures; NEO, TU Delft, Bellingcat and others geolocated them and the direction of the smoke.&lt;/p&gt;"
             }
         }
     },
@@ -292,7 +316,9 @@
         "created": "2026-11-22T18:00:00.027Z",
         "type": "Annotation",
         "frametrail:type": "Annotation",
-        "frametrail:tags": [],
+        "frametrail:tags": [
+            "ft-sources"
+        ],
         "frametrail:uri": null,
         "target": {
             "type": "Video",
@@ -310,7 +336,8 @@
             "value": "",
             "frametrail:name": "Reporters in the field",
             "frametrail:attributes": {
-                "text": "&lt;div class=&quot;dossierNote&quot; data-layer=&quot;3&quot;&gt;&lt;p class=&quot;dossierLayer&quot;&gt;Open sources&lt;/p&gt;&lt;p class=&quot;dossierTitle&quot;&gt;Reporters in the field&lt;/p&gt;&lt;p&gt;Roland Oliphant of the Daily Telegraph and Christopher Miller of Mashable found a field with a burnt corner. Their photographs were used to geolocate it.&lt;/p&gt;&lt;/div&gt;"
+                "title": "Reporters in the field",
+                "text": "&lt;p&gt;Roland Oliphant of the Daily Telegraph and Christopher Miller of Mashable found a field with a burnt corner. Their photographs were used to geolocate it.&lt;/p&gt;"
             }
         }
     },
@@ -327,7 +354,9 @@
         "created": "2026-11-22T18:00:00.028Z",
         "type": "Annotation",
         "frametrail:type": "Annotation",
-        "frametrail:tags": [],
+        "frametrail:tags": [
+            "ft-sources"
+        ],
         "frametrail:uri": null,
         "target": {
             "type": "Video",
@@ -345,7 +374,8 @@
             "value": "",
             "frametrail:name": "Before and after",
             "frametrail:attributes": {
-                "text": "&lt;div class=&quot;dossierNote&quot; data-layer=&quot;3&quot;&gt;&lt;p class=&quot;dossierLayer&quot;&gt;Open sources&lt;/p&gt;&lt;p class=&quot;dossierTitle&quot;&gt;Before and after&lt;/p&gt;&lt;p&gt;Satellite imagery by DigitalGlobe shows that the burnt and ploughed area was absent on 16 July.&lt;/p&gt;&lt;/div&gt;"
+                "title": "Before and after",
+                "text": "&lt;p&gt;Satellite imagery by DigitalGlobe shows that the burnt and ploughed area was absent on 16 July.&lt;/p&gt;"
             }
         }
     },
@@ -362,7 +392,9 @@
         "created": "2026-11-22T18:00:00.029Z",
         "type": "Annotation",
         "frametrail:type": "Annotation",
-        "frametrail:tags": [],
+        "frametrail:tags": [
+            "ft-sources"
+        ],
         "frametrail:uri": null,
         "target": {
             "type": "Video",
@@ -380,7 +412,8 @@
             "value": "",
             "frametrail:name": "The Luhansk video",
             "frametrail:attributes": {
-                "text": "&lt;div class=&quot;dossierNote&quot; data-layer=&quot;3&quot;&gt;&lt;p class=&quot;dossierLayer&quot;&gt;Open sources&lt;/p&gt;&lt;p class=&quot;dossierTitle&quot;&gt;The Luhansk video&lt;/p&gt;&lt;p&gt;Published on 18 July by Ukraine&amp;#x27;s interior ministry. The location was confirmed by geolocation and by journalists on the spot; truck and low-loader are the same as the day before.&lt;/p&gt;&lt;/div&gt;"
+                "title": "The Luhansk video",
+                "text": "&lt;p&gt;Published on 18 July by Ukraine&amp;#x27;s interior ministry. The location was confirmed by geolocation and by journalists on the spot; truck and low-loader are the same as the day before.&lt;/p&gt;"
             }
         }
     },
@@ -397,7 +430,9 @@
         "created": "2026-11-22T18:00:00.030Z",
         "type": "Annotation",
         "frametrail:type": "Annotation",
-        "frametrail:tags": [],
+        "frametrail:tags": [
+            "ft-sources"
+        ],
         "frametrail:uri": null,
         "target": {
             "type": "Video",
@@ -415,7 +450,8 @@
             "value": "",
             "frametrail:name": "Where the launcher came from",
             "frametrail:attributes": {
-                "text": "&lt;div class=&quot;dossierNote&quot; data-layer=&quot;3&quot;&gt;&lt;p class=&quot;dossierLayer&quot;&gt;Open sources&lt;/p&gt;&lt;p class=&quot;dossierTitle&quot;&gt;Where the launcher came from&lt;/p&gt;&lt;p&gt;Damage to the rubber side skirt works like a fingerprint. It matches a launcher filmed in late June in a convoy from Kursk to Millerovo, of Russia&amp;#x27;s 53rd Anti-Aircraft Missile Brigade. The findings were given to the investigation team.&lt;/p&gt;&lt;p class=&quot;dossierLink&quot;&gt;&lt;a href=&quot;https://www.bellingcat.com/news/uk-and-europe/2015/10/08/mh17-the-open-source-evidence/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Bellingcat: MH17 – The Open Source Evidence ↗&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;"
+                "title": "Where the launcher came from",
+                "text": "&lt;p&gt;Damage to the rubber side skirt works like a fingerprint. It matches a launcher filmed in late June in a convoy from Kursk to Millerovo, of Russia&amp;#x27;s 53rd Anti-Aircraft Missile Brigade. The findings were given to the investigation team.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.bellingcat.com/news/uk-and-europe/2015/10/08/mh17-the-open-source-evidence/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Bellingcat: MH17 – The Open Source Evidence ↗&lt;/a&gt;&lt;/p&gt;"
             }
         }
     }

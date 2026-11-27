@@ -1,4 +1,16 @@
 {
+    "ft-method": {
+        "label": "Method",
+        "description": "A note of the layer “Method”."
+    },
+    "ft-sources": {
+        "label": "Sources",
+        "description": "A note of the layer “Sources”."
+    },
+    "ft-findings": {
+        "label": "Findings",
+        "description": "A note of the layer “Findings”."
+    },
     "ft-source": {
         "label": "Source",
         "description": "Material the investigation used, shows or cites: footage, posts, documents, articles, data."
