@@ -14,6 +14,8 @@
         "background": "1_1795290000_paths.svg",
         "backgroundColor": "#050a22",
         "fit": "contain",
+        "padding": 5,
+        "paddingUnit": "percent",
         "pinStyle": "thumb",
         "pinAnimation": "none",
         "lastchanged": 1795290100000,
