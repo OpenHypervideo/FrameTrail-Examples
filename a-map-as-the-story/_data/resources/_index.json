@@ -262,16 +262,16 @@
             "attributes": {}
         },
         "21": {
-            "name": "The world (NASA Blue Marble)",
+            "name": "The world (Natural Earth)",
             "type": "image",
-            "src": "1_1795430000_world.jpg",
+            "src": "1_1795430000_world.svg",
             "thumb": "1_1795430000_thumb_world.jpg",
             "description": null,
             "creator": "demo",
             "creatorId": "1",
             "created": 1795430021,
             "licenseType": "PD",
-            "licenseAttribution": "NASA Earth Observatory, Blue Marble",
+            "licenseAttribution": "Made with Natural Earth (naturalearthdata.com)",
             "attributes": {}
         }
     }

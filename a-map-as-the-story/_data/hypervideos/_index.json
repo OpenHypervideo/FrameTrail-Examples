@@ -13,8 +13,7 @@
         "10": "./10"
     },
     "overviewMap": {
-        "background": "1_1795430000_world.jpg",
-        "backgroundColor": "#02021f",
+        "background": "1_1795430000_world.svg",
         "fit": "contain",
         "pinStyle": "thumb",
         "pinAnimation": "ripple",

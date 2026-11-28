@@ -17,7 +17,11 @@ Films
     Gran Chaco: https://svs.gsfc.nasa.gov/15026/
     Escondida Mine: https://svs.gsfc.nasa.gov/15086/
 
-World map and locators
+World map
+    Made with Natural Earth (1:50m land, lakes and country borders), public domain:
+    https://www.naturalearthdata.com/
+
+Locators
     NASA Earth Observatory, Blue Marble ("Land, ocean, ice"), public domain, via Wikimedia Commons:
     https://commons.wikimedia.org/wiki/File:Land_ocean_ice_2048.jpg
 
