@@ -1,11 +1,24 @@
 {
-    "resources-increment": 1,
+    "resources-increment": 2,
     "resources": {
         "1": {
             "name": "Up or down",
             "type": "video",
             "src": "1_1795290000_up-or-down.mp4",
             "thumb": "1_1795290000_thumb_up-or-down.jpg",
+            "description": null,
+            "creator": "demo",
+            "creatorId": "1",
+            "created": 1795290000,
+            "licenseType": "CC0",
+            "licenseAttribution": "Made for this example",
+            "attributes": {}
+        },
+        "2": {
+            "name": "The ways of The Room Decides",
+            "type": "image",
+            "src": "1_1795290000_paths.svg",
+            "thumb": "1_1795290000_thumb_paths.png",
             "description": null,
             "creator": "demo",
             "creatorId": "1",

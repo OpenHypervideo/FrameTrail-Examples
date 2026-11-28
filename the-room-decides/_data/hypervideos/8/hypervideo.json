@@ -1,0 +1,180 @@
+{
+    "meta": {
+        "name": "Back at the Surface",
+        "description": "The boat waits under the stars. This was one journey; there were others.",
+        "thumb": "1_1795290000_thumb_ending.jpg",
+        "creator": "demo",
+        "creatorId": "1",
+        "created": 1795290100000,
+        "lastchanged": 1795290100000
+    },
+    "config": {
+        "slidingMode": "adjust",
+        "slidingTrigger": "key",
+        "autohideControls": false,
+        "captionsVisible": true,
+        "clipTimeVisible": false,
+        "autoplay": true,
+        "layoutArea": {
+            "areaTop": [],
+            "areaBottom": [],
+            "areaLeft": [],
+            "areaRight": [],
+            "areaCompanion": [
+                {
+                    "type": "TimedContent",
+                    "name": "Journey",
+                    "description": "",
+                    "icon": "",
+                    "cssClass": "",
+                    "contentSize": "large",
+                    "initClosed": false,
+                    "collectionFilter": {
+                        "tags": [],
+                        "types": [],
+                        "users": [],
+                        "text": ""
+                    },
+                    "onClickContentItem": ""
+                }
+            ]
+        }
+    },
+    "clips": [
+        {
+            "resourceId": "1",
+            "src": "1_1795290000_up-or-down.mp4",
+            "duration": 166.0,
+            "in": 153.0,
+            "out": 166.0
+        }
+    ],
+    "chapters": [],
+    "subtitles": [
+        {
+            "src": "en.vtt",
+            "srclang": "en"
+        }
+    ],
+    "globalEvents": {
+        "onReady": "",
+        "onPlay": "",
+        "onPause": "",
+        "onEnded": ""
+    },
+    "customCSS": "",
+    "contents": [
+        {
+            "@context": [
+                "http://www.w3.org/ns/anno.jsonld",
+                "https://frametrail.org/ns/context.jsonld"
+            ],
+            "creator": {
+                "nickname": "demo",
+                "type": "Person",
+                "id": "1"
+            },
+            "created": "2026-11-21T15:00:00.017Z",
+            "type": "Annotation",
+            "frametrail:type": "Overlay",
+            "frametrail:tags": [],
+            "target": {
+                "type": "Video",
+                "source": "1_1795290000_up-or-down.mp4",
+                "selector": {
+                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                    "type": "FragmentSelector",
+                    "value": "t=161.457,166&xywh=percent:25,62,23,11"
+                }
+            },
+            "body": {
+                "type": "TextualBody",
+                "frametrail:type": "hotspot",
+                "format": "text/html",
+                "frametrail:name": "Start again",
+                "frametrail:thumb": null,
+                "frametrail:licenseType": null,
+                "frametrail:licenseAttribution": null,
+                "frametrail:attributes": {
+                    "text": "Start again",
+                    "shape": "rounded",
+                    "borderRadius": 40,
+                    "color": "#eaf6ff",
+                    "borderWidth": 2,
+                    "textColor": "#eaf6ff",
+                    "backgroundColor": "rgba(10, 20, 40, 0.55)",
+                    "pulse": false,
+                    "action": "jumpToHypervideo",
+                    "actionTarget": "1",
+                    "animation": {
+                        "in": {
+                            "preset": "fadeIn",
+                            "duration": 600
+                        },
+                        "out": {
+                            "preset": "fadeOut",
+                            "duration": 500
+                        }
+                    }
+                }
+            },
+            "frametrail:events": {}
+        },
+        {
+            "@context": [
+                "http://www.w3.org/ns/anno.jsonld",
+                "https://frametrail.org/ns/context.jsonld"
+            ],
+            "creator": {
+                "nickname": "demo",
+                "type": "Person",
+                "id": "1"
+            },
+            "created": "2026-11-21T15:00:00.018Z",
+            "type": "Annotation",
+            "frametrail:type": "Overlay",
+            "frametrail:tags": [],
+            "target": {
+                "type": "Video",
+                "source": "1_1795290000_up-or-down.mp4",
+                "selector": {
+                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                    "type": "FragmentSelector",
+                    "value": "t=161.457,166&xywh=percent:52,62,23,11"
+                }
+            },
+            "body": {
+                "type": "TextualBody",
+                "frametrail:type": "hotspot",
+                "format": "text/html",
+                "frametrail:name": "See all paths",
+                "frametrail:thumb": null,
+                "frametrail:licenseType": null,
+                "frametrail:licenseAttribution": null,
+                "frametrail:attributes": {
+                    "text": "See all paths",
+                    "shape": "rounded",
+                    "borderRadius": 40,
+                    "color": "#eaf6ff",
+                    "borderWidth": 2,
+                    "textColor": "#eaf6ff",
+                    "backgroundColor": "rgba(10, 20, 40, 0.55)",
+                    "pulse": false,
+                    "action": "openUrl",
+                    "actionTarget": "#overview",
+                    "animation": {
+                        "in": {
+                            "preset": "fadeIn",
+                            "duration": 600
+                        },
+                        "out": {
+                            "preset": "fadeOut",
+                            "duration": 500
+                        }
+                    }
+                }
+            },
+            "frametrail:events": {}
+        }
+    ]
+}

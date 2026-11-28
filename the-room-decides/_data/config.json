@@ -12,6 +12,8 @@
     "videoFit": "contain",
     "defaultLanguage": "en",
     "overviewTitle": "The Room Decides",
+    "overviewMode": "map",
+    "hypervideoTransition": "fade",
     "pairingBrokerURL": "https://pair.linked.video/",
     "pairingButtonVisible": true
 }

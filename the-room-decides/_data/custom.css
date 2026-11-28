@@ -1,46 +1,60 @@
 /* The Room Decides */
 
-/* The film has branches on one timeline: a progress bar would show them all, so there is none */
-.playerContainer .playerProgress {
-    visibility: hidden;
-    pointer-events: none;
+/* The vote on the video: a calm card on the picture, in the film's ink, with room for the votes counted so far
+   (FrameTrail shows them in the answers while paired phones vote: .quizTallied, .quizTally) */
+.overlayElement .resourceDetail[data-type="quiz"] .resourceContent {
+    height: 100%;
+    box-sizing: border-box;
+    padding: 18px 22px 14px;
+    gap: 12px;
+    color: #eaf6ff;
+    background: rgba(5, 10, 34, .8);
+    border: 1px solid rgba(234, 246, 255, .22);
+    border-radius: 12px;
+    box-shadow: 0 10px 40px rgba(0, 0, 0, .35);
 }
 
-/* The vote beside the film */
-.voteView .resourceDetail[data-type="quiz"] .resourceContent {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    gap: 14px;
-    padding: 20px 18px;
-}
-.voteView .resourceQuizQuestion {
-    font-size: 26px;
+.overlayElement .resourceDetail[data-type="quiz"] .resourceQuizQuestion {
+    font-size: 30px;
     font-weight: 600;
-    line-height: 1.25;
-    margin-bottom: 8px;
+    line-height: 1.2;
+    text-align: center;
 }
-.voteView .resourceQuizAnswersContainer {
-    display: flex;
-    flex-direction: column;
+
+.overlayElement .resourceDetail[data-type="quiz"] .resourceQuizAnswersContainer {
     gap: 12px;
 }
-.voteView .resourceQuizAnswersContainer button.quizAnswer {
-    flex: none;
-    height: auto;
-    min-height: 0;
-    padding: 18px 16px;
-    font-size: 19px;
+
+.overlayElement .resourceDetail[data-type="quiz"] .resourceQuizAnswersContainer button.quizAnswer {
+    margin: 0;
+    padding: 0 22px;
+    font-size: 23px;
     text-align: left;
-    border-radius: 6px;
+    color: #eaf6ff;
+    background-color: rgba(234, 246, 255, .08);
+    border: 1px solid rgba(234, 246, 255, .3);
+    border-radius: 8px;
 }
-.voteView .quizStatus {
-    font-size: 14px;
-    opacity: .8;
+
+.overlayElement .resourceDetail[data-type="quiz"] .resourceQuizAnswersContainer button.quizAnswer:hover:not(:disabled) {
+    border-color: #eaf6ff;
+    background-color: rgba(234, 246, 255, .16);
 }
-.voteView .resourceButtons,
-.voteView .licenseInformation {
-    display: none;
+
+.overlayElement .resourceDetail[data-type="quiz"] .resourceQuizAnswersContainer button.quizAnswer.selected,
+.overlayElement .resourceDetail[data-type="quiz"] .resourceQuizAnswersContainer button.quizAnswer.decided {
+    border-color: #f2a66a;
+    box-shadow: 0 0 0 1px #f2a66a;
+}
+
+/* The votes so far, in the dusk of the film's first scene */
+.overlayElement .resourceDetail[data-type="quiz"] .quizTally .quizTallyFill {
+    background: rgba(242, 166, 106, .4);
+}
+
+.overlayElement .resourceDetail[data-type="quiz"] .quizStatus:not(:empty) {
+    margin-top: 0;
+    font-size: 15px;
 }
 
 /* The cards on the phones */

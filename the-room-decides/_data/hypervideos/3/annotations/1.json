@@ -1,0 +1,39 @@
+[
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-21T15:00:00.021Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "note"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "1_1795290000_up-or-down.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=38,61"
+            }
+        },
+        "body": {
+            "type": "TextualBody",
+            "frametrail:type": "text",
+            "format": "text/html",
+            "value": "",
+            "frametrail:name": "The radiosonde",
+            "frametrail:attributes": {
+                "text": "&lt;div class=&quot;journeyNote&quot;&gt;&lt;h3&gt;The radiosonde&lt;/h3&gt;&lt;p&gt;A small box under the balloon radios temperature, humidity and wind all the way up.&lt;/p&gt;&lt;/div&gt;"
+            }
+        }
+    }
+]

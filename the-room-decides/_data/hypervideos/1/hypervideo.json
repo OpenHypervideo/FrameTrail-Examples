@@ -1,8 +1,8 @@
 {
     "meta": {
-        "name": "The Room Decides",
-        "description": "A journey from the surface of the sea, up into the sky or down into the deep. At two forks the film stops and asks; paired phones vote, and the majority decides where it goes.",
-        "thumb": "1_1795290000_thumb_up-or-down.jpg",
+        "name": "At the Surface",
+        "description": "A small boat on a calm sea at dusk. From here there are two ways to travel: up or down.",
+        "thumb": "1_1795290000_thumb_opening.jpg",
         "creator": "demo",
         "creatorId": "1",
         "created": 1795290100000,
@@ -12,33 +12,14 @@
         "slidingMode": "adjust",
         "slidingTrigger": "key",
         "autohideControls": false,
-        "captionsVisible": false,
+        "captionsVisible": true,
         "clipTimeVisible": false,
+        "autoplay": true,
         "layoutArea": {
             "areaTop": [],
             "areaBottom": [],
             "areaLeft": [],
-            "areaRight": [
-                {
-                    "type": "TimedContent",
-                    "name": "Vote",
-                    "description": "",
-                    "icon": "",
-                    "cssClass": "voteView",
-                    "contentSize": "large",
-                    "initClosed": true,
-                    "collectionFilter": {
-                        "tags": [
-                            "vote"
-                        ],
-                        "types": [],
-                        "users": [],
-                        "text": ""
-                    },
-                    "onClickContentItem": "",
-                    "openWhenActive": true
-                }
-            ],
+            "areaRight": [],
             "areaCompanion": [
                 {
                     "type": "TimedContent",
@@ -63,9 +44,9 @@
         {
             "resourceId": "1",
             "src": "1_1795290000_up-or-down.mp4",
-            "duration": 0,
-            "in": 0,
-            "out": 0
+            "duration": 166.0,
+            "in": 0.0,
+            "out": 16.0
         }
     ],
     "chapters": [],
@@ -79,7 +60,7 @@
         "onReady": "",
         "onPlay": "",
         "onPause": "",
-        "onEnded": ""
+        "onEnded": "window.location.hash = 'hypervideo=2';"
     },
     "customCSS": "",
     "contents": [
@@ -93,7 +74,63 @@
                 "type": "Person",
                 "id": "1"
             },
-            "created": "2026-11-21T15:00:00.007Z",
+            "created": "2026-11-21T15:00:00.001Z",
+            "type": "Annotation",
+            "frametrail:type": "Overlay",
+            "frametrail:tags": [],
+            "target": {
+                "type": "Video",
+                "source": "1_1795290000_up-or-down.mp4",
+                "selector": {
+                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                    "type": "FragmentSelector",
+                    "value": "t=14.8,15.8&xywh=percent:27,18,46,58"
+                }
+            },
+            "body": {
+                "type": "TextualBody",
+                "frametrail:type": "quiz",
+                "format": "text/html",
+                "value": "",
+                "frametrail:name": "Where shall we go?",
+                "frametrail:thumb": null,
+                "frametrail:licenseType": null,
+                "frametrail:licenseAttribution": null,
+                "frametrail:attributes": {
+                    "questionType": "multipleChoice",
+                    "question": "Where shall we go?",
+                    "countdown": 20,
+                    "answers": [
+                        {
+                            "text": "Up, into the sky",
+                            "correct": false,
+                            "action": "jumpToHypervideo",
+                            "actionTarget": "2",
+                            "default": true
+                        },
+                        {
+                            "text": "Down, into the sea",
+                            "correct": false,
+                            "action": "jumpToHypervideo",
+                            "actionTarget": "5"
+                        }
+                    ]
+                }
+            },
+            "frametrail:events": {},
+            "frametrail:pause": true
+        },
+        {
+            "@context": [
+                "http://www.w3.org/ns/anno.jsonld",
+                "https://frametrail.org/ns/context.jsonld"
+            ],
+            "creator": {
+                "nickname": "demo",
+                "type": "Person",
+                "id": "1"
+            },
+            "created": "2026-11-21T15:00:00.004Z",
             "type": "Annotation",
             "frametrail:type": "Overlay",
             "frametrail:tags": [],
@@ -136,776 +173,6 @@
                 }
             },
             "frametrail:events": {}
-        },
-        {
-            "@context": [
-                "http://www.w3.org/ns/anno.jsonld",
-                "https://frametrail.org/ns/context.jsonld"
-            ],
-            "creator": {
-                "nickname": "demo",
-                "type": "Person",
-                "id": "1"
-            },
-            "created": "2026-11-21T15:00:00.008Z",
-            "type": "Annotation",
-            "frametrail:type": "Overlay",
-            "frametrail:tags": [],
-            "target": {
-                "type": "Video",
-                "source": "1_1795290000_up-or-down.mp4",
-                "selector": {
-                    "conformsTo": "http://www.w3.org/TR/media-frags/",
-                    "type": "FragmentSelector",
-                    "value": "t=16.8,36.4&xywh=percent:72,4,24,6"
-                }
-            },
-            "body": {
-                "type": "TextualBody",
-                "frametrail:type": "text",
-                "format": "text/html",
-                "value": "",
-                "frametrail:name": "ALTITUDE",
-                "frametrail:attributes": {
-                    "text": "&lt;p style=&quot;text-align: right;&quot;&gt;&lt;span style=&quot;font-size: 15px; letter-spacing: 3px;&quot;&gt;ALTITUDE&lt;/span&gt;&lt;/p&gt;",
-                    "box": {
-                        "textColor": "#eaf6ff"
-                    },
-                    "animation": {
-                        "in": {
-                            "preset": "fadeIn",
-                            "duration": 600
-                        },
-                        "out": {
-                            "preset": "fadeOut",
-                            "duration": 500
-                        }
-                    }
-                }
-            },
-            "frametrail:events": {}
-        },
-        {
-            "@context": [
-                "http://www.w3.org/ns/anno.jsonld",
-                "https://frametrail.org/ns/context.jsonld"
-            ],
-            "creator": {
-                "nickname": "demo",
-                "type": "Person",
-                "id": "1"
-            },
-            "created": "2026-11-21T15:00:00.009Z",
-            "type": "Annotation",
-            "frametrail:type": "Overlay",
-            "frametrail:tags": [],
-            "target": {
-                "type": "Video",
-                "source": "1_1795290000_up-or-down.mp4",
-                "selector": {
-                    "conformsTo": "http://www.w3.org/TR/media-frags/",
-                    "type": "FragmentSelector",
-                    "value": "t=16.8,36.4&xywh=percent:62,11,34,13"
-                }
-            },
-            "body": {
-                "type": "Dataset",
-                "frametrail:type": "counter",
-                "format": "application/x-frametrail-counter",
-                "frametrail:name": "Altitude: up",
-                "frametrail:attributes": {
-                    "from": 0,
-                    "to": 12000,
-                    "decimals": 0,
-                    "prefix": "",
-                    "suffix": " m",
-                    "duration": 18599,
-                    "ease": "linear",
-                    "style": "count",
-                    "color": "#eaf6ff",
-                    "weight": 300,
-                    "align": "right",
-                    "animation": {
-                        "in": {
-                            "preset": "fadeIn",
-                            "duration": 600
-                        },
-                        "out": {
-                            "preset": "fadeOut",
-                            "duration": 500
-                        }
-                    }
-                }
-            },
-            "frametrail:events": {}
-        },
-        {
-            "@context": [
-                "http://www.w3.org/ns/anno.jsonld",
-                "https://frametrail.org/ns/context.jsonld"
-            ],
-            "creator": {
-                "nickname": "demo",
-                "type": "Person",
-                "id": "1"
-            },
-            "created": "2026-11-21T15:00:00.010Z",
-            "type": "Annotation",
-            "frametrail:type": "Overlay",
-            "frametrail:tags": [],
-            "target": {
-                "type": "Video",
-                "source": "1_1795290000_up-or-down.mp4",
-                "selector": {
-                    "conformsTo": "http://www.w3.org/TR/media-frags/",
-                    "type": "FragmentSelector",
-                    "value": "t=38.8,59.4&xywh=percent:72,4,24,6"
-                }
-            },
-            "body": {
-                "type": "TextualBody",
-                "frametrail:type": "text",
-                "format": "text/html",
-                "value": "",
-                "frametrail:name": "ALTITUDE",
-                "frametrail:attributes": {
-                    "text": "&lt;p style=&quot;text-align: right;&quot;&gt;&lt;span style=&quot;font-size: 15px; letter-spacing: 3px;&quot;&gt;ALTITUDE&lt;/span&gt;&lt;/p&gt;",
-                    "box": {
-                        "textColor": "#eaf6ff"
-                    },
-                    "animation": {
-                        "in": {
-                            "preset": "fadeIn",
-                            "duration": 600
-                        },
-                        "out": {
-                            "preset": "fadeOut",
-                            "duration": 500
-                        }
-                    }
-                }
-            },
-            "frametrail:events": {}
-        },
-        {
-            "@context": [
-                "http://www.w3.org/ns/anno.jsonld",
-                "https://frametrail.org/ns/context.jsonld"
-            ],
-            "creator": {
-                "nickname": "demo",
-                "type": "Person",
-                "id": "1"
-            },
-            "created": "2026-11-21T15:00:00.011Z",
-            "type": "Annotation",
-            "frametrail:type": "Overlay",
-            "frametrail:tags": [],
-            "target": {
-                "type": "Video",
-                "source": "1_1795290000_up-or-down.mp4",
-                "selector": {
-                    "conformsTo": "http://www.w3.org/TR/media-frags/",
-                    "type": "FragmentSelector",
-                    "value": "t=38.8,59.4&xywh=percent:62,11,34,13"
-                }
-            },
-            "body": {
-                "type": "Dataset",
-                "frametrail:type": "counter",
-                "format": "application/x-frametrail-counter",
-                "frametrail:name": "Altitude: balloon",
-                "frametrail:attributes": {
-                    "from": 12,
-                    "to": 35,
-                    "decimals": 0,
-                    "prefix": "",
-                    "suffix": " km",
-                    "duration": 19600,
-                    "ease": "linear",
-                    "style": "count",
-                    "color": "#eaf6ff",
-                    "weight": 300,
-                    "align": "right",
-                    "animation": {
-                        "in": {
-                            "preset": "fadeIn",
-                            "duration": 600
-                        },
-                        "out": {
-                            "preset": "fadeOut",
-                            "duration": 500
-                        }
-                    }
-                }
-            },
-            "frametrail:events": {}
-        },
-        {
-            "@context": [
-                "http://www.w3.org/ns/anno.jsonld",
-                "https://frametrail.org/ns/context.jsonld"
-            ],
-            "creator": {
-                "nickname": "demo",
-                "type": "Person",
-                "id": "1"
-            },
-            "created": "2026-11-21T15:00:00.012Z",
-            "type": "Annotation",
-            "frametrail:type": "Overlay",
-            "frametrail:tags": [],
-            "target": {
-                "type": "Video",
-                "source": "1_1795290000_up-or-down.mp4",
-                "selector": {
-                    "conformsTo": "http://www.w3.org/TR/media-frags/",
-                    "type": "FragmentSelector",
-                    "value": "t=61.8,82.4&xywh=percent:72,4,24,6"
-                }
-            },
-            "body": {
-                "type": "TextualBody",
-                "frametrail:type": "text",
-                "format": "text/html",
-                "value": "",
-                "frametrail:name": "ALTITUDE",
-                "frametrail:attributes": {
-                    "text": "&lt;p style=&quot;text-align: right;&quot;&gt;&lt;span style=&quot;font-size: 15px; letter-spacing: 3px;&quot;&gt;ALTITUDE&lt;/span&gt;&lt;/p&gt;",
-                    "box": {
-                        "textColor": "#eaf6ff"
-                    },
-                    "animation": {
-                        "in": {
-                            "preset": "fadeIn",
-                            "duration": 600
-                        },
-                        "out": {
-                            "preset": "fadeOut",
-                            "duration": 500
-                        }
-                    }
-                }
-            },
-            "frametrail:events": {}
-        },
-        {
-            "@context": [
-                "http://www.w3.org/ns/anno.jsonld",
-                "https://frametrail.org/ns/context.jsonld"
-            ],
-            "creator": {
-                "nickname": "demo",
-                "type": "Person",
-                "id": "1"
-            },
-            "created": "2026-11-21T15:00:00.013Z",
-            "type": "Annotation",
-            "frametrail:type": "Overlay",
-            "frametrail:tags": [],
-            "target": {
-                "type": "Video",
-                "source": "1_1795290000_up-or-down.mp4",
-                "selector": {
-                    "conformsTo": "http://www.w3.org/TR/media-frags/",
-                    "type": "FragmentSelector",
-                    "value": "t=61.8,82.4&xywh=percent:62,11,34,13"
-                }
-            },
-            "body": {
-                "type": "Dataset",
-                "frametrail:type": "counter",
-                "format": "application/x-frametrail-counter",
-                "frametrail:name": "Altitude: lights",
-                "frametrail:attributes": {
-                    "from": 35,
-                    "to": 100,
-                    "decimals": 0,
-                    "prefix": "",
-                    "suffix": " km",
-                    "duration": 19600,
-                    "ease": "linear",
-                    "style": "count",
-                    "color": "#eaf6ff",
-                    "weight": 300,
-                    "align": "right",
-                    "animation": {
-                        "in": {
-                            "preset": "fadeIn",
-                            "duration": 600
-                        },
-                        "out": {
-                            "preset": "fadeOut",
-                            "duration": 500
-                        }
-                    }
-                }
-            },
-            "frametrail:events": {}
-        },
-        {
-            "@context": [
-                "http://www.w3.org/ns/anno.jsonld",
-                "https://frametrail.org/ns/context.jsonld"
-            ],
-            "creator": {
-                "nickname": "demo",
-                "type": "Person",
-                "id": "1"
-            },
-            "created": "2026-11-21T15:00:00.014Z",
-            "type": "Annotation",
-            "frametrail:type": "Overlay",
-            "frametrail:tags": [],
-            "target": {
-                "type": "Video",
-                "source": "1_1795290000_up-or-down.mp4",
-                "selector": {
-                    "conformsTo": "http://www.w3.org/TR/media-frags/",
-                    "type": "FragmentSelector",
-                    "value": "t=84.8,104.4&xywh=percent:72,4,24,6"
-                }
-            },
-            "body": {
-                "type": "TextualBody",
-                "frametrail:type": "text",
-                "format": "text/html",
-                "value": "",
-                "frametrail:name": "DEPTH",
-                "frametrail:attributes": {
-                    "text": "&lt;p style=&quot;text-align: right;&quot;&gt;&lt;span style=&quot;font-size: 15px; letter-spacing: 3px;&quot;&gt;DEPTH&lt;/span&gt;&lt;/p&gt;",
-                    "box": {
-                        "textColor": "#eaf6ff"
-                    },
-                    "animation": {
-                        "in": {
-                            "preset": "fadeIn",
-                            "duration": 600
-                        },
-                        "out": {
-                            "preset": "fadeOut",
-                            "duration": 500
-                        }
-                    }
-                }
-            },
-            "frametrail:events": {}
-        },
-        {
-            "@context": [
-                "http://www.w3.org/ns/anno.jsonld",
-                "https://frametrail.org/ns/context.jsonld"
-            ],
-            "creator": {
-                "nickname": "demo",
-                "type": "Person",
-                "id": "1"
-            },
-            "created": "2026-11-21T15:00:00.015Z",
-            "type": "Annotation",
-            "frametrail:type": "Overlay",
-            "frametrail:tags": [],
-            "target": {
-                "type": "Video",
-                "source": "1_1795290000_up-or-down.mp4",
-                "selector": {
-                    "conformsTo": "http://www.w3.org/TR/media-frags/",
-                    "type": "FragmentSelector",
-                    "value": "t=84.8,104.4&xywh=percent:62,11,34,13"
-                }
-            },
-            "body": {
-                "type": "Dataset",
-                "frametrail:type": "counter",
-                "format": "application/x-frametrail-counter",
-                "frametrail:name": "Depth: down",
-                "frametrail:attributes": {
-                    "from": 0,
-                    "to": 200,
-                    "decimals": 0,
-                    "prefix": "",
-                    "suffix": " m",
-                    "duration": 18600,
-                    "ease": "linear",
-                    "style": "count",
-                    "color": "#eaf6ff",
-                    "weight": 300,
-                    "align": "right",
-                    "animation": {
-                        "in": {
-                            "preset": "fadeIn",
-                            "duration": 600
-                        },
-                        "out": {
-                            "preset": "fadeOut",
-                            "duration": 500
-                        }
-                    }
-                }
-            },
-            "frametrail:events": {}
-        },
-        {
-            "@context": [
-                "http://www.w3.org/ns/anno.jsonld",
-                "https://frametrail.org/ns/context.jsonld"
-            ],
-            "creator": {
-                "nickname": "demo",
-                "type": "Person",
-                "id": "1"
-            },
-            "created": "2026-11-21T15:00:00.016Z",
-            "type": "Annotation",
-            "frametrail:type": "Overlay",
-            "frametrail:tags": [],
-            "target": {
-                "type": "Video",
-                "source": "1_1795290000_up-or-down.mp4",
-                "selector": {
-                    "conformsTo": "http://www.w3.org/TR/media-frags/",
-                    "type": "FragmentSelector",
-                    "value": "t=106.8,127.4&xywh=percent:72,4,24,6"
-                }
-            },
-            "body": {
-                "type": "TextualBody",
-                "frametrail:type": "text",
-                "format": "text/html",
-                "value": "",
-                "frametrail:name": "DEPTH",
-                "frametrail:attributes": {
-                    "text": "&lt;p style=&quot;text-align: right;&quot;&gt;&lt;span style=&quot;font-size: 15px; letter-spacing: 3px;&quot;&gt;DEPTH&lt;/span&gt;&lt;/p&gt;",
-                    "box": {
-                        "textColor": "#eaf6ff"
-                    },
-                    "animation": {
-                        "in": {
-                            "preset": "fadeIn",
-                            "duration": 600
-                        },
-                        "out": {
-                            "preset": "fadeOut",
-                            "duration": 500
-                        }
-                    }
-                }
-            },
-            "frametrail:events": {}
-        },
-        {
-            "@context": [
-                "http://www.w3.org/ns/anno.jsonld",
-                "https://frametrail.org/ns/context.jsonld"
-            ],
-            "creator": {
-                "nickname": "demo",
-                "type": "Person",
-                "id": "1"
-            },
-            "created": "2026-11-21T15:00:00.017Z",
-            "type": "Annotation",
-            "frametrail:type": "Overlay",
-            "frametrail:tags": [],
-            "target": {
-                "type": "Video",
-                "source": "1_1795290000_up-or-down.mp4",
-                "selector": {
-                    "conformsTo": "http://www.w3.org/TR/media-frags/",
-                    "type": "FragmentSelector",
-                    "value": "t=106.8,127.4&xywh=percent:62,11,34,13"
-                }
-            },
-            "body": {
-                "type": "Dataset",
-                "frametrail:type": "counter",
-                "format": "application/x-frametrail-counter",
-                "frametrail:name": "Depth: whale",
-                "frametrail:attributes": {
-                    "from": 200,
-                    "to": 1000,
-                    "decimals": 0,
-                    "prefix": "",
-                    "suffix": " m",
-                    "duration": 19600,
-                    "ease": "linear",
-                    "style": "count",
-                    "color": "#eaf6ff",
-                    "weight": 300,
-                    "align": "right",
-                    "animation": {
-                        "in": {
-                            "preset": "fadeIn",
-                            "duration": 600
-                        },
-                        "out": {
-                            "preset": "fadeOut",
-                            "duration": 500
-                        }
-                    }
-                }
-            },
-            "frametrail:events": {}
-        },
-        {
-            "@context": [
-                "http://www.w3.org/ns/anno.jsonld",
-                "https://frametrail.org/ns/context.jsonld"
-            ],
-            "creator": {
-                "nickname": "demo",
-                "type": "Person",
-                "id": "1"
-            },
-            "created": "2026-11-21T15:00:00.018Z",
-            "type": "Annotation",
-            "frametrail:type": "Overlay",
-            "frametrail:tags": [],
-            "target": {
-                "type": "Video",
-                "source": "1_1795290000_up-or-down.mp4",
-                "selector": {
-                    "conformsTo": "http://www.w3.org/TR/media-frags/",
-                    "type": "FragmentSelector",
-                    "value": "t=129.8,151.4&xywh=percent:72,4,24,6"
-                }
-            },
-            "body": {
-                "type": "TextualBody",
-                "frametrail:type": "text",
-                "format": "text/html",
-                "value": "",
-                "frametrail:name": "DEPTH",
-                "frametrail:attributes": {
-                    "text": "&lt;p style=&quot;text-align: right;&quot;&gt;&lt;span style=&quot;font-size: 15px; letter-spacing: 3px;&quot;&gt;DEPTH&lt;/span&gt;&lt;/p&gt;",
-                    "box": {
-                        "textColor": "#eaf6ff"
-                    },
-                    "animation": {
-                        "in": {
-                            "preset": "fadeIn",
-                            "duration": 600
-                        },
-                        "out": {
-                            "preset": "fadeOut",
-                            "duration": 500
-                        }
-                    }
-                }
-            },
-            "frametrail:events": {}
-        },
-        {
-            "@context": [
-                "http://www.w3.org/ns/anno.jsonld",
-                "https://frametrail.org/ns/context.jsonld"
-            ],
-            "creator": {
-                "nickname": "demo",
-                "type": "Person",
-                "id": "1"
-            },
-            "created": "2026-11-21T15:00:00.019Z",
-            "type": "Annotation",
-            "frametrail:type": "Overlay",
-            "frametrail:tags": [],
-            "target": {
-                "type": "Video",
-                "source": "1_1795290000_up-or-down.mp4",
-                "selector": {
-                    "conformsTo": "http://www.w3.org/TR/media-frags/",
-                    "type": "FragmentSelector",
-                    "value": "t=129.8,151.4&xywh=percent:62,11,34,13"
-                }
-            },
-            "body": {
-                "type": "Dataset",
-                "frametrail:type": "counter",
-                "format": "application/x-frametrail-counter",
-                "frametrail:name": "Depth: glow",
-                "frametrail:attributes": {
-                    "from": 1000,
-                    "to": 3000,
-                    "decimals": 0,
-                    "prefix": "",
-                    "suffix": " m",
-                    "duration": 20599,
-                    "ease": "linear",
-                    "style": "count",
-                    "color": "#eaf6ff",
-                    "weight": 300,
-                    "align": "right",
-                    "animation": {
-                        "in": {
-                            "preset": "fadeIn",
-                            "duration": 600
-                        },
-                        "out": {
-                            "preset": "fadeOut",
-                            "duration": 500
-                        }
-                    }
-                }
-            },
-            "frametrail:events": {}
-        },
-        {
-            "@context": [
-                "http://www.w3.org/ns/anno.jsonld",
-                "https://frametrail.org/ns/context.jsonld"
-            ],
-            "creator": {
-                "nickname": "demo",
-                "type": "Person",
-                "id": "1"
-            },
-            "created": "2026-11-21T15:00:00.020Z",
-            "type": "Annotation",
-            "frametrail:type": "Overlay",
-            "frametrail:tags": [],
-            "target": {
-                "type": "Video",
-                "source": "1_1795290000_up-or-down.mp4",
-                "selector": {
-                    "conformsTo": "http://www.w3.org/TR/media-frags/",
-                    "type": "FragmentSelector",
-                    "value": "t=161.457,166&xywh=percent:38,70,24,11"
-                }
-            },
-            "body": {
-                "type": "TextualBody",
-                "frametrail:type": "hotspot",
-                "format": "text/html",
-                "frametrail:name": "Start again",
-                "frametrail:thumb": null,
-                "frametrail:licenseType": null,
-                "frametrail:licenseAttribution": null,
-                "frametrail:attributes": {
-                    "text": "Start again",
-                    "shape": "rounded",
-                    "borderRadius": 40,
-                    "color": "#eaf6ff",
-                    "borderWidth": 2,
-                    "textColor": "#eaf6ff",
-                    "backgroundColor": "rgba(10, 20, 40, 0.55)",
-                    "pulse": false,
-                    "action": "jumpToTime",
-                    "actionTarget": 0,
-                    "animation": {
-                        "in": {
-                            "preset": "fadeIn",
-                            "duration": 600
-                        },
-                        "out": {
-                            "preset": "fadeOut",
-                            "duration": 500
-                        }
-                    }
-                }
-            },
-            "frametrail:events": {}
-        },
-        {
-            "@context": [
-                "http://www.w3.org/ns/anno.jsonld",
-                "https://frametrail.org/ns/context.jsonld"
-            ],
-            "creator": {
-                "nickname": "demo",
-                "type": "Person",
-                "id": "1"
-            },
-            "created": "2026-11-21T15:00:00.004Z",
-            "type": "Annotation",
-            "frametrail:type": "CodeSnippet",
-            "frametrail:tags": [],
-            "target": {
-                "type": "Video",
-                "source": "1_1795290000_up-or-down.mp4",
-                "selector": {
-                    "conformsTo": "http://www.w3.org/TR/media-frags/",
-                    "type": "FragmentSelector",
-                    "value": "t=60.6"
-                }
-            },
-            "body": {
-                "type": "TextualBody",
-                "frametrail:type": "codesnippet",
-                "format": "text/javascript",
-                "value": "if (hypervideo.currentTime < 61) { hypervideo.currentTime = 153; hypervideo.play(); }",
-                "frametrail:name": "To the ending",
-                "frametrail:thumb": null,
-                "frametrail:resourceId": null,
-                "frametrail:attributes": {}
-            }
-        },
-        {
-            "@context": [
-                "http://www.w3.org/ns/anno.jsonld",
-                "https://frametrail.org/ns/context.jsonld"
-            ],
-            "creator": {
-                "nickname": "demo",
-                "type": "Person",
-                "id": "1"
-            },
-            "created": "2026-11-21T15:00:00.005Z",
-            "type": "Annotation",
-            "frametrail:type": "CodeSnippet",
-            "frametrail:tags": [],
-            "target": {
-                "type": "Video",
-                "source": "1_1795290000_up-or-down.mp4",
-                "selector": {
-                    "conformsTo": "http://www.w3.org/TR/media-frags/",
-                    "type": "FragmentSelector",
-                    "value": "t=83.6"
-                }
-            },
-            "body": {
-                "type": "TextualBody",
-                "frametrail:type": "codesnippet",
-                "format": "text/javascript",
-                "value": "if (hypervideo.currentTime < 84) { hypervideo.currentTime = 153; hypervideo.play(); }",
-                "frametrail:name": "To the ending",
-                "frametrail:thumb": null,
-                "frametrail:resourceId": null,
-                "frametrail:attributes": {}
-            }
-        },
-        {
-            "@context": [
-                "http://www.w3.org/ns/anno.jsonld",
-                "https://frametrail.org/ns/context.jsonld"
-            ],
-            "creator": {
-                "nickname": "demo",
-                "type": "Person",
-                "id": "1"
-            },
-            "created": "2026-11-21T15:00:00.006Z",
-            "type": "Annotation",
-            "frametrail:type": "CodeSnippet",
-            "frametrail:tags": [],
-            "target": {
-                "type": "Video",
-                "source": "1_1795290000_up-or-down.mp4",
-                "selector": {
-                    "conformsTo": "http://www.w3.org/TR/media-frags/",
-                    "type": "FragmentSelector",
-                    "value": "t=128.6"
-                }
-            },
-            "body": {
-                "type": "TextualBody",
-                "frametrail:type": "codesnippet",
-                "format": "text/javascript",
-                "value": "if (hypervideo.currentTime < 129) { hypervideo.currentTime = 153; hypervideo.play(); }",
-                "frametrail:name": "To the ending",
-                "frametrail:thumb": null,
-                "frametrail:resourceId": null,
-                "frametrail:attributes": {}
-            }
         }
     ]
 }

@@ -1,0 +1,39 @@
+[
+    {
+        "@context": [
+            "http://www.w3.org/ns/anno.jsonld",
+            "https://frametrail.org/ns/context.jsonld"
+        ],
+        "creator": {
+            "nickname": "demo",
+            "type": "Person",
+            "id": "1"
+        },
+        "created": "2026-11-21T15:00:00.022Z",
+        "type": "Annotation",
+        "frametrail:type": "Annotation",
+        "frametrail:tags": [
+            "note"
+        ],
+        "frametrail:uri": null,
+        "target": {
+            "type": "Video",
+            "source": "1_1795290000_up-or-down.mp4",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=61,84"
+            }
+        },
+        "body": {
+            "type": "TextualBody",
+            "frametrail:type": "text",
+            "format": "text/html",
+            "value": "",
+            "frametrail:name": "The aurora",
+            "frametrail:attributes": {
+                "text": "&lt;div class=&quot;journeyNote&quot;&gt;&lt;h3&gt;The aurora&lt;/h3&gt;&lt;p&gt;The colour tells which gas is glowing, and how high up it is.&lt;/p&gt;&lt;/div&gt;"
+            }
+        }
+    }
+]

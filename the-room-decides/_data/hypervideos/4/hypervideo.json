@@ -1,0 +1,170 @@
+{
+    "meta": {
+        "name": "The Northern Lights",
+        "description": "A hundred kilometres up, oxygen and nitrogen glow where particles from the Sun strike them.",
+        "thumb": "1_1795290000_thumb_lights.jpg",
+        "creator": "demo",
+        "creatorId": "1",
+        "created": 1795290100000,
+        "lastchanged": 1795290100000
+    },
+    "config": {
+        "slidingMode": "adjust",
+        "slidingTrigger": "key",
+        "autohideControls": false,
+        "captionsVisible": true,
+        "clipTimeVisible": false,
+        "autoplay": true,
+        "layoutArea": {
+            "areaTop": [],
+            "areaBottom": [],
+            "areaLeft": [],
+            "areaRight": [],
+            "areaCompanion": [
+                {
+                    "type": "TimedContent",
+                    "name": "Journey",
+                    "description": "",
+                    "icon": "",
+                    "cssClass": "",
+                    "contentSize": "large",
+                    "initClosed": false,
+                    "collectionFilter": {
+                        "tags": [],
+                        "types": [],
+                        "users": [],
+                        "text": ""
+                    },
+                    "onClickContentItem": ""
+                }
+            ]
+        }
+    },
+    "clips": [
+        {
+            "resourceId": "1",
+            "src": "1_1795290000_up-or-down.mp4",
+            "duration": 166.0,
+            "in": 61.0,
+            "out": 84.0
+        }
+    ],
+    "chapters": [],
+    "subtitles": [
+        {
+            "src": "en.vtt",
+            "srclang": "en"
+        }
+    ],
+    "globalEvents": {
+        "onReady": "",
+        "onPlay": "",
+        "onPause": "",
+        "onEnded": "window.location.hash = 'hypervideo=8';"
+    },
+    "customCSS": "",
+    "contents": [
+        {
+            "@context": [
+                "http://www.w3.org/ns/anno.jsonld",
+                "https://frametrail.org/ns/context.jsonld"
+            ],
+            "creator": {
+                "nickname": "demo",
+                "type": "Person",
+                "id": "1"
+            },
+            "created": "2026-11-21T15:00:00.009Z",
+            "type": "Annotation",
+            "frametrail:type": "Overlay",
+            "frametrail:tags": [],
+            "target": {
+                "type": "Video",
+                "source": "1_1795290000_up-or-down.mp4",
+                "selector": {
+                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                    "type": "FragmentSelector",
+                    "value": "t=61.8,82.4&xywh=percent:72,4,24,6"
+                }
+            },
+            "body": {
+                "type": "TextualBody",
+                "frametrail:type": "text",
+                "format": "text/html",
+                "value": "",
+                "frametrail:name": "ALTITUDE",
+                "frametrail:attributes": {
+                    "text": "&lt;p style=&quot;text-align: right;&quot;&gt;&lt;span style=&quot;font-size: 15px; letter-spacing: 3px;&quot;&gt;ALTITUDE&lt;/span&gt;&lt;/p&gt;",
+                    "box": {
+                        "textColor": "#eaf6ff"
+                    },
+                    "animation": {
+                        "in": {
+                            "preset": "fadeIn",
+                            "duration": 600
+                        },
+                        "out": {
+                            "preset": "fadeOut",
+                            "duration": 500
+                        }
+                    }
+                }
+            },
+            "frametrail:events": {}
+        },
+        {
+            "@context": [
+                "http://www.w3.org/ns/anno.jsonld",
+                "https://frametrail.org/ns/context.jsonld"
+            ],
+            "creator": {
+                "nickname": "demo",
+                "type": "Person",
+                "id": "1"
+            },
+            "created": "2026-11-21T15:00:00.010Z",
+            "type": "Annotation",
+            "frametrail:type": "Overlay",
+            "frametrail:tags": [],
+            "target": {
+                "type": "Video",
+                "source": "1_1795290000_up-or-down.mp4",
+                "selector": {
+                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                    "type": "FragmentSelector",
+                    "value": "t=61.8,82.4&xywh=percent:62,11,34,13"
+                }
+            },
+            "body": {
+                "type": "Dataset",
+                "frametrail:type": "counter",
+                "format": "application/x-frametrail-counter",
+                "frametrail:name": "Altitude: lights",
+                "frametrail:attributes": {
+                    "from": 35,
+                    "to": 100,
+                    "decimals": 0,
+                    "prefix": "",
+                    "suffix": " km",
+                    "duration": 19600,
+                    "ease": "linear",
+                    "style": "count",
+                    "color": "#eaf6ff",
+                    "weight": 300,
+                    "align": "right",
+                    "animation": {
+                        "in": {
+                            "preset": "fadeIn",
+                            "duration": 600
+                        },
+                        "out": {
+                            "preset": "fadeOut",
+                            "duration": 500
+                        }
+                    }
+                }
+            },
+            "frametrail:events": {}
+        }
+    ]
+}

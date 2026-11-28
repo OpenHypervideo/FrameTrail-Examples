@@ -1,0 +1,226 @@
+{
+    "meta": {
+        "name": "Down into the Sea",
+        "description": "Through the sunlit water to 200 metres, where the twilight zone begins.",
+        "thumb": "1_1795290000_thumb_down.jpg",
+        "creator": "demo",
+        "creatorId": "1",
+        "created": 1795290100000,
+        "lastchanged": 1795290100000
+    },
+    "config": {
+        "slidingMode": "adjust",
+        "slidingTrigger": "key",
+        "autohideControls": false,
+        "captionsVisible": true,
+        "clipTimeVisible": false,
+        "autoplay": true,
+        "layoutArea": {
+            "areaTop": [],
+            "areaBottom": [],
+            "areaLeft": [],
+            "areaRight": [],
+            "areaCompanion": [
+                {
+                    "type": "TimedContent",
+                    "name": "Journey",
+                    "description": "",
+                    "icon": "",
+                    "cssClass": "",
+                    "contentSize": "large",
+                    "initClosed": false,
+                    "collectionFilter": {
+                        "tags": [],
+                        "types": [],
+                        "users": [],
+                        "text": ""
+                    },
+                    "onClickContentItem": ""
+                }
+            ]
+        }
+    },
+    "clips": [
+        {
+            "resourceId": "1",
+            "src": "1_1795290000_up-or-down.mp4",
+            "duration": 166.0,
+            "in": 84.0,
+            "out": 106.0
+        }
+    ],
+    "chapters": [],
+    "subtitles": [
+        {
+            "src": "en.vtt",
+            "srclang": "en"
+        }
+    ],
+    "globalEvents": {
+        "onReady": "",
+        "onPlay": "",
+        "onPause": "",
+        "onEnded": "window.location.hash = 'hypervideo=6';"
+    },
+    "customCSS": "",
+    "contents": [
+        {
+            "@context": [
+                "http://www.w3.org/ns/anno.jsonld",
+                "https://frametrail.org/ns/context.jsonld"
+            ],
+            "creator": {
+                "nickname": "demo",
+                "type": "Person",
+                "id": "1"
+            },
+            "created": "2026-11-21T15:00:00.003Z",
+            "type": "Annotation",
+            "frametrail:type": "Overlay",
+            "frametrail:tags": [],
+            "target": {
+                "type": "Video",
+                "source": "1_1795290000_up-or-down.mp4",
+                "selector": {
+                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                    "type": "FragmentSelector",
+                    "value": "t=104.8,105.8&xywh=percent:27,18,46,58"
+                }
+            },
+            "body": {
+                "type": "TextualBody",
+                "frametrail:type": "quiz",
+                "format": "text/html",
+                "value": "",
+                "frametrail:name": "What shall we follow?",
+                "frametrail:thumb": null,
+                "frametrail:licenseType": null,
+                "frametrail:licenseAttribution": null,
+                "frametrail:attributes": {
+                    "questionType": "multipleChoice",
+                    "question": "What shall we follow?",
+                    "countdown": 20,
+                    "answers": [
+                        {
+                            "text": "The whale",
+                            "correct": false,
+                            "action": "jumpToHypervideo",
+                            "actionTarget": "6",
+                            "default": true
+                        },
+                        {
+                            "text": "The glow",
+                            "correct": false,
+                            "action": "jumpToHypervideo",
+                            "actionTarget": "7"
+                        }
+                    ]
+                }
+            },
+            "frametrail:events": {},
+            "frametrail:pause": true
+        },
+        {
+            "@context": [
+                "http://www.w3.org/ns/anno.jsonld",
+                "https://frametrail.org/ns/context.jsonld"
+            ],
+            "creator": {
+                "nickname": "demo",
+                "type": "Person",
+                "id": "1"
+            },
+            "created": "2026-11-21T15:00:00.011Z",
+            "type": "Annotation",
+            "frametrail:type": "Overlay",
+            "frametrail:tags": [],
+            "target": {
+                "type": "Video",
+                "source": "1_1795290000_up-or-down.mp4",
+                "selector": {
+                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                    "type": "FragmentSelector",
+                    "value": "t=84.8,104.4&xywh=percent:72,4,24,6"
+                }
+            },
+            "body": {
+                "type": "TextualBody",
+                "frametrail:type": "text",
+                "format": "text/html",
+                "value": "",
+                "frametrail:name": "DEPTH",
+                "frametrail:attributes": {
+                    "text": "&lt;p style=&quot;text-align: right;&quot;&gt;&lt;span style=&quot;font-size: 15px; letter-spacing: 3px;&quot;&gt;DEPTH&lt;/span&gt;&lt;/p&gt;",
+                    "box": {
+                        "textColor": "#eaf6ff"
+                    },
+                    "animation": {
+                        "in": {
+                            "preset": "fadeIn",
+                            "duration": 600
+                        },
+                        "out": {
+                            "preset": "fadeOut",
+                            "duration": 500
+                        }
+                    }
+                }
+            },
+            "frametrail:events": {}
+        },
+        {
+            "@context": [
+                "http://www.w3.org/ns/anno.jsonld",
+                "https://frametrail.org/ns/context.jsonld"
+            ],
+            "creator": {
+                "nickname": "demo",
+                "type": "Person",
+                "id": "1"
+            },
+            "created": "2026-11-21T15:00:00.012Z",
+            "type": "Annotation",
+            "frametrail:type": "Overlay",
+            "frametrail:tags": [],
+            "target": {
+                "type": "Video",
+                "source": "1_1795290000_up-or-down.mp4",
+                "selector": {
+                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                    "type": "FragmentSelector",
+                    "value": "t=84.8,104.4&xywh=percent:62,11,34,13"
+                }
+            },
+            "body": {
+                "type": "Dataset",
+                "frametrail:type": "counter",
+                "format": "application/x-frametrail-counter",
+                "frametrail:name": "Depth: down",
+                "frametrail:attributes": {
+                    "from": 0,
+                    "to": 200,
+                    "decimals": 0,
+                    "prefix": "",
+                    "suffix": " m",
+                    "duration": 18600,
+                    "ease": "linear",
+                    "style": "count",
+                    "color": "#eaf6ff",
+                    "weight": 300,
+                    "align": "right",
+                    "animation": {
+                        "in": {
+                            "preset": "fadeIn",
+                            "duration": 600
+                        },
+                        "out": {
+                            "preset": "fadeOut",
+                            "duration": 500
+                        }
+                    }
+                }
+            },
+            "frametrail:events": {}
+        }
+    ]
+}
